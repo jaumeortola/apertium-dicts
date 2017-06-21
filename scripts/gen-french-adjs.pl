@@ -30,6 +30,7 @@ while (my $line = <$fh>) {
 		$inregla = 0;
     } elsif ($inregla) {
 		if ($line =~ /<e(.*?)>.*?<p>(.*?)(<\/l>|<l\/>).*<r>(.*?)(<.*>)<\/r><\/p><\/e>/) {
+			my $direction = $1;
 		    my $etiquetes=$5;
 		    my $lleva=$4;
 		    my $afig=$2;
@@ -44,7 +45,9 @@ while (my $line = <$fh>) {
 		    #if ($etiquetes =~ /"sup"/) { $categoria= "AQA";}
 		    my $postag= $categoria.$genere.$nombre."0";
 		    #print "$regla $postag $afig $line\n";
-		    push (@regles, "$regla $postag $afig");
+		    if ($direction =~ /^$/) {
+		    	push (@regles, "$regla $postag $afig");
+			}
 		}
     }
 }
