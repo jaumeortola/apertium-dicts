@@ -58,8 +58,8 @@ my %rules_in_oneline;
 my $line = "";
 my $rule_name = "";
 my $prev_rule_name = "-1";
-for my $line_regla (@rules) {     
-    if ($line_regla =~ /(.*) (.*) (.*)/) {
+for my $line_rule (@rules) {     
+    if ($line_rule =~ /(.*) (.*) (.*)/) {
         $rule_name = $1; 
         my $postag = $2;
         my $afig = $3;
@@ -106,6 +106,29 @@ while (my $line = <$fh>) {
 close ($fh);
 @adjs_lt = sort @adjs_lt;
 
+
+
+
+my %apertium_dict;
+my %apertium_dict_paradigm;
+open($fh,  "<:encoding(UTF-8)", $apertium_dict );
+while (my $line = <$fh>) {
+    chomp($line);
+    
+    if ($line =~ /<e lm="(.*)".*>.*<i>(.*)<\/i><par n="(.*__adj)"\/><\/e>/) {
+        my $lema=$1;
+        my $paradigm_name=$3;
+        my $arrel=$2;
+        my $flexio_ap = $rules_in_oneline{$paradigm_name};
+        $flexio_ap =~ s/<r>/$arrel/g;
+        $apertium_dict{$lema} = $flexio_ap;
+        $apertium_dict_paradigm{$lema} = $paradigm_name;
+    }
+}
+close ($fh);
+
+
+
 $line = "";
 my $lema = "";
 my $prevlema = "-1";
@@ -141,23 +164,30 @@ sub check_adjective {
         $lema = $1;
         $flexio_lt = $2;
     }
-    for my $rule_name (sort keys %paradigm_names) {
-        #print "NOM REGLA: $rule_name\n";
-        my $terminacio = $paradigm_names{$rule_name};
-        if ($lema =~ /^(.*)$terminacio$/) {
-            my $arrel = $1;
-            my $flexio_ap = $rules_in_oneline{$rule_name};
-            $flexio_ap =~ s/<r>/$arrel/g;
-            $flexio_lt =~ s/(AQA|AO0)/AQ0/g;
-            #if ($lema =~ /testamentaire/) {
-            #    print "***** $rule_name $lema $arrel $flexio_ap ** $flexio_lt\n";
-            #}
-            if ($flexio_ap =~ /^$flexio_lt$/) {
-                print "<e lm=\"$lema\"><i>$arrel</i><par n=\"$rule_name\"/></e>\n";
-                return;
+
+    # generate only non existent words
+    if (!exists $apertium_dict{$lema}) {
+        for my $rule_name (sort keys %paradigm_names) {
+            #print "NOM REGLA: $rule_name\n";
+            my $terminacio = $paradigm_names{$rule_name};
+            if ($lema =~ /^(.*)$terminacio$/) {
+                my $arrel = $1;
+                my $flexio_ap = $rules_in_oneline{$rule_name};
+                $flexio_ap =~ s/<r>/$arrel/g;
+                $flexio_lt =~ s/(AQA|AO0)/AQ0/g;
+                #if ($lema =~ /testamentaire/) {
+                #    print "***** $rule_name $lema $arrel $flexio_ap ** $flexio_lt\n";
+                #}
+                if ($flexio_ap =~ /^$flexio_lt$/) {
+                    print "<e lm=\"$lema\"><i>$arrel</i><par n=\"$rule_name\"/></e>\n";
+                    return;
+                }
             }
         }
+        print "<e lm=\"$lema\"><i>$lema</i><par n=\"??????????\"/></e>\n";
     }
-    print "<e lm=\"$lema\"><i>$lema</i><par n=\"??????????\"/></e>\n";
+
+
+
 }
 
