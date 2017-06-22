@@ -265,6 +265,7 @@
 <e lm="acquittable"><i>acquittable</i><par n="académique__adj"/></e>
 <e lm="acquitté"><i>acquitté</i><par n="abaissant__adj"/></e>
 <e lm="acquéreur"><i>acquéreu</i><par n="causeu/r__adj"/></e>
+<e lm="acquis"><i>acquis</i><par n="anglais__adj"/></e>
 <e lm="acridien"><i>acridien</i><par n="ancien__adj"/></e>
 <e lm="acrimonieux"><i>acrimonieu</i><par n="affectueu/x__adj"/></e>
 <e lm="acroamatique"><i>acroamatique</i><par n="académique__adj"/></e>
@@ -333,6 +334,7 @@
 <e lm="adjuré"><i>adjuré</i><par n="abaissant__adj"/></e>
 <e lm="adjuvant"><i>adjuvant</i><par n="abaissant__adj"/></e>
 <e lm="adlérien"><i>adlérien</i><par n="ancien__adj"/></e>
+<e lm="admis"><i>admis</i><par n="anglais__adj"/></e>
 <e lm="administrable"><i>administrable</i><par n="académique__adj"/></e>
 <e lm="administrateur"><i>administrat</i><par n="conduct/eur__adj"/></e>
 <e lm="administré"><i>administré</i><par n="abaissant__adj"/></e>
@@ -1386,6 +1388,7 @@
 <e lm="apporté"><i>apporté</i><par n="abaissant__adj"/></e>
 <e lm="apposé"><i>apposé</i><par n="abaissant__adj"/></e>
 <e lm="apprenant"><i>apprenant</i><par n="abaissant__adj"/></e>
+<e lm="appris"><i>appris</i><par n="anglais__adj"/></e>
 <e lm="apprivoisable"><i>apprivoisable</i><par n="académique__adj"/></e>
 <e lm="apprivoisé"><i>apprivoisé</i><par n="abaissant__adj"/></e>
 <e lm="approbateur"><i>approbat</i><par n="conduct/eur__adj"/></e>
@@ -1631,6 +1634,7 @@
 <e lm="assassiné"><i>assassiné</i><par n="abaissant__adj"/></e>
 <e lm="assemblé"><i>assemblé</i><par n="abaissant__adj"/></e>
 <e lm="assené"><i>assené</i><par n="abaissant__adj"/></e>
+<e lm="assis"><i>assis</i><par n="anglais__adj"/></e>
 <e lm="assermenté"><i>assermenté</i><par n="abaissant__adj"/></e>
 <e lm="asserté"><i>asserté</i><par n="abaissant__adj"/></e>
 <e lm="assertif"><i>asserti</i><par n="affirmati/f__adj"/></e>
@@ -1651,6 +1655,7 @@
 <e lm="associable"><i>associable</i><par n="académique__adj"/></e>
 <e lm="associationniste"><i>associationniste</i><par n="académique__adj"/></e>
 <e lm="assoiffé"><i>assoiffé</i><par n="abaissant__adj"/></e>
+<e lm="assis"><i>assis</i><par n="anglais__adj"/></e>
 <e lm="assolé"><i>assolé</i><par n="abaissant__adj"/></e>
 <e lm="assombri"><i>assombri</i><par n="abaissant__adj"/></e>
 <e lm="assombrissant"><i>assombrissant</i><par n="abaissant__adj"/></e>
@@ -3769,6 +3774,7 @@
 <e lm="circalittoral"><i>circalittora</i><par n="amica/l__adj"/></e>
 <e lm="circassien"><i>circassien</i><par n="ancien__adj"/></e>
 <e lm="circiné"><i>circiné</i><par n="abaissant__adj"/></e>
+<e lm="circoncis"><i>circoncis</i><par n="anglais__adj"/></e>
 <e lm="circonflexe"><i>circonflexe</i><par n="académique__adj"/></e>
 <e lm="circonférentiel"><i>circonférentiel</i><par n="annuel__adj"/></e>
 <e lm="circonscriptible"><i>circonscriptible</i><par n="académique__adj"/></e>
@@ -4059,6 +4065,7 @@
 <e lm="commerçable"><i>commerçable</i><par n="académique__adj"/></e>
 <e lm="commerçant"><i>commerçant</i><par n="abaissant__adj"/></e>
 <e lm="commettant"><i>commettant</i><par n="abaissant__adj"/></e>
+<e lm="commis"><i>commis</i><par n="anglais__adj"/></e>
 <e lm="comminatoire"><i>comminatoire</i><par n="académique__adj"/></e>
 <e lm="comminutif"><i>comminuti</i><par n="affirmati/f__adj"/></e>
 <e lm="commissionné"><i>commissionné</i><par n="abaissant__adj"/></e>
@@ -4133,12 +4140,14 @@
 <e lm="composté"><i>composté</i><par n="abaissant__adj"/></e>
 <e lm="composé"><i>composé</i><par n="abaissant__adj"/></e>
 <e lm="compound"><i>compound</i><par n="arrière__adj"/></e>
+<e lm="compris"><i>compris</i><par n="anglais__adj"/></e>
 <e lm="compressé"><i>compressé</i><par n="abaissant__adj"/></e>
 <e lm="compressible"><i>compressible</i><par n="académique__adj"/></e>
 <e lm="compressif"><i>compressi</i><par n="affirmati/f__adj"/></e>
 <e lm="comprimable"><i>comprimable</i><par n="académique__adj"/></e>
 <e lm="comprimé"><i>comprimé</i><par n="abaissant__adj"/></e>
 <e lm="compromettant"><i>compromettant</i><par n="abaissant__adj"/></e>
+<e lm="compromis"><i>compromis</i><par n="anglais__adj"/></e>
 <e lm="compromissionnaire"><i>compromissionnaire</i><par n="académique__adj"/></e>
 <e lm="compromissoire"><i>compromissoire</i><par n="académique__adj"/></e>
 <e lm="compréhensif"><i>compréhensi</i><par n="affirmati/f__adj"/></e>
@@ -4302,6 +4311,7 @@
 <e lm="conormal"><i>conorma</i><par n="amica/l__adj"/></e>
 <e lm="conoïdal"><i>conoïda</i><par n="amica/l__adj"/></e>
 <e lm="conoïde"><i>conoïde</i><par n="académique__adj"/></e>
+<e lm="conquis"><i>conquis</i><par n="anglais__adj"/></e>
 <e lm="consacré"><i>consacré</i><par n="abaissant__adj"/></e>
 <e lm="consanguin"><i>consanguin</i><par n="abaissant__adj"/></e>
 <e lm="consciencieux"><i>consciencieu</i><par n="affectueu/x__adj"/></e>
@@ -5900,6 +5910,7 @@
 <e lm="décliniste"><i>décliniste</i><par n="académique__adj"/></e>
 <e lm="décliqueté"><i>décliqueté</i><par n="abaissant__adj"/></e>
 <e lm="décloisonné"><i>décloisonné</i><par n="abaissant__adj"/></e>
+<e lm="déclos"><i>déclos</i><par n="anglais__adj"/></e>
 <e lm="décloué"><i>décloué</i><par n="abaissant__adj"/></e>
 <e lm="décléricalisé"><i>décléricalisé</i><par n="abaissant__adj"/></e>
 <e lm="décoché"><i>décoché</i><par n="abaissant__adj"/></e>
@@ -5915,6 +5926,7 @@
 <e lm="décolorant"><i>décolorant</i><par n="abaissant__adj"/></e>
 <e lm="décoloré"><i>décoloré</i><par n="abaissant__adj"/></e>
 <e lm="décommandé"><i>décommandé</i><par n="abaissant__adj"/></e>
+<e lm="décommis"><i>décommis</i><par n="anglais__adj"/></e>
 <e lm="décommissionné"><i>décommissionné</i><par n="abaissant__adj"/></e>
 <e lm="décommunisé"><i>décommunisé</i><par n="abaissant__adj"/></e>
 <e lm="décompacté"><i>décompacté</i><par n="abaissant__adj"/></e>
@@ -6287,6 +6299,7 @@
 <e lm="démerdé"><i>démerdé</i><par n="abaissant__adj"/></e>
 <e lm="démergé"><i>démergé</i><par n="abaissant__adj"/></e>
 <e lm="démersal"><i>démersa</i><par n="amica/l__adj"/></e>
+<e lm="démis"><i>démis</i><par n="anglais__adj"/></e>
 <e lm="démeublé"><i>démeublé</i><par n="abaissant__adj"/></e>
 <e lm="démiellé"><i>démiellé</i><par n="abaissant__adj"/></e>
 <e lm="démilitarisé"><i>démilitarisé</i><par n="abaissant__adj"/></e>
@@ -6461,6 +6474,7 @@
 <e lm="dépoétisé"><i>dépoétisé</i><par n="abaissant__adj"/></e>
 <e lm="dépravant"><i>dépravant</i><par n="abaissant__adj"/></e>
 <e lm="dépravé"><i>dépravé</i><par n="abaissant__adj"/></e>
+<e lm="dépris"><i>dépris</i><par n="anglais__adj"/></e>
 <e lm="dépressif"><i>dépressi</i><par n="affirmati/f__adj"/></e>
 <e lm="dépressionnaire"><i>dépressionnaire</i><par n="académique__adj"/></e>
 <e lm="dépressurisé"><i>dépressurisé</i><par n="abaissant__adj"/></e>
@@ -6578,6 +6592,7 @@
 <e lm="désapé"><i>désapé</i><par n="abaissant__adj"/></e>
 <e lm="désapparié"><i>désapparié</i><par n="abaissant__adj"/></e>
 <e lm="désappointé"><i>désappointé</i><par n="abaissant__adj"/></e>
+<e lm="désappris"><i>désappris</i><par n="anglais__adj"/></e>
 <e lm="désapprobateur"><i>désapprobat</i><par n="conduct/eur__adj"/></e>
 <e lm="désapprouvé"><i>désapprouvé</i><par n="abaissant__adj"/></e>
 <e lm="désapprovisionné"><i>désapprovisionné</i><par n="abaissant__adj"/></e>
@@ -7137,6 +7152,7 @@
 <e lm="encliqueté"><i>encliqueté</i><par n="abaissant__adj"/></e>
 <e lm="enclitique"><i>enclitique</i><par n="académique__adj"/></e>
 <e lm="encloitré"><i>encloitré</i><par n="abaissant__adj"/></e>
+<e lm="enclos"><i>enclos</i><par n="anglais__adj"/></e>
 <e lm="encloué"><i>encloué</i><par n="abaissant__adj"/></e>
 <e lm="encloîtré"><i>encloîtré</i><par n="abaissant__adj"/></e>
 <e lm="encoché"><i>encoché</i><par n="abaissant__adj"/></e>
@@ -7312,6 +7328,7 @@
 <e lm="enquiquinant"><i>enquiquinant</i><par n="abaissant__adj"/></e>
 <e lm="enquiquiné"><i>enquiquiné</i><par n="abaissant__adj"/></e>
 <e lm="enquiquineur"><i>enquiquineu</i><par n="causeu/r__adj"/></e>
+<e lm="enquis"><i>enquis</i><par n="anglais__adj"/></e>
 <e lm="enquêté"><i>enquêté</i><par n="abaissant__adj"/></e>
 <e lm="enraciné"><i>enraciné</i><par n="abaissant__adj"/></e>
 <e lm="enrageant"><i>enrageant</i><par n="abaissant__adj"/></e>
@@ -7434,8 +7451,10 @@
 <e lm="entrelardé"><i>entrelardé</i><par n="abaissant__adj"/></e>
 <e lm="entreloué"><i>entreloué</i><par n="abaissant__adj"/></e>
 <e lm="entremangé"><i>entremangé</i><par n="abaissant__adj"/></e>
+<e lm="entremis"><i>entremis</i><par n="anglais__adj"/></e>
 <e lm="entremêlé"><i>entremêlé</i><par n="abaissant__adj"/></e>
 <e lm="entreposé"><i>entreposé</i><par n="abaissant__adj"/></e>
+<e lm="entrepris"><i>entrepris</i><par n="anglais__adj"/></e>
 <e lm="entrepreneurial"><i>entrepreneuria</i><par n="amica/l__adj"/></e>
 <e lm="entré"><i>entré</i><par n="abaissant__adj"/></e>
 <e lm="entreregardé"><i>entreregardé</i><par n="abaissant__adj"/></e>
@@ -8261,6 +8280,7 @@
 <e lm="foraminifère"><i>foraminifère</i><par n="académique__adj"/></e>
 <e lm="foraminé"><i>foraminé</i><par n="abaissant__adj"/></e>
 <e lm="forcené"><i>forcené</i><par n="abaissant__adj"/></e>
+<e lm="forclos"><i>forclos</i><par n="anglais__adj"/></e>
 <e lm="fordien"><i>fordien</i><par n="ancien__adj"/></e>
 <e lm="fordiste"><i>fordiste</i><par n="académique__adj"/></e>
 <e lm="forensique"><i>forensique</i><par n="académique__adj"/></e>
@@ -10258,6 +10278,7 @@
 <e lm="inclassable"><i>inclassable</i><par n="académique__adj"/></e>
 <e lm="inclinable"><i>inclinable</i><par n="académique__adj"/></e>
 <e lm="incliné"><i>incliné</i><par n="abaissant__adj"/></e>
+<e lm="inclus"><i>inclus</i><par n="anglais__adj"/></e>
 <e lm="inclément"><i>inclément</i><par n="abaissant__adj"/></e>
 <e lm="incoagulable"><i>incoagulable</i><par n="académique__adj"/></e>
 <e lm="incoercible"><i>incoercible</i><par n="académique__adj"/></e>
@@ -12035,6 +12056,7 @@
 <e lm="maigri"><i>maigri</i><par n="abaissant__adj"/></e>
 <e lm="maillé"><i>maillé</i><par n="abaissant__adj"/></e>
 <e lm="mailloche"><i>mailloche</i><par n="académique__adj"/></e>
+<e lm="mainmis"><i>mainmis</i><par n="anglais__adj"/></e>
 <e lm="mainmortable"><i>mainmortable</i><par n="académique__adj"/></e>
 <e lm="maintenable"><i>maintenable</i><par n="académique__adj"/></e>
 <e lm="maintenu"><i>maintenu</i><par n="abaissant__adj"/></e>
@@ -12398,6 +12420,7 @@
 <e lm="messin"><i>messin</i><par n="abaissant__adj"/></e>
 <e lm="mesuré"><i>mesuré</i><par n="abaissant__adj"/></e>
 <e lm="mettable"><i>mettable</i><par n="académique__adj"/></e>
+<e lm="mis"><i>mis</i><par n="anglais__adj"/></e>
 <e lm="meublant"><i>meublant</i><par n="abaissant__adj"/></e>
 <e lm="meuble"><i>meuble</i><par n="académique__adj"/></e>
 <e lm="meublé"><i>meublé</i><par n="abaissant__adj"/></e>
@@ -13186,6 +13209,7 @@
 <e lm="méphistophélique"><i>méphistophélique</i><par n="académique__adj"/></e>
 <e lm="méphitique"><i>méphitique</i><par n="académique__adj"/></e>
 <e lm="méplat"><i>méplat</i><par n="abaissant__adj"/></e>
+<e lm="mépris"><i>mépris</i><par n="anglais__adj"/></e>
 <e lm="méprisable"><i>méprisable</i><par n="académique__adj"/></e>
 <e lm="méprisant"><i>méprisant</i><par n="abaissant__adj"/></e>
 <e lm="méprisé"><i>méprisé</i><par n="abaissant__adj"/></e>
@@ -13772,8 +13796,10 @@
 <e lm="occidentalisé"><i>occidentalisé</i><par n="abaissant__adj"/></e>
 <e lm="occidentaliste"><i>occidentaliste</i><par n="académique__adj"/></e>
 <e lm="occipital"><i>occipita</i><par n="amica/l__adj"/></e>
+<e lm="occis"><i>occis</i><par n="anglais__adj"/></e>
 <e lm="occitanien"><i>occitanien</i><par n="ancien__adj"/></e>
 <e lm="occitaniste"><i>occitaniste</i><par n="académique__adj"/></e>
+<e lm="occlus"><i>occlus</i><par n="anglais__adj"/></e>
 <e lm="occlusal"><i>occlusa</i><par n="amica/l__adj"/></e>
 <e lm="occlusif"><i>occlusi</i><par n="affirmati/f__adj"/></e>
 <e lm="occulté"><i>occulté</i><par n="abaissant__adj"/></e>
@@ -13868,6 +13894,7 @@
 <e lm="ombreux"><i>ombreu</i><par n="affectueu/x__adj"/></e>
 <e lm="ombrophile"><i>ombrophile</i><par n="académique__adj"/></e>
 <e lm="ombrothermique"><i>ombrothermique</i><par n="académique__adj"/></e>
+<e lm="omis"><i>omis</i><par n="anglais__adj"/></e>
 <e lm="omnicolore"><i>omnicolore</i><par n="académique__adj"/></e>
 <e lm="omnidirectionnel"><i>omnidirectionnel</i><par n="annuel__adj"/></e>
 <e lm="omnipotent"><i>omnipotent</i><par n="abaissant__adj"/></e>
@@ -14637,6 +14664,7 @@
 <e lm="permaculturel"><i>permaculturel</i><par n="annuel__adj"/></e>
 <e lm="permanenté"><i>permanenté</i><par n="abaissant__adj"/></e>
 <e lm="permanganique"><i>permanganique</i><par n="académique__adj"/></e>
+<e lm="permis"><i>permis</i><par n="anglais__adj"/></e>
 <e lm="permien"><i>permien</i><par n="ancien__adj"/></e>
 <e lm="permissif"><i>permissi</i><par n="affirmati/f__adj"/></e>
 <e lm="permissionnaire"><i>permissionnaire</i><par n="académique__adj"/></e>
@@ -15401,6 +15429,7 @@
 <e lm="premium"><i>premium</i><par n="arrière__adj"/></e>
 <e lm="prenable"><i>prenable</i><par n="académique__adj"/></e>
 <e lm="prenant"><i>prenant</i><par n="abaissant__adj"/></e>
+<e lm="pris"><i>pris</i><par n="anglais__adj"/></e>
 <e lm="preneur"><i>preneu</i><par n="causeu/r__adj"/></e>
 <e lm="presbyte"><i>presbyte</i><par n="académique__adj"/></e>
 <e lm="presbytéral"><i>presbytéra</i><par n="amica/l__adj"/></e>
@@ -15520,6 +15549,7 @@
 <e lm="prolétarisé"><i>prolétarisé</i><par n="abaissant__adj"/></e>
 <e lm="promené"><i>promené</i><par n="abaissant__adj"/></e>
 <e lm="promeneur"><i>promeneu</i><par n="causeu/r__adj"/></e>
+<e lm="promis"><i>promis</i><par n="anglais__adj"/></e>
 <e lm="promissoire"><i>promissoire</i><par n="académique__adj"/></e>
 <e lm="promotionné"><i>promotionné</i><par n="abaissant__adj"/></e>
 <e lm="promouvable"><i>promouvable</i><par n="académique__adj"/></e>
@@ -16449,7 +16479,9 @@
 <e lm="rassasié"><i>rassasié</i><par n="abaissant__adj"/></e>
 <e lm="rassemblé"><i>rassemblé</i><par n="abaissant__adj"/></e>
 <e lm="rassembleur"><i>rassembleu</i><par n="causeu/r__adj"/></e>
+<e lm="rassis"><i>rassis</i><par n="anglais__adj"/></e>
 <e lm="rassi"><i>rassi</i><par n="abaissant__adj"/></e>
+<e lm="rassis"><i>rassis</i><par n="anglais__adj"/></e>
 <e lm="rassis"><i>rassis</i><par n="anglais__adj"/></e>
 <e lm="rassurant"><i>rassurant</i><par n="abaissant__adj"/></e>
 <e lm="rassuré"><i>rassuré</i><par n="abaissant__adj"/></e>
@@ -16560,6 +16592,7 @@
 <e lm="reclapé"><i>reclapé</i><par n="abaissant__adj"/></e>
 <e lm="reclassé"><i>reclassé</i><par n="abaissant__adj"/></e>
 <e lm="recloué"><i>recloué</i><par n="abaissant__adj"/></e>
+<e lm="reclus"><i>reclus</i><par n="anglais__adj"/></e>
 <e lm="recodé"><i>recodé</i><par n="abaissant__adj"/></e>
 <e lm="recoiffé"><i>recoiffé</i><par n="abaissant__adj"/></e>
 <e lm="recollé"><i>recollé</i><par n="abaissant__adj"/></e>
@@ -16590,6 +16623,7 @@
 <e lm="reconnu"><i>reconnu</i><par n="abaissant__adj"/></e>
 <e lm="reconnecté"><i>reconnecté</i><par n="abaissant__adj"/></e>
 <e lm="reconquérant"><i>reconquérant</i><par n="abaissant__adj"/></e>
+<e lm="reconquis"><i>reconquis</i><par n="anglais__adj"/></e>
 <e lm="reconsidéré"><i>reconsidéré</i><par n="abaissant__adj"/></e>
 <e lm="reconsolidé"><i>reconsolidé</i><par n="abaissant__adj"/></e>
 <e lm="reconstituable"><i>reconstituable</i><par n="académique__adj"/></e>
@@ -16812,6 +16846,7 @@
 <e lm="remercié"><i>remercié</i><par n="abaissant__adj"/></e>
 <e lm="remesuré"><i>remesuré</i><par n="abaissant__adj"/></e>
 <e lm="remettant"><i>remettant</i><par n="abaissant__adj"/></e>
+<e lm="remis"><i>remis</i><par n="anglais__adj"/></e>
 <e lm="remeublé"><i>remeublé</i><par n="abaissant__adj"/></e>
 <e lm="remilitarisé"><i>remilitarisé</i><par n="abaissant__adj"/></e>
 <e lm="reminéralisant"><i>reminéralisant</i><par n="abaissant__adj"/></e>
@@ -16972,6 +17007,7 @@
 <e lm="repoudré"><i>repoudré</i><par n="abaissant__adj"/></e>
 <e lm="repoussant"><i>repoussant</i><par n="abaissant__adj"/></e>
 <e lm="repoussé"><i>repoussé</i><par n="abaissant__adj"/></e>
+<e lm="repris"><i>repris</i><par n="anglais__adj"/></e>
 <e lm="reprisé"><i>reprisé</i><par n="abaissant__adj"/></e>
 <e lm="reprochable"><i>reprochable</i><par n="académique__adj"/></e>
 <e lm="reproché"><i>reproché</i><par n="abaissant__adj"/></e>
@@ -17002,6 +17038,7 @@
 <e lm="requitté"><i>requitté</i><par n="abaissant__adj"/></e>
 <e lm="requérable"><i>requérable</i><par n="académique__adj"/></e>
 <e lm="requérant"><i>requérant</i><par n="abaissant__adj"/></e>
+<e lm="requis"><i>requis</i><par n="anglais__adj"/></e>
 <e lm="resalé"><i>resalé</i><par n="abaissant__adj"/></e>
 <e lm="resali"><i>resali</i><par n="abaissant__adj"/></e>
 <e lm="resalué"><i>resalué</i><par n="abaissant__adj"/></e>
@@ -17086,6 +17123,7 @@
 <e lm="retranché"><i>retranché</i><par n="abaissant__adj"/></e>
 <e lm="retranscrit"><i>retranscrit</i><par n="abaissant__adj"/></e>
 <e lm="retransformé"><i>retransformé</i><par n="abaissant__adj"/></e>
+<e lm="retransmis"><i>retransmis</i><par n="anglais__adj"/></e>
 <e lm="retravaillé"><i>retravaillé</i><par n="abaissant__adj"/></e>
 <e lm="retraversé"><i>retraversé</i><par n="abaissant__adj"/></e>
 <e lm="retrayant"><i>retrayant</i><par n="abaissant__adj"/></e>
@@ -17390,12 +17428,14 @@
 <e lm="réacclimaté"><i>réacclimaté</i><par n="abaissant__adj"/></e>
 <e lm="réaccoutumé"><i>réaccoutumé</i><par n="abaissant__adj"/></e>
 <e lm="réacquis"><i>réacquis</i><par n="anglais__adj"/></e>
+<e lm="réacquis"><i>réacquis</i><par n="anglais__adj"/></e>
 <e lm="réacteur"><i>réact</i><par n="conduct/eur__adj"/></e>
 <e lm="réactif"><i>réacti</i><par n="affirmati/f__adj"/></e>
 <e lm="réactionnel"><i>réactionnel</i><par n="annuel__adj"/></e>
 <e lm="réactivé"><i>réactivé</i><par n="abaissant__adj"/></e>
 <e lm="réactualisé"><i>réactualisé</i><par n="abaissant__adj"/></e>
 <e lm="réadapté"><i>réadapté</i><par n="abaissant__adj"/></e>
+<e lm="réadmis"><i>réadmis</i><par n="anglais__adj"/></e>
 <e lm="réaffecté"><i>réaffecté</i><par n="abaissant__adj"/></e>
 <e lm="réaffirmé"><i>réaffirmé</i><par n="abaissant__adj"/></e>
 <e lm="réaffuté"><i>réaffuté</i><par n="abaissant__adj"/></e>
@@ -17417,6 +17457,7 @@
 <e lm="réapparu"><i>réapparu</i><par n="abaissant__adj"/></e>
 <e lm="réapparu"><i>réapparu</i><par n="abaissant__adj"/></e>
 <e lm="réappliqué"><i>réappliqué</i><par n="abaissant__adj"/></e>
+<e lm="réappris"><i>réappris</i><par n="anglais__adj"/></e>
 <e lm="réapproprié"><i>réapproprié</i><par n="abaissant__adj"/></e>
 <e lm="réapprovisionné"><i>réapprovisionné</i><par n="abaissant__adj"/></e>
 <e lm="réargenté"><i>réargenté</i><par n="abaissant__adj"/></e>
@@ -17778,6 +17819,7 @@
 <e lm="rééligible"><i>rééligible</i><par n="académique__adj"/></e>
 <e lm="réélu"><i>réélu</i><par n="abaissant__adj"/></e>
 <e lm="réémergent"><i>réémergent</i><par n="abaissant__adj"/></e>
+<e lm="réémis"><i>réémis</i><par n="anglais__adj"/></e>
 <e lm="rééquilibré"><i>rééquilibré</i><par n="abaissant__adj"/></e>
 <e lm="rééquipé"><i>rééquipé</i><par n="abaissant__adj"/></e>
 <e lm="réétudié"><i>réétudié</i><par n="abaissant__adj"/></e>
@@ -18170,6 +18212,7 @@
 <e lm="sentencieux"><i>sentencieu</i><par n="affectueu/x__adj"/></e>
 <e lm="sentimentaliste"><i>sentimentaliste</i><par n="académique__adj"/></e>
 <e lm="senti"><i>senti</i><par n="abaissant__adj"/></e>
+<e lm="sis"><i>sis</i><par n="anglais__adj"/></e>
 <e lm="septal"><i>septa</i><par n="amica/l__adj"/></e>
 <e lm="septantième"><i>septantième</i><par n="académique__adj"/></e>
 <e lm="septembral"><i>septembra</i><par n="amica/l__adj"/></e>
@@ -18513,6 +18556,7 @@
 <e lm="soulevé"><i>soulevé</i><par n="abaissant__adj"/></e>
 <e lm="souligné"><i>souligné</i><par n="abaissant__adj"/></e>
 <e lm="soulographe"><i>soulographe</i><par n="académique__adj"/></e>
+<e lm="soumis"><i>soumis</i><par n="anglais__adj"/></e>
 <e lm="soumissionnaire"><i>soumissionnaire</i><par n="académique__adj"/></e>
 <e lm="soumissionné"><i>soumissionné</i><par n="abaissant__adj"/></e>
 <e lm="soupesé"><i>soupesé</i><par n="abaissant__adj"/></e>
@@ -19138,6 +19182,8 @@
 <e lm="sursaturant"><i>sursaturant</i><par n="abaissant__adj"/></e>
 <e lm="sursaturé"><i>sursaturé</i><par n="abaissant__adj"/></e>
 <e lm="sursemé"><i>sursemé</i><par n="abaissant__adj"/></e>
+<e lm="sursis"><i>sursis</i><par n="anglais__adj"/></e>
+<e lm="sursis"><i>sursis</i><par n="anglais__adj"/></e>
 <e lm="sursoufflé"><i>sursoufflé</i><par n="abaissant__adj"/></e>
 <e lm="surstocké"><i>surstocké</i><par n="abaissant__adj"/></e>
 <e lm="surtaillé"><i>surtaillé</i><par n="abaissant__adj"/></e>
@@ -19954,6 +20000,7 @@
 <e lm="translucide"><i>translucide</i><par n="académique__adj"/></e>
 <e lm="transmembranaire"><i>transmembranaire</i><par n="académique__adj"/></e>
 <e lm="transmetteur"><i>transmetteu</i><par n="causeu/r__adj"/></e>
+<e lm="transmis"><i>transmis</i><par n="anglais__adj"/></e>
 <e lm="transmissible"><i>transmissible</i><par n="académique__adj"/></e>
 <e lm="transmuable"><i>transmuable</i><par n="académique__adj"/></e>
 <e lm="transmué"><i>transmué</i><par n="abaissant__adj"/></e>
@@ -20334,6 +20381,7 @@
 <e lm="télérobotique"><i>télérobotique</i><par n="académique__adj"/></e>
 <e lm="télésnobé"><i>télésnobé</i><par n="abaissant__adj"/></e>
 <e lm="télétoxique"><i>télétoxique</i><par n="académique__adj"/></e>
+<e lm="télétransmis"><i>télétransmis</i><par n="anglais__adj"/></e>
 <e lm="télétravaillé"><i>télétravaillé</i><par n="abaissant__adj"/></e>
 <e lm="téléversé"><i>téléversé</i><par n="abaissant__adj"/></e>
 <e lm="télévisé"><i>télévisé</i><par n="abaissant__adj"/></e>
@@ -21207,6 +21255,7 @@
 <e lm="éclissé"><i>éclissé</i><par n="abaissant__adj"/></e>
 <e lm="éclopé"><i>éclopé</i><par n="abaissant__adj"/></e>
 <e lm="éclopé"><i>éclopé</i><par n="abaissant__adj"/></e>
+<e lm="éclos"><i>éclos</i><par n="anglais__adj"/></e>
 <e lm="éclusé"><i>éclusé</i><par n="abaissant__adj"/></e>
 <e lm="éclusier"><i>éclusi</i><par n="ch/er__adj"/></e>
 <e lm="éco-environnemental"><i>éco-environnemental</i><par n="abaissant__adj"/></e>
@@ -21421,6 +21470,7 @@
 <e lm="émerillonné"><i>émerillonné</i><par n="abaissant__adj"/></e>
 <e lm="émerisé"><i>émerisé</i><par n="abaissant__adj"/></e>
 <e lm="émerveillé"><i>émerveillé</i><par n="abaissant__adj"/></e>
+<e lm="émis"><i>émis</i><par n="anglais__adj"/></e>
 <e lm="émié"><i>émié</i><par n="abaissant__adj"/></e>
 <e lm="émietté"><i>émietté</i><par n="abaissant__adj"/></e>
 <e lm="émigrant"><i>émigrant</i><par n="abaissant__adj"/></e>
@@ -21580,6 +21630,7 @@
 <e lm="épouvanté"><i>épouvanté</i><par n="abaissant__adj"/></e>
 <e lm="époxydique"><i>époxydique</i><par n="académique__adj"/></e>
 <e lm="époxydé"><i>époxydé</i><par n="abaissant__adj"/></e>
+<e lm="épris"><i>épris</i><par n="anglais__adj"/></e>
 <e lm="éprouvant"><i>éprouvant</i><par n="abaissant__adj"/></e>
 <e lm="éprouvé"><i>éprouvé</i><par n="abaissant__adj"/></e>
 <e lm="épucé"><i>épucé</i><par n="abaissant__adj"/></e>

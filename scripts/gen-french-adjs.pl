@@ -177,6 +177,12 @@ sub check_adjective {
             #print STDERR "$lema > $newlemma | $flexio_lt\n";
             $lema = $newlemma;	
         }
+    } elsif ($flexio_lt =~ /AQ0MN0 ([^ ]+)/ ) {
+        $newlemma = $1;
+        if ($lema !~ /^$newlemma$/) {
+            #print STDERR "$lema > $newlemma | $flexio_lt\n";
+            $lema = $newlemma;	
+        }
     }
  
     my $found = 0;
@@ -188,9 +194,9 @@ sub check_adjective {
             my $flexio_ap = $rules_in_oneline{$rule_name};
             $flexio_ap =~ s/<r>/$arrel/g;
             $flexio_lt =~ s/(AQA|AO0)/AQ0/g;
-            #if ($lema =~ /abaissant/) {
-            #    print "***** $rule_name $lema $arrel*$flexio_ap*$flexio_lt\n\n";
-            #}
+            if ($lema =~ /commettre/) {
+                print "***** $rule_name $lema $arrel*$flexio_ap*$flexio_lt\n\n";
+            }
             if ($flexio_ap =~ /^$flexio_lt$/) {
                 # generate only non existent words
                 if (!exists $apertium_dict{$lema}) {
