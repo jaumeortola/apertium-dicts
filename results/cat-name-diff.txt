@@ -121,9 +121,6 @@ APERTIUM: alternança	PAR: abell/a__n	FORMS: NCFP000 alternançes NCFS000 altern
 APERTIUM: alzheimer	PAR: atletisme__n	FORMS: NCMS000 alzheimer
    OTHER: alzheimer	PAR: abric__n	FORMS: NCMP000 alzheimers NCMS000 alzheimer
 
-APERTIUM: al·lucinogen	PAR: abric__n	FORMS: NCMP000 al·lucinogens NCMS000 al·lucinogen
-   OTHER: al·lucinogen	PAR: nitr/ogen__n	FORMS: NCMP000 al·lucinògens NCMS000 al·lucinogen
-
 APERTIUM: ametista	PAR: abell/a__n	FORMS: NCFP000 ametistes NCFS000 ametista
    OTHER: ametista	PAR: accionist/a__n	FORMS: NCCP000 ametistes NCCS000 ametista
 
@@ -133,9 +130,6 @@ APERTIUM: amor	PAR: abric__n	FORMS: NCMP000 amors NCMS000 amor
 APERTIUM: anagrama	PAR: abell/a__n	FORMS: NCFP000 anagrames NCFS000 anagrama
    OTHER: anagrama	PAR: carism/a__n	FORMS: NCMP000 anagrames NCMS000 anagrama
 
-APERTIUM: anapest	PAR: abric__n	FORMS: NCMP000 anapests NCMS000 anapest
-   OTHER: anapest	PAR: abast__n	FORMS: NCMP000 anapestos NCMP000 anapests NCMS000 anapest
-
 APERTIUM: anatema	PAR: abell/a__n	FORMS: NCFP000 anatemes NCFS000 anatema
    OTHER: anatema	PAR: carism/a__n	FORMS: NCMP000 anatemes NCMS000 anatema
 
@@ -144,9 +138,6 @@ APERTIUM: ancestre	PAR: acompanyant__n	FORMS: NCCP000 ancestres NCCS000 ancestre
 
 APERTIUM: andorrà	PAR: americ/à__n	FORMS: NCFP000 andorranes NCFS000 andorrana NCMP000 andorrans NCMS000 andorrà
    OTHER: andorrà	PAR: bacall/à__n	FORMS: NCMP000 andorrans NCMS000 andorrà
-
-APERTIUM: androgen	PAR: nitr/ogen__n	FORMS: NCMP000 androgenògens NCMS000 androgenogen
-   OTHER: androgen	PAR: nitr/ogen__n	FORMS: NCMP000 andrògens NCMS000 androgen
 
 APERTIUM: aneguet	PAR: trist__n	FORMS: NCFP000 aneguetes NCFS000 anegueta NCMP000 aneguetos NCMP000 aneguets NCMS000 aneguet
    OTHER: aneguet	PAR: abric__n	FORMS: NCMP000 aneguets NCMS000 aneguet
@@ -214,9 +205,6 @@ APERTIUM: arranjador	PAR: senyor__n	FORMS: NCFP000 arranjadores NCFS000 arranjad
 
 APERTIUM: artificier	PAR: senyor__n	FORMS: NCFP000 artificieres NCFS000 artificiera NCMP000 artificiers NCMS000 artificier
    OTHER: artificier	PAR: abric__n	FORMS: NCMP000 artificiers NCMS000 artificier
-
-APERTIUM: artiga	PAR: abell/a__n	FORMS: NCFP000 artiges NCFS000 artiga
-   OTHER: artiga	PAR: alg/a__n	FORMS: NCFP000 artigues NCFS000 artiga
 
 APERTIUM: assalariat	PAR: advoca/t__n	FORMS: NCFP000 assalariades NCFS000 assalariada NCMP000 assalariats NCMS000 assalariat
    OTHER: assalariat	PAR: abric__n	FORMS: NCMP000 assalariats NCMS000 assalariat
@@ -486,6 +474,9 @@ APERTIUM: complex	PAR: abast__n	FORMS: NCMP000 complexos NCMP000 complexs NCMS00
 
 APERTIUM: comte	PAR: alcalde__n	FORMS: NCFP000 comtesses NCFS000 comtessa NCMP000 comtes NCMS000 comte
    OTHER: comte	PAR: abric__n	FORMS: NCMP000 comtes NCMS000 comte
+
+APERTIUM: concubí	PAR: alacant/í__n	FORMS: NCFP000 concubines NCFS000 concubina NCMP000 concubins NCMS000 concubí
+   OTHER: concubí	PAR: boc/í__n	FORMS: NCMP000 concubins NCMS000 concubí
 
 APERTIUM: concunyat	PAR: advoca/t__n	FORMS: NCFP000 concunyades NCFS000 concunyada NCMP000 concunyats NCMS000 concunyat
    OTHER: concunyat	PAR: abric__n	FORMS: NCMP000 concunyats NCMS000 concunyat
@@ -1386,6 +1377,9 @@ APERTIUM: magenta	PAR: carism/a__n	FORMS: NCMP000 magentes NCMS000 magenta
 APERTIUM: magnat	PAR: acompanyant__n	FORMS: NCCP000 magnats NCCS000 magnat
    OTHER: magnat	PAR: abric__n	FORMS: NCMP000 magnats NCMS000 magnat
 
+APERTIUM: magnetró	PAR: aband/ó__n	FORMS: NCMP000 magnetróons NCMS000 magnetróó
+   OTHER: magnetró	PAR: aband/ó__n	FORMS: NCMP000 magnetrons NCMS000 magnetró
+
 APERTIUM: magrebí	PAR: alacant/í__n	FORMS: NCFP000 magrebines NCFS000 magrebina NCMP000 magrebins NCMS000 magrebí
    OTHER: magrebí	PAR: boc/í__n	FORMS: NCMP000 magrebins NCMS000 magrebí
 
@@ -1644,6 +1638,9 @@ APERTIUM: nan	PAR: senyor__n	FORMS: NCFP000 nanes NCFS000 nana NCMP000 nans NCMS
 
 APERTIUM: narrador	PAR: senyor__n	FORMS: NCFP000 narradores NCFS000 narradora NCMP000 narradors NCMS000 narrador
    OTHER: narrador	PAR: abric__n	FORMS: NCMP000 narradors NCMS000 narrador
+
+APERTIUM: naturalització	PAR: acci/ó__n	FORMS: NCFP000 naturalitzacióons NCFS000 naturalitzacióó
+   OTHER: naturalització	PAR: acci/ó__n	FORMS: NCFP000 naturalitzacions NCFS000 naturalització
 
 APERTIUM: nauruà	PAR: americ/à__n	FORMS: NCFP000 nauruanes NCFS000 nauruana NCMP000 nauruans NCMS000 nauruà
    OTHER: nauruà	PAR: bacall/à__n	FORMS: NCMP000 nauruans NCMS000 nauruà
@@ -2988,9 +2985,6 @@ APERTIUM: rave	PAR: abric__n	FORMS: NCMP000 raves NCMS000 rave
 
 APERTIUM: rockabilly	PAR: campus__n	FORMS: NCMN000 rockabilly
    OTHER: rockabilly	PAR: ??????????????	FORMS: NCCP000 rockabillies NCCS000 rockabilly
-
-APERTIUM: rodamón	PAR: acompanyant__n	FORMS: NCCP000 rodamóns NCCS000 rodamón
-   OTHER: rodamón	PAR: ??????????????	FORMS: NCCP000 rodamons NCCS000 rodamón
 
 APERTIUM: semen	PAR: atletisme__n	FORMS: NCMS000 semen
    OTHER: semen	PAR: ??????????????	FORMS: NCMP000 sèmens NCMP000 sémens NCMS000 semen

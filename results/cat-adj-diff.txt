@@ -759,6 +759,9 @@ APERTIUM: gruixut	PAR: afortuna/t__adj	FORMS: AQ0FP0 gruixudes AQ0FP0 gruixudís
 APERTIUM: guapo	PAR: guap/o__adj	FORMS: AQ0FP0 guapes AQ0FP0 guapíssimes AQ0FS0 guapa AQ0FS0 guapíssima AQ0MP0 guapos AQ0MP0 guapíssims AQ0MS0 guapo AQ0MS0 guapíssim
    OTHER: guapo	PAR: guarr/o__adj	FORMS: AQ0FP0 guapes AQ0FS0 guapa AQ0MP0 guapos AQ0MS0 guapo
 
+APERTIUM: guenyo	PAR: guap/o__adj	FORMS: AQ0FP0 guenyes AQ0FP0 guenyíssimes AQ0FS0 guenya AQ0FS0 guenyíssima AQ0MP0 guenyos AQ0MP0 guenyíssims AQ0MS0 guenyo AQ0MS0 guenyíssim
+   OTHER: guenyo	PAR: guarr/o__adj	FORMS: AQ0FP0 guenyes AQ0FS0 guenya AQ0MP0 guenyos AQ0MS0 guenyo
+
 APERTIUM: gustós	PAR: afectu/ós__adj	FORMS: AQ0FP0 gustoses AQ0FP0 gustosíssimes AQ0FS0 gustosa AQ0FS0 gustosíssima AQ0MP0 gustosos AQ0MP0 gustosíssims AQ0MS0 gustosíssim AQ0MS0 gustós
    OTHER: gustós	PAR: aliment/ós__adj	FORMS: AQ0FP0 gustoses AQ0FS0 gustosa AQ0MP0 gustosos AQ0MS0 gustós
 
@@ -881,6 +884,9 @@ APERTIUM: infructuós	PAR: afectu/ós__adj	FORMS: AQ0FP0 infructuoses AQ0FP0 inf
 APERTIUM: infundat	PAR: afortuna/t__adj	FORMS: AQ0FP0 infundades AQ0FP0 infundadíssimes AQ0FS0 infundada AQ0FS0 infundadíssima AQ0MP0 infundadíssims AQ0MP0 infundats AQ0MS0 infundadíssim AQ0MS0 infundat
    OTHER: infundat	PAR: triparti/t__adj	FORMS: AQ0FP0 infundades AQ0FS0 infundada AQ0MP0 infundats AQ0MS0 infundat
 
+APERTIUM: injust	PAR: alt__adj	FORMS: AQ0FP0 injustes AQ0FP0 injustíssimes AQ0FS0 injusta AQ0FS0 injustíssima AQ0MP0 injusts AQ0MP0 injustíssims AQ0MS0 injust AQ0MS0 injustíssim
+   OTHER: injust	PAR: mixt__adj	FORMS: AQ0FP0 injustes AQ0FS0 injusta AQ0MP0 injustos AQ0MP0 injusts AQ0MS0 injust
+
 APERTIUM: injustificat	PAR: afortuna/t__adj	FORMS: AQ0FP0 injustificades AQ0FP0 injustificadíssimes AQ0FS0 injustificada AQ0FS0 injustificadíssima AQ0MP0 injustificadíssims AQ0MP0 injustificats AQ0MS0 injustificadíssim AQ0MS0 injustificat
    OTHER: injustificat	PAR: triparti/t__adj	FORMS: AQ0FP0 injustificades AQ0FS0 injustificada AQ0MP0 injustificats AQ0MS0 injustificat
 
@@ -935,6 +941,9 @@ APERTIUM: joiós	PAR: afectu/ós__adj	FORMS: AQ0FP0 joioses AQ0FP0 joiosíssimes
 APERTIUM: judiciós	PAR: afectu/ós__adj	FORMS: AQ0FP0 judicioses AQ0FP0 judiciosíssimes AQ0FS0 judiciosa AQ0FS0 judiciosíssima AQ0MP0 judiciosos AQ0MP0 judiciosíssims AQ0MS0 judiciosíssim AQ0MS0 judiciós
    OTHER: judiciós	PAR: aliment/ós__adj	FORMS: AQ0FP0 judicioses AQ0FS0 judiciosa AQ0MP0 judiciosos AQ0MS0 judiciós
 
+APERTIUM: just	PAR: alt__adj	FORMS: AQ0FP0 justes AQ0FP0 justíssimes AQ0FS0 justa AQ0FS0 justíssima AQ0MP0 justs AQ0MP0 justíssims AQ0MS0 just AQ0MS0 justíssim
+   OTHER: just	PAR: mixt__adj	FORMS: AQ0FP0 justes AQ0FS0 justa AQ0MP0 justos AQ0MP0 justs AQ0MS0 just
+
 APERTIUM: kirguís	PAR: su/ís__adj	FORMS: AQ0FP0 kirguïsses AQ0FS0 kirguïssa AQ0MP0 kirguïssos AQ0MS0 kirguís
    OTHER: kirguís	PAR: multimèdia__adj	FORMS: AQ0CN0 kirguís
 
@@ -959,6 +968,9 @@ APERTIUM: llagrimós	PAR: afectu/ós__adj	FORMS: AQ0FP0 llagrimoses AQ0FP0 llagr
 
 APERTIUM: llardós	PAR: afectu/ós__adj	FORMS: AQ0FP0 llardoses AQ0FP0 llardosíssimes AQ0FS0 llardosa AQ0FS0 llardosíssima AQ0MP0 llardosos AQ0MP0 llardosíssims AQ0MS0 llardosíssim AQ0MS0 llardós
    OTHER: llardós	PAR: aliment/ós__adj	FORMS: AQ0FP0 llardoses AQ0FS0 llardosa AQ0MP0 llardosos AQ0MS0 llardós
+
+APERTIUM: llest	PAR: alt__adj	FORMS: AQ0FP0 llestes AQ0FP0 llestíssimes AQ0FS0 llesta AQ0FS0 llestíssima AQ0MP0 llests AQ0MP0 llestíssims AQ0MS0 llest AQ0MS0 llestíssim
+   OTHER: llest	PAR: mixt__adj	FORMS: AQ0FP0 llestes AQ0FS0 llesta AQ0MP0 llestos AQ0MP0 llests AQ0MS0 llest
 
 APERTIUM: lleu	PAR: bre/u__adj	FORMS: AQ0CP0 lleus AQ0CS0 lleu AQ0FP0 llevíssimes AQ0FS0 llevíssima AQ0MP0 llevíssims AQ0MS0 llevíssim
    OTHER: lleu	PAR: abdominal__adj	FORMS: AQ0CP0 lleus AQ0CS0 lleu
@@ -1070,9 +1082,15 @@ APERTIUM: modern	PAR: alt__adj	FORMS: AQ0FP0 modernes AQ0FP0 moderníssimes AQ0F
    OTHER: modern	PAR: poquet__adj	FORMS: AQ0FP0 modernes AQ0FS0 moderna AQ0MP0 moderns AQ0MS0 modern
    OTHER: modern	PAR: quant__adj	FORMS: AQ0FP0 modernes AQ0FS0 moderna AQ0MP0 moderns AQ0MS0 modern
 
+APERTIUM: modest	PAR: alt__adj	FORMS: AQ0FP0 modestes AQ0FP0 modestíssimes AQ0FS0 modesta AQ0FS0 modestíssima AQ0MP0 modests AQ0MP0 modestíssims AQ0MS0 modest AQ0MS0 modestíssim
+   OTHER: modest	PAR: mixt__adj	FORMS: AQ0FP0 modestes AQ0FS0 modesta AQ0MP0 modestos AQ0MP0 modests AQ0MS0 modest
+
 APERTIUM: moix	PAR: absolut__adj	FORMS: AQ0FP0 moixes AQ0FS0 moixa AQ0MP0 moixs AQ0MS0 moix
    OTHER: moix	PAR: annex__adj	FORMS: AQ0FP0 moixes AQ0FS0 moixa AQ0MP0 moixos AQ0MS0 moix
    OTHER: moix	PAR: cors__adj	FORMS: AQ0FP0 moixes AQ0FS0 moixa AQ0MP0 moixos AQ0MS0 moix
+
+APERTIUM: molest	PAR: alt__adj	FORMS: AQ0FP0 molestes AQ0FP0 molestíssimes AQ0FS0 molesta AQ0FS0 molestíssima AQ0MP0 molests AQ0MP0 molestíssims AQ0MS0 molest AQ0MS0 molestíssim
+   OTHER: molest	PAR: mixt__adj	FORMS: AQ0FP0 molestes AQ0FS0 molesta AQ0MP0 molestos AQ0MP0 molests AQ0MS0 molest
 
 APERTIUM: monstruós	PAR: afectu/ós__adj	FORMS: AQ0FP0 monstruoses AQ0FP0 monstruosíssimes AQ0FS0 monstruosa AQ0FS0 monstruosíssima AQ0MP0 monstruosos AQ0MP0 monstruosíssims AQ0MS0 monstruosíssim AQ0MS0 monstruós
    OTHER: monstruós	PAR: aliment/ós__adj	FORMS: AQ0FP0 monstruoses AQ0FS0 monstruosa AQ0MP0 monstruosos AQ0MS0 monstruós
@@ -1499,11 +1517,17 @@ APERTIUM: tou	PAR: to/u__adj	FORMS: AQ0FP0 toves AQ0FP0 tovíssimes AQ0FS0 tova 
 APERTIUM: transformista	PAR: abdominal__adj	FORMS: AQ0CP0 transformistas AQ0CS0 transformista
    OTHER: transformista	PAR: agrícol/a__adj	FORMS: AQ0CP0 transformistes AQ0CS0 transformista
 
+APERTIUM: transgènere	PAR: abdominal__adj	FORMS: AQ0CP0 transgèneres AQ0CS0 transgènere
+   OTHER: transgènere	PAR: multimèdia__adj	FORMS: AQ0CN0 transgènere
+
 APERTIUM: treballós	PAR: afectu/ós__adj	FORMS: AQ0FP0 treballoses AQ0FP0 treballosíssimes AQ0FS0 treballosa AQ0FS0 treballosíssima AQ0MP0 treballosos AQ0MP0 treballosíssims AQ0MS0 treballosíssim AQ0MS0 treballós
    OTHER: treballós	PAR: aliment/ós__adj	FORMS: AQ0FP0 treballoses AQ0FS0 treballosa AQ0MP0 treballosos AQ0MS0 treballós
 
 APERTIUM: tremolós	PAR: afectu/ós__adj	FORMS: AQ0FP0 tremoloses AQ0FP0 tremolosíssimes AQ0FS0 tremolosa AQ0FS0 tremolosíssima AQ0MP0 tremolosos AQ0MP0 tremolosíssims AQ0MS0 tremolosíssim AQ0MS0 tremolós
    OTHER: tremolós	PAR: aliment/ós__adj	FORMS: AQ0FP0 tremoloses AQ0FS0 tremolosa AQ0MP0 tremolosos AQ0MS0 tremolós
+
+APERTIUM: trist	PAR: trist__adj	FORMS: AQ0FP0 tristes AQ0FP0 tristíssimes AQ0FS0 trista AQ0FS0 tristíssima AQ0MP0 tristos AQ0MP0 trists AQ0MP0 tristíssims AQ0MS0 trist AQ0MS0 tristíssim
+   OTHER: trist	PAR: mixt__adj	FORMS: AQ0FP0 tristes AQ0FS0 trista AQ0MP0 tristos AQ0MP0 trists AQ0MS0 trist
 
 APERTIUM: tumultuós	PAR: afectu/ós__adj	FORMS: AQ0FP0 tumultuoses AQ0FP0 tumultuosíssimes AQ0FS0 tumultuosa AQ0FS0 tumultuosíssima AQ0MP0 tumultuosos AQ0MP0 tumultuosíssims AQ0MS0 tumultuosíssim AQ0MS0 tumultuós
    OTHER: tumultuós	PAR: aliment/ós__adj	FORMS: AQ0FP0 tumultuoses AQ0FS0 tumultuosa AQ0MP0 tumultuosos AQ0MS0 tumultuós
@@ -1519,6 +1543,9 @@ APERTIUM: valerós	PAR: afectu/ós__adj	FORMS: AQ0FP0 valeroses AQ0FP0 valerosí
 
 APERTIUM: valuós	PAR: afectu/ós__adj	FORMS: AQ0FP0 valuoses AQ0FP0 valuosíssimes AQ0FS0 valuosa AQ0FS0 valuosíssima AQ0MP0 valuosos AQ0MP0 valuosíssims AQ0MS0 valuosíssim AQ0MS0 valuós
    OTHER: valuós	PAR: aliment/ós__adj	FORMS: AQ0FP0 valuoses AQ0FS0 valuosa AQ0MP0 valuosos AQ0MS0 valuós
+
+APERTIUM: vast	PAR: alt__adj	FORMS: AQ0FP0 vastes AQ0FP0 vastíssimes AQ0FS0 vasta AQ0FS0 vastíssima AQ0MP0 vasts AQ0MP0 vastíssims AQ0MS0 vast AQ0MS0 vastíssim
+   OTHER: vast	PAR: mixt__adj	FORMS: AQ0FP0 vastes AQ0FS0 vasta AQ0MP0 vastos AQ0MP0 vasts AQ0MS0 vast
 
 APERTIUM: vell	PAR: alt__adj	FORMS: AQ0FP0 velles AQ0FP0 vellíssimes AQ0FS0 vella AQ0FS0 vellíssima AQ0MP0 vells AQ0MP0 vellíssims AQ0MS0 vell AQ0MS0 vellíssim
    OTHER: vell	PAR: absolut__adj	FORMS: AQ0FP0 velles AQ0FS0 vella AQ0MP0 vells AQ0MS0 vell
@@ -1587,20 +1614,11 @@ APERTIUM: xicotet	PAR: alt__adj	FORMS: AQ0FP0 xicotetes AQ0FP0 xicotetíssimes A
 APERTIUM: accelerador	PAR: absolut__adj	FORMS: AQ0FP0 acceleradores AQ0FS0 acceleradora AQ0MP0 acceleradors AQ0MS0 accelerador
    OTHER: accelerador	PAR: ??????????????	FORMS: AQ0FP0 acceleradores AQ0FP0 acceleratrius AQ0FS0 acceleradora AQ0FS0 acceleratriu AQ0MP0 acceleradors AQ0MS0 accelerador
 
-APERTIUM: agrest	PAR: absolut__adj	FORMS: AQ0FP0 agrestes AQ0FS0 agresta AQ0MP0 agrests AQ0MS0 agrest
-   OTHER: agrest	PAR: ??????????????	FORMS: AQ0FP0 agrestes AQ0FS0 agresta AQ0MP0 agrestos AQ0MP0 agrests AQ0MS0 agrest
-
 APERTIUM: alisi	PAR: al/isi__adj	FORMS: AQ0FP0 alísies AQ0FS0 alísia AQ0MP0 alisis AQ0MS0 alisi
    OTHER: alisi	PAR: ??????????????	FORMS: AQ0MP0 alisis AQ0MS0 alisi
 
 APERTIUM: al·lergen	PAR: al·l/ergen__adj	FORMS: AQ0FP0 al·lèrgenes AQ0FS0 al·lèrgena AQ0MP0 al·lergens AQ0MS0 al·lergen
    OTHER: al·lergen	PAR: ??????????????	FORMS: AQ0FP0 al·lèrgenes AQ0FS0 al·lèrgena AQ0MP0 al·lèrgens AQ0MS0 al·lergen
-
-APERTIUM: august	PAR: absolut__adj	FORMS: AQ0FP0 augustes AQ0FS0 augusta AQ0MP0 augusts AQ0MS0 august
-   OTHER: august	PAR: ??????????????	FORMS: AQ0FP0 augustes AQ0FS0 augusta AQ0MP0 augustos AQ0MP0 augusts AQ0MS0 august
-
-APERTIUM: bast	PAR: absolut__adj	FORMS: AQ0FP0 bastes AQ0FS0 basta AQ0MP0 basts AQ0MS0 bast
-   OTHER: bast	PAR: ??????????????	FORMS: AQ0FP0 bastes AQ0FS0 basta AQ0MP0 bastos AQ0MP0 basts AQ0MS0 bast
 
 APERTIUM: bielorús	PAR: andal/ús__adj	FORMS: AQ0FP0 bieloruses AQ0FS0 bielorusa AQ0MP0 bielorusos AQ0MS0 bielorús
    OTHER: bielorús	PAR: ??????????????	FORMS: AQ0FP0 bielorusses AQ0FS0 bielorussa AQ0MP0 bielorussos AQ0MS0 bielorús
@@ -1614,9 +1632,6 @@ APERTIUM: boig	PAR: bo/ig__adj	FORMS: AQ0FP0 boges AQ0FP0 bogíssimes AQ0FS0 bog
 APERTIUM: bru	PAR: bo__adj	FORMS: AQ0FP0 brunes AQ0FP0 bruníssimes AQ0FS0 bruna AQ0FS0 bruníssima AQ0MP0 bruns AQ0MP0 bruníssims AQ0MS0 bru AQ0MS0 bruníssim
    OTHER: bru	PAR: ??????????????	FORMS: AQ0FP0 brunes AQ0FS0 bruna AQ0MP0 bruns AQ0MS0 bru
 
-APERTIUM: cast	PAR: annex__adj	FORMS: AQ0FP0 castes AQ0FS0 casta AQ0MP0 castos AQ0MS0 cast
-   OTHER: cast	PAR: ??????????????	FORMS: AQ0FP0 castes AQ0FS0 casta AQ0MP0 castos AQ0MP0 casts AQ0MS0 cast
-
 APERTIUM: circumflex	PAR: complex__adj	FORMS: AQ0FP0 circumflexes AQ0FP0 circumflexíssimes AQ0FS0 circumflexa AQ0FS0 circumflexíssima AQ0MP0 circumflexos AQ0MP0 circumflexíssims AQ0MS0 circumflex AQ0MS0 circumflexíssim
    OTHER: circumflex	PAR: ??????????????	FORMS: AQ0MP0 circumflexos AQ0MS0 circumflex
 
@@ -1629,38 +1644,14 @@ APERTIUM: dietílic	PAR: acadèmi/c__adj	FORMS: AQ0FP0 dietíliques AQ0FS0 diet�
 APERTIUM: dolç	PAR: dol/ç__adj	FORMS: AQ0FP0 dolces AQ0FP0 dolcíssimes AQ0FS0 dolcíssima AQ0FS0 dolça AQ0MP0 dolcíssims AQ0MP0 dolços AQ0MS0 dolcíssim AQ0MS0 dolç
    OTHER: dolç	PAR: ??????????????	FORMS: AQ0FP0 dolces AQ0FS0 dolça AQ0MP0 dolços AQ0MS0 dolç
 
-APERTIUM: exhaust	PAR: absolut__adj	FORMS: AQ0FP0 exhaustes AQ0FS0 exhausta AQ0MP0 exhausts AQ0MS0 exhaust
-   OTHER: exhaust	PAR: ??????????????	FORMS: AQ0FP0 exhaustes AQ0FS0 exhausta AQ0MP0 exhaustos AQ0MP0 exhausts AQ0MS0 exhaust
-
 APERTIUM: fi	PAR: bo__adj	FORMS: AQ0FP0 fines AQ0FP0 finíssimes AQ0FS0 fina AQ0FS0 finíssima AQ0MP0 fins AQ0MP0 finíssims AQ0MS0 fi AQ0MS0 finíssim
    OTHER: fi	PAR: ??????????????	FORMS: AQ0FP0 fines AQ0FS0 fina AQ0MP0 fins AQ0MS0 fi
-
-APERTIUM: funest	PAR: absolut__adj	FORMS: AQ0FP0 funestes AQ0FS0 funesta AQ0MP0 funests AQ0MS0 funest
-   OTHER: funest	PAR: ??????????????	FORMS: AQ0FP0 funestes AQ0FS0 funesta AQ0MP0 funestos AQ0MP0 funests AQ0MS0 funest
-
-APERTIUM: honest	PAR: absolut__adj	FORMS: AQ0FP0 honestes AQ0FS0 honesta AQ0MP0 honests AQ0MS0 honest
-   OTHER: honest	PAR: ??????????????	FORMS: AQ0FP0 honestes AQ0FS0 honesta AQ0MP0 honestos AQ0MP0 honests AQ0MS0 honest
-
-APERTIUM: imprevist	PAR: absolut__adj	FORMS: AQ0FP0 imprevistes AQ0FS0 imprevista AQ0MP0 imprevists AQ0MS0 imprevist
-   OTHER: imprevist	PAR: ??????????????	FORMS: AQ0FP0 imprevistes AQ0FS0 imprevista AQ0MP0 imprevistos AQ0MP0 imprevists AQ0MS0 imprevist
-
-APERTIUM: infaust	PAR: absolut__adj	FORMS: AQ0FP0 infaustes AQ0FS0 infausta AQ0MP0 infausts AQ0MS0 infaust
-   OTHER: infaust	PAR: ??????????????	FORMS: AQ0FP0 infaustes AQ0FS0 infausta AQ0MP0 infaustos AQ0MP0 infausts AQ0MS0 infaust
 
 APERTIUM: infraroig	PAR: bo/ig__adj	FORMS: AQ0FP0 infraroges AQ0FP0 infrarogíssimes AQ0FS0 infrarogíssima AQ0FS0 infraroja AQ0MP0 infrarogíssims AQ0MP0 infrarojos AQ0MS0 infrarogíssim AQ0MS0 infraroig
    OTHER: infraroig	PAR: ??????????????	FORMS: AQ0FP0 infraroges AQ0FS0 infraroja AQ0MP0 infraroigs AQ0MP0 infrarojos AQ0MS0 infraroig
 
-APERTIUM: injust	PAR: alt__adj	FORMS: AQ0FP0 injustes AQ0FP0 injustíssimes AQ0FS0 injusta AQ0FS0 injustíssima AQ0MP0 injusts AQ0MP0 injustíssims AQ0MS0 injust AQ0MS0 injustíssim
-   OTHER: injust	PAR: ??????????????	FORMS: AQ0FP0 injustes AQ0FS0 injusta AQ0MP0 injustos AQ0MP0 injusts AQ0MS0 injust
-
-APERTIUM: just	PAR: alt__adj	FORMS: AQ0FP0 justes AQ0FP0 justíssimes AQ0FS0 justa AQ0FS0 justíssima AQ0MP0 justs AQ0MP0 justíssims AQ0MS0 just AQ0MS0 justíssim
-   OTHER: just	PAR: ??????????????	FORMS: AQ0FP0 justes AQ0FS0 justa AQ0MP0 justos AQ0MP0 justs AQ0MS0 just
-
 APERTIUM: lleig	PAR: lle/ig__adj	FORMS: AQ0FP0 lletges AQ0FP0 lletgíssimes AQ0FS0 lletgíssima AQ0FS0 lletja AQ0MP0 lletgíssims AQ0MP0 lletjos AQ0MS0 lleig AQ0MS0 lletgíssim
    OTHER: lleig	PAR: ??????????????	FORMS: AQ0FP0 lletges AQ0FS0 lletja AQ0MP0 lleigs AQ0MP0 lletjos AQ0MS0 lleig
-
-APERTIUM: llest	PAR: alt__adj	FORMS: AQ0FP0 llestes AQ0FP0 llestíssimes AQ0FS0 llesta AQ0FS0 llestíssima AQ0MP0 llests AQ0MP0 llestíssims AQ0MS0 llest AQ0MS0 llestíssim
-   OTHER: llest	PAR: ??????????????	FORMS: AQ0FP0 llestes AQ0FS0 llesta AQ0MP0 llestos AQ0MP0 llests AQ0MS0 llest
 
 APERTIUM: locomotor	PAR: absolut__adj	FORMS: AQ0FP0 locomotores AQ0FS0 locomotora AQ0MP0 locomotors AQ0MS0 locomotor
    OTHER: locomotor	PAR: ??????????????	FORMS: AQ0FP0 locomotores AQ0FP0 locomotrius AQ0FS0 locomotora AQ0FS0 locomotriu AQ0MP0 locomotors AQ0MS0 locomotor
@@ -1668,26 +1659,11 @@ APERTIUM: locomotor	PAR: absolut__adj	FORMS: AQ0FP0 locomotores AQ0FS0 locomotor
 APERTIUM: maco	PAR: ma/co__adj	FORMS: AQ0FP0 maques AQ0FP0 maquíssimes AQ0FS0 maca AQ0FS0 maquíssima AQ0MP0 macos AQ0MP0 maquíssims AQ0MS0 maco AQ0MS0 maquíssim
    OTHER: maco	PAR: ??????????????	FORMS: AQ0FP0 maques AQ0FS0 maca AQ0MP0 macos AQ0MS0 maco
 
-APERTIUM: manifest	PAR: absolut__adj	FORMS: AQ0FP0 manifestes AQ0FS0 manifesta AQ0MP0 manifests AQ0MS0 manifest
-   OTHER: manifest	PAR: ??????????????	FORMS: AQ0FP0 manifestes AQ0FS0 manifesta AQ0MP0 manifestos AQ0MP0 manifests AQ0MS0 manifest
-
 APERTIUM: mig	PAR: mi/g__adj	FORMS: AQ0FP0 mitges AQ0FS0 mitja AQ0MP0 mitjos AQ0MS0 mig
    OTHER: mig	PAR: ??????????????	FORMS: AQ0FP0 mitges AQ0FS0 mitja AQ0MP0 migs AQ0MP0 mitjos AQ0MS0 mig
 
-APERTIUM: mixt	PAR: absolut__adj	FORMS: AQ0FP0 mixtes AQ0FS0 mixta AQ0MP0 mixts AQ0MS0 mixt
-   OTHER: mixt	PAR: ??????????????	FORMS: AQ0FP0 mixtes AQ0FS0 mixta AQ0MP0 mixtos AQ0MP0 mixts AQ0MS0 mixt
-
-APERTIUM: modest	PAR: alt__adj	FORMS: AQ0FP0 modestes AQ0FP0 modestíssimes AQ0FS0 modesta AQ0FS0 modestíssima AQ0MP0 modests AQ0MP0 modestíssims AQ0MS0 modest AQ0MS0 modestíssim
-   OTHER: modest	PAR: ??????????????	FORMS: AQ0FP0 modestes AQ0FS0 modesta AQ0MP0 modestos AQ0MP0 modests AQ0MS0 modest
-
-APERTIUM: molest	PAR: alt__adj	FORMS: AQ0FP0 molestes AQ0FP0 molestíssimes AQ0FS0 molesta AQ0FS0 molestíssima AQ0MP0 molests AQ0MP0 molestíssims AQ0MS0 molest AQ0MS0 molestíssim
-   OTHER: molest	PAR: ??????????????	FORMS: AQ0FP0 molestes AQ0FS0 molesta AQ0MP0 molestos AQ0MP0 molests AQ0MS0 molest
-
 APERTIUM: motor	PAR: absolut__adj	FORMS: AQ0FP0 motores AQ0FS0 motora AQ0MP0 motors AQ0MS0 motor
    OTHER: motor	PAR: ??????????????	FORMS: AQ0FP0 motores AQ0FP0 motrius AQ0FS0 motora AQ0FS0 motriu AQ0MP0 motors AQ0MS0 motor
-
-APERTIUM: nefast	PAR: absolut__adj	FORMS: AQ0FP0 nefastes AQ0FS0 nefasta AQ0MP0 nefasts AQ0MS0 nefast
-   OTHER: nefast	PAR: ??????????????	FORMS: AQ0FP0 nefastes AQ0FS0 nefasta AQ0MP0 nefastos AQ0MP0 nefasts AQ0MS0 nefast
 
 APERTIUM: nucleic	PAR: acadèmi/c__adj	FORMS: AQ0FP0 nucleiques AQ0FS0 nucleica AQ0MP0 nucleics AQ0MS0 nucleic
    OTHER: nucleic	PAR: ??????????????	FORMS: AQ0MP0 nucleics AQ0MS0 nucleic
@@ -1697,9 +1673,6 @@ APERTIUM: pla	PAR: bo__adj	FORMS: AQ0FP0 planes AQ0FP0 planíssimes AQ0FS0 plana
 
 APERTIUM: ple	PAR: bo__adj	FORMS: AQ0FP0 plenes AQ0FP0 pleníssimes AQ0FS0 plena AQ0FS0 pleníssima AQ0MP0 plens AQ0MP0 pleníssims AQ0MS0 ple AQ0MS0 pleníssim
    OTHER: ple	PAR: ??????????????	FORMS: AQ0FP0 plenes AQ0FS0 plena AQ0MP0 plens AQ0MS0 ple
-
-APERTIUM: prest	PAR: absolut__adj	FORMS: AQ0FP0 prestes AQ0FS0 presta AQ0MP0 prests AQ0MS0 prest
-   OTHER: prest	PAR: ??????????????	FORMS: AQ0FP0 prestes AQ0FS0 presta AQ0MP0 prestos AQ0MP0 prests AQ0MS0 prest
 
 APERTIUM: psicomotor	PAR: absolut__adj	FORMS: AQ0FP0 psicomotores AQ0FS0 psicomotora AQ0MP0 psicomotors AQ0MS0 psicomotor
    OTHER: psicomotor	PAR: ??????????????	FORMS: AQ0FP0 psicomotores AQ0FP0 psicomotrius AQ0FS0 psicomotora AQ0FS0 psicomotriu AQ0MP0 psicomotors AQ0MS0 psicomotor
@@ -1713,17 +1686,11 @@ APERTIUM: pèl-roig	PAR: bo/ig__adj	FORMS: AQ0FP0 pèl-roges AQ0FP0 pèl-rogíss
 APERTIUM: qualsevol	PAR: quals/evol__adj	FORMS: AQ0CP0 qualssevol AQ0CP0 qualssevulla AQ0CS0 qualsevol AQ0CS0 qualsevulla
    OTHER: qualsevol	PAR: ??????????????	FORMS: AQ0CP0 qualssevol AQ0CS0 qualsevol
 
-APERTIUM: robust	PAR: absolut__adj	FORMS: AQ0FP0 robustes AQ0FS0 robusta AQ0MP0 robusts AQ0MS0 robust
-   OTHER: robust	PAR: ??????????????	FORMS: AQ0FP0 robustes AQ0FS0 robusta AQ0MP0 robustos AQ0MP0 robusts AQ0MS0 robust
-
 APERTIUM: roig	PAR: bo/ig__adj	FORMS: AQ0FP0 roges AQ0FP0 rogíssimes AQ0FS0 rogíssima AQ0FS0 roja AQ0MP0 rogíssims AQ0MP0 rojos AQ0MS0 rogíssim AQ0MS0 roig
    OTHER: roig	PAR: ??????????????	FORMS: AQ0FP0 roges AQ0FS0 roja AQ0MP0 roigs AQ0MP0 rojos AQ0MS0 roig
 
 APERTIUM: sa	PAR: bo__adj	FORMS: AQ0FP0 sanes AQ0FP0 saníssimes AQ0FS0 sana AQ0FS0 saníssima AQ0MP0 sans AQ0MP0 saníssims AQ0MS0 sa AQ0MS0 saníssim
    OTHER: sa	PAR: ??????????????	FORMS: AQ0FP0 sanes AQ0FS0 sana AQ0MP0 sans AQ0MS0 sa
-
-APERTIUM: trist	PAR: trist__adj	FORMS: AQ0FP0 tristes AQ0FP0 tristíssimes AQ0FS0 trista AQ0FS0 tristíssima AQ0MP0 tristos AQ0MP0 trists AQ0MP0 tristíssims AQ0MS0 trist AQ0MS0 tristíssim
-   OTHER: trist	PAR: ??????????????	FORMS: AQ0FP0 tristes AQ0FS0 trista AQ0MP0 tristos AQ0MP0 trists AQ0MS0 trist
 
 APERTIUM: va	PAR: bo__adj	FORMS: AQ0FP0 vanes AQ0FP0 vaníssimes AQ0FS0 vana AQ0FS0 vaníssima AQ0MP0 vans AQ0MP0 vaníssims AQ0MS0 va AQ0MS0 vaníssim
    OTHER: va	PAR: ??????????????	FORMS: AQ0FP0 vanes AQ0FS0 vana AQ0MP0 vans AQ0MS0 va
@@ -1731,14 +1698,8 @@ APERTIUM: va	PAR: bo__adj	FORMS: AQ0FP0 vanes AQ0FP0 vaníssimes AQ0FS0 vana AQ0
 APERTIUM: vague	PAR: vag/ue__adj	FORMS: AQ0FP0 vagues AQ0FS0 vaga AQ0MP0 vagues AQ0MS0 vague
    OTHER: vague	PAR: ??????????????	FORMS: AQ0CP0 vagues AQ0FS0 vaga AQ0MS0 vague
 
-APERTIUM: vast	PAR: alt__adj	FORMS: AQ0FP0 vastes AQ0FP0 vastíssimes AQ0FS0 vasta AQ0FS0 vastíssima AQ0MP0 vasts AQ0MP0 vastíssims AQ0MS0 vast AQ0MS0 vastíssim
-   OTHER: vast	PAR: ??????????????	FORMS: AQ0FP0 vastes AQ0FS0 vasta AQ0MP0 vastos AQ0MP0 vasts AQ0MS0 vast
-
 APERTIUM: verge	PAR: abdominal__adj	FORMS: AQ0CP0 verges AQ0CS0 verge
    OTHER: verge	PAR: ??????????????	FORMS: AQ0CP0 verges AQ0CP0 vèrgens AQ0CS0 verge
-
-APERTIUM: vetust	PAR: absolut__adj	FORMS: AQ0FP0 vetustes AQ0FS0 vetusta AQ0MP0 vetusts AQ0MS0 vetust
-   OTHER: vetust	PAR: ??????????????	FORMS: AQ0FP0 vetustes AQ0FS0 vetusta AQ0MP0 vetustos AQ0MP0 vetusts AQ0MS0 vetust
 <e lm="10è"><i>10è</i><par n="??????????"/></e>
 <e lm="11è"><i>11è</i><par n="??????????"/></e>
 <e lm="12è"><i>12è</i><par n="??????????"/></e>
@@ -1765,7 +1726,6 @@ APERTIUM: vetust	PAR: absolut__adj	FORMS: AQ0FP0 vetustes AQ0FS0 vetusta AQ0MP0 
 <e lm="accadi"><i>accadi</i><par n="??????????"/></e>
 <e lm="acci"><i>acci</i><par n="??????????"/></e>
 <e lm="acrogin"><i>acrogin</i><par n="??????????"/></e>
-<e lm="adust"><i>adust</i><par n="??????????"/></e>
 <e lm="aglòs"><i>aglòs</i><par n="??????????"/></e>
 <e lm="agomfi"><i>agomfi</i><par n="??????????"/></e>
 <e lm="agredolç"><i>agredolç</i><par n="??????????"/></e>
@@ -1779,9 +1739,7 @@ APERTIUM: vetust	PAR: absolut__adj	FORMS: AQ0FP0 vetustes AQ0FS0 vetusta AQ0MP0 
 <e lm="androgin"><i>androgin</i><par n="??????????"/></e>
 <e lm="angle2"><i>angle2</i><par n="??????????"/></e>
 <e lm="angloindi"><i>angloindi</i><par n="??????????"/></e>
-<e lm="angost"><i>angost</i><par n="??????????"/></e>
 <e lm="angulinervi"><i>angulinervi</i><par n="??????????"/></e>
-<e lm="anhist"><i>anhist</i><par n="??????????"/></e>
 <e lm="anisogin"><i>anisogin</i><par n="??????????"/></e>
 <e lm="annu"><i>annu</i><par n="??????????"/></e>
 <e lm="antiestrès"><i>antiestrès</i><par n="??????????"/></e>
@@ -1791,7 +1749,6 @@ APERTIUM: vetust	PAR: absolut__adj	FORMS: AQ0FP0 vetustes AQ0FS0 vetusta AQ0MP0 
 <e lm="asci"><i>asci</i><par n="??????????"/></e>
 <e lm="auri"><i>auri</i><par n="??????????"/></e>
 <e lm="automotor"><i>automotor</i><par n="??????????"/></e>
-<e lm="avist"><i>avist</i><par n="??????????"/></e>
 <e lm="balbuç"><i>balbuç</i><par n="??????????"/></e>
 <e lm="barba-roig"><i>barba-roig</i><par n="??????????"/></e>
 <e lm="basmati"><i>basmati</i><par n="??????????"/></e>
@@ -1800,11 +1757,9 @@ APERTIUM: vetust	PAR: absolut__adj	FORMS: AQ0FP0 vetustes AQ0FS0 vetusta AQ0MP0 
 <e lm="belarús"><i>belarús</i><par n="??????????"/></e>
 <e lm="beoci"><i>beoci</i><par n="??????????"/></e>
 <e lm="bhili"><i>bhili</i><par n="??????????"/></e>
-<e lm="bicompost"><i>bicompost</i><par n="??????????"/></e>
 <e lm="bihari"><i>bihari</i><par n="??????????"/></e>
 <e lm="binomen"><i>binomen</i><par n="??????????"/></e>
 <e lm="binomi"><i>binomi</i><par n="??????????"/></e>
-<e lm="bipinnaticompost"><i>bipinnaticompost</i><par n="??????????"/></e>
 <e lm="biplaça"><i>biplaça</i><par n="??????????"/></e>
 <e lm="bixest"><i>bixest</i><par n="??????????"/></e>
 <e lm="bla"><i>bla</i><par n="??????????"/></e>
@@ -1841,19 +1796,15 @@ APERTIUM: vetust	PAR: absolut__adj	FORMS: AQ0FP0 vetustes AQ0FS0 vetusta AQ0MP0 
 <e lm="custodi"><i>custodi</i><par n="??????????"/></e>
 <e lm="cèntuple1"><i>cèntuple1</i><par n="??????????"/></e>
 <e lm="cèntuple2"><i>cèntuple2</i><par n="??????????"/></e>
-<e lm="decompost"><i>decompost</i><par n="??????????"/></e>
 <e lm="deli"><i>deli</i><par n="??????????"/></e>
-<e lm="deshonest"><i>deshonest</i><par n="??????????"/></e>
 <e lm="despietat2"><i>despietat2</i><par n="??????????"/></e>
 <e lm="devanagari"><i>devanagari</i><par n="??????????"/></e>
 <e lm="dificerca"><i>dificerca</i><par n="??????????"/></e>
-<e lm="digest"><i>digest</i><par n="??????????"/></e>
 <e lm="digin"><i>digin</i><par n="??????????"/></e>
 <e lm="dindi"><i>dindi</i><par n="??????????"/></e>
 <e lm="diplohaploide"><i>diplohaploide</i><par n="??????????"/></e>
 <e lm="discapacitat2"><i>discapacitat2</i><par n="??????????"/></e>
 <e lm="disforjo"><i>disforjo</i><par n="??????????"/></e>
-<e lm="dispost"><i>dispost</i><par n="??????????"/></e>
 <e lm="dormilec"><i>dormilec</i><par n="??????????"/></e>
 <e lm="dècuple1"><i>dècuple1</i><par n="??????????"/></e>
 <e lm="dècuple2"><i>dècuple2</i><par n="??????????"/></e>
@@ -1877,9 +1828,7 @@ APERTIUM: vetust	PAR: absolut__adj	FORMS: AQ0FP0 vetustes AQ0FS0 vetusta AQ0MP0 
 <e lm="eunucoide"><i>eunucoide</i><par n="??????????"/></e>
 <e lm="extremal"><i>extremal</i><par n="??????????"/></e>
 <e lm="fatu"><i>fatu</i><par n="??????????"/></e>
-<e lm="faust"><i>faust</i><par n="??????????"/></e>
 <e lm="fejocista"><i>fejocista</i><par n="??????????"/></e>
-<e lm="ferest"><i>ferest</i><par n="??????????"/></e>
 <e lm="filibranqui"><i>filibranqui</i><par n="??????????"/></e>
 <e lm="filogin"><i>filogin</i><par n="??????????"/></e>
 <e lm="fisoide"><i>fisoide</i><par n="??????????"/></e>
@@ -1911,15 +1860,9 @@ APERTIUM: vetust	PAR: absolut__adj	FORMS: AQ0FP0 vetustes AQ0FS0 vetusta AQ0MP0 
 <e lm="hipolipemiant"><i>hipolipemiant</i><par n="??????????"/></e>
 <e lm="hippy"><i>hippy</i><par n="??????????"/></e>
 <e lm="homocerca"><i>homocerca</i><par n="??????????"/></e>
-<e lm="immodest"><i>immodest</i><par n="??????????"/></e>
 <e lm="inconcús"><i>inconcús</i><par n="??????????"/></e>
 <e lm="incongru"><i>incongru</i><par n="??????????"/></e>
 <e lm="indi"><i>indi</i><par n="??????????"/></e>
-<e lm="indigest"><i>indigest</i><par n="??????????"/></e>
-<e lm="indispost"><i>indispost</i><par n="??????????"/></e>
-<e lm="inexhaust"><i>inexhaust</i><par n="??????????"/></e>
-<e lm="infest"><i>infest</i><par n="??????????"/></e>
-<e lm="inhonest"><i>inhonest</i><par n="??????????"/></e>
 <e lm="intergluti"><i>intergluti</i><par n="??????????"/></e>
 <e lm="isogin"><i>isogin</i><par n="??????????"/></e>
 <e lm="isoquimen"><i>isoquimen</i><par n="??????????"/></e>
@@ -1936,7 +1879,6 @@ APERTIUM: vetust	PAR: absolut__adj	FORMS: AQ0FP0 vetustes AQ0FS0 vetusta AQ0MP0 
 <e lm="malacopterigi"><i>malacopterigi</i><par n="??????????"/></e>
 <e lm="malaltús"><i>malaltús</i><par n="??????????"/></e>
 <e lm="malbò"><i>malbò</i><par n="??????????"/></e>
-<e lm="malcompost"><i>malcompost</i><par n="??????????"/></e>
 <e lm="malús"><i>malús</i><par n="??????????"/></e>
 <e lm="manganès"><i>manganès</i><par n="??????????"/></e>
 <e lm="mareomotor"><i>mareomotor</i><par n="??????????"/></e>
@@ -1954,7 +1896,6 @@ APERTIUM: vetust	PAR: absolut__adj	FORMS: AQ0FP0 vetustes AQ0FS0 vetusta AQ0MP0 
 <e lm="monogin"><i>monogin</i><par n="??????????"/></e>
 <e lm="monomi"><i>monomi</i><par n="??????????"/></e>
 <e lm="monoplaça"><i>monoplaça</i><par n="??????????"/></e>
-<e lm="multicompost"><i>multicompost</i><par n="??????????"/></e>
 <e lm="mus2"><i>mus2</i><par n="??????????"/></e>
 <e lm="musti"><i>musti</i><par n="??????????"/></e>
 <e lm="múltiple1"><i>múltiple1</i><par n="??????????"/></e>
@@ -1973,7 +1914,6 @@ APERTIUM: vetust	PAR: absolut__adj	FORMS: AQ0FP0 vetustes AQ0FS0 vetusta AQ0MP0 
 <e lm="pahari"><i>pahari</i><par n="??????????"/></e>
 <e lm="paleter"><i>paleter</i><par n="??????????"/></e>
 <e lm="pallús"><i>pallús</i><par n="??????????"/></e>
-<e lm="palmaticompost"><i>palmaticompost</i><par n="??????????"/></e>
 <e lm="palmatinervi"><i>palmatinervi</i><par n="??????????"/></e>
 <e lm="paral·lelinervi"><i>paral·lelinervi</i><par n="??????????"/></e>
 <e lm="parasiticida"><i>parasiticida</i><par n="??????????"/></e>
@@ -1993,7 +1933,6 @@ APERTIUM: vetust	PAR: absolut__adj	FORMS: AQ0FP0 vetustes AQ0FS0 vetusta AQ0MP0 
 <e lm="peugròs"><i>peugròs</i><par n="??????????"/></e>
 <e lm="pillet"><i>pillet</i><par n="??????????"/></e>
 <e lm="pillo"><i>pillo</i><par n="??????????"/></e>
-<e lm="pinnaticompost"><i>pinnaticompost</i><par n="??????????"/></e>
 <e lm="pinnatinervi"><i>pinnatinervi</i><par n="??????????"/></e>
 <e lm="pit-roig"><i>pit-roig</i><par n="??????????"/></e>
 <e lm="pitiús"><i>pitiús</i><par n="??????????"/></e>
@@ -2001,10 +1940,8 @@ APERTIUM: vetust	PAR: absolut__adj	FORMS: AQ0FP0 vetustes AQ0FS0 vetusta AQ0MP0 
 <e lm="pluig"><i>pluig</i><par n="??????????"/></e>
 <e lm="plumbi"><i>plumbi</i><par n="??????????"/></e>
 <e lm="pobrús"><i>pobrús</i><par n="??????????"/></e>
-<e lm="policrest"><i>policrest</i><par n="??????????"/></e>
 <e lm="poligin"><i>poligin</i><par n="??????????"/></e>
 <e lm="precipu"><i>precipu</i><par n="??????????"/></e>
-<e lm="precompost"><i>precompost</i><par n="??????????"/></e>
 <e lm="prenys"><i>prenys</i><par n="??????????"/></e>
 <e lm="pristi"><i>pristi</i><par n="??????????"/></e>
 <e lm="probàtica"><i>probàtica</i><par n="??????????"/></e>
@@ -2022,12 +1959,10 @@ APERTIUM: vetust	PAR: absolut__adj	FORMS: AQ0FP0 vetustes AQ0FS0 vetusta AQ0MP0 
 <e lm="ral"><i>ral</i><par n="??????????"/></e>
 <e lm="rebò"><i>rebò</i><par n="??????????"/></e>
 <e lm="regròs"><i>regròs</i><par n="??????????"/></e>
-<e lm="remolest"><i>remolest</i><par n="??????????"/></e>
 <e lm="retardador"><i>retardador</i><par n="??????????"/></e>
 <e lm="retrovisor"><i>retrovisor</i><par n="??????????"/></e>
 <e lm="rodi"><i>rodi</i><par n="??????????"/></e>
 <e lm="romaní2"><i>romaní2</i><par n="??????????"/></e>
-<e lm="rost"><i>rost</i><par n="??????????"/></e>
 <e lm="rovellut"><i>rovellut</i><par n="??????????"/></e>
 <e lm="roín"><i>roín</i><par n="??????????"/></e>
 <e lm="rusticà"><i>rusticà</i><par n="??????????"/></e>
@@ -2042,7 +1977,6 @@ APERTIUM: vetust	PAR: absolut__adj	FORMS: AQ0FP0 vetustes AQ0FS0 vetusta AQ0MP0 
 <e lm="sensomotor"><i>sensomotor</i><par n="??????????"/></e>
 <e lm="sensoriomotor"><i>sensoriomotor</i><par n="??????????"/></e>
 <e lm="serotin"><i>serotin</i><par n="??????????"/></e>
-<e lm="sext"><i>sext</i><par n="??????????"/></e>
 <e lm="sicló"><i>sicló</i><par n="??????????"/></e>
 <e lm="sobrebò"><i>sobrebò</i><par n="??????????"/></e>
 <e lm="sobreselvà"><i>sobreselvà</i><par n="??????????"/></e>
@@ -2061,7 +1995,6 @@ APERTIUM: vetust	PAR: absolut__adj	FORMS: AQ0FP0 vetustes AQ0FS0 vetusta AQ0MP0 
 <e lm="teleosti"><i>teleosti</i><par n="??????????"/></e>
 <e lm="terç"><i>terç</i><par n="??????????"/></e>
 <e lm="tessali"><i>tessali</i><par n="??????????"/></e>
-<e lm="test"><i>test</i><par n="??????????"/></e>
 <e lm="tracofrigi"><i>tracofrigi</i><par n="??????????"/></e>
 <e lm="tri"><i>tri</i><par n="??????????"/></e>
 <e lm="tricònquid"><i>tricònquid</i><par n="??????????"/></e>
@@ -2069,7 +2002,6 @@ APERTIUM: vetust	PAR: absolut__adj	FORMS: AQ0FP0 vetustes AQ0FS0 vetusta AQ0MP0 
 <e lm="trigin"><i>trigin</i><par n="??????????"/></e>
 <e lm="trinervi"><i>trinervi</i><par n="??????????"/></e>
 <e lm="trinomi"><i>trinomi</i><par n="??????????"/></e>
-<e lm="tripinnaticompost"><i>tripinnaticompost</i><par n="??????????"/></e>
 <e lm="triple1"><i>triple1</i><par n="??????????"/></e>
 <e lm="triple2"><i>triple2</i><par n="??????????"/></e>
 <e lm="tríbade"><i>tríbade</i><par n="??????????"/></e>
@@ -2078,11 +2010,9 @@ APERTIUM: vetust	PAR: absolut__adj	FORMS: AQ0FP0 vetustes AQ0FS0 vetusta AQ0MP0 
 <e lm="uninervi"><i>uninervi</i><par n="??????????"/></e>
 <e lm="vacu"><i>vacu</i><par n="??????????"/></e>
 <e lm="vellús"><i>vellús</i><par n="??????????"/></e>
-<e lm="venust"><i>venust</i><par n="??????????"/></e>
 <e lm="viatitxi"><i>viatitxi</i><par n="??????????"/></e>
 <e lm="visuomotor"><i>visuomotor</i><par n="??????????"/></e>
 <e lm="vèliger"><i>vèliger</i><par n="??????????"/></e>
-<e lm="xalest"><i>xalest</i><par n="??????????"/></e>
 <e lm="zonat"><i>zonat</i><par n="??????????"/></e>
 <e lm="òctuple1"><i>òctuple1</i><par n="??????????"/></e>
 <e lm="òctuple2"><i>òctuple2</i><par n="??????????"/></e>
