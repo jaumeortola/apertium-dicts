@@ -1,15 +1,25 @@
 #!/bin/bash
 dir_scripts="scripts/"
 dir_results="results/"
-lt_dict="src/lexique-dicollecte-fr-v6.1.txt"
-original_apertium_dict="/home/jaume/apertium/apertium-fra/apertium-fra.fra.metadix"
 
 #rm -rf $dir_results
 #mkdir $dir_results
 
 lang=$1
 
-perl $dir_scripts/generate-apertium.pl $lang adj $lt_dict $original_apertium_dict > $dir_results/$lang-adj.txt 2>$dir_results/$lang-adj-diff.txt
-#perl $dir_scripts/gen-french-names.pl $lt_dict $original_apertium_dict > $dir_results/french-names.txt
+if [ $lang="fra" ]; then
+	apertium_dict="/home/jaume/apertium/apertium-fra/apertium-fra.fra.metadix"
+	src_dict="src/lexique-dicollecte-fr-v6.1.txt"
+fi
+if [ $lang="cat" ]; then
+	apertium_dict="/home/jaume/apertium/apertium-cat/apertium-cat.cat.dix"
+	src_dict="/home/jaume/github/catalan-dict-tools/resultats/lt/diccionari.txt"
+fi
 
-echo "Resultats en: $dir_results"
+
+
+for gramcat in adj name; do 
+	perl $dir_scripts/generate-apertium.pl $lang $gramcat $src_dict $apertium_dict > $dir_results/$lang-$gramcat.txt 2>$dir_results/$lang-$gramcat-diff.txt
+done
+
+echo "Results in: $dir_results"

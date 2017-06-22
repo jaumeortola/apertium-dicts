@@ -9,8 +9,30 @@ binmode( STDERR, ":utf8" );
 
 my $lang = $ARGV[0]; #language (fra, cat, spa, eng...)
 my $gram_cat = $ARGV[1]; #grammar category (adj, name)
-my $input_dict = $ARGV[2];
-my $apertium_dict = $ARGV[3]; # paradigmes Apertium
+my $input_dict = $ARGV[2]; # Other dictionary: Dicollecte, LanguageTool, etc.
+my $apertium_dict = $ARGV[3]; # Apertium dictionary
+
+my $apertium_gramcat = "";
+my $dicollecte_gramcat = "";
+my $lt_prev = "";
+my $lt_post = "";
+my $lt_tag_start;
+
+if ($gram_cat =~ /^adj$/) {
+    $apertium_gramcat = "adj";
+    $dicollecte_gramcat = "adj";
+    $lt_prev = "AQ0";
+    $lt_post = "0";
+    $lt_tag_start = "A";
+} 
+if ($gram_cat =~ /^name$/) {
+    $apertium_gramcat = "n";
+    $dicollecte_gramcat = "nom";
+    $lt_prev = "NC";
+    $lt_post = "000";
+    $lt_tag_start = "NC";
+} 
+
 
 open( my $fh,  "<:encoding(UTF-8)", $apertium_dict );
 
@@ -24,11 +46,11 @@ my %paradigm_names;
 my $rule ="";
 while (my $line = <$fh>) {
     chomp($line);
-    if ($line =~ /<pardef n="(.*_adj)".*>/) {
+    if ($line =~ /<pardef n="(.*__$apertium_gramcat)".*>/) {
         $rule = $1;
         $in_rule = 1;
         my $sufix = "";
-        if ($rule =~ /\/(.*)__adj/) {
+        if ($rule =~ /\/(.*)__$apertium_gramcat/) {
             $sufix = $1;
         }
         $paradigm_names{$rule} = $sufix;
@@ -47,11 +69,11 @@ while (my $line = <$fh>) {
             my $genere = "M";
             if ($etiquetes =~ /"mf"/) { $genere= "C";}
             if ($etiquetes =~ /"f"/) { $genere= "F";}
-            my $categoria = "AQ0";
             #if ($etiquetes =~ /"sup"/) { $categoria= "AQA";}
-            my $postag= $categoria.$genere.$nombre."0";
+            my $postag= $lt_prev.$genere.$nombre.$lt_post;
             #print "$rule $postag $afig $line\n";
-            if ($direction =~ /^$/) {
+
+            if ($lang !~ /^fra$/ || $direction =~ /^$/) {
                 push (@rules, "$rule $postag $afig");
             }
         }
@@ -92,25 +114,37 @@ $rules_in_oneline{$prev_rule_name} = $line;
 
 my @adjs_lt;
 open($fh,  "<:encoding(UTF-8)", $input_dict );
-while (my $line = <$fh>) {
-    chomp($line);
-    if ($line =~ /^\d+\t(.*?)\t(.*?)\t(.*?)\t.*/) { #Id Flexion Lemme Étiquettes
-         my $tags = $3;
-         my $flexion = $1;
-         my $lemme = $2;
-         my $genere = "C";
-         my $nombre = "N";
-         if ($tags =~ /\badj\b/) { 
-             if ($tags =~ /\bmas\b/) { $genere = "M"; } 
-             if ($tags =~ /\bfem\b/) { $genere = "F"; } 
-             if ($tags =~ /\bpl\b/) { $nombre = "P"; } 
-             if ($tags =~ /\bsg\b/) { $nombre = "S"; } 
-             my $newtag = "AQ0".$genere.$nombre."0";
-             push (@adjs_lt, "$lemme $newtag $flexion");    #lemma tags wordform
-             #print "$lemme $newtag $flexion\n";
-         }
+
+if ($lang =~ /^fra$/) {
+    while (my $line = <$fh>) {
+        chomp($line);
+        if ($line =~ /^\d+\t(.*?)\t(.*?)\t(.*?)\t.*/) { #Id Flexion Lemme Étiquettes
+             my $tags = $3;
+             my $flexion = $1;
+             my $lemme = $2;
+             my $genere = "C";
+             my $nombre = "N";
+             if ($tags =~ /\b$dicollecte_gramcat\b/) { 
+                 if ($tags =~ /\bmas\b/) { $genere = "M"; } 
+                 if ($tags =~ /\bfem\b/) { $genere = "F"; } 
+                 if ($tags =~ /\bpl\b/) { $nombre = "P"; } 
+                 if ($tags =~ /\bsg\b/) { $nombre = "S"; } 
+                 my $newtag = $lt_prev.$genere.$nombre.$lt_post;
+                 push (@adjs_lt, "$lemme $newtag $flexion");    #lemma tags wordform
+                 #print "$lemme $newtag $flexion\n";
+             }
+        }
+    }
+} else {
+    while (my $line = <$fh>) {
+        chomp($line);
+        if ($line =~ /(.*) (.*) ($lt_tag_start.*)/) {
+            push (@adjs_lt, "$2 $3 $1")
+        }
     }
 }
+
+
 close ($fh);
 @adjs_lt = sort @adjs_lt;
 
@@ -121,7 +155,7 @@ open($fh,  "<:encoding(UTF-8)", $apertium_dict );
 while (my $line = <$fh>) {
     chomp($line);
     
-    if ($line =~ /<e lm="(.*)".*>.*<i>(.*)<\/i><par n="(.*__adj)"\/><\/e>/) {
+    if ($line =~ /<e lm="(.*?)".*>.*<i>(.*)<\/i><par n="(.*__$apertium_gramcat)"\/><\/e>/) {
         my $lema=$1;
         my $paradigm_name=$3;
         my $arrel=$2;
@@ -172,21 +206,23 @@ sub check_adjective {
         $flexio_lt = $2;
     }
 
-    # check lemma in participles
-    my $newlemma = "";
-    if ($flexio_lt =~ /AQ0MS0 ([^ ]+)/ ) {
-        $newlemma = $1;
-        if ($lema !~ /^$newlemma$/) {
-            #print STDERR "$lema > $newlemma | $flexio_lt\n";
-            $lema = $newlemma;	
+    # check lemma in French participles
+    if ($lang =~ /^fra$/) {
+        my $newlemma = "";
+        if ($flexio_lt =~ /AQ0MS0 ([^ ]+)/ ) {
+            $newlemma = $1;
+            if ($lema !~ /^$newlemma$/) {
+                #print STDERR "$lema > $newlemma | $flexio_lt\n";
+                $lema = $newlemma;	
+            }
+        } elsif ($flexio_lt =~ /AQ0MN0 ([^ ]+)/ ) {
+            $newlemma = $1;
+            if ($lema !~ /^$newlemma$/) {
+                #print STDERR "$lema > $newlemma | $flexio_lt\n";
+                $lema = $newlemma;	
+            }
         }
-    } elsif ($flexio_lt =~ /AQ0MN0 ([^ ]+)/ ) {
-        $newlemma = $1;
-        if ($lema !~ /^$newlemma$/) {
-            #print STDERR "$lema > $newlemma | $flexio_lt\n";
-            $lema = $newlemma;	
-        }
-    }
+    }   
  
     my $found = 0;
     for my $rule_name (sort keys %paradigm_names) {
@@ -194,12 +230,17 @@ sub check_adjective {
         my $terminacio = $paradigm_names{$rule_name};
         if ($lema =~ /^(.*)$terminacio$/) {
             my $arrel = $1;
-            my $flexio_ap = $rules_in_oneline{$rule_name};
-            $flexio_ap =~ s/<r>/$arrel/g;
-            #$flexio_lt =~ s/(AQA|AO0)/AQ0/g;
-            if ($lema =~ /commettre/) {
-                print "***** $rule_name $lema $arrel*$flexio_ap*$flexio_lt\n\n";
+            my $flexio_ap = "";
+            if (exists $rules_in_oneline{$rule_name}) {
+                $flexio_ap = $rules_in_oneline{$rule_name};
+                $flexio_ap =~ s/<r>/$arrel/g;
+            } else {
+                print STDERR "Doesn't exist: $rule_name Lemma: $lema\n";
             }
+            $flexio_lt =~ s/(AQA|AO0)/AQ0/g;
+            #if ($lema =~ /abatible/) {
+            #    print "***** $rule_name $lema $arrel*$flexio_ap*$flexio_lt\n\n";
+            #}
             if ($flexio_ap =~ /^$flexio_lt$/) {
                 # generate only non existent words
                 if (!exists $apertium_dict{$lema}) {
@@ -210,7 +251,7 @@ sub check_adjective {
                         if ($found==0) {
                             $global_errors .= "\nAPERTIUM: $lema\tPAR: $apertium_dict_paradigm{$lema}\tFORMS: $apertium_dict{$lema}\n";
                         }
-                        $global_errors .= "DICOLLEC: $lema\tPAR: $rule_name\tFORMS: $flexio_lt\n";
+                        $global_errors .= "   OTHER: $lema\tPAR: $rule_name\tFORMS: $flexio_lt\n";
                         $found = 1;
                     } else {
                         $found = 1;
@@ -226,7 +267,7 @@ sub check_adjective {
     } else {
         if ($found==0) {
             $global_errors2 .= "\nAPERTIUM: $lema\tPAR: $apertium_dict_paradigm{$lema}\tFORMS: $apertium_dict{$lema}\n";
-            $global_errors2 .= "DICOLLEC: $lema\tPAR: ??????????????\tFORMS: $flexio_lt\n";
+            $global_errors2 .= "   OTHER: $lema\tPAR: ??????????????\tFORMS: $flexio_lt\n";
         }
     }
 }

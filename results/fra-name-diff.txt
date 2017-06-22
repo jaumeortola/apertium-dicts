@@ -1,0 +1,2674 @@
+
+APERTIUM: ABS	PAR: BBVA__n	FORMS: NCMS000 ABS
+DICOLLEC: ABS	PAR: IRPF__n	FORMS: NCMN000 ABS
+DICOLLEC: ABS	PAR: mois__n	FORMS: NCMN000 ABS
+
+APERTIUM: ADN	PAR: BBVA__n	FORMS: NCMS000 ADN
+DICOLLEC: ADN	PAR: IRPF__n	FORMS: NCMN000 ADN
+DICOLLEC: ADN	PAR: mois__n	FORMS: NCMN000 ADN
+
+APERTIUM: ADSL	PAR: BBVA__n	FORMS: NCMS000 ADSL
+DICOLLEC: ADSL	PAR: IRPF__n	FORMS: NCMN000 ADSL
+DICOLLEC: ADSL	PAR: mois__n	FORMS: NCMN000 ADSL
+
+APERTIUM: BCE	PAR: BBVA__n	FORMS: NCMS000 BCE
+DICOLLEC: BCE	PAR: OPA__n	FORMS: NCFN000 BCE
+DICOLLEC: BCE	PAR: fois__n	FORMS: NCFN000 BCE
+
+APERTIUM: CAC	PAR: BBVA__n	FORMS: NCMS000 CAC
+DICOLLEC: CAC	PAR: IRPF__n	FORMS: NCMN000 CAC
+DICOLLEC: CAC	PAR: mois__n	FORMS: NCMN000 CAC
+
+APERTIUM: CAN	PAR: BBC__n	FORMS: NCFS000 CAN
+DICOLLEC: CAN	PAR: IRPF__n	FORMS: NCMN000 CAN
+DICOLLEC: CAN	PAR: mois__n	FORMS: NCMN000 CAN
+
+APERTIUM: CD	PAR: BBVA__n	FORMS: NCMS000 CD
+DICOLLEC: CD	PAR: IRPF__n	FORMS: NCMN000 CD
+DICOLLEC: CD	PAR: mois__n	FORMS: NCMN000 CD
+
+APERTIUM: CDD	PAR: BBVA__n	FORMS: NCMS000 CDD
+DICOLLEC: CDD	PAR: IRPF__n	FORMS: NCMN000 CDD
+DICOLLEC: CDD	PAR: mois__n	FORMS: NCMN000 CDD
+
+APERTIUM: CE	PAR: BBC__n	FORMS: NCFS000 CE
+DICOLLEC: CE	PAR: ATS__n	FORMS: NCCN000 CE
+DICOLLEC: CE	PAR: ex__n	FORMS: NCCN000 CE
+
+APERTIUM: CEE	PAR: BBC__n	FORMS: NCFS000 CEE
+DICOLLEC: CEE	PAR: OPA__n	FORMS: NCFN000 CEE
+DICOLLEC: CEE	PAR: fois__n	FORMS: NCFN000 CEE
+
+APERTIUM: CGT	PAR: BBC__n	FORMS: NCFS000 CGT
+DICOLLEC: CGT	PAR: OPA__n	FORMS: NCFN000 CGT
+DICOLLEC: CGT	PAR: fois__n	FORMS: NCFN000 CGT
+
+APERTIUM: CIA	PAR: BBC__n	FORMS: NCFS000 CIA
+DICOLLEC: CIA	PAR: OPA__n	FORMS: NCFN000 CIA
+DICOLLEC: CIA	PAR: fois__n	FORMS: NCFN000 CIA
+
+APERTIUM: CNRS	PAR: BBVA__n	FORMS: NCMS000 CNRS
+DICOLLEC: CNRS	PAR: IRPF__n	FORMS: NCMN000 CNRS
+DICOLLEC: CNRS	PAR: mois__n	FORMS: NCMN000 CNRS
+
+APERTIUM: CO2	PAR: BBVA__n	FORMS: NCMS000 CO2
+DICOLLEC: CO2	PAR: IRPF__n	FORMS: NCMN000 CO2
+DICOLLEC: CO2	PAR: mois__n	FORMS: NCMN000 CO2
+
+APERTIUM: DOM	PAR: BBVA__n	FORMS: NCMS000 DOM
+DICOLLEC: DOM	PAR: IRPF__n	FORMS: NCMN000 DOM
+DICOLLEC: DOM	PAR: mois__n	FORMS: NCMN000 DOM
+
+APERTIUM: DRH	PAR: BBVA__n	FORMS: NCMS000 DRH
+DICOLLEC: DRH	PAR: ATS__n	FORMS: NCCN000 DRH
+DICOLLEC: DRH	PAR: ex__n	FORMS: NCCN000 DRH
+
+APERTIUM: DVD	PAR: BBVA__n	FORMS: NCMS000 DVD
+DICOLLEC: DVD	PAR: IRPF__n	FORMS: NCMN000 DVD
+DICOLLEC: DVD	PAR: mois__n	FORMS: NCMN000 DVD
+
+APERTIUM: FBI	PAR: BBVA__n	FORMS: NCMS000 FBI
+DICOLLEC: FBI	PAR: IRPF__n	FORMS: NCMN000 FBI
+DICOLLEC: FBI	PAR: mois__n	FORMS: NCMN000 FBI
+
+APERTIUM: GMT	PAR: BBC__n	FORMS: NCFS000 GMT
+DICOLLEC: GMT	PAR: ATS__n	FORMS: NCCN000 GMT
+DICOLLEC: GMT	PAR: ex__n	FORMS: NCCN000 GMT
+
+APERTIUM: GPS	PAR: BBVA__n	FORMS: NCMS000 GPS
+DICOLLEC: GPS	PAR: IRPF__n	FORMS: NCMN000 GPS
+DICOLLEC: GPS	PAR: mois__n	FORMS: NCMN000 GPS
+
+APERTIUM: JO	PAR: BBVA__n	FORMS: NCMS000 JO
+DICOLLEC: JO	PAR: IRPF__n	FORMS: NCMN000 JO
+DICOLLEC: JO	PAR: mois__n	FORMS: NCMN000 JO
+
+APERTIUM: ONU	PAR: BBC__n	FORMS: NCFS000 ONU
+DICOLLEC: ONU	PAR: OPA__n	FORMS: NCFN000 ONU
+DICOLLEC: ONU	PAR: fois__n	FORMS: NCFN000 ONU
+
+APERTIUM: OPEP	PAR: BBC__n	FORMS: NCFS000 OPEP
+DICOLLEC: OPEP	PAR: OPA__n	FORMS: NCFN000 OPEP
+DICOLLEC: OPEP	PAR: fois__n	FORMS: NCFN000 OPEP
+
+APERTIUM: OPV	PAR: BBC__n	FORMS: NCFS000 OPV
+DICOLLEC: OPV	PAR: OPA__n	FORMS: NCFN000 OPV
+DICOLLEC: OPV	PAR: fois__n	FORMS: NCFN000 OPV
+
+APERTIUM: OTAN	PAR: BBC__n	FORMS: NCFS000 OTAN
+DICOLLEC: OTAN	PAR: IRPF__n	FORMS: NCMN000 OTAN
+DICOLLEC: OTAN	PAR: mois__n	FORMS: NCMN000 OTAN
+
+APERTIUM: PACA	PAR: BBC__n	FORMS: NCFS000 PACA
+DICOLLEC: PACA	PAR: OPA__n	FORMS: NCFN000 PACA
+DICOLLEC: PACA	PAR: fois__n	FORMS: NCFN000 PACA
+
+APERTIUM: PC	PAR: IRPF__n	FORMS: NCMN000 PC
+DICOLLEC: PC	PAR: ATS__n	FORMS: NCCN000 PC
+DICOLLEC: PC	PAR: ex__n	FORMS: NCCN000 PC
+
+APERTIUM: PME	PAR: BBC__n	FORMS: NCFS000 PME
+DICOLLEC: PME	PAR: OPA__n	FORMS: NCFN000 PME
+DICOLLEC: PME	PAR: fois__n	FORMS: NCFN000 PME
+
+APERTIUM: PS	PAR: BBVA__n	FORMS: NCMS000 PS
+DICOLLEC: PS	PAR: IRPF__n	FORMS: NCMN000 PS
+DICOLLEC: PS	PAR: mois__n	FORMS: NCMN000 PS
+
+APERTIUM: SA	PAR: BBC__n	FORMS: NCFS000 SA
+DICOLLEC: SA	PAR: OPA__n	FORMS: NCFN000 SA
+DICOLLEC: SA	PAR: fois__n	FORMS: NCFN000 SA
+
+APERTIUM: SMS	PAR: BBVA__n	FORMS: NCMS000 SMS
+DICOLLEC: SMS	PAR: IRPF__n	FORMS: NCMN000 SMS
+DICOLLEC: SMS	PAR: mois__n	FORMS: NCMN000 SMS
+
+APERTIUM: SNCF	PAR: BBC__n	FORMS: NCFS000 SNCF
+DICOLLEC: SNCF	PAR: OPA__n	FORMS: NCFN000 SNCF
+DICOLLEC: SNCF	PAR: fois__n	FORMS: NCFN000 SNCF
+
+APERTIUM: SOS	PAR: BBVA__n	FORMS: NCMS000 SOS
+DICOLLEC: SOS	PAR: IRPF__n	FORMS: NCMN000 SOS
+DICOLLEC: SOS	PAR: mois__n	FORMS: NCMN000 SOS
+
+APERTIUM: SS	PAR: soif__n	FORMS: NCFS000 SS
+DICOLLEC: SS	PAR: ATS__n	FORMS: NCCN000 SS
+DICOLLEC: SS	PAR: ex__n	FORMS: NCCN000 SS
+
+APERTIUM: Saint-Sylvestre	PAR: abeille__n	FORMS: NCFP000 Saint-Sylvestres NCFS000 Saint-Sylvestre
+DICOLLEC: Saint-Sylvestre	PAR: OPA__n	FORMS: NCFN000 Saint-Sylvestre
+DICOLLEC: Saint-Sylvestre	PAR: fois__n	FORMS: NCFN000 Saint-Sylvestre
+
+APERTIUM: Suisse	PAR: artiste__n	FORMS: NCCP000 Suisses NCCS000 Suisse
+DICOLLEC: Suisse	PAR: OPA__n	FORMS: NCFN000 Suisse
+DICOLLEC: Suisse	PAR: fois__n	FORMS: NCFN000 Suisse
+
+APERTIUM: TVA	PAR: BBVA__n	FORMS: NCMS000 TVA
+DICOLLEC: TVA	PAR: OPA__n	FORMS: NCFN000 TVA
+DICOLLEC: TVA	PAR: fois__n	FORMS: NCFN000 TVA
+
+APERTIUM: UE	PAR: BBC__n	FORMS: NCFS000 UE
+DICOLLEC: UE	PAR: OPA__n	FORMS: NCFN000 UE
+DICOLLEC: UE	PAR: fois__n	FORMS: NCFN000 UE
+
+APERTIUM: URL	PAR: BBC__n	FORMS: NCFS000 URL
+DICOLLEC: URL	PAR: OPA__n	FORMS: NCFN000 URL
+DICOLLEC: URL	PAR: fois__n	FORMS: NCFN000 URL
+
+APERTIUM: UV	PAR: BBVA__n	FORMS: NCMS000 UV
+DICOLLEC: UV	PAR: ATS__n	FORMS: NCCN000 UV
+DICOLLEC: UV	PAR: ex__n	FORMS: NCCN000 UV
+
+APERTIUM: abcès	PAR: livre__n	FORMS: NCMP000 abcèss NCMS000 abcès
+DICOLLEC: abcès	PAR: IRPF__n	FORMS: NCMN000 abcès
+DICOLLEC: abcès	PAR: mois__n	FORMS: NCMN000 abcès
+
+APERTIUM: accompagnateur	PAR: livre__n	FORMS: NCMP000 accompagnateurs NCMS000 accompagnateur
+DICOLLEC: accompagnateur	PAR: administrat/eur__n	FORMS: NCFP000 accompagnatrices NCFS000 accompagnatrice NCMP000 accompagnateurs NCMS000 accompagnateur
+
+APERTIUM: acmé	PAR: abeille__n	FORMS: NCFP000 acmés NCFS000 acmé
+DICOLLEC: acmé	PAR: artiste__n	FORMS: NCCP000 acmés NCCS000 acmé
+
+APERTIUM: acolyte	PAR: livre__n	FORMS: NCMP000 acolytes NCMS000 acolyte
+DICOLLEC: acolyte	PAR: artiste__n	FORMS: NCCP000 acolytes NCCS000 acolyte
+
+APERTIUM: actif	PAR: livre__n	FORMS: NCMP000 actifs NCMS000 actif
+DICOLLEC: actif	PAR: jui/f__n	FORMS: NCFP000 actives NCFS000 active NCMP000 actifs NCMS000 actif
+
+APERTIUM: adaptateur	PAR: livre__n	FORMS: NCMP000 adaptateurs NCMS000 adaptateur
+DICOLLEC: adaptateur	PAR: administrat/eur__n	FORMS: NCFP000 adaptatrices NCFS000 adaptatrice NCMP000 adaptateurs NCMS000 adaptateur
+
+APERTIUM: additionneur	PAR: livre__n	FORMS: NCMP000 additionneurs NCMS000 additionneur
+DICOLLEC: additionneur	PAR: causeu/r__n	FORMS: NCFP000 additionneuses NCFS000 additionneuse NCMP000 additionneurs NCMS000 additionneur
+DICOLLEC: additionneur	PAR: débit/eur__n	FORMS: NCFP000 additionneuses NCFS000 additionneuse NCMP000 additionneurs NCMS000 additionneur
+DICOLLEC: additionneur	PAR: vende/ur__n	FORMS: NCFP000 additionneuses NCFS000 additionneuse NCMP000 additionneurs NCMS000 additionneur
+
+APERTIUM: adhésif	PAR: livre__n	FORMS: NCMP000 adhésifs NCMS000 adhésif
+DICOLLEC: adhésif	PAR: jui/f__n	FORMS: NCFP000 adhésives NCFS000 adhésive NCMP000 adhésifs NCMS000 adhésif
+
+APERTIUM: adorateur	PAR: livre__n	FORMS: NCMP000 adorateurs NCMS000 adorateur
+DICOLLEC: adorateur	PAR: administrat/eur__n	FORMS: NCFP000 adoratrices NCFS000 adoratrice NCMP000 adorateurs NCMS000 adorateur
+
+APERTIUM: affaire	PAR: livre__n	FORMS: NCMP000 affaires NCMS000 affaire
+DICOLLEC: affaire	PAR: abeille__n	FORMS: NCFP000 affaires NCFS000 affaire
+
+APERTIUM: afrikaans	PAR: livre__n	FORMS: NCMP000 afrikaanss NCMS000 afrikaans
+DICOLLEC: afrikaans	PAR: IRPF__n	FORMS: NCMN000 afrikaans
+DICOLLEC: afrikaans	PAR: mois__n	FORMS: NCMN000 afrikaans
+
+APERTIUM: agenda	PAR: abeille__n	FORMS: NCFP000 agendas NCFS000 agenda
+DICOLLEC: agenda	PAR: livre__n	FORMS: NCMP000 agendas NCMS000 agenda
+DICOLLEC: agenda	PAR: match__n	FORMS: NCMP000 agendas NCMS000 agenda
+
+APERTIUM: agent	PAR: artiste__n	FORMS: NCCP000 agents NCCS000 agent
+DICOLLEC: agent	PAR: affecté__n	FORMS: NCFP000 agentes NCFS000 agente NCMP000 agents NCMS000 agent
+
+APERTIUM: aggloméré	PAR: affecté__n	FORMS: NCFP000 agglomérées NCFS000 agglomérée NCMP000 agglomérés NCMS000 aggloméré
+DICOLLEC: aggloméré	PAR: livre__n	FORMS: NCMP000 agglomérés NCMS000 aggloméré
+DICOLLEC: aggloméré	PAR: match__n	FORMS: NCMP000 agglomérés NCMS000 aggloméré
+
+APERTIUM: agitateur	PAR: livre__n	FORMS: NCMP000 agitateurs NCMS000 agitateur
+DICOLLEC: agitateur	PAR: administrat/eur__n	FORMS: NCFP000 agitatrices NCFS000 agitatrice NCMP000 agitateurs NCMS000 agitateur
+
+APERTIUM: agronome	PAR: abeille__n	FORMS: NCFP000 agronomes NCFS000 agronome
+DICOLLEC: agronome	PAR: artiste__n	FORMS: NCCP000 agronomes NCCS000 agronome
+
+APERTIUM: aide	PAR: abeille__n	FORMS: NCFP000 aides NCFS000 aide
+DICOLLEC: aide	PAR: artiste__n	FORMS: NCCP000 aides NCCS000 aide
+
+APERTIUM: aine	PAR: abeille__n	FORMS: NCFP000 aines NCFS000 aine
+DICOLLEC: aine	PAR: artiste__n	FORMS: NCCP000 aines NCCS000 aine
+
+APERTIUM: albanais	PAR: livre__n	FORMS: NCMP000 albanaiss NCMS000 albanais
+DICOLLEC: albanais	PAR: admis__n	FORMS: NCFP000 albanaises NCFS000 albanaise NCMN000 albanais
+
+APERTIUM: albatros	PAR: livre__n	FORMS: NCMP000 albatross NCMS000 albatros
+DICOLLEC: albatros	PAR: IRPF__n	FORMS: NCMN000 albatros
+DICOLLEC: albatros	PAR: mois__n	FORMS: NCMN000 albatros
+
+APERTIUM: albinos	PAR: artiste__n	FORMS: NCCP000 albinoss NCCS000 albinos
+DICOLLEC: albinos	PAR: ATS__n	FORMS: NCCN000 albinos
+DICOLLEC: albinos	PAR: ex__n	FORMS: NCCN000 albinos
+
+APERTIUM: alchimiste	PAR: livre__n	FORMS: NCMP000 alchimistes NCMS000 alchimiste
+DICOLLEC: alchimiste	PAR: artiste__n	FORMS: NCCP000 alchimistes NCCS000 alchimiste
+
+APERTIUM: alcoolisme	PAR: abeille__n	FORMS: NCFP000 alcoolismes NCFS000 alcoolisme
+DICOLLEC: alcoolisme	PAR: livre__n	FORMS: NCMP000 alcoolismes NCMS000 alcoolisme
+DICOLLEC: alcoolisme	PAR: match__n	FORMS: NCMP000 alcoolismes NCMS000 alcoolisme
+
+APERTIUM: allant	PAR: livre__n	FORMS: NCMP000 allants NCMS000 allant
+DICOLLEC: allant	PAR: affecté__n	FORMS: NCFP000 allantes NCFS000 allante NCMP000 allants NCMS000 allant
+
+APERTIUM: allegro	PAR: livre__n	FORMS: NCMP000 allegros NCMS000 allegro
+DICOLLEC: allegro	PAR: IRPF__n	FORMS: NCMN000 allegro
+DICOLLEC: allegro	PAR: mois__n	FORMS: NCMN000 allegro
+
+APERTIUM: amateur	PAR: artiste__n	FORMS: NCCP000 amateurs NCCS000 amateur
+DICOLLEC: amateur	PAR: administrat/eur__n	FORMS: NCFP000 amatrices NCFS000 amatrice NCMP000 amateurs NCMS000 amateur
+
+APERTIUM: amen	PAR: livre__n	FORMS: NCMP000 amens NCMS000 amen
+DICOLLEC: amen	PAR: IRPF__n	FORMS: NCMN000 amen
+DICOLLEC: amen	PAR: mois__n	FORMS: NCMN000 amen
+
+APERTIUM: amiral	PAR: livre__n	FORMS: NCMP000 amirals NCMS000 amiral
+DICOLLEC: amiral	PAR: commercia/l__n	FORMS: NCFP000 amirales NCFS000 amirale NCMP000 amiraux NCMS000 amiral
+
+APERTIUM: amphitryon	PAR: ancien__n	FORMS: NCFP000 amphitryonnes NCFS000 amphitryonne NCMP000 amphitryons NCMS000 amphitryon
+DICOLLEC: amphitryon	PAR: livre__n	FORMS: NCMP000 amphitryons NCMS000 amphitryon
+DICOLLEC: amphitryon	PAR: match__n	FORMS: NCMP000 amphitryons NCMS000 amphitryon
+
+APERTIUM: ancêtre	PAR: livre__n	FORMS: NCMP000 ancêtres NCMS000 ancêtre
+DICOLLEC: ancêtre	PAR: artiste__n	FORMS: NCCP000 ancêtres NCCS000 ancêtre
+
+APERTIUM: annonce	PAR: livre__n	FORMS: NCMP000 annonces NCMS000 annonce
+DICOLLEC: annonce	PAR: abeille__n	FORMS: NCFP000 annonces NCFS000 annonce
+
+APERTIUM: antécédent	PAR: livre__n	FORMS: NCMP000 antécédents NCMS000 antécédent
+DICOLLEC: antécédent	PAR: affecté__n	FORMS: NCFP000 antécédentes NCFS000 antécédente NCMP000 antécédents NCMS000 antécédent
+
+APERTIUM: apôtre	PAR: livre__n	FORMS: NCMP000 apôtres NCMS000 apôtre
+DICOLLEC: apôtre	PAR: artiste__n	FORMS: NCCP000 apôtres NCCS000 apôtre
+
+APERTIUM: aranais	PAR: admis__n	FORMS: NCFP000 aranaises NCFS000 aranaise NCMN000 aranais
+DICOLLEC: aranais	PAR: ATS__n	FORMS: NCCN000 aranais
+DICOLLEC: aranais	PAR: ex__n	FORMS: NCCN000 aranais
+
+APERTIUM: arbitraire	PAR: livre__n	FORMS: NCMP000 arbitraires NCMS000 arbitraire
+DICOLLEC: arbitraire	PAR: artiste__n	FORMS: NCCP000 arbitraires NCCS000 arbitraire
+
+APERTIUM: arc-en-ciel	PAR: mois__n	FORMS: NCMN000 arc-en-ciel
+DICOLLEC: arc-en-ciel	PAR: BBVA__n	FORMS: NCMS000 arc-en-ciel
+DICOLLEC: arc-en-ciel	PAR: argent__n	FORMS: NCMS000 arc-en-ciel
+DICOLLEC: arc-en-ciel	PAR: personnel__n	FORMS: NCMS000 arc-en-ciel
+
+APERTIUM: archiprêtre	PAR: livre__n	FORMS: NCMP000 archiprêtres NCMS000 archiprêtre
+DICOLLEC: archiprêtre	PAR: buffle__n	FORMS: NCFP000 archiprêtresses NCFS000 archiprêtresse NCMP000 archiprêtres NCMS000 archiprêtre
+DICOLLEC: archiprêtre	PAR: maire__n	FORMS: NCFP000 archiprêtresses NCFS000 archiprêtresse NCMP000 archiprêtres NCMS000 archiprêtre
+
+APERTIUM: argent	PAR: argent__n	FORMS: NCMS000 argent
+DICOLLEC: argent	PAR: livre__n	FORMS: NCMP000 argents NCMS000 argent
+DICOLLEC: argent	PAR: match__n	FORMS: NCMP000 argents NCMS000 argent
+
+APERTIUM: armoire	PAR: livre__n	FORMS: NCMP000 armoires NCMS000 armoire
+DICOLLEC: armoire	PAR: abeille__n	FORMS: NCFP000 armoires NCFS000 armoire
+
+APERTIUM: arrière-grand-père	PAR: grand/-père__n	FORMS: NCFP000 arrière-grand-mères NCFS000 arrière-grand-mère NCMP000 arrière-grands-parents NCMS000 arrière-grand-père
+DICOLLEC: arrière-grand-père	PAR: BBVA__n	FORMS: NCMS000 arrière-grand-père
+DICOLLEC: arrière-grand-père	PAR: argent__n	FORMS: NCMS000 arrière-grand-père
+DICOLLEC: arrière-grand-père	PAR: personnel__n	FORMS: NCMS000 arrière-grand-père
+
+APERTIUM: arrière-petit-fils	PAR: petit/-fils__n	FORMS: NCFP000 arrière-petites-filles NCFS000 arrière-petite-fille NCMP000 arrière-petits-enfants NCMS000 arrière-petit-fils
+DICOLLEC: arrière-petit-fils	PAR: BBVA__n	FORMS: NCMS000 arrière-petit-fils
+DICOLLEC: arrière-petit-fils	PAR: argent__n	FORMS: NCMS000 arrière-petit-fils
+DICOLLEC: arrière-petit-fils	PAR: personnel__n	FORMS: NCMS000 arrière-petit-fils
+
+APERTIUM: artificier	PAR: livre__n	FORMS: NCMP000 artificiers NCMS000 artificier
+DICOLLEC: artificier	PAR: bouch/er__n	FORMS: NCFP000 artificières NCFS000 artificière NCMP000 artificiers NCMS000 artificier
+
+APERTIUM: asperge	PAR: livre__n	FORMS: NCMP000 asperges NCMS000 asperge
+DICOLLEC: asperge	PAR: abeille__n	FORMS: NCFP000 asperges NCFS000 asperge
+
+APERTIUM: athlétisme	PAR: personnel__n	FORMS: NCMS000 athlétisme
+DICOLLEC: athlétisme	PAR: livre__n	FORMS: NCMP000 athlétismes NCMS000 athlétisme
+DICOLLEC: athlétisme	PAR: match__n	FORMS: NCMP000 athlétismes NCMS000 athlétisme
+
+APERTIUM: auteur	PAR: artiste__n	FORMS: NCCP000 auteurs NCCS000 auteur
+DICOLLEC: auteur	PAR: affecté__n	FORMS: NCFP000 auteures NCFS000 auteure NCMP000 auteurs NCMS000 auteur
+
+APERTIUM: automobilisme	PAR: personnel__n	FORMS: NCMS000 automobilisme
+DICOLLEC: automobilisme	PAR: livre__n	FORMS: NCMP000 automobilismes NCMS000 automobilisme
+DICOLLEC: automobilisme	PAR: match__n	FORMS: NCMP000 automobilismes NCMS000 automobilisme
+
+APERTIUM: aventurier	PAR: livre__n	FORMS: NCMP000 aventuriers NCMS000 aventurier
+DICOLLEC: aventurier	PAR: bouch/er__n	FORMS: NCFP000 aventurières NCFS000 aventurière NCMP000 aventuriers NCMS000 aventurier
+
+APERTIUM: aviateur	PAR: livre__n	FORMS: NCMP000 aviateurs NCMS000 aviateur
+DICOLLEC: aviateur	PAR: administrat/eur__n	FORMS: NCFP000 aviatrices NCFS000 aviatrice NCMP000 aviateurs NCMS000 aviateur
+
+APERTIUM: avorteur	PAR: livre__n	FORMS: NCMP000 avorteurs NCMS000 avorteur
+DICOLLEC: avorteur	PAR: causeu/r__n	FORMS: NCFP000 avorteuses NCFS000 avorteuse NCMP000 avorteurs NCMS000 avorteur
+DICOLLEC: avorteur	PAR: débit/eur__n	FORMS: NCFP000 avorteuses NCFS000 avorteuse NCMP000 avorteurs NCMS000 avorteur
+DICOLLEC: avorteur	PAR: vende/ur__n	FORMS: NCFP000 avorteuses NCFS000 avorteuse NCMP000 avorteurs NCMS000 avorteur
+
+APERTIUM: avoué	PAR: livre__n	FORMS: NCMP000 avoués NCMS000 avoué
+DICOLLEC: avoué	PAR: affecté__n	FORMS: NCFP000 avouées NCFS000 avouée NCMP000 avoués NCMS000 avoué
+
+APERTIUM: azote	PAR: personnel__n	FORMS: NCMS000 azote
+DICOLLEC: azote	PAR: livre__n	FORMS: NCMP000 azotes NCMS000 azote
+DICOLLEC: azote	PAR: match__n	FORMS: NCMP000 azotes NCMS000 azote
+
+APERTIUM: aérobic	PAR: livre__n	FORMS: NCMP000 aérobics NCMS000 aérobic
+DICOLLEC: aérobic	PAR: abeille__n	FORMS: NCFP000 aérobics NCFS000 aérobic
+
+APERTIUM: aérogramme	PAR: abeille__n	FORMS: NCFP000 aérogrammes NCFS000 aérogramme
+DICOLLEC: aérogramme	PAR: livre__n	FORMS: NCMP000 aérogrammes NCMS000 aérogramme
+DICOLLEC: aérogramme	PAR: match__n	FORMS: NCMP000 aérogrammes NCMS000 aérogramme
+
+APERTIUM: baladin	PAR: affecté__n	FORMS: NCFP000 baladines NCFS000 baladine NCMP000 baladins NCMS000 baladin
+DICOLLEC: baladin	PAR: livre__n	FORMS: NCMP000 baladins NCMS000 baladin
+DICOLLEC: baladin	PAR: match__n	FORMS: NCMP000 baladins NCMS000 baladin
+
+APERTIUM: barbe	PAR: abeille__n	FORMS: NCFP000 barbes NCFS000 barbe
+DICOLLEC: barbe	PAR: artiste__n	FORMS: NCCP000 barbes NCCS000 barbe
+
+APERTIUM: baron	PAR: buffle__n	FORMS: NCFP000 baronsses NCFS000 baronsse NCMP000 barons NCMS000 baron
+DICOLLEC: baron	PAR: ancien__n	FORMS: NCFP000 baronnes NCFS000 baronne NCMP000 barons NCMS000 baron
+
+APERTIUM: basilique	PAR: abeille__n	FORMS: NCFP000 basiliques NCFS000 basilique
+DICOLLEC: basilique	PAR: artiste__n	FORMS: NCCP000 basiliques NCCS000 basilique
+
+APERTIUM: basket	PAR: personnel__n	FORMS: NCMS000 basket
+DICOLLEC: basket	PAR: artiste__n	FORMS: NCCP000 baskets NCCS000 basket
+
+APERTIUM: basket-ball	PAR: personnel__n	FORMS: NCMS000 basket-ball
+DICOLLEC: basket-ball	PAR: cie/l__n	FORMS: NCMP000 basket-balls NCMS000 basket-ball
+DICOLLEC: basket-ball	PAR: livre__n	FORMS: NCMP000 basket-balls NCMS000 basket-ball
+DICOLLEC: basket-ball	PAR: match__n	FORMS: NCMP000 basket-balls NCMS000 basket-ball
+
+APERTIUM: basque	PAR: livre__n	FORMS: NCMP000 basques NCMS000 basque
+DICOLLEC: basque	PAR: artiste__n	FORMS: NCCP000 basques NCCS000 basque
+
+APERTIUM: batteur	PAR: livre__n	FORMS: NCMP000 batteurs NCMS000 batteur
+DICOLLEC: batteur	PAR: causeu/r__n	FORMS: NCFP000 batteuses NCFS000 batteuse NCMP000 batteurs NCMS000 batteur
+DICOLLEC: batteur	PAR: débit/eur__n	FORMS: NCFP000 batteuses NCFS000 batteuse NCMP000 batteurs NCMS000 batteur
+DICOLLEC: batteur	PAR: vende/ur__n	FORMS: NCFP000 batteuses NCFS000 batteuse NCMP000 batteurs NCMS000 batteur
+
+APERTIUM: beau-frère	PAR: livre__n	FORMS: NCMP000 beau-frères NCMS000 beau-frère
+DICOLLEC: beau-frère	PAR: BBVA__n	FORMS: NCMS000 beau-frère
+DICOLLEC: beau-frère	PAR: argent__n	FORMS: NCMS000 beau-frère
+DICOLLEC: beau-frère	PAR: personnel__n	FORMS: NCMS000 beau-frère
+
+APERTIUM: beaux-arts	PAR: vacances__n	FORMS: NCFP000 beaux-arts
+DICOLLEC: beaux-arts	PAR: abords__n	FORMS: NCMP000 beaux-arts
+
+APERTIUM: belle-fille	PAR: abeille__n	FORMS: NCFP000 belle-filles NCFS000 belle-fille
+DICOLLEC: belle-fille	PAR: BBC__n	FORMS: NCFS000 belle-fille
+DICOLLEC: belle-fille	PAR: soif__n	FORMS: NCFS000 belle-fille
+
+APERTIUM: bien-être	PAR: livre__n	FORMS: NCMP000 bien-êtres NCMS000 bien-être
+DICOLLEC: bien-être	PAR: IRPF__n	FORMS: NCMN000 bien-être
+DICOLLEC: bien-être	PAR: mois__n	FORMS: NCMN000 bien-être
+
+APERTIUM: bison	PAR: livre__n	FORMS: NCMP000 bisons NCMS000 bison
+DICOLLEC: bison	PAR: ancien__n	FORMS: NCFP000 bisonnes NCFS000 bisonne NCMP000 bisons NCMS000 bison
+
+APERTIUM: bivalve	PAR: livre__n	FORMS: NCMP000 livres NCMS000 livre
+DICOLLEC: bivalve	PAR: livre__n	FORMS: NCMP000 bivalves NCMS000 bivalve
+DICOLLEC: bivalve	PAR: match__n	FORMS: NCMP000 bivalves NCMS000 bivalve
+
+APERTIUM: bleu	PAR: livre__n	FORMS: NCMP000 bleus NCMS000 bleu
+DICOLLEC: bleu	PAR: affecté__n	FORMS: NCFP000 bleues NCFS000 bleue NCMP000 bleus NCMS000 bleu
+
+APERTIUM: bon	PAR: livre__n	FORMS: NCMP000 bons NCMS000 bon
+DICOLLEC: bon	PAR: ancien__n	FORMS: NCFP000 bonnes NCFS000 bonne NCMP000 bons NCMS000 bon
+
+APERTIUM: boulot	PAR: livre__n	FORMS: NCMP000 boulots NCMS000 boulot
+DICOLLEC: boulot	PAR: chat__n	FORMS: NCFP000 boulottes NCFS000 boulotte NCMP000 boulots NCMS000 boulot
+
+APERTIUM: bourgeon	PAR: livre__n	FORMS: NCMP000 bouillons NCMS000 bouillon
+DICOLLEC: bourgeon	PAR: livre__n	FORMS: NCMP000 bourgeons NCMS000 bourgeon
+DICOLLEC: bourgeon	PAR: match__n	FORMS: NCMP000 bourgeons NCMS000 bourgeon
+
+APERTIUM: brasseur	PAR: livre__n	FORMS: NCMP000 brasseurs NCMS000 brasseur
+DICOLLEC: brasseur	PAR: causeu/r__n	FORMS: NCFP000 brasseuses NCFS000 brasseuse NCMP000 brasseurs NCMS000 brasseur
+DICOLLEC: brasseur	PAR: débit/eur__n	FORMS: NCFP000 brasseuses NCFS000 brasseuse NCMP000 brasseurs NCMS000 brasseur
+DICOLLEC: brasseur	PAR: vende/ur__n	FORMS: NCFP000 brasseuses NCFS000 brasseuse NCMP000 brasseurs NCMS000 brasseur
+
+APERTIUM: brouillon	PAR: livre__n	FORMS: NCMP000 brouillons NCMS000 brouillon
+DICOLLEC: brouillon	PAR: ancien__n	FORMS: NCFP000 brouillonnes NCFS000 brouillonne NCMP000 brouillons NCMS000 brouillon
+
+APERTIUM: buffle	PAR: livre__n	FORMS: NCMP000 buffles NCMS000 buffle
+DICOLLEC: buffle	PAR: buffle__n	FORMS: NCFP000 bufflesses NCFS000 bufflesse NCMP000 buffles NCMS000 buffle
+DICOLLEC: buffle	PAR: maire__n	FORMS: NCFP000 bufflesses NCFS000 bufflesse NCMP000 buffles NCMS000 buffle
+
+APERTIUM: bureau	PAR: livre__n	FORMS: NCMP000 bureaus NCMS000 bureau
+DICOLLEC: bureau	PAR: lieu__n	FORMS: NCMP000 bureaux NCMS000 bureau
+
+APERTIUM: burka	PAR: artiste__n	FORMS: NCCP000 burkas NCCS000 burka
+DICOLLEC: burka	PAR: abeille__n	FORMS: NCFP000 burkas NCFS000 burka
+
+APERTIUM: burqa	PAR: artiste__n	FORMS: NCCP000 burqas NCCS000 burqa
+DICOLLEC: burqa	PAR: abeille__n	FORMS: NCFP000 burqas NCFS000 burqa
+
+APERTIUM: bénéfice	PAR: abeille__n	FORMS: NCFP000 bénéfices NCFS000 bénéfice
+DICOLLEC: bénéfice	PAR: livre__n	FORMS: NCMP000 bénéfices NCMS000 bénéfice
+DICOLLEC: bénéfice	PAR: match__n	FORMS: NCMP000 bénéfices NCMS000 bénéfice
+
+APERTIUM: cadre	PAR: livre__n	FORMS: NCMP000 cadres NCMS000 cadre
+DICOLLEC: cadre	PAR: artiste__n	FORMS: NCCP000 cadres NCCS000 cadre
+
+APERTIUM: capital	PAR: anima/l__n	FORMS: NCMP000 capitaux NCMS000 capital
+DICOLLEC: capital	PAR: commercia/l__n	FORMS: NCFP000 capitales NCFS000 capitale NCMP000 capitaux NCMS000 capital
+
+APERTIUM: cardinal	PAR: livre__n	FORMS: NCMP000 cardinals NCMS000 cardinal
+DICOLLEC: cardinal	PAR: anima/l__n	FORMS: NCMP000 cardinaux NCMS000 cardinal
+
+APERTIUM: carpe	PAR: abeille__n	FORMS: NCFP000 carpes NCFS000 carpe
+DICOLLEC: carpe	PAR: artiste__n	FORMS: NCCP000 carpes NCCS000 carpe
+
+APERTIUM: carreau	PAR: livre__n	FORMS: NCMP000 carreaus NCMS000 carreau
+DICOLLEC: carreau	PAR: lieu__n	FORMS: NCMP000 carreaux NCMS000 carreau
+
+APERTIUM: carré	PAR: livre__n	FORMS: NCMP000 carrés NCMS000 carré
+DICOLLEC: carré	PAR: affecté__n	FORMS: NCFP000 carrées NCFS000 carrée NCMP000 carrés NCMS000 carré
+
+APERTIUM: cash-flow	PAR: argent__n	FORMS: NCMS000 cash-flow
+DICOLLEC: cash-flow	PAR: livre__n	FORMS: NCMP000 cash-flows NCMS000 cash-flow
+DICOLLEC: cash-flow	PAR: match__n	FORMS: NCMP000 cash-flows NCMS000 cash-flow
+
+APERTIUM: casse	PAR: abeille__n	FORMS: NCFP000 casses NCFS000 casse
+DICOLLEC: casse	PAR: artiste__n	FORMS: NCCP000 casses NCCS000 casse
+
+APERTIUM: castillan	PAR: livre__n	FORMS: NCMP000 castillans NCMS000 castillan
+DICOLLEC: castillan	PAR: affecté__n	FORMS: NCFP000 castillanes NCFS000 castillane NCMP000 castillans NCMS000 castillan
+
+APERTIUM: cavalier	PAR: livre__n	FORMS: NCMP000 cavaliers NCMS000 cavalier
+DICOLLEC: cavalier	PAR: bouch/er__n	FORMS: NCFP000 cavalières NCFS000 cavalière NCMP000 cavaliers NCMS000 cavalier
+
+APERTIUM: cave	PAR: abeille__n	FORMS: NCFP000 caves NCFS000 cave
+DICOLLEC: cave	PAR: artiste__n	FORMS: NCCP000 caves NCCS000 cave
+
+APERTIUM: centième	PAR: livre__n	FORMS: NCMP000 centièmes NCMS000 centième
+DICOLLEC: centième	PAR: artiste__n	FORMS: NCCP000 centièmes NCCS000 centième
+
+APERTIUM: central	PAR: anima/l__n	FORMS: NCMP000 centraux NCMS000 central
+DICOLLEC: central	PAR: commercia/l__n	FORMS: NCFP000 centrales NCFS000 centrale NCMP000 centraux NCMS000 central
+
+APERTIUM: cerise	PAR: abeille__n	FORMS: NCFP000 cerises NCFS000 cerise
+DICOLLEC: cerise	PAR: artiste__n	FORMS: NCCP000 cerises NCCS000 cerise
+
+APERTIUM: champagne	PAR: livre__n	FORMS: NCMP000 champagnes NCMS000 champagne
+DICOLLEC: champagne	PAR: artiste__n	FORMS: NCCP000 champagnes NCCS000 champagne
+
+APERTIUM: chaos	PAR: ex__n	FORMS: NCCN000 chaos
+DICOLLEC: chaos	PAR: IRPF__n	FORMS: NCMN000 chaos
+DICOLLEC: chaos	PAR: mois__n	FORMS: NCMN000 chaos
+
+APERTIUM: charge	PAR: livre__n	FORMS: NCMP000 charges NCMS000 charge
+DICOLLEC: charge	PAR: abeille__n	FORMS: NCFP000 charges NCFS000 charge
+
+APERTIUM: charpentier	PAR: livre__n	FORMS: NCMP000 charpentiers NCMS000 charpentier
+DICOLLEC: charpentier	PAR: bouch/er__n	FORMS: NCFP000 charpentières NCFS000 charpentière NCMP000 charpentiers NCMS000 charpentier
+
+APERTIUM: chemisier	PAR: livre__n	FORMS: NCMP000 chemisiers NCMS000 chemisier
+DICOLLEC: chemisier	PAR: bouch/er__n	FORMS: NCFP000 chemisières NCFS000 chemisière NCMP000 chemisiers NCMS000 chemisier
+
+APERTIUM: clair	PAR: livre__n	FORMS: NCMP000 clairs NCMS000 clair
+DICOLLEC: clair	PAR: affecté__n	FORMS: NCFP000 claires NCFS000 claire NCMP000 clairs NCMS000 clair
+
+APERTIUM: clerc	PAR: livre__n	FORMS: NCMP000 clercs NCMS000 clerc
+DICOLLEC: clerc	PAR: artiste__n	FORMS: NCCP000 clercs NCCS000 clerc
+
+APERTIUM: clown	PAR: clown__n	FORMS: NCFP000 clownesses NCFS000 clownesse NCMP000 clowns NCMS000 clown
+DICOLLEC: clown	PAR: artiste__n	FORMS: NCCP000 clowns NCCS000 clown
+
+APERTIUM: code-barres	PAR: mois__n	FORMS: NCMN000 code-barres
+DICOLLEC: code-barres	PAR: BBVA__n	FORMS: NCMS000 code-barres
+DICOLLEC: code-barres	PAR: argent__n	FORMS: NCMS000 code-barres
+DICOLLEC: code-barres	PAR: personnel__n	FORMS: NCMS000 code-barres
+
+APERTIUM: coffre-fort	PAR: livre__n	FORMS: NCMP000 coffre-forts NCMS000 coffre-fort
+DICOLLEC: coffre-fort	PAR: BBVA__n	FORMS: NCMS000 coffre-fort
+DICOLLEC: coffre-fort	PAR: argent__n	FORMS: NCMS000 coffre-fort
+DICOLLEC: coffre-fort	PAR: personnel__n	FORMS: NCMS000 coffre-fort
+
+APERTIUM: collectif	PAR: livre__n	FORMS: NCMP000 collectifs NCMS000 collectif
+DICOLLEC: collectif	PAR: jui/f__n	FORMS: NCFP000 collectives NCFS000 collective NCMP000 collectifs NCMS000 collectif
+
+APERTIUM: comble	PAR: personnel__n	FORMS: NCMS000 comble
+DICOLLEC: comble	PAR: livre__n	FORMS: NCMP000 combles NCMS000 comble
+DICOLLEC: comble	PAR: match__n	FORMS: NCMP000 combles NCMS000 comble
+
+APERTIUM: commande	PAR: livre__n	FORMS: NCMP000 commandes NCMS000 commande
+DICOLLEC: commande	PAR: abeille__n	FORMS: NCFP000 commandes NCFS000 commande
+
+APERTIUM: commentateur	PAR: livre__n	FORMS: NCMP000 commentateurs NCMS000 commentateur
+DICOLLEC: commentateur	PAR: administrat/eur__n	FORMS: NCFP000 commentatrices NCFS000 commentatrice NCMP000 commentateurs NCMS000 commentateur
+
+APERTIUM: commerçant	PAR: livre__n	FORMS: NCMP000 commerçants NCMS000 commerçant
+DICOLLEC: commerçant	PAR: affecté__n	FORMS: NCFP000 commerçantes NCFS000 commerçante NCMP000 commerçants NCMS000 commerçant
+
+APERTIUM: compagnon	PAR: livre__n	FORMS: NCMP000 compagnons NCMS000 compagnon
+DICOLLEC: compagnon	PAR: ancien__n	FORMS: NCFP000 compagnonnes NCFS000 compagnonne NCMP000 compagnons NCMS000 compagnon
+
+APERTIUM: compilateur	PAR: livre__n	FORMS: NCMP000 compilateurs NCMS000 compilateur
+DICOLLEC: compilateur	PAR: administrat/eur__n	FORMS: NCFP000 compilatrices NCFS000 compilatrice NCMP000 compilateurs NCMS000 compilateur
+
+APERTIUM: composant	PAR: livre__n	FORMS: NCMP000 composants NCMS000 composant
+DICOLLEC: composant	PAR: affecté__n	FORMS: NCFP000 composantes NCFS000 composante NCMP000 composants NCMS000 composant
+
+APERTIUM: composteur	PAR: livre__n	FORMS: NCMP000 composteurs NCMS000 composteur
+DICOLLEC: composteur	PAR: causeu/r__n	FORMS: NCFP000 composteuses NCFS000 composteuse NCMP000 composteurs NCMS000 composteur
+DICOLLEC: composteur	PAR: débit/eur__n	FORMS: NCFP000 composteuses NCFS000 composteuse NCMP000 composteurs NCMS000 composteur
+DICOLLEC: composteur	PAR: vende/ur__n	FORMS: NCFP000 composteuses NCFS000 composteuse NCMP000 composteurs NCMS000 composteur
+
+APERTIUM: composé	PAR: livre__n	FORMS: NCMP000 composés NCMS000 composé
+DICOLLEC: composé	PAR: affecté__n	FORMS: NCFP000 composées NCFS000 composée NCMP000 composés NCMS000 composé
+
+APERTIUM: compteur	PAR: livre__n	FORMS: NCMP000 compteurs NCMS000 compteur
+DICOLLEC: compteur	PAR: causeu/r__n	FORMS: NCFP000 compteuses NCFS000 compteuse NCMP000 compteurs NCMS000 compteur
+DICOLLEC: compteur	PAR: débit/eur__n	FORMS: NCFP000 compteuses NCFS000 compteuse NCMP000 compteurs NCMS000 compteur
+DICOLLEC: compteur	PAR: vende/ur__n	FORMS: NCFP000 compteuses NCFS000 compteuse NCMP000 compteurs NCMS000 compteur
+
+APERTIUM: conception	PAR: livre__n	FORMS: NCMP000 conceptions NCMS000 conception
+DICOLLEC: conception	PAR: abeille__n	FORMS: NCFP000 conceptions NCFS000 conception
+
+APERTIUM: conduit	PAR: livre__n	FORMS: NCMP000 conduits NCMS000 conduit
+DICOLLEC: conduit	PAR: affecté__n	FORMS: NCFP000 conduites NCFS000 conduite NCMP000 conduits NCMS000 conduit
+
+APERTIUM: connu	PAR: affecté__n	FORMS: NCFP000 connues NCFS000 connue NCMP000 connus NCMS000 connu
+DICOLLEC: connu	PAR: livre__n	FORMS: NCMP000 connus NCMS000 connu
+DICOLLEC: connu	PAR: match__n	FORMS: NCMP000 connus NCMS000 connu
+
+APERTIUM: consul	PAR: artiste__n	FORMS: NCCP000 consuls NCCS000 consul
+DICOLLEC: consul	PAR: affecté__n	FORMS: NCFP000 consules NCFS000 consule NCMP000 consuls NCMS000 consul
+
+APERTIUM: contre-la-montre	PAR: livre__n	FORMS: NCMP000 contre-la-montres NCMS000 contre-la-montre
+DICOLLEC: contre-la-montre	PAR: IRPF__n	FORMS: NCMN000 contre-la-montre
+DICOLLEC: contre-la-montre	PAR: mois__n	FORMS: NCMN000 contre-la-montre
+
+APERTIUM: coteau	PAR: livre__n	FORMS: NCMP000 coteaus NCMS000 coteau
+DICOLLEC: coteau	PAR: lieu__n	FORMS: NCMP000 coteaux NCMS000 coteau
+
+APERTIUM: cotonnier	PAR: livre__n	FORMS: NCMP000 cotonniers NCMS000 cotonnier
+DICOLLEC: cotonnier	PAR: bouch/er__n	FORMS: NCFP000 cotonnières NCFS000 cotonnière NCMP000 cotonniers NCMS000 cotonnier
+
+APERTIUM: couple	PAR: livre__n	FORMS: NCMP000 couples NCMS000 couple
+DICOLLEC: couple	PAR: artiste__n	FORMS: NCCP000 couples NCCS000 couple
+
+APERTIUM: courant	PAR: livre__n	FORMS: NCMP000 courants NCMS000 courant
+DICOLLEC: courant	PAR: affecté__n	FORMS: NCFP000 courantes NCFS000 courante NCMP000 courants NCMS000 courant
+
+APERTIUM: courrier	PAR: livre__n	FORMS: NCMP000 courriers NCMS000 courrier
+DICOLLEC: courrier	PAR: bouch/er__n	FORMS: NCFP000 courrières NCFS000 courrière NCMP000 courriers NCMS000 courrier
+
+APERTIUM: court-circuit	PAR: livre__n	FORMS: NCMP000 court-circuits NCMS000 court-circuit
+DICOLLEC: court-circuit	PAR: BBVA__n	FORMS: NCMS000 court-circuit
+DICOLLEC: court-circuit	PAR: argent__n	FORMS: NCMS000 court-circuit
+DICOLLEC: court-circuit	PAR: personnel__n	FORMS: NCMS000 court-circuit
+
+APERTIUM: court-métrage	PAR: livre__n	FORMS: NCMP000 court-métrages NCMS000 court-métrage
+DICOLLEC: court-métrage	PAR: BBVA__n	FORMS: NCMS000 court-métrage
+DICOLLEC: court-métrage	PAR: argent__n	FORMS: NCMS000 court-métrage
+DICOLLEC: court-métrage	PAR: personnel__n	FORMS: NCMS000 court-métrage
+
+APERTIUM: couvert	PAR: livre__n	FORMS: NCMP000 couverts NCMS000 couvert
+DICOLLEC: couvert	PAR: affecté__n	FORMS: NCFP000 couvertes NCFS000 couverte NCMP000 couverts NCMS000 couvert
+
+APERTIUM: crème	PAR: abeille__n	FORMS: NCFP000 crèmes NCFS000 crème
+DICOLLEC: crème	PAR: artiste__n	FORMS: NCCP000 crèmes NCCS000 crème
+
+APERTIUM: cuirassé	PAR: affecté__n	FORMS: NCFP000 cuirassées NCFS000 cuirassée NCMP000 cuirassés NCMS000 cuirassé
+DICOLLEC: cuirassé	PAR: livre__n	FORMS: NCMP000 cuirassés NCMS000 cuirassé
+DICOLLEC: cuirassé	PAR: match__n	FORMS: NCMP000 cuirassés NCMS000 cuirassé
+
+APERTIUM: demi	PAR: livre__n	FORMS: NCMP000 demis NCMS000 demi
+DICOLLEC: demi	PAR: affecté__n	FORMS: NCFP000 demies NCFS000 demie NCMP000 demis NCMS000 demi
+
+APERTIUM: diesel	PAR: mois__n	FORMS: NCMN000 diesel
+DICOLLEC: diesel	PAR: cie/l__n	FORMS: NCMP000 diesels NCMS000 diesel
+DICOLLEC: diesel	PAR: livre__n	FORMS: NCMP000 diesels NCMS000 diesel
+DICOLLEC: diesel	PAR: match__n	FORMS: NCMP000 diesels NCMS000 diesel
+
+APERTIUM: dieu	PAR: d/ieu__n	FORMS: NCFP000 déesses NCFS000 déesse NCMP000 dieux NCMS000 dieu
+DICOLLEC: dieu	PAR: lieu__n	FORMS: NCMP000 dieux NCMS000 dieu
+
+APERTIUM: distributeur	PAR: livre__n	FORMS: NCMP000 distributeurs NCMS000 distributeur
+DICOLLEC: distributeur	PAR: administrat/eur__n	FORMS: NCFP000 distributrices NCFS000 distributrice NCMP000 distributeurs NCMS000 distributeur
+
+APERTIUM: djihad	PAR: personnel__n	FORMS: NCMS000 djihad
+DICOLLEC: djihad	PAR: livre__n	FORMS: NCMP000 djihads NCMS000 djihad
+DICOLLEC: djihad	PAR: match__n	FORMS: NCMP000 djihads NCMS000 djihad
+
+APERTIUM: docteur	PAR: livre__n	FORMS: NCMP000 docteurs NCMS000 docteur
+DICOLLEC: docteur	PAR: artiste__n	FORMS: NCCP000 docteurs NCCS000 docteur
+
+APERTIUM: droit	PAR: livre__n	FORMS: NCMP000 droits NCMS000 droit
+DICOLLEC: droit	PAR: affecté__n	FORMS: NCFP000 droites NCFS000 droite NCMP000 droits NCMS000 droit
+
+APERTIUM: débiteur	PAR: débit/eur__n	FORMS: NCFP000 débiteuses NCFS000 débiteuse NCMP000 débiteurs NCMS000 débiteur
+DICOLLEC: débiteur	PAR: administrat/eur__n	FORMS: NCFP000 débitrices NCFS000 débitrice NCMP000 débiteurs NCMS000 débiteur
+
+APERTIUM: décennie	PAR: livre__n	FORMS: NCMP000 décennies NCMS000 décennie
+DICOLLEC: décennie	PAR: abeille__n	FORMS: NCFP000 décennies NCFS000 décennie
+
+APERTIUM: découvert	PAR: livre__n	FORMS: NCMP000 découverts NCMS000 découvert
+DICOLLEC: découvert	PAR: affecté__n	FORMS: NCFP000 découvertes NCFS000 découverte NCMP000 découverts NCMS000 découvert
+
+APERTIUM: défenseur	PAR: causeu/r__n	FORMS: NCFP000 défenseuses NCFS000 défenseuse NCMP000 défenseurs NCMS000 défenseur
+DICOLLEC: défenseur	PAR: affecté__n	FORMS: NCFP000 défenseures NCFS000 défenseure NCMP000 défenseurs NCMS000 défenseur
+
+APERTIUM: démon	PAR: livre__n	FORMS: NCMP000 démons NCMS000 démon
+DICOLLEC: démon	PAR: affecté__n	FORMS: NCFP000 démones NCFS000 démone NCMP000 démons NCMS000 démon
+
+APERTIUM: député	PAR: livre__n	FORMS: NCMP000 députés NCMS000 député
+DICOLLEC: député	PAR: affecté__n	FORMS: NCFP000 députées NCFS000 députée NCMP000 députés NCMS000 député
+
+APERTIUM: désintégration	PAR: livre__n	FORMS: NCMP000 désintégrations NCMS000 désintégration
+DICOLLEC: désintégration	PAR: abeille__n	FORMS: NCFP000 désintégrations NCFS000 désintégration
+
+APERTIUM: détecteur	PAR: administrat/eur__n	FORMS: NCFP000 détectrices NCFS000 détectrice NCMP000 détecteurs NCMS000 détecteur
+DICOLLEC: détecteur	PAR: livre__n	FORMS: NCMP000 détecteurs NCMS000 détecteur
+DICOLLEC: détecteur	PAR: match__n	FORMS: NCMP000 détecteurs NCMS000 détecteur
+
+APERTIUM: ecclésiastique	PAR: artiste__n	FORMS: NCCP000 ecclésiastiques NCCS000 ecclésiastique
+DICOLLEC: ecclésiastique	PAR: livre__n	FORMS: NCMP000 ecclésiastiques NCMS000 ecclésiastique
+DICOLLEC: ecclésiastique	PAR: match__n	FORMS: NCMP000 ecclésiastiques NCMS000 ecclésiastique
+
+APERTIUM: endosseur	PAR: causeu/r__n	FORMS: NCFP000 endosseuses NCFS000 endosseuse NCMP000 endosseurs NCMS000 endosseur
+DICOLLEC: endosseur	PAR: livre__n	FORMS: NCMP000 endosseurs NCMS000 endosseur
+DICOLLEC: endosseur	PAR: match__n	FORMS: NCMP000 endosseurs NCMS000 endosseur
+
+APERTIUM: enfant	PAR: livre__n	FORMS: NCMP000 enfants NCMS000 enfant
+DICOLLEC: enfant	PAR: artiste__n	FORMS: NCCP000 enfants NCCS000 enfant
+
+APERTIUM: enseigne	PAR: abeille__n	FORMS: NCFP000 enseignes NCFS000 enseigne
+DICOLLEC: enseigne	PAR: artiste__n	FORMS: NCCP000 enseignes NCCS000 enseigne
+
+APERTIUM: entête	PAR: abeille__n	FORMS: NCFP000 entêtes NCFS000 entête
+DICOLLEC: entête	PAR: livre__n	FORMS: NCMP000 entêtes NCMS000 entête
+DICOLLEC: entête	PAR: match__n	FORMS: NCMP000 entêtes NCMS000 entête
+
+APERTIUM: espace	PAR: livre__n	FORMS: NCMP000 espaces NCMS000 espace
+DICOLLEC: espace	PAR: artiste__n	FORMS: NCCP000 espaces NCCS000 espace
+
+APERTIUM: exécutif	PAR: jui/f__n	FORMS: NCFP000 exécutives NCFS000 exécutive NCMP000 exécutifs NCMS000 exécutif
+DICOLLEC: exécutif	PAR: livre__n	FORMS: NCMP000 exécutifs NCMS000 exécutif
+DICOLLEC: exécutif	PAR: match__n	FORMS: NCMP000 exécutifs NCMS000 exécutif
+
+APERTIUM: facteur	PAR: livre__n	FORMS: NCMP000 facteurs NCMS000 facteur
+DICOLLEC: facteur	PAR: administrat/eur__n	FORMS: NCFP000 factrices NCFS000 factrice NCMP000 facteurs NCMS000 facteur
+
+APERTIUM: fantôme	PAR: artiste__n	FORMS: NCCP000 fantômes NCCS000 fantôme
+DICOLLEC: fantôme	PAR: livre__n	FORMS: NCMP000 fantômes NCMS000 fantôme
+DICOLLEC: fantôme	PAR: match__n	FORMS: NCMP000 fantômes NCMS000 fantôme
+
+APERTIUM: farce	PAR: livre__n	FORMS: NCMP000 farces NCMS000 farce
+DICOLLEC: farce	PAR: abeille__n	FORMS: NCFP000 farces NCFS000 farce
+
+APERTIUM: filmage	PAR: abeille__n	FORMS: NCFP000 filmages NCFS000 filmage
+DICOLLEC: filmage	PAR: livre__n	FORMS: NCMP000 filmages NCMS000 filmage
+DICOLLEC: filmage	PAR: match__n	FORMS: NCMP000 filmages NCMS000 filmage
+
+APERTIUM: foi	PAR: soif__n	FORMS: NCFS000 foi
+DICOLLEC: foi	PAR: abeille__n	FORMS: NCFP000 fois NCFS000 foi
+
+APERTIUM: folk	PAR: mois__n	FORMS: NCMN000 folk
+DICOLLEC: folk	PAR: livre__n	FORMS: NCMP000 folks NCMS000 folk
+DICOLLEC: folk	PAR: match__n	FORMS: NCMP000 folks NCMS000 folk
+
+APERTIUM: foot	PAR: personnel__n	FORMS: NCMS000 foot
+DICOLLEC: foot	PAR: livre__n	FORMS: NCMP000 foots NCMS000 foot
+DICOLLEC: foot	PAR: match__n	FORMS: NCMP000 foots NCMS000 foot
+
+APERTIUM: forgeron	PAR: livre__n	FORMS: NCMP000 forgerons NCMS000 forgeron
+DICOLLEC: forgeron	PAR: ancien__n	FORMS: NCFP000 forgeronnes NCFS000 forgeronne NCMP000 forgerons NCMS000 forgeron
+
+APERTIUM: froid	PAR: livre__n	FORMS: NCMP000 froids NCMS000 froid
+DICOLLEC: froid	PAR: affecté__n	FORMS: NCFP000 froides NCFS000 froide NCMP000 froids NCMS000 froid
+
+APERTIUM: fugitif	PAR: livre__n	FORMS: NCMP000 fugitifs NCMS000 fugitif
+DICOLLEC: fugitif	PAR: jui/f__n	FORMS: NCFP000 fugitives NCFS000 fugitive NCMP000 fugitifs NCMS000 fugitif
+
+APERTIUM: fureur	PAR: livre__n	FORMS: NCMP000 fureurs NCMS000 fureur
+DICOLLEC: fureur	PAR: abeille__n	FORMS: NCFP000 fureurs NCFS000 fureur
+
+APERTIUM: futur	PAR: livre__n	FORMS: NCMP000 futurs NCMS000 futur
+DICOLLEC: futur	PAR: affecté__n	FORMS: NCFP000 futures NCFS000 future NCMP000 futurs NCMS000 futur
+
+APERTIUM: gangster	PAR: artiste__n	FORMS: NCCP000 gangsters NCCS000 gangster
+DICOLLEC: gangster	PAR: livre__n	FORMS: NCMP000 gangsters NCMS000 gangster
+DICOLLEC: gangster	PAR: match__n	FORMS: NCMP000 gangsters NCMS000 gangster
+
+APERTIUM: garçon	PAR: livre__n	FORMS: NCMP000 garçons NCMS000 garçon
+DICOLLEC: garçon	PAR: ancien__n	FORMS: NCFP000 garçonnes NCFS000 garçonne NCMP000 garçons NCMS000 garçon
+
+APERTIUM: gastronome	PAR: livre__n	FORMS: NCMP000 gastronomes NCMS000 gastronome
+DICOLLEC: gastronome	PAR: artiste__n	FORMS: NCCP000 gastronomes NCCS000 gastronome
+
+APERTIUM: gauche	PAR: abeille__n	FORMS: NCFP000 gauches NCFS000 gauche
+DICOLLEC: gauche	PAR: artiste__n	FORMS: NCCP000 gauches NCCS000 gauche
+
+APERTIUM: gentilhomme	PAR: livre__n	FORMS: NCMP000 gentilhommes NCMS000 gentilhomme
+DICOLLEC: gentilhomme	PAR: BBVA__n	FORMS: NCMS000 gentilhomme
+DICOLLEC: gentilhomme	PAR: argent__n	FORMS: NCMS000 gentilhomme
+DICOLLEC: gentilhomme	PAR: personnel__n	FORMS: NCMS000 gentilhomme
+
+APERTIUM: geste	PAR: livre__n	FORMS: NCMP000 gestes NCMS000 geste
+DICOLLEC: geste	PAR: artiste__n	FORMS: NCCP000 gestes NCCS000 geste
+
+APERTIUM: gorille	PAR: artiste__n	FORMS: NCCP000 gorilles NCCS000 gorille
+DICOLLEC: gorille	PAR: livre__n	FORMS: NCMP000 gorilles NCMS000 gorille
+DICOLLEC: gorille	PAR: match__n	FORMS: NCMP000 gorilles NCMS000 gorille
+
+APERTIUM: gouvernant	PAR: livre__n	FORMS: NCMP000 gouvernants NCMS000 gouvernant
+DICOLLEC: gouvernant	PAR: affecté__n	FORMS: NCFP000 gouvernantes NCFS000 gouvernante NCMP000 gouvernants NCMS000 gouvernant
+
+APERTIUM: gouverneur	PAR: livre__n	FORMS: NCMP000 gouverneurs NCMS000 gouverneur
+DICOLLEC: gouverneur	PAR: affecté__n	FORMS: NCFP000 gouverneures NCFS000 gouverneure NCMP000 gouverneurs NCMS000 gouverneur
+
+APERTIUM: graissage	PAR: abeille__n	FORMS: NCFP000 graissages NCFS000 graissage
+DICOLLEC: graissage	PAR: livre__n	FORMS: NCMP000 graissages NCMS000 graissage
+DICOLLEC: graissage	PAR: match__n	FORMS: NCMP000 graissages NCMS000 graissage
+
+APERTIUM: grand-père	PAR: grand/-père__n	FORMS: NCFP000 grand-mères NCFS000 grand-mère NCMP000 grands-parents NCMS000 grand-père
+DICOLLEC: grand-père	PAR: BBVA__n	FORMS: NCMS000 grand-père
+DICOLLEC: grand-père	PAR: argent__n	FORMS: NCMS000 grand-père
+DICOLLEC: grand-père	PAR: personnel__n	FORMS: NCMS000 grand-père
+
+APERTIUM: graphique	PAR: livre__n	FORMS: NCMP000 graphiques NCMS000 graphique
+DICOLLEC: graphique	PAR: artiste__n	FORMS: NCCP000 graphiques NCCS000 graphique
+
+APERTIUM: graphisme	PAR: artiste__n	FORMS: NCCP000 graphismes NCCS000 graphisme
+DICOLLEC: graphisme	PAR: livre__n	FORMS: NCMP000 graphismes NCMS000 graphisme
+DICOLLEC: graphisme	PAR: match__n	FORMS: NCMP000 graphismes NCMS000 graphisme
+
+APERTIUM: greffe	PAR: abeille__n	FORMS: NCFP000 greffes NCFS000 greffe
+DICOLLEC: greffe	PAR: artiste__n	FORMS: NCCP000 greffes NCCS000 greffe
+
+APERTIUM: grenadier	PAR: livre__n	FORMS: NCMP000 grenadiers NCMS000 grenadier
+DICOLLEC: grenadier	PAR: bouch/er__n	FORMS: NCFP000 grenadières NCFS000 grenadière NCMP000 grenadiers NCMS000 grenadier
+
+APERTIUM: gris	PAR: mois__n	FORMS: NCMN000 gris
+DICOLLEC: gris	PAR: admis__n	FORMS: NCFP000 grises NCFS000 grise NCMN000 gris
+
+APERTIUM: gré	PAR: livre__n	FORMS: NCMP000 grés NCMS000 gré
+DICOLLEC: gré	PAR: BBVA__n	FORMS: NCMS000 gré
+DICOLLEC: gré	PAR: argent__n	FORMS: NCMS000 gré
+DICOLLEC: gré	PAR: personnel__n	FORMS: NCMS000 gré
+
+APERTIUM: gymkhana	PAR: abeille__n	FORMS: NCFP000 gymkhanas NCFS000 gymkhana
+DICOLLEC: gymkhana	PAR: livre__n	FORMS: NCMP000 gymkhanas NCMS000 gymkhana
+DICOLLEC: gymkhana	PAR: match__n	FORMS: NCMP000 gymkhanas NCMS000 gymkhana
+
+APERTIUM: générateur	PAR: livre__n	FORMS: NCMP000 générateurs NCMS000 générateur
+DICOLLEC: générateur	PAR: administrat/eur__n	FORMS: NCFP000 génératrices NCFS000 génératrice NCMP000 générateurs NCMS000 générateur
+
+APERTIUM: halle	PAR: livre__n	FORMS: NCMP000 halles NCMS000 halle
+DICOLLEC: halle	PAR: abeille__n	FORMS: NCFP000 halles NCFS000 halle
+
+APERTIUM: hameçon	PAR: abeille__n	FORMS: NCFP000 hameçons NCFS000 hameçon
+DICOLLEC: hameçon	PAR: livre__n	FORMS: NCMP000 hameçons NCMS000 hameçon
+DICOLLEC: hameçon	PAR: match__n	FORMS: NCMP000 hameçons NCMS000 hameçon
+
+APERTIUM: handball	PAR: personnel__n	FORMS: NCMS000 handball
+DICOLLEC: handball	PAR: cie/l__n	FORMS: NCMP000 handballs NCMS000 handball
+DICOLLEC: handball	PAR: livre__n	FORMS: NCMP000 handballs NCMS000 handball
+DICOLLEC: handball	PAR: match__n	FORMS: NCMP000 handballs NCMS000 handball
+
+APERTIUM: harmonica	PAR: abeille__n	FORMS: NCFP000 harmonicas NCFS000 harmonica
+DICOLLEC: harmonica	PAR: livre__n	FORMS: NCMP000 harmonicas NCMS000 harmonica
+DICOLLEC: harmonica	PAR: match__n	FORMS: NCMP000 harmonicas NCMS000 harmonica
+
+APERTIUM: haschisch	PAR: ex__n	FORMS: NCCN000 haschisch
+DICOLLEC: haschisch	PAR: livre__n	FORMS: NCMP000 haschischs NCMS000 haschisch
+DICOLLEC: haschisch	PAR: match__n	FORMS: NCMP000 haschischs NCMS000 haschisch
+
+APERTIUM: hectare	PAR: abeille__n	FORMS: NCFP000 hectares NCFS000 hectare
+DICOLLEC: hectare	PAR: livre__n	FORMS: NCMP000 hectares NCMS000 hectare
+DICOLLEC: hectare	PAR: match__n	FORMS: NCMP000 hectares NCMS000 hectare
+
+APERTIUM: hockey	PAR: personnel__n	FORMS: NCMS000 hockey
+DICOLLEC: hockey	PAR: livre__n	FORMS: NCMP000 hockeys NCMS000 hockey
+DICOLLEC: hockey	PAR: match__n	FORMS: NCMP000 hockeys NCMS000 hockey
+
+APERTIUM: horloger	PAR: livre__n	FORMS: NCMP000 horlogers NCMS000 horloger
+DICOLLEC: horloger	PAR: bouch/er__n	FORMS: NCFP000 horlogères NCFS000 horlogère NCMP000 horlogers NCMS000 horloger
+
+APERTIUM: huissier	PAR: livre__n	FORMS: NCMP000 huissiers NCMS000 huissier
+DICOLLEC: huissier	PAR: bouch/er__n	FORMS: NCFP000 huissières NCFS000 huissière NCMP000 huissiers NCMS000 huissier
+
+APERTIUM: humain	PAR: livre__n	FORMS: NCMP000 humains NCMS000 humain
+DICOLLEC: humain	PAR: affecté__n	FORMS: NCFP000 humaines NCFS000 humaine NCMP000 humains NCMS000 humain
+
+APERTIUM: hussard	PAR: livre__n	FORMS: NCMP000 hussards NCMS000 hussard
+DICOLLEC: hussard	PAR: affecté__n	FORMS: NCFP000 hussardes NCFS000 hussarde NCMP000 hussards NCMS000 hussard
+
+APERTIUM: hymne	PAR: livre__n	FORMS: NCMP000 hymnes NCMS000 hymne
+DICOLLEC: hymne	PAR: artiste__n	FORMS: NCCP000 hymnes NCCS000 hymne
+
+APERTIUM: héros	PAR: héro/s__n	FORMS: NCFP000 héroïnes NCFS000 héroïne NCMN000 héros
+DICOLLEC: héros	PAR: IRPF__n	FORMS: NCMN000 héros
+DICOLLEC: héros	PAR: mois__n	FORMS: NCMN000 héros
+
+APERTIUM: hôte	PAR: buffle__n	FORMS: NCFP000 hôtesses NCFS000 hôtesse NCMP000 hôtes NCMS000 hôte
+DICOLLEC: hôte	PAR: artiste__n	FORMS: NCCP000 hôtes NCCS000 hôte
+
+APERTIUM: impayé	PAR: affecté__n	FORMS: NCFP000 impayées NCFS000 impayée NCMP000 impayés NCMS000 impayé
+DICOLLEC: impayé	PAR: livre__n	FORMS: NCMP000 impayés NCMS000 impayé
+DICOLLEC: impayé	PAR: match__n	FORMS: NCMP000 impayés NCMS000 impayé
+
+APERTIUM: imprimeur	PAR: livre__n	FORMS: NCMP000 imprimeurs NCMS000 imprimeur
+DICOLLEC: imprimeur	PAR: causeu/r__n	FORMS: NCFP000 imprimeuses NCFS000 imprimeuse NCMP000 imprimeurs NCMS000 imprimeur
+DICOLLEC: imprimeur	PAR: débit/eur__n	FORMS: NCFP000 imprimeuses NCFS000 imprimeuse NCMP000 imprimeurs NCMS000 imprimeur
+DICOLLEC: imprimeur	PAR: vende/ur__n	FORMS: NCFP000 imprimeuses NCFS000 imprimeuse NCMP000 imprimeurs NCMS000 imprimeur
+
+APERTIUM: incident	PAR: livre__n	FORMS: NCMP000 incidents NCMS000 incident
+DICOLLEC: incident	PAR: affecté__n	FORMS: NCFP000 incidentes NCFS000 incidente NCMP000 incidents NCMS000 incident
+
+APERTIUM: incohérence	PAR: livre__n	FORMS: NCMP000 incohérences NCMS000 incohérence
+DICOLLEC: incohérence	PAR: abeille__n	FORMS: NCFP000 incohérences NCFS000 incohérence
+
+APERTIUM: infidélité	PAR: livre__n	FORMS: NCMP000 infidélités NCMS000 infidélité
+DICOLLEC: infidélité	PAR: abeille__n	FORMS: NCFP000 infidélités NCFS000 infidélité
+
+APERTIUM: infini	PAR: livre__n	FORMS: NCMP000 infinis NCMS000 infini
+DICOLLEC: infini	PAR: affecté__n	FORMS: NCFP000 infinies NCFS000 infinie NCMP000 infinis NCMS000 infini
+
+APERTIUM: info	PAR: mois__n	FORMS: NCMN000 info
+DICOLLEC: info	PAR: abeille__n	FORMS: NCFP000 infos NCFS000 info
+
+APERTIUM: ingénieur	PAR: artiste__n	FORMS: NCCP000 ingénieurs NCCS000 ingénieur
+DICOLLEC: ingénieur	PAR: affecté__n	FORMS: NCFP000 ingénieures NCFS000 ingénieure NCMP000 ingénieurs NCMS000 ingénieur
+
+APERTIUM: insigne	PAR: abeille__n	FORMS: NCFP000 insignes NCFS000 insigne
+DICOLLEC: insigne	PAR: livre__n	FORMS: NCMP000 insignes NCMS000 insigne
+DICOLLEC: insigne	PAR: match__n	FORMS: NCMP000 insignes NCMS000 insigne
+
+APERTIUM: internet	PAR: argent__n	FORMS: NCMS000 internet
+DICOLLEC: internet	PAR: livre__n	FORMS: NCMP000 internets NCMS000 internet
+DICOLLEC: internet	PAR: match__n	FORMS: NCMP000 internets NCMS000 internet
+
+APERTIUM: interrupteur	PAR: livre__n	FORMS: NCMP000 interrupteurs NCMS000 interrupteur
+DICOLLEC: interrupteur	PAR: administrat/eur__n	FORMS: NCFP000 interruptrices NCFS000 interruptrice NCMP000 interrupteurs NCMS000 interrupteur
+
+APERTIUM: intégration	PAR: livre__n	FORMS: NCMP000 intégrations NCMS000 intégration
+DICOLLEC: intégration	PAR: abeille__n	FORMS: NCFP000 intégrations NCFS000 intégration
+
+APERTIUM: islam	PAR: personnel__n	FORMS: NCMS000 islam
+DICOLLEC: islam	PAR: livre__n	FORMS: NCMP000 islams NCMS000 islam
+DICOLLEC: islam	PAR: match__n	FORMS: NCMP000 islams NCMS000 islam
+
+APERTIUM: ivrogne	PAR: artiste__n	FORMS: NCCP000 ivrognes NCCS000 ivrogne
+DICOLLEC: ivrogne	PAR: buffle__n	FORMS: NCFP000 ivrognesses NCFS000 ivrognesse NCMP000 ivrognes NCMS000 ivrogne
+DICOLLEC: ivrogne	PAR: maire__n	FORMS: NCFP000 ivrognesses NCFS000 ivrognesse NCMP000 ivrognes NCMS000 ivrogne
+
+APERTIUM: jeans	PAR: abords__n	FORMS: NCMP000 jeans
+DICOLLEC: jeans	PAR: IRPF__n	FORMS: NCMN000 jeans
+DICOLLEC: jeans	PAR: mois__n	FORMS: NCMN000 jeans
+
+APERTIUM: juge	PAR: livre__n	FORMS: NCMP000 juges NCMS000 juge
+DICOLLEC: juge	PAR: artiste__n	FORMS: NCCP000 juges NCCS000 juge
+
+APERTIUM: jus	PAR: livre__n	FORMS: NCMP000 juss NCMS000 jus
+DICOLLEC: jus	PAR: IRPF__n	FORMS: NCMN000 jus
+DICOLLEC: jus	PAR: mois__n	FORMS: NCMN000 jus
+
+APERTIUM: kéfir	PAR: personnel__n	FORMS: NCMS000 kéfir
+DICOLLEC: kéfir	PAR: livre__n	FORMS: NCMP000 kéfirs NCMS000 kéfir
+DICOLLEC: kéfir	PAR: match__n	FORMS: NCMP000 kéfirs NCMS000 kéfir
+
+APERTIUM: laboureur	PAR: causeu/r__n	FORMS: NCFP000 laboureuses NCFS000 laboureuse NCMP000 laboureurs NCMS000 laboureur
+DICOLLEC: laboureur	PAR: livre__n	FORMS: NCMP000 laboureurs NCMS000 laboureur
+DICOLLEC: laboureur	PAR: match__n	FORMS: NCMP000 laboureurs NCMS000 laboureur
+
+APERTIUM: large	PAR: livre__n	FORMS: NCMP000 larges NCMS000 large
+DICOLLEC: large	PAR: BBVA__n	FORMS: NCMS000 large
+DICOLLEC: large	PAR: argent__n	FORMS: NCMS000 large
+DICOLLEC: large	PAR: personnel__n	FORMS: NCMS000 large
+
+APERTIUM: latin	PAR: personnel__n	FORMS: NCMS000 latin
+DICOLLEC: latin	PAR: affecté__n	FORMS: NCFP000 latines NCFS000 latine NCMP000 latins NCMS000 latin
+
+APERTIUM: latte	PAR: livre__n	FORMS: NCMP000 lattes NCMS000 latte
+DICOLLEC: latte	PAR: abeille__n	FORMS: NCFP000 lattes NCFS000 latte
+
+APERTIUM: laurier-rose	PAR: livre__n	FORMS: NCMP000 laurier-roses NCMS000 laurier-rose
+DICOLLEC: laurier-rose	PAR: BBVA__n	FORMS: NCMS000 laurier-rose
+DICOLLEC: laurier-rose	PAR: argent__n	FORMS: NCMS000 laurier-rose
+DICOLLEC: laurier-rose	PAR: personnel__n	FORMS: NCMS000 laurier-rose
+
+APERTIUM: lendemain	PAR: personnel__n	FORMS: NCMS000 lendemain
+DICOLLEC: lendemain	PAR: livre__n	FORMS: NCMP000 lendemains NCMS000 lendemain
+DICOLLEC: lendemain	PAR: match__n	FORMS: NCMP000 lendemains NCMS000 lendemain
+
+APERTIUM: livre	PAR: livre__n	FORMS: NCMP000 livres NCMS000 livre
+DICOLLEC: livre	PAR: artiste__n	FORMS: NCCP000 livres NCCS000 livre
+
+APERTIUM: local	PAR: livre__n	FORMS: NCMP000 locals NCMS000 local
+DICOLLEC: local	PAR: anima/l__n	FORMS: NCMP000 locaux NCMS000 local
+
+APERTIUM: long-métrage	PAR: livre__n	FORMS: NCMP000 long-métrages NCMS000 long-métrage
+DICOLLEC: long-métrage	PAR: BBVA__n	FORMS: NCMS000 long-métrage
+DICOLLEC: long-métrage	PAR: argent__n	FORMS: NCMS000 long-métrage
+DICOLLEC: long-métrage	PAR: personnel__n	FORMS: NCMS000 long-métrage
+
+APERTIUM: lutin	PAR: affecté__n	FORMS: NCFP000 lutines NCFS000 lutine NCMP000 lutins NCMS000 lutin
+DICOLLEC: lutin	PAR: livre__n	FORMS: NCMP000 lutins NCMS000 lutin
+DICOLLEC: lutin	PAR: match__n	FORMS: NCMP000 lutins NCMS000 lutin
+
+APERTIUM: légume	PAR: livre__n	FORMS: NCMP000 légumes NCMS000 légume
+DICOLLEC: légume	PAR: artiste__n	FORMS: NCCP000 légumes NCCS000 légume
+
+APERTIUM: machiste	PAR: artiste__n	FORMS: NCCP000 machistes NCCS000 machiste
+DICOLLEC: machiste	PAR: livre__n	FORMS: NCMP000 machistes NCMS000 machiste
+DICOLLEC: machiste	PAR: match__n	FORMS: NCMP000 machistes NCMS000 machiste
+
+APERTIUM: maghrébin	PAR: ancien__n	FORMS: NCFP000 maghrébinnes NCFS000 maghrébinne NCMP000 maghrébins NCMS000 maghrébin
+DICOLLEC: maghrébin	PAR: affecté__n	FORMS: NCFP000 maghrébines NCFS000 maghrébine NCMP000 maghrébins NCMS000 maghrébin
+
+APERTIUM: maire	PAR: maire__n	FORMS: NCFP000 mairesses NCFS000 mairesse NCMP000 maires NCMS000 maire
+DICOLLEC: maire	PAR: artiste__n	FORMS: NCCP000 maires NCCS000 maire
+
+APERTIUM: manager	PAR: livre__n	FORMS: NCMP000 managers NCMS000 manager
+DICOLLEC: manager	PAR: artiste__n	FORMS: NCCP000 managers NCCS000 manager
+
+APERTIUM: manche	PAR: livre__n	FORMS: NCMP000 manches NCMS000 manche
+DICOLLEC: manche	PAR: artiste__n	FORMS: NCCP000 manches NCCS000 manche
+
+APERTIUM: mannequin	PAR: livre__n	FORMS: NCMP000 mannequins NCMS000 mannequin
+DICOLLEC: mannequin	PAR: artiste__n	FORMS: NCCP000 mannequins NCCS000 mannequin
+
+APERTIUM: marchand	PAR: livre__n	FORMS: NCMP000 marchands NCMS000 marchand
+DICOLLEC: marchand	PAR: affecté__n	FORMS: NCFP000 marchandes NCFS000 marchande NCMP000 marchands NCMS000 marchand
+
+APERTIUM: marge	PAR: livre__n	FORMS: NCMP000 marges NCMS000 marge
+DICOLLEC: marge	PAR: abeille__n	FORMS: NCFP000 marges NCFS000 marge
+
+APERTIUM: marin	PAR: ancien__n	FORMS: NCFP000 marinnes NCFS000 marinne NCMP000 marins NCMS000 marin
+DICOLLEC: marin	PAR: affecté__n	FORMS: NCFP000 marines NCFS000 marine NCMP000 marins NCMS000 marin
+
+APERTIUM: marqueur	PAR: livre__n	FORMS: NCMP000 marqueurs NCMS000 marqueur
+DICOLLEC: marqueur	PAR: causeu/r__n	FORMS: NCFP000 marqueuses NCFS000 marqueuse NCMP000 marqueurs NCMS000 marqueur
+DICOLLEC: marqueur	PAR: débit/eur__n	FORMS: NCFP000 marqueuses NCFS000 marqueuse NCMP000 marqueurs NCMS000 marqueur
+DICOLLEC: marqueur	PAR: vende/ur__n	FORMS: NCFP000 marqueuses NCFS000 marqueuse NCMP000 marqueurs NCMS000 marqueur
+
+APERTIUM: marrant	PAR: livre__n	FORMS: NCMP000 marrants NCMS000 marrant
+DICOLLEC: marrant	PAR: affecté__n	FORMS: NCFP000 marrantes NCFS000 marrante NCMP000 marrants NCMS000 marrant
+
+APERTIUM: maréchal	PAR: livre__n	FORMS: NCMP000 maréchals NCMS000 maréchal
+DICOLLEC: maréchal	PAR: commercia/l__n	FORMS: NCFP000 maréchales NCFS000 maréchale NCMP000 maréchaux NCMS000 maréchal
+
+APERTIUM: matériel	PAR: livre__n	FORMS: NCMP000 matériels NCMS000 matériel
+DICOLLEC: matériel	PAR: colonel__n	FORMS: NCFP000 matérielles NCFS000 matérielle NCMP000 matériels NCMS000 matériel
+
+APERTIUM: maître	PAR: livre__n	FORMS: NCMP000 maîtres NCMS000 maître
+DICOLLEC: maître	PAR: buffle__n	FORMS: NCFP000 maîtresses NCFS000 maîtresse NCMP000 maîtres NCMS000 maître
+DICOLLEC: maître	PAR: maire__n	FORMS: NCFP000 maîtresses NCFS000 maîtresse NCMP000 maîtres NCMS000 maître
+
+APERTIUM: mendiant	PAR: livre__n	FORMS: NCMP000 mendiants NCMS000 mendiant
+DICOLLEC: mendiant	PAR: affecté__n	FORMS: NCFP000 mendiantes NCFS000 mendiante NCMP000 mendiants NCMS000 mendiant
+
+APERTIUM: merci	PAR: livre__n	FORMS: NCMP000 mercis NCMS000 merci
+DICOLLEC: merci	PAR: artiste__n	FORMS: NCCP000 mercis NCCS000 merci
+
+APERTIUM: micro	PAR: livre__n	FORMS: NCMP000 micros NCMS000 micro
+DICOLLEC: micro	PAR: artiste__n	FORMS: NCCP000 micros NCCS000 micro
+
+APERTIUM: millénaire	PAR: livre__n	FORMS: NCMP000 millénaires NCMS000 millénaire
+DICOLLEC: millénaire	PAR: artiste__n	FORMS: NCCP000 millénaires NCCS000 millénaire
+
+APERTIUM: mini	PAR: livre__n	FORMS: NCMP000 minis NCMS000 mini
+DICOLLEC: mini	PAR: artiste__n	FORMS: NCCP000 minis NCCS000 mini
+
+APERTIUM: minime	PAR: abeille__n	FORMS: NCFP000 minimes NCFS000 minime
+DICOLLEC: minime	PAR: artiste__n	FORMS: NCCP000 minimes NCCS000 minime
+
+APERTIUM: ministre	PAR: livre__n	FORMS: NCMP000 ministres NCMS000 ministre
+DICOLLEC: ministre	PAR: artiste__n	FORMS: NCCP000 ministres NCCS000 ministre
+
+APERTIUM: missile	PAR: abeille__n	FORMS: NCFP000 missiles NCFS000 missile
+DICOLLEC: missile	PAR: livre__n	FORMS: NCMP000 missiles NCMS000 missile
+DICOLLEC: missile	PAR: match__n	FORMS: NCMP000 missiles NCMS000 missile
+
+APERTIUM: mixer	PAR: livre__n	FORMS: NCMP000 mixers NCMS000 mixer
+DICOLLEC: mixer	PAR: artiste__n	FORMS: NCCP000 mixers NCCS000 mixer
+
+APERTIUM: mode	PAR: livre__n	FORMS: NCMP000 modes NCMS000 mode
+DICOLLEC: mode	PAR: artiste__n	FORMS: NCCP000 modes NCCS000 mode
+
+APERTIUM: modèle	PAR: livre__n	FORMS: NCMP000 modèles NCMS000 modèle
+DICOLLEC: modèle	PAR: artiste__n	FORMS: NCCP000 modèles NCCS000 modèle
+
+APERTIUM: monoplace	PAR: livre__n	FORMS: NCMP000 monoplaces NCMS000 monoplace
+DICOLLEC: monoplace	PAR: artiste__n	FORMS: NCCP000 monoplaces NCCS000 monoplace
+
+APERTIUM: monsieur	PAR: m/onsieur__n	FORMS: NCMP000 messieurs NCMS000 monsieur
+DICOLLEC: monsieur	PAR: BBVA__n	FORMS: NCMS000 monsieur
+DICOLLEC: monsieur	PAR: argent__n	FORMS: NCMS000 monsieur
+DICOLLEC: monsieur	PAR: personnel__n	FORMS: NCMS000 monsieur
+
+APERTIUM: moratoire	PAR: abeille__n	FORMS: NCFP000 moratoires NCFS000 moratoire
+DICOLLEC: moratoire	PAR: livre__n	FORMS: NCMP000 moratoires NCMS000 moratoire
+DICOLLEC: moratoire	PAR: match__n	FORMS: NCMP000 moratoires NCMS000 moratoire
+
+APERTIUM: mosaïque	PAR: livre__n	FORMS: NCMP000 mosaïques NCMS000 mosaïque
+DICOLLEC: mosaïque	PAR: abeille__n	FORMS: NCFP000 mosaïques NCFS000 mosaïque
+
+APERTIUM: moteur	PAR: livre__n	FORMS: NCMP000 moteurs NCMS000 moteur
+DICOLLEC: moteur	PAR: administrat/eur__n	FORMS: NCFP000 motrices NCFS000 motrice NCMP000 moteurs NCMS000 moteur
+
+APERTIUM: motocyclisme	PAR: personnel__n	FORMS: NCMS000 motocyclisme
+DICOLLEC: motocyclisme	PAR: livre__n	FORMS: NCMP000 motocyclismes NCMS000 motocyclisme
+DICOLLEC: motocyclisme	PAR: match__n	FORMS: NCMP000 motocyclismes NCMS000 motocyclisme
+
+APERTIUM: moule	PAR: livre__n	FORMS: NCMP000 moules NCMS000 moule
+DICOLLEC: moule	PAR: artiste__n	FORMS: NCCP000 moules NCCS000 moule
+
+APERTIUM: moustache	PAR: livre__n	FORMS: NCMP000 moustaches NCMS000 moustache
+DICOLLEC: moustache	PAR: abeille__n	FORMS: NCFP000 moustaches NCFS000 moustache
+
+APERTIUM: moyen	PAR: livre__n	FORMS: NCMP000 moyens NCMS000 moyen
+DICOLLEC: moyen	PAR: ancien__n	FORMS: NCFP000 moyennes NCFS000 moyenne NCMP000 moyens NCMS000 moyen
+
+APERTIUM: mystique	PAR: abeille__n	FORMS: NCFP000 mystiques NCFS000 mystique
+DICOLLEC: mystique	PAR: artiste__n	FORMS: NCCP000 mystiques NCCS000 mystique
+
+APERTIUM: méandre	PAR: abeille__n	FORMS: NCFP000 méandres NCFS000 méandre
+DICOLLEC: méandre	PAR: livre__n	FORMS: NCMP000 méandres NCMS000 méandre
+DICOLLEC: méandre	PAR: match__n	FORMS: NCMP000 méandres NCMS000 méandre
+
+APERTIUM: mémoire	PAR: abeille__n	FORMS: NCFP000 mémoires NCFS000 mémoire
+DICOLLEC: mémoire	PAR: artiste__n	FORMS: NCCP000 mémoires NCCS000 mémoire
+
+APERTIUM: méridien	PAR: livre__n	FORMS: NCMP000 méridiens NCMS000 méridien
+DICOLLEC: méridien	PAR: ancien__n	FORMS: NCFP000 méridiennes NCFS000 méridienne NCMP000 méridiens NCMS000 méridien
+
+APERTIUM: méthane	PAR: personnel__n	FORMS: NCMS000 méthane
+DICOLLEC: méthane	PAR: livre__n	FORMS: NCMP000 méthanes NCMS000 méthane
+DICOLLEC: méthane	PAR: match__n	FORMS: NCMP000 méthanes NCMS000 méthane
+
+APERTIUM: méthode	PAR: livre__n	FORMS: NCMP000 méthodes NCMS000 méthode
+DICOLLEC: méthode	PAR: abeille__n	FORMS: NCFP000 méthodes NCFS000 méthode
+
+APERTIUM: métro	PAR: livre__n	FORMS: NCMP000 métros NCMS000 métro
+DICOLLEC: métro	PAR: artiste__n	FORMS: NCCP000 métros NCCS000 métro
+
+APERTIUM: météo	PAR: fois__n	FORMS: NCFN000 météo
+DICOLLEC: météo	PAR: abeille__n	FORMS: NCFP000 météos NCFS000 météo
+
+APERTIUM: naturel	PAR: livre__n	FORMS: NCMP000 naturels NCMS000 naturel
+DICOLLEC: naturel	PAR: colonel__n	FORMS: NCFP000 naturelles NCFS000 naturelle NCMP000 naturels NCMS000 naturel
+
+APERTIUM: neurone	PAR: abeille__n	FORMS: NCFP000 neurones NCFS000 neurone
+DICOLLEC: neurone	PAR: livre__n	FORMS: NCMP000 neurones NCMS000 neurone
+DICOLLEC: neurone	PAR: match__n	FORMS: NCMP000 neurones NCMS000 neurone
+
+APERTIUM: newsletter	PAR: livre__n	FORMS: NCMP000 newsletters NCMS000 newsletter
+DICOLLEC: newsletter	PAR: abeille__n	FORMS: NCFP000 newsletters NCFS000 newsletter
+
+APERTIUM: nord-est	PAR: artiste__n	FORMS: NCCP000 nord-ests NCCS000 nord-est
+DICOLLEC: nord-est	PAR: BBVA__n	FORMS: NCMS000 nord-est
+DICOLLEC: nord-est	PAR: argent__n	FORMS: NCMS000 nord-est
+DICOLLEC: nord-est	PAR: personnel__n	FORMS: NCMS000 nord-est
+
+APERTIUM: nord-ouest	PAR: artiste__n	FORMS: NCCP000 nord-ouests NCCS000 nord-ouest
+DICOLLEC: nord-ouest	PAR: BBVA__n	FORMS: NCMS000 nord-ouest
+DICOLLEC: nord-ouest	PAR: argent__n	FORMS: NCMS000 nord-ouest
+DICOLLEC: nord-ouest	PAR: personnel__n	FORMS: NCMS000 nord-ouest
+
+APERTIUM: noyau	PAR: livre__n	FORMS: NCMP000 noyaus NCMS000 noyau
+DICOLLEC: noyau	PAR: lieu__n	FORMS: NCMP000 noyaux NCMS000 noyau
+
+APERTIUM: noël	PAR: mois__n	FORMS: NCMN000 noël
+DICOLLEC: noël	PAR: cie/l__n	FORMS: NCMP000 noëls NCMS000 noël
+DICOLLEC: noël	PAR: livre__n	FORMS: NCMP000 noëls NCMS000 noël
+DICOLLEC: noël	PAR: match__n	FORMS: NCMP000 noëls NCMS000 noël
+
+APERTIUM: négatif	PAR: livre__n	FORMS: NCMP000 négatifs NCMS000 négatif
+DICOLLEC: négatif	PAR: jui/f__n	FORMS: NCFP000 négatives NCFS000 négative NCMP000 négatifs NCMS000 négatif
+
+APERTIUM: occident	PAR: personnel__n	FORMS: NCMS000 occident
+DICOLLEC: occident	PAR: livre__n	FORMS: NCMP000 occidents NCMS000 occident
+DICOLLEC: occident	PAR: match__n	FORMS: NCMP000 occidents NCMS000 occident
+
+APERTIUM: odeur	PAR: livre__n	FORMS: NCMP000 odeurs NCMS000 odeur
+DICOLLEC: odeur	PAR: abeille__n	FORMS: NCFP000 odeurs NCFS000 odeur
+
+APERTIUM: olive	PAR: livre__n	FORMS: NCMP000 olives NCMS000 olive
+DICOLLEC: olive	PAR: abeille__n	FORMS: NCFP000 olives NCFS000 olive
+
+APERTIUM: ombre	PAR: abeille__n	FORMS: NCFP000 ombres NCFS000 ombre
+DICOLLEC: ombre	PAR: artiste__n	FORMS: NCCP000 ombres NCCS000 ombre
+
+APERTIUM: opposant	PAR: livre__n	FORMS: NCMP000 opposants NCMS000 opposant
+DICOLLEC: opposant	PAR: affecté__n	FORMS: NCFP000 opposantes NCFS000 opposante NCMP000 opposants NCMS000 opposant
+
+APERTIUM: opérateur	PAR: débit/eur__n	FORMS: NCFP000 opérateuses NCFS000 opérateuse NCMP000 opérateurs NCMS000 opérateur
+DICOLLEC: opérateur	PAR: administrat/eur__n	FORMS: NCFP000 opératrices NCFS000 opératrice NCMP000 opérateurs NCMS000 opérateur
+
+APERTIUM: orange	PAR: abeille__n	FORMS: NCFP000 oranges NCFS000 orange
+DICOLLEC: orange	PAR: artiste__n	FORMS: NCCP000 oranges NCCS000 orange
+
+APERTIUM: ordonnance	PAR: abeille__n	FORMS: NCFP000 ordonnances NCFS000 ordonnance
+DICOLLEC: ordonnance	PAR: artiste__n	FORMS: NCCP000 ordonnances NCCS000 ordonnance
+
+APERTIUM: orient	PAR: personnel__n	FORMS: NCMS000 orient
+DICOLLEC: orient	PAR: livre__n	FORMS: NCMP000 orients NCMS000 orient
+DICOLLEC: orient	PAR: match__n	FORMS: NCMP000 orients NCMS000 orient
+
+APERTIUM: otage	PAR: livre__n	FORMS: NCMP000 otages NCMS000 otage
+DICOLLEC: otage	PAR: artiste__n	FORMS: NCCP000 otages NCCS000 otage
+
+APERTIUM: oto-rhino	PAR: livre__n	FORMS: NCMP000 oto-rhinos NCMS000 oto-rhino
+DICOLLEC: oto-rhino	PAR: artiste__n	FORMS: NCCP000 oto-rhinos NCCS000 oto-rhino
+
+APERTIUM: ozone	PAR: personnel__n	FORMS: NCMS000 ozone
+DICOLLEC: ozone	PAR: livre__n	FORMS: NCMP000 ozones NCMS000 ozone
+DICOLLEC: ozone	PAR: match__n	FORMS: NCMP000 ozones NCMS000 ozone
+
+APERTIUM: page	PAR: abeille__n	FORMS: NCFP000 pages NCFS000 page
+DICOLLEC: page	PAR: artiste__n	FORMS: NCCP000 pages NCCS000 page
+
+APERTIUM: pakistanais	PAR: pakistanais__n	FORMS: NCFP000 pakistanaises NCFS000 pakistanaise
+DICOLLEC: pakistanais	PAR: admis__n	FORMS: NCFP000 pakistanaises NCFS000 pakistanaise NCMN000 pakistanais
+
+APERTIUM: palier	PAR: livre__n	FORMS: NCMP000 paliers NCMS000 palier
+DICOLLEC: palier	PAR: bouch/er__n	FORMS: NCFP000 palières NCFS000 palière NCMP000 paliers NCMS000 palier
+
+APERTIUM: panier	PAR: livre__n	FORMS: NCMP000 paniers NCMS000 panier
+DICOLLEC: panier	PAR: bouch/er__n	FORMS: NCFP000 panières NCFS000 panière NCMP000 paniers NCMS000 panier
+
+APERTIUM: panoramique	PAR: abeille__n	FORMS: NCFP000 panoramiques NCFS000 panoramique
+DICOLLEC: panoramique	PAR: livre__n	FORMS: NCMP000 panoramiques NCMS000 panoramique
+DICOLLEC: panoramique	PAR: match__n	FORMS: NCMP000 panoramiques NCMS000 panoramique
+
+APERTIUM: pape	PAR: livre__n	FORMS: NCMP000 papes NCMS000 pape
+DICOLLEC: pape	PAR: buffle__n	FORMS: NCFP000 papesses NCFS000 papesse NCMP000 papes NCMS000 pape
+DICOLLEC: pape	PAR: maire__n	FORMS: NCFP000 papesses NCFS000 papesse NCMP000 papes NCMS000 pape
+
+APERTIUM: parachutisme	PAR: personnel__n	FORMS: NCMS000 parachutisme
+DICOLLEC: parachutisme	PAR: livre__n	FORMS: NCMP000 parachutismes NCMS000 parachutisme
+DICOLLEC: parachutisme	PAR: match__n	FORMS: NCMP000 parachutismes NCMS000 parachutisme
+
+APERTIUM: parallèle	PAR: livre__n	FORMS: NCMP000 parallèles NCMS000 parallèle
+DICOLLEC: parallèle	PAR: artiste__n	FORMS: NCCP000 parallèles NCCS000 parallèle
+
+APERTIUM: parquet	PAR: personnel__n	FORMS: NCMS000 parquet
+DICOLLEC: parquet	PAR: livre__n	FORMS: NCMP000 parquets NCMS000 parquet
+DICOLLEC: parquet	PAR: match__n	FORMS: NCMP000 parquets NCMS000 parquet
+
+APERTIUM: part	PAR: abeille__n	FORMS: NCFP000 parts NCFS000 part
+DICOLLEC: part	PAR: artiste__n	FORMS: NCCP000 parts NCCS000 part
+
+APERTIUM: partisan	PAR: chat__n	FORMS: NCFP000 partisantes NCFS000 partisante NCMP000 partisans NCMS000 partisan
+DICOLLEC: partisan	PAR: affecté__n	FORMS: NCFP000 partisanes NCFS000 partisane NCMP000 partisans NCMS000 partisan
+
+APERTIUM: passation	PAR: livre__n	FORMS: NCMP000 passations NCMS000 passation
+DICOLLEC: passation	PAR: abeille__n	FORMS: NCFP000 passations NCFS000 passation
+
+APERTIUM: passé	PAR: livre__n	FORMS: NCMP000 passés NCMS000 passé
+DICOLLEC: passé	PAR: affecté__n	FORMS: NCFP000 passées NCFS000 passée NCMP000 passés NCMS000 passé
+
+APERTIUM: patinage	PAR: personnel__n	FORMS: NCMS000 patinage
+DICOLLEC: patinage	PAR: livre__n	FORMS: NCMP000 patinages NCMS000 patinage
+DICOLLEC: patinage	PAR: match__n	FORMS: NCMP000 patinages NCMS000 patinage
+
+APERTIUM: pendule	PAR: livre__n	FORMS: NCMP000 pendules NCMS000 pendule
+DICOLLEC: pendule	PAR: artiste__n	FORMS: NCCP000 pendules NCCS000 pendule
+
+APERTIUM: persan	PAR: livre__n	FORMS: NCMP000 persans NCMS000 persan
+DICOLLEC: persan	PAR: affecté__n	FORMS: NCFP000 persanes NCFS000 persane NCMP000 persans NCMS000 persan
+
+APERTIUM: personnel	PAR: personnel__n	FORMS: NCMS000 personnel
+DICOLLEC: personnel	PAR: cie/l__n	FORMS: NCMP000 personnels NCMS000 personnel
+DICOLLEC: personnel	PAR: livre__n	FORMS: NCMP000 personnels NCMS000 personnel
+DICOLLEC: personnel	PAR: match__n	FORMS: NCMP000 personnels NCMS000 personnel
+
+APERTIUM: petit-fils	PAR: petit/-fils__n	FORMS: NCFP000 petites-filles NCFS000 petite-fille NCMP000 petits-enfants NCMS000 petit-fils
+DICOLLEC: petit-fils	PAR: BBVA__n	FORMS: NCMS000 petit-fils
+DICOLLEC: petit-fils	PAR: argent__n	FORMS: NCMS000 petit-fils
+DICOLLEC: petit-fils	PAR: personnel__n	FORMS: NCMS000 petit-fils
+
+APERTIUM: philologue	PAR: livre__n	FORMS: NCMP000 philologues NCMS000 philologue
+DICOLLEC: philologue	PAR: artiste__n	FORMS: NCCP000 philologues NCCS000 philologue
+
+APERTIUM: philosophe	PAR: livre__n	FORMS: NCMP000 philosophes NCMS000 philosophe
+DICOLLEC: philosophe	PAR: artiste__n	FORMS: NCCP000 philosophes NCCS000 philosophe
+
+APERTIUM: photocopieur	PAR: livre__n	FORMS: NCMP000 photocopieurs NCMS000 photocopieur
+DICOLLEC: photocopieur	PAR: causeu/r__n	FORMS: NCFP000 photocopieuses NCFS000 photocopieuse NCMP000 photocopieurs NCMS000 photocopieur
+DICOLLEC: photocopieur	PAR: débit/eur__n	FORMS: NCFP000 photocopieuses NCFS000 photocopieuse NCMP000 photocopieurs NCMS000 photocopieur
+DICOLLEC: photocopieur	PAR: vende/ur__n	FORMS: NCFP000 photocopieuses NCFS000 photocopieuse NCMP000 photocopieurs NCMS000 photocopieur
+
+APERTIUM: photon	PAR: artiste__n	FORMS: NCCP000 photons NCCS000 photon
+DICOLLEC: photon	PAR: livre__n	FORMS: NCMP000 photons NCMS000 photon
+DICOLLEC: photon	PAR: match__n	FORMS: NCMP000 photons NCMS000 photon
+
+APERTIUM: physique	PAR: abeille__n	FORMS: NCFP000 physiques NCFS000 physique
+DICOLLEC: physique	PAR: artiste__n	FORMS: NCCP000 physiques NCCS000 physique
+
+APERTIUM: pigeonneau	PAR: livre__n	FORMS: NCMP000 pigeonneaus NCMS000 pigeonneau
+DICOLLEC: pigeonneau	PAR: lieu__n	FORMS: NCMP000 pigeonneaux NCMS000 pigeonneau
+
+APERTIUM: pique	PAR: abeille__n	FORMS: NCFP000 piques NCFS000 pique
+DICOLLEC: pique	PAR: artiste__n	FORMS: NCCP000 piques NCCS000 pique
+
+APERTIUM: piqûre	PAR: livre__n	FORMS: NCMP000 piqûres NCMS000 piqûre
+DICOLLEC: piqûre	PAR: abeille__n	FORMS: NCFP000 piqûres NCFS000 piqûre
+
+APERTIUM: piédestal	PAR: livre__n	FORMS: NCMP000 piédestals NCMS000 piédestal
+DICOLLEC: piédestal	PAR: anima/l__n	FORMS: NCMP000 piédestaux NCMS000 piédestal
+
+APERTIUM: plancton	PAR: personnel__n	FORMS: NCMS000 plancton
+DICOLLEC: plancton	PAR: livre__n	FORMS: NCMP000 planctons NCMS000 plancton
+DICOLLEC: plancton	PAR: match__n	FORMS: NCMP000 planctons NCMS000 plancton
+
+APERTIUM: plastique	PAR: livre__n	FORMS: NCMP000 plastiques NCMS000 plastique
+DICOLLEC: plastique	PAR: artiste__n	FORMS: NCCP000 plastiques NCCS000 plastique
+
+APERTIUM: plat-bord	PAR: livre__n	FORMS: NCMP000 plat-bords NCMS000 plat-bord
+DICOLLEC: plat-bord	PAR: BBVA__n	FORMS: NCMS000 plat-bord
+DICOLLEC: plat-bord	PAR: argent__n	FORMS: NCMS000 plat-bord
+DICOLLEC: plat-bord	PAR: personnel__n	FORMS: NCMS000 plat-bord
+
+APERTIUM: plate-forme	PAR: abeille__n	FORMS: NCFP000 plate-formes NCFS000 plate-forme
+DICOLLEC: plate-forme	PAR: BBC__n	FORMS: NCFS000 plate-forme
+DICOLLEC: plate-forme	PAR: soif__n	FORMS: NCFS000 plate-forme
+
+APERTIUM: plateau	PAR: livre__n	FORMS: NCMP000 plateaus NCMS000 plateau
+DICOLLEC: plateau	PAR: lieu__n	FORMS: NCMP000 plateaux NCMS000 plateau
+
+APERTIUM: platine	PAR: livre__n	FORMS: NCMP000 platines NCMS000 platine
+DICOLLEC: platine	PAR: artiste__n	FORMS: NCCP000 platines NCCS000 platine
+
+APERTIUM: pneumatique	PAR: livre__n	FORMS: NCMP000 pneumatiques NCMS000 pneumatique
+DICOLLEC: pneumatique	PAR: artiste__n	FORMS: NCCP000 pneumatiques NCCS000 pneumatique
+
+APERTIUM: polichinelle	PAR: livre__n	FORMS: NCMP000 polichinelles NCMS000 polichinelle
+DICOLLEC: polichinelle	PAR: artiste__n	FORMS: NCCP000 polichinelles NCCS000 polichinelle
+
+APERTIUM: politique	PAR: abeille__n	FORMS: NCFP000 politiques NCFS000 politique
+DICOLLEC: politique	PAR: artiste__n	FORMS: NCCP000 politiques NCCS000 politique
+
+APERTIUM: pop	PAR: personnel__n	FORMS: NCMS000 pop
+DICOLLEC: pop	PAR: abeille__n	FORMS: NCFP000 pops NCFS000 pop
+
+APERTIUM: poste	PAR: livre__n	FORMS: NCMP000 postes NCMS000 poste
+DICOLLEC: poste	PAR: artiste__n	FORMS: NCCP000 postes NCCS000 poste
+
+APERTIUM: poussin	PAR: livre__n	FORMS: NCMP000 poussins NCMS000 poussin
+DICOLLEC: poussin	PAR: affecté__n	FORMS: NCFP000 poussines NCFS000 poussine NCMP000 poussins NCMS000 poussin
+
+APERTIUM: poète	PAR: po/ète__n	FORMS: NCFP000 poétesses NCFS000 poétesse NCMP000 poètes NCMS000 poète
+DICOLLEC: poète	PAR: livre__n	FORMS: NCMP000 poètes NCMS000 poète
+DICOLLEC: poète	PAR: match__n	FORMS: NCMP000 poètes NCMS000 poète
+
+APERTIUM: poêle	PAR: abeille__n	FORMS: NCFP000 poêles NCFS000 poêle
+DICOLLEC: poêle	PAR: artiste__n	FORMS: NCCP000 poêles NCCS000 poêle
+
+APERTIUM: premier	PAR: livre__n	FORMS: NCMP000 premiers NCMS000 premier
+DICOLLEC: premier	PAR: bouch/er__n	FORMS: NCFP000 premières NCFS000 première NCMP000 premiers NCMS000 premier
+
+APERTIUM: pro	PAR: mois__n	FORMS: NCMN000 pro
+DICOLLEC: pro	PAR: artiste__n	FORMS: NCCP000 pros NCCS000 pro
+
+APERTIUM: prochain	PAR: livre__n	FORMS: NCMP000 prochains NCMS000 prochain
+DICOLLEC: prochain	PAR: affecté__n	FORMS: NCFP000 prochaines NCFS000 prochaine NCMP000 prochains NCMS000 prochain
+
+APERTIUM: procureur	PAR: livre__n	FORMS: NCMP000 procureurs NCMS000 procureur
+DICOLLEC: procureur	PAR: causeu/r__n	FORMS: NCFP000 procureuses NCFS000 procureuse NCMP000 procureurs NCMS000 procureur
+DICOLLEC: procureur	PAR: débit/eur__n	FORMS: NCFP000 procureuses NCFS000 procureuse NCMP000 procureurs NCMS000 procureur
+DICOLLEC: procureur	PAR: vende/ur__n	FORMS: NCFP000 procureuses NCFS000 procureuse NCMP000 procureurs NCMS000 procureur
+
+APERTIUM: professeur	PAR: artiste__n	FORMS: NCCP000 professeurs NCCS000 professeur
+DICOLLEC: professeur	PAR: affecté__n	FORMS: NCFP000 professeures NCFS000 professeure NCMP000 professeurs NCMS000 professeur
+
+APERTIUM: professorat	PAR: personnel__n	FORMS: NCMS000 professorat
+DICOLLEC: professorat	PAR: livre__n	FORMS: NCMP000 professorats NCMS000 professorat
+DICOLLEC: professorat	PAR: match__n	FORMS: NCMP000 professorats NCMS000 professorat
+
+APERTIUM: promulgation	PAR: livre__n	FORMS: NCMP000 promulgations NCMS000 promulgation
+DICOLLEC: promulgation	PAR: abeille__n	FORMS: NCFP000 promulgations NCFS000 promulgation
+
+APERTIUM: prophète	PAR: po/ète__n	FORMS: NCFP000 prophétesses NCFS000 prophétesse NCMP000 prophètes NCMS000 prophète
+DICOLLEC: prophète	PAR: livre__n	FORMS: NCMP000 prophètes NCMS000 prophète
+DICOLLEC: prophète	PAR: match__n	FORMS: NCMP000 prophètes NCMS000 prophète
+
+APERTIUM: propriétaire	PAR: livre__n	FORMS: NCMP000 propriétaires NCMS000 propriétaire
+DICOLLEC: propriétaire	PAR: artiste__n	FORMS: NCCP000 propriétaires NCCS000 propriétaire
+
+APERTIUM: prune	PAR: abeille__n	FORMS: NCFP000 prunes NCFS000 prune
+DICOLLEC: prune	PAR: artiste__n	FORMS: NCCP000 prunes NCCS000 prune
+
+APERTIUM: précédent	PAR: livre__n	FORMS: NCMP000 précédents NCMS000 précédent
+DICOLLEC: précédent	PAR: affecté__n	FORMS: NCFP000 précédentes NCFS000 précédente NCMP000 précédents NCMS000 précédent
+
+APERTIUM: présent	PAR: livre__n	FORMS: NCMP000 présents NCMS000 présent
+DICOLLEC: présent	PAR: affecté__n	FORMS: NCFP000 présentes NCFS000 présente NCMP000 présents NCMS000 présent
+
+APERTIUM: prêt-à-porter	PAR: mois__n	FORMS: NCMN000 prêt-à-porter
+DICOLLEC: prêt-à-porter	PAR: BBVA__n	FORMS: NCMS000 prêt-à-porter
+DICOLLEC: prêt-à-porter	PAR: argent__n	FORMS: NCMS000 prêt-à-porter
+DICOLLEC: prêt-à-porter	PAR: personnel__n	FORMS: NCMS000 prêt-à-porter
+
+APERTIUM: pub	PAR: livre__n	FORMS: NCMP000 pubs NCMS000 pub
+DICOLLEC: pub	PAR: artiste__n	FORMS: NCCP000 pubs NCCS000 pub
+
+APERTIUM: publiciste	PAR: livre__n	FORMS: NCMP000 publicistes NCMS000 publiciste
+DICOLLEC: publiciste	PAR: artiste__n	FORMS: NCCP000 publicistes NCCS000 publiciste
+
+APERTIUM: punk	PAR: ex__n	FORMS: NCCN000 punk
+DICOLLEC: punk	PAR: artiste__n	FORMS: NCCP000 punks NCCS000 punk
+
+APERTIUM: pupille	PAR: abeille__n	FORMS: NCFP000 pupilles NCFS000 pupille
+DICOLLEC: pupille	PAR: artiste__n	FORMS: NCCP000 pupilles NCCS000 pupille
+
+APERTIUM: pyromane	PAR: livre__n	FORMS: NCMP000 pyromanes NCMS000 pyromane
+DICOLLEC: pyromane	PAR: artiste__n	FORMS: NCCP000 pyromanes NCCS000 pyromane
+
+APERTIUM: pédagogue	PAR: livre__n	FORMS: NCMP000 pédagogues NCMS000 pédagogue
+DICOLLEC: pédagogue	PAR: artiste__n	FORMS: NCCP000 pédagogues NCCS000 pédagogue
+
+APERTIUM: pédale	PAR: livre__n	FORMS: NCMP000 pédales NCMS000 pédale
+DICOLLEC: pédale	PAR: abeille__n	FORMS: NCFP000 pédales NCFS000 pédale
+
+APERTIUM: période	PAR: abeille__n	FORMS: NCFP000 périodes NCFS000 période
+DICOLLEC: période	PAR: artiste__n	FORMS: NCCP000 périodes NCCS000 période
+
+APERTIUM: pétrolier	PAR: livre__n	FORMS: NCMP000 pétroliers NCMS000 pétrolier
+DICOLLEC: pétrolier	PAR: bouch/er__n	FORMS: NCFP000 pétrolières NCFS000 pétrolière NCMP000 pétroliers NCMS000 pétrolier
+
+APERTIUM: quart	PAR: livre__n	FORMS: NCMP000 quarts NCMS000 quart
+DICOLLEC: quart	PAR: affecté__n	FORMS: NCFP000 quartes NCFS000 quarte NCMP000 quarts NCMS000 quart
+
+APERTIUM: quotidien	PAR: livre__n	FORMS: NCMP000 quotidiens NCMS000 quotidien
+DICOLLEC: quotidien	PAR: ancien__n	FORMS: NCFP000 quotidiennes NCFS000 quotidienne NCMP000 quotidiens NCMS000 quotidien
+
+APERTIUM: radio	PAR: abeille__n	FORMS: NCFP000 radios NCFS000 radio
+DICOLLEC: radio	PAR: artiste__n	FORMS: NCCP000 radios NCCS000 radio
+
+APERTIUM: rapprochement	PAR: abeille__n	FORMS: NCFP000 rapprochements NCFS000 rapprochement
+DICOLLEC: rapprochement	PAR: livre__n	FORMS: NCMP000 rapprochements NCMS000 rapprochement
+DICOLLEC: rapprochement	PAR: match__n	FORMS: NCMP000 rapprochements NCMS000 rapprochement
+
+APERTIUM: rat	PAR: livre__n	FORMS: NCMP000 rats NCMS000 rat
+DICOLLEC: rat	PAR: affecté__n	FORMS: NCFP000 rates NCFS000 rate NCMP000 rats NCMS000 rat
+
+APERTIUM: raz-de-marée	PAR: livre__n	FORMS: NCMP000 raz-de-marées NCMS000 raz-de-marée
+DICOLLEC: raz-de-marée	PAR: IRPF__n	FORMS: NCMN000 raz-de-marée
+DICOLLEC: raz-de-marée	PAR: mois__n	FORMS: NCMN000 raz-de-marée
+
+APERTIUM: rejeton	PAR: livre__n	FORMS: NCMP000 rejetons NCMS000 rejeton
+DICOLLEC: rejeton	PAR: ancien__n	FORMS: NCFP000 rejetonnes NCFS000 rejetonne NCMP000 rejetons NCMS000 rejeton
+
+APERTIUM: renard	PAR: livre__n	FORMS: NCMP000 renards NCMS000 renard
+DICOLLEC: renard	PAR: affecté__n	FORMS: NCFP000 renardes NCFS000 renarde NCMP000 renards NCMS000 renard
+
+APERTIUM: retrait	PAR: livre__n	FORMS: NCMP000 retraits NCMS000 retrait
+DICOLLEC: retrait	PAR: affecté__n	FORMS: NCFP000 retraites NCFS000 retraite NCMP000 retraits NCMS000 retrait
+
+APERTIUM: reçu	PAR: livre__n	FORMS: NCMP000 reçus NCMS000 reçu
+DICOLLEC: reçu	PAR: affecté__n	FORMS: NCFP000 reçues NCFS000 reçue NCMP000 reçus NCMS000 reçu
+
+APERTIUM: rituel	PAR: livre__n	FORMS: NCMP000 rituels NCMS000 rituel
+DICOLLEC: rituel	PAR: colonel__n	FORMS: NCFP000 rituelles NCFS000 rituelle NCMP000 rituels NCMS000 rituel
+
+APERTIUM: rock	PAR: mois__n	FORMS: NCMN000 rock
+DICOLLEC: rock	PAR: livre__n	FORMS: NCMP000 rocks NCMS000 rock
+DICOLLEC: rock	PAR: match__n	FORMS: NCMP000 rocks NCMS000 rock
+
+APERTIUM: roi	PAR: r/oi__n	FORMS: NCFP000 reines NCFS000 reine NCMP000 rois NCMS000 roi
+DICOLLEC: roi	PAR: livre__n	FORMS: NCMP000 rois NCMS000 roi
+DICOLLEC: roi	PAR: match__n	FORMS: NCMP000 rois NCMS000 roi
+
+APERTIUM: romain	PAR: livre__n	FORMS: NCMP000 romains NCMS000 romain
+DICOLLEC: romain	PAR: affecté__n	FORMS: NCFP000 romaines NCFS000 romaine NCMP000 romains NCMS000 romain
+
+APERTIUM: rond	PAR: livre__n	FORMS: NCMP000 ronds NCMS000 rond
+DICOLLEC: rond	PAR: affecté__n	FORMS: NCFP000 rondes NCFS000 ronde NCMP000 ronds NCMS000 rond
+
+APERTIUM: rose	PAR: abeille__n	FORMS: NCFP000 roses NCFS000 rose
+DICOLLEC: rose	PAR: artiste__n	FORMS: NCCP000 roses NCCS000 rose
+
+APERTIUM: rosier	PAR: livre__n	FORMS: NCMP000 rosiers NCMS000 rosier
+DICOLLEC: rosier	PAR: bouch/er__n	FORMS: NCFP000 rosières NCFS000 rosière NCMP000 rosiers NCMS000 rosier
+
+APERTIUM: rouge	PAR: livre__n	FORMS: NCMP000 rouges NCMS000 rouge
+DICOLLEC: rouge	PAR: artiste__n	FORMS: NCCP000 rouges NCCS000 rouge
+
+APERTIUM: rugby	PAR: personnel__n	FORMS: NCMS000 rugby
+DICOLLEC: rugby	PAR: livre__n	FORMS: NCMP000 rugbys NCMS000 rugby
+DICOLLEC: rugby	PAR: match__n	FORMS: NCMP000 rugbys NCMS000 rugby
+
+APERTIUM: rumeur	PAR: livre__n	FORMS: NCMP000 rumeurs NCMS000 rumeur
+DICOLLEC: rumeur	PAR: abeille__n	FORMS: NCFP000 rumeurs NCFS000 rumeur
+
+APERTIUM: réaction	PAR: livre__n	FORMS: NCMP000 réactions NCMS000 réaction
+DICOLLEC: réaction	PAR: abeille__n	FORMS: NCFP000 réactions NCFS000 réaction
+
+APERTIUM: récepteur	PAR: livre__n	FORMS: NCMP000 récepteurs NCMS000 récepteur
+DICOLLEC: récepteur	PAR: administrat/eur__n	FORMS: NCFP000 réceptrices NCFS000 réceptrice NCMP000 récepteurs NCMS000 récepteur
+
+APERTIUM: réussite	PAR: livre__n	FORMS: NCMP000 réussites NCMS000 réussite
+DICOLLEC: réussite	PAR: abeille__n	FORMS: NCFP000 réussites NCFS000 réussite
+
+APERTIUM: sceau	PAR: eau__n	FORMS: NCFP000 sceaux NCFS000 sceau
+DICOLLEC: sceau	PAR: lieu__n	FORMS: NCMP000 sceaux NCMS000 sceau
+
+APERTIUM: sergent	PAR: livre__n	FORMS: NCMP000 sergents NCMS000 sergent
+DICOLLEC: sergent	PAR: affecté__n	FORMS: NCFP000 sergentes NCFS000 sergente NCMP000 sergents NCMS000 sergent
+
+APERTIUM: serviteur	PAR: serv/iteur__n	FORMS: NCFP000 servantes NCFS000 servante NCMP000 serviteurs NCMS000 serviteur
+DICOLLEC: serviteur	PAR: livre__n	FORMS: NCMP000 serviteurs NCMS000 serviteur
+DICOLLEC: serviteur	PAR: match__n	FORMS: NCMP000 serviteurs NCMS000 serviteur
+
+APERTIUM: sida	PAR: livre__n	FORMS: NCMP000 sidas NCMS000 sida
+DICOLLEC: sida	PAR: BBVA__n	FORMS: NCMS000 sida
+DICOLLEC: sida	PAR: argent__n	FORMS: NCMS000 sida
+DICOLLEC: sida	PAR: personnel__n	FORMS: NCMS000 sida
+
+APERTIUM: skipper	PAR: livre__n	FORMS: NCMP000 skippers NCMS000 skipper
+DICOLLEC: skipper	PAR: artiste__n	FORMS: NCCP000 skippers NCCS000 skipper
+
+APERTIUM: soif	PAR: soif__n	FORMS: NCFS000 soif
+DICOLLEC: soif	PAR: abeille__n	FORMS: NCFP000 soifs NCFS000 soif
+
+APERTIUM: soja	PAR: abeille__n	FORMS: NCFP000 sojas NCFS000 soja
+DICOLLEC: soja	PAR: livre__n	FORMS: NCMP000 sojas NCMS000 soja
+DICOLLEC: soja	PAR: match__n	FORMS: NCMP000 sojas NCMS000 soja
+
+APERTIUM: soldat	PAR: artiste__n	FORMS: NCCP000 soldats NCCS000 soldat
+DICOLLEC: soldat	PAR: affecté__n	FORMS: NCFP000 soldates NCFS000 soldate NCMP000 soldats NCMS000 soldat
+
+APERTIUM: solde	PAR: livre__n	FORMS: NCMP000 soldes NCMS000 solde
+DICOLLEC: solde	PAR: artiste__n	FORMS: NCCP000 soldes NCCS000 solde
+
+APERTIUM: somme	PAR: abeille__n	FORMS: NCFP000 sommes NCFS000 somme
+DICOLLEC: somme	PAR: artiste__n	FORMS: NCCP000 sommes NCCS000 somme
+
+APERTIUM: soufflé	PAR: livre__n	FORMS: NCMP000 soufflés NCMS000 soufflé
+DICOLLEC: soufflé	PAR: affecté__n	FORMS: NCFP000 soufflées NCFS000 soufflée NCMP000 soufflés NCMS000 soufflé
+
+APERTIUM: sous-lieutenant	PAR: livre__n	FORMS: NCMP000 sous-lieutenants NCMS000 sous-lieutenant
+DICOLLEC: sous-lieutenant	PAR: affecté__n	FORMS: NCFP000 sous-lieutenantes NCFS000 sous-lieutenante NCMP000 sous-lieutenants NCMS000 sous-lieutenant
+
+APERTIUM: stabilisation	PAR: livre__n	FORMS: NCMP000 stabilisations NCMS000 stabilisation
+DICOLLEC: stabilisation	PAR: abeille__n	FORMS: NCFP000 stabilisations NCFS000 stabilisation
+
+APERTIUM: station-service	PAR: abeille__n	FORMS: NCFP000 station-services NCFS000 station-service
+DICOLLEC: station-service	PAR: BBC__n	FORMS: NCFS000 station-service
+DICOLLEC: station-service	PAR: soif__n	FORMS: NCFS000 station-service
+
+APERTIUM: stylisme	PAR: artiste__n	FORMS: NCCP000 stylismes NCCS000 stylisme
+DICOLLEC: stylisme	PAR: livre__n	FORMS: NCMP000 stylismes NCMS000 stylisme
+DICOLLEC: stylisme	PAR: match__n	FORMS: NCMP000 stylismes NCMS000 stylisme
+
+APERTIUM: successeur	PAR: causeu/r__n	FORMS: NCFP000 successeuses NCFS000 successeuse NCMP000 successeurs NCMS000 successeur
+DICOLLEC: successeur	PAR: livre__n	FORMS: NCMP000 successeurs NCMS000 successeur
+DICOLLEC: successeur	PAR: match__n	FORMS: NCMP000 successeurs NCMS000 successeur
+
+APERTIUM: sujet	PAR: livre__n	FORMS: NCMP000 sujets NCMS000 sujet
+DICOLLEC: sujet	PAR: chat__n	FORMS: NCFP000 sujettes NCFS000 sujette NCMP000 sujets NCMS000 sujet
+
+APERTIUM: superviseur	PAR: livre__n	FORMS: NCMP000 superviseurs NCMS000 superviseur
+DICOLLEC: superviseur	PAR: causeu/r__n	FORMS: NCFP000 superviseuses NCFS000 superviseuse NCMP000 superviseurs NCMS000 superviseur
+DICOLLEC: superviseur	PAR: débit/eur__n	FORMS: NCFP000 superviseuses NCFS000 superviseuse NCMP000 superviseurs NCMS000 superviseur
+DICOLLEC: superviseur	PAR: vende/ur__n	FORMS: NCFP000 superviseuses NCFS000 superviseuse NCMP000 superviseurs NCMS000 superviseur
+
+APERTIUM: suspense	PAR: livre__n	FORMS: NCMP000 suspenses NCMS000 suspense
+DICOLLEC: suspense	PAR: artiste__n	FORMS: NCCP000 suspenses NCCS000 suspense
+
+APERTIUM: séisme	PAR: abeille__n	FORMS: NCFP000 séismes NCFS000 séisme
+DICOLLEC: séisme	PAR: livre__n	FORMS: NCMP000 séismes NCMS000 séisme
+DICOLLEC: séisme	PAR: match__n	FORMS: NCMP000 séismes NCMS000 séisme
+
+APERTIUM: sénateur	PAR: livre__n	FORMS: NCMP000 sénateurs NCMS000 sénateur
+DICOLLEC: sénateur	PAR: administrat/eur__n	FORMS: NCFP000 sénatrices NCFS000 sénatrice NCMP000 sénateurs NCMS000 sénateur
+
+APERTIUM: tableau	PAR: livre__n	FORMS: NCMP000 tableaus NCMS000 tableau
+DICOLLEC: tableau	PAR: lieu__n	FORMS: NCMP000 tableaux NCMS000 tableau
+
+APERTIUM: taliban	PAR: ancien__n	FORMS: NCFP000 talibannes NCFS000 talibanne NCMP000 talibans NCMS000 taliban
+DICOLLEC: taliban	PAR: affecté__n	FORMS: NCFP000 talibanes NCFS000 talibane NCMP000 talibans NCMS000 taliban
+
+APERTIUM: tennis	PAR: mois__n	FORMS: NCMN000 tennis
+DICOLLEC: tennis	PAR: ATS__n	FORMS: NCCN000 tennis
+DICOLLEC: tennis	PAR: ex__n	FORMS: NCCN000 tennis
+
+APERTIUM: terminal	PAR: anima/l__n	FORMS: NCMP000 terminaux NCMS000 terminal
+DICOLLEC: terminal	PAR: commercia/l__n	FORMS: NCFP000 terminales NCFS000 terminale NCMP000 terminaux NCMS000 terminal
+
+APERTIUM: thermos	PAR: mois__n	FORMS: NCMN000 thermos
+DICOLLEC: thermos	PAR: ATS__n	FORMS: NCCN000 thermos
+DICOLLEC: thermos	PAR: ex__n	FORMS: NCCN000 thermos
+
+APERTIUM: tigre	PAR: livre__n	FORMS: NCMP000 tigres NCMS000 tigre
+DICOLLEC: tigre	PAR: buffle__n	FORMS: NCFP000 tigresses NCFS000 tigresse NCMP000 tigres NCMS000 tigre
+DICOLLEC: tigre	PAR: maire__n	FORMS: NCFP000 tigresses NCFS000 tigresse NCMP000 tigres NCMS000 tigre
+
+APERTIUM: tirelire	PAR: livre__n	FORMS: NCMP000 tirelires NCMS000 tirelire
+DICOLLEC: tirelire	PAR: abeille__n	FORMS: NCFP000 tirelires NCFS000 tirelire
+
+APERTIUM: total	PAR: anima/l__n	FORMS: NCMP000 totaux NCMS000 total
+DICOLLEC: total	PAR: commercia/l__n	FORMS: NCFP000 totales NCFS000 totale NCMP000 totaux NCMS000 total
+
+APERTIUM: tour	PAR: livre__n	FORMS: NCMP000 tours NCMS000 tour
+DICOLLEC: tour	PAR: artiste__n	FORMS: NCCP000 tours NCCS000 tour
+
+APERTIUM: tracteur	PAR: livre__n	FORMS: NCMP000 tracteurs NCMS000 tracteur
+DICOLLEC: tracteur	PAR: administrat/eur__n	FORMS: NCFP000 tractrices NCFS000 tractrice NCMP000 tracteurs NCMS000 tracteur
+
+APERTIUM: transgresseur	PAR: causeu/r__n	FORMS: NCFP000 transgresseuses NCFS000 transgresseuse NCMP000 transgresseurs NCMS000 transgresseur
+DICOLLEC: transgresseur	PAR: livre__n	FORMS: NCMP000 transgresseurs NCMS000 transgresseur
+DICOLLEC: transgresseur	PAR: match__n	FORMS: NCMP000 transgresseurs NCMS000 transgresseur
+
+APERTIUM: transporteur	PAR: livre__n	FORMS: NCMP000 transporteurs NCMS000 transporteur
+DICOLLEC: transporteur	PAR: causeu/r__n	FORMS: NCFP000 transporteuses NCFS000 transporteuse NCMP000 transporteurs NCMS000 transporteur
+DICOLLEC: transporteur	PAR: débit/eur__n	FORMS: NCFP000 transporteuses NCFS000 transporteuse NCMP000 transporteurs NCMS000 transporteur
+DICOLLEC: transporteur	PAR: vende/ur__n	FORMS: NCFP000 transporteuses NCFS000 transporteuse NCMP000 transporteurs NCMS000 transporteur
+
+APERTIUM: traître	PAR: buffle__n	FORMS: NCFP000 traîtresses NCFS000 traîtresse NCMP000 traîtres NCMS000 traître
+DICOLLEC: traître	PAR: artiste__n	FORMS: NCCP000 traîtres NCCS000 traître
+
+APERTIUM: trekking	PAR: personnel__n	FORMS: NCMS000 trekking
+DICOLLEC: trekking	PAR: livre__n	FORMS: NCMP000 trekkings NCMS000 trekking
+DICOLLEC: trekking	PAR: match__n	FORMS: NCMP000 trekkings NCMS000 trekking
+
+APERTIUM: trompette	PAR: abeille__n	FORMS: NCFP000 trompettes NCFS000 trompette
+DICOLLEC: trompette	PAR: artiste__n	FORMS: NCCP000 trompettes NCCS000 trompette
+
+APERTIUM: urgence	PAR: livre__n	FORMS: NCMP000 urgences NCMS000 urgence
+DICOLLEC: urgence	PAR: abeille__n	FORMS: NCFP000 urgences NCFS000 urgence
+
+APERTIUM: vague	PAR: abeille__n	FORMS: NCFP000 vagues NCFS000 vague
+DICOLLEC: vague	PAR: artiste__n	FORMS: NCCP000 vagues NCCS000 vague
+
+APERTIUM: vainqueur	PAR: causeu/r__n	FORMS: NCFP000 vainqueuses NCFS000 vainqueuse NCMP000 vainqueurs NCMS000 vainqueur
+DICOLLEC: vainqueur	PAR: livre__n	FORMS: NCMP000 vainqueurs NCMS000 vainqueur
+DICOLLEC: vainqueur	PAR: match__n	FORMS: NCMP000 vainqueurs NCMS000 vainqueur
+
+APERTIUM: vampire	PAR: livre__n	FORMS: NCMP000 vampires NCMS000 vampire
+DICOLLEC: vampire	PAR: artiste__n	FORMS: NCCP000 vampires NCCS000 vampire
+
+APERTIUM: vanneau	PAR: eau__n	FORMS: NCFP000 vanneaux NCFS000 vanneau
+DICOLLEC: vanneau	PAR: lieu__n	FORMS: NCMP000 vanneaux NCMS000 vanneau
+
+APERTIUM: vapeur	PAR: abeille__n	FORMS: NCFP000 vapeurs NCFS000 vapeur
+DICOLLEC: vapeur	PAR: artiste__n	FORMS: NCCP000 vapeurs NCCS000 vapeur
+
+APERTIUM: vase	PAR: livre__n	FORMS: NCMP000 vases NCMS000 vase
+DICOLLEC: vase	PAR: artiste__n	FORMS: NCCP000 vases NCCS000 vase
+
+APERTIUM: vert	PAR: livre__n	FORMS: NCMP000 verts NCMS000 vert
+DICOLLEC: vert	PAR: affecté__n	FORMS: NCFP000 vertes NCFS000 verte NCMP000 verts NCMS000 vert
+
+APERTIUM: veto	PAR: personnel__n	FORMS: NCMS000 veto
+DICOLLEC: veto	PAR: IRPF__n	FORMS: NCMN000 veto
+DICOLLEC: veto	PAR: mois__n	FORMS: NCMN000 veto
+
+APERTIUM: vidéo	PAR: livre__n	FORMS: NCMP000 vidéos NCMS000 vidéo
+DICOLLEC: vidéo	PAR: abeille__n	FORMS: NCFP000 vidéos NCFS000 vidéo
+
+APERTIUM: vieillard	PAR: livre__n	FORMS: NCMP000 vieillards NCMS000 vieillard
+DICOLLEC: vieillard	PAR: affecté__n	FORMS: NCFP000 vieillardes NCFS000 vieillarde NCMP000 vieillards NCMS000 vieillard
+
+APERTIUM: vigile	PAR: livre__n	FORMS: NCMP000 vigiles NCMS000 vigile
+DICOLLEC: vigile	PAR: artiste__n	FORMS: NCCP000 vigiles NCCS000 vigile
+
+APERTIUM: vigueur	PAR: livre__n	FORMS: NCMP000 vigueurs NCMS000 vigueur
+DICOLLEC: vigueur	PAR: abeille__n	FORMS: NCFP000 vigueurs NCFS000 vigueur
+
+APERTIUM: violet	PAR: livre__n	FORMS: NCMP000 violets NCMS000 violet
+DICOLLEC: violet	PAR: chat__n	FORMS: NCFP000 violettes NCFS000 violette NCMP000 violets NCMS000 violet
+
+APERTIUM: voile	PAR: livre__n	FORMS: NCMP000 voiles NCMS000 voile
+DICOLLEC: voile	PAR: artiste__n	FORMS: NCCP000 voiles NCCS000 voile
+
+APERTIUM: volley	PAR: personnel__n	FORMS: NCMS000 volley
+DICOLLEC: volley	PAR: livre__n	FORMS: NCMP000 volleys NCMS000 volley
+DICOLLEC: volley	PAR: match__n	FORMS: NCMP000 volleys NCMS000 volley
+
+APERTIUM: volley-ball	PAR: personnel__n	FORMS: NCMS000 volley-ball
+DICOLLEC: volley-ball	PAR: cie/l__n	FORMS: NCMP000 volley-balls NCMS000 volley-ball
+DICOLLEC: volley-ball	PAR: livre__n	FORMS: NCMP000 volley-balls NCMS000 volley-ball
+DICOLLEC: volley-ball	PAR: match__n	FORMS: NCMP000 volley-balls NCMS000 volley-ball
+
+APERTIUM: water-polo	PAR: personnel__n	FORMS: NCMS000 water-polo
+DICOLLEC: water-polo	PAR: livre__n	FORMS: NCMP000 water-polos NCMS000 water-polo
+DICOLLEC: water-polo	PAR: match__n	FORMS: NCMP000 water-polos NCMS000 water-polo
+
+APERTIUM: web	PAR: livre__n	FORMS: NCMP000 webs NCMS000 web
+DICOLLEC: web	PAR: BBVA__n	FORMS: NCMS000 web
+DICOLLEC: web	PAR: argent__n	FORMS: NCMS000 web
+DICOLLEC: web	PAR: personnel__n	FORMS: NCMS000 web
+
+APERTIUM: zèbre	PAR: abeille__n	FORMS: NCFP000 zèbres NCFS000 zèbre
+DICOLLEC: zèbre	PAR: livre__n	FORMS: NCMP000 zèbres NCMS000 zèbre
+DICOLLEC: zèbre	PAR: match__n	FORMS: NCMP000 zèbres NCMS000 zèbre
+
+APERTIUM: écarlate	PAR: abeille__n	FORMS: NCFP000 écarlates NCFS000 écarlate
+DICOLLEC: écarlate	PAR: artiste__n	FORMS: NCCP000 écarlates NCCS000 écarlate
+
+APERTIUM: émeraude	PAR: abeille__n	FORMS: NCFP000 émeraudes NCFS000 émeraude
+DICOLLEC: émeraude	PAR: artiste__n	FORMS: NCCP000 émeraudes NCCS000 émeraude
+
+APERTIUM: épargne	PAR: livre__n	FORMS: NCMP000 épargnes NCMS000 épargne
+DICOLLEC: épargne	PAR: abeille__n	FORMS: NCFP000 épargnes NCFS000 épargne
+
+APERTIUM: épilateur	PAR: livre__n	FORMS: NCMP000 épilateurs NCMS000 épilateur
+DICOLLEC: épilateur	PAR: administrat/eur__n	FORMS: NCFP000 épilatrices NCFS000 épilatrice NCMP000 épilateurs NCMS000 épilateur
+
+APERTIUM: époux	PAR: épou/x__n	FORMS: NCFP000 épouses NCFS000 épouse NCMN000 époux
+DICOLLEC: époux	PAR: IRPF__n	FORMS: NCMN000 époux
+DICOLLEC: époux	PAR: mois__n	FORMS: NCMN000 époux
+
+APERTIUM: évêque	PAR: livre__n	FORMS: NCMP000 évêques NCMS000 évêque
+DICOLLEC: évêque	PAR: artiste__n	FORMS: NCCP000 évêques NCCS000 évêque
+
+APERTIUM: F	PAR: mois__n	FORMS: NCMN000 F
+DICOLLEC: F	PAR: ??????????????	FORMS: NCMN000 EF NCMN000 F NCMN000 GF NCMN000 MF NCMN000 PF NCMN000 TF NCMN000 YF NCMN000 ZF NCMN000 aF NCMN000 cF NCMN000 dF NCMN000 daF NCMN000 fF NCMN000 hF NCMN000 kF NCMN000 mF NCMN000 nF NCMN000 pF NCMN000 yF NCMN000 zF NCMN000 µF
+
+APERTIUM: addenda	PAR: livre__n	FORMS: NCMP000 addendas NCMS000 addenda
+DICOLLEC: addenda	PAR: ??????????????	FORMS: NCMN000 addenda NCMP000 addendas NCMS000 addenda
+
+APERTIUM: agneau	PAR: livre__n	FORMS: NCMP000 agneaus NCMS000 agneau
+DICOLLEC: agneau	PAR: ??????????????	FORMS: NCFP000 agnelles NCFS000 agnelle NCMP000 agneaux NCMS000 agneau
+
+APERTIUM: amuse-gueule	PAR: livre__n	FORMS: NCMP000 amuse-gueules NCMS000 amuse-gueule
+DICOLLEC: amuse-gueule	PAR: ??????????????	FORMS: NCMN000 amuse-gueule NCMP000 amuse-gueules NCMS000 amuse-gueule
+
+APERTIUM: après-midi	PAR: livre__n	FORMS: NCMP000 après-midis NCMS000 après-midi
+DICOLLEC: après-midi	PAR: ??????????????	FORMS: NCCN000 après-midi NCCP000 après-midis NCCS000 après-midi
+
+APERTIUM: bar	PAR: livre__n	FORMS: NCMP000 bars NCMS000 bar
+DICOLLEC: bar	PAR: ??????????????	FORMS: NCMN000 bar NCMP000 bars NCMS000 bar
+
+APERTIUM: bit	PAR: livre__n	FORMS: NCMP000 bits NCMS000 bit
+DICOLLEC: bit	PAR: ??????????????	FORMS: NCMN000 bit NCMP000 bits NCMS000 bit
+
+APERTIUM: blaireau	PAR: livre__n	FORMS: NCMP000 blaireaus NCMS000 blaireau
+DICOLLEC: blaireau	PAR: ??????????????	FORMS: NCFP000 blairelles NCFS000 blairelle NCMP000 blaireaux NCMS000 blaireau
+
+APERTIUM: blanc	PAR: livre__n	FORMS: NCMP000 blancs NCMS000 blanc
+DICOLLEC: blanc	PAR: ??????????????	FORMS: NCFP000 blanches NCFS000 blanche NCMP000 blancs NCMS000 blanc
+
+APERTIUM: brandy	PAR: brand/y__n	FORMS: NCMP000 brandies NCMS000 brandy
+DICOLLEC: brandy	PAR: ??????????????	FORMS: NCMP000 brandies NCMP000 brandys NCMS000 brandy
+
+APERTIUM: clavier	PAR: livre__n	FORMS: NCMP000 claviers NCMS000 clavier
+DICOLLEC: clavier	PAR: ??????????????	FORMS: NCFP000 clavières NCFS000 clavière NCMP000 claviers NCMP000 claviers NCMS000 clavier NCMS000 clavier
+
+APERTIUM: coupe-feu	PAR: mois__n	FORMS: NCMN000 coupe-feu
+DICOLLEC: coupe-feu	PAR: ??????????????	FORMS: NCMN000 coupe-feu NCMP000 coupe-feux NCMS000 coupe-feu
+
+APERTIUM: curriculum	PAR: mois__n	FORMS: NCMN000 curriculum
+DICOLLEC: curriculum	PAR: ??????????????	FORMS: NCMP000 curricula NCMP000 curriculums NCMS000 curriculum
+
+APERTIUM: cyclo-cross	PAR: mois__n	FORMS: NCMN000 cyclo-cross
+DICOLLEC: cyclo-cross	PAR: ??????????????	FORMS: NCMN000 cyclo-cross NCMP000 cyclo-crosses
+
+APERTIUM: d	PAR: mois__n	FORMS: NCMN000 d
+DICOLLEC: d	PAR: ??????????????	FORMS: NCMN000 d NCMN000 d
+
+APERTIUM: faune	PAR: abeille__n	FORMS: NCFP000 faunes NCFS000 faune
+DICOLLEC: faune	PAR: ??????????????	FORMS: NCFP000 faunes NCFP000 faunesses NCFS000 faune NCFS000 faunesse NCMP000 faunes NCMS000 faune
+
+APERTIUM: ferry	PAR: brand/y__n	FORMS: NCMP000 ferries NCMS000 ferry
+DICOLLEC: ferry	PAR: ??????????????	FORMS: NCMP000 ferries NCMP000 ferrys NCMS000 ferry
+
+APERTIUM: fin	PAR: abeille__n	FORMS: NCFP000 fins NCFS000 fin
+DICOLLEC: fin	PAR: ??????????????	FORMS: NCFP000 fines NCFP000 fins NCFS000 fin NCFS000 fine NCMP000 fins NCMS000 fin
+
+APERTIUM: flash	PAR: flash__n	FORMS: NCMP000 flashes NCMS000 flash
+DICOLLEC: flash	PAR: ??????????????	FORMS: NCMP000 flashes NCMP000 flashs NCMS000 flash
+
+APERTIUM: g	PAR: mois__n	FORMS: NCMN000 g
+DICOLLEC: g	PAR: ??????????????	FORMS: NCMN000 Eg NCMN000 Gg NCMN000 Mg NCMN000 Pg NCMN000 Tg NCMN000 Yg NCMN000 Zg NCMN000 ag NCMN000 cg NCMN000 dag NCMN000 dg NCMN000 fg NCMN000 g NCMN000 g NCMN000 hg NCMN000 kg NCMN000 mg NCMN000 ng NCMN000 pg NCMN000 yg NCMN000 zg NCMN000 µg
+
+APERTIUM: garde-manger	PAR: livre__n	FORMS: NCMP000 garde-mangers NCMS000 garde-manger
+DICOLLEC: garde-manger	PAR: ??????????????	FORMS: NCMN000 garde-manger NCMP000 garde-mangers NCMS000 garde-manger
+
+APERTIUM: gens	PAR: abords__n	FORMS: NCMP000 gens
+DICOLLEC: gens	PAR: ??????????????	FORMS: NCCP000 gens
+
+APERTIUM: gramme	PAR: livre__n	FORMS: NCMP000 grammes NCMS000 gramme
+DICOLLEC: gramme	PAR: ??????????????	FORMS: NCMP000 attogrammes NCMP000 centigrammes NCMP000 décagrammes NCMP000 décigrammes NCMP000 exagrammes NCMP000 femtogrammes NCMP000 gigagrammes NCMP000 grammes NCMP000 hectogrammes NCMP000 kilogrammes NCMP000 microgrammes NCMP000 milligrammes NCMP000 mégagrammes NCMP000 nanogrammes NCMP000 petagrammes NCMP000 picogrammes NCMP000 pétagrammes NCMP000 téragrammes NCMP000 yoctogrammes NCMP000 yottagrammes NCMP000 zeptogrammes NCMP000 zettagrammes NCMS000 attogramme NCMS000 centigramme NCMS000 décagramme NCMS000 décigramme NCMS000 exagramme NCMS000 femtogramme NCMS000 gigagramme NCMS000 gramme NCMS000 hectogramme NCMS000 kilogramme NCMS000 microgramme NCMS000 milligramme NCMS000 mégagramme NCMS000 nanogramme NCMS000 petagramme NCMS000 picogramme NCMS000 pétagramme NCMS000 téragramme NCMS000 yoctogramme NCMS000 yottagramme NCMS000 zeptogramme NCMS000 zettagramme
+
+APERTIUM: gratte-ciel	PAR: mois__n	FORMS: NCMN000 gratte-ciel
+DICOLLEC: gratte-ciel	PAR: ??????????????	FORMS: NCMN000 gratte-ciel NCMP000 gratte-ciels NCMS000 gratte-ciel
+
+APERTIUM: h	PAR: mois__n	FORMS: NCMN000 h
+DICOLLEC: h	PAR: ??????????????	FORMS: NCFN000 h NCMN000 h
+
+APERTIUM: iota	PAR: livre__n	FORMS: NCMP000 iotas NCMS000 iota
+DICOLLEC: iota	PAR: ??????????????	FORMS: NCMN000 iota NCMP000 iotas NCMS000 iota
+
+APERTIUM: jumeau	PAR: lieu__n	FORMS: NCMP000 jumeaux NCMS000 jumeau
+DICOLLEC: jumeau	PAR: ??????????????	FORMS: NCFP000 jumelles NCFS000 jumelle NCMP000 jumeaux NCMS000 jumeau
+
+APERTIUM: l	PAR: mois__n	FORMS: NCMN000 l
+DICOLLEC: l	PAR: ??????????????	FORMS: NCMN000 El NCMN000 Gl NCMN000 Ml NCMN000 Pl NCMN000 Tl NCMN000 Yl NCMN000 Zl NCMN000 al NCMN000 cl NCMN000 dal NCMN000 dl NCMN000 fl NCMN000 hl NCMN000 kl NCMN000 l NCMN000 l NCMN000 ml NCMN000 nl NCMN000 pl NCMN000 yl NCMN000 zl NCMN000 µl
+
+APERTIUM: lave-vaisselle	PAR: livre__n	FORMS: NCMP000 lave-vaisselles NCMS000 lave-vaisselle
+DICOLLEC: lave-vaisselle	PAR: ??????????????	FORMS: NCMN000 lave-vaisselle NCMP000 lave-vaisselles NCMS000 lave-vaisselle
+
+APERTIUM: letton	PAR: ancien__n	FORMS: NCFP000 lettonnes NCFS000 lettonne NCMP000 lettons NCMS000 letton
+DICOLLEC: letton	PAR: ??????????????	FORMS: NCFP000 lettones NCFP000 lettonnes NCFS000 lettone NCFS000 lettonne NCMP000 lettons NCMP000 lettons NCMS000 letton NCMS000 letton
+
+APERTIUM: lieu	PAR: lieu__n	FORMS: NCMP000 lieux NCMS000 lieu
+DICOLLEC: lieu	PAR: ??????????????	FORMS: NCMP000 lieus NCMP000 lieux NCMS000 lieu NCMS000 lieu
+
+APERTIUM: litre	PAR: livre__n	FORMS: NCMP000 litres NCMS000 litre
+DICOLLEC: litre	PAR: ??????????????	FORMS: NCFP000 litres NCFS000 litre NCMP000 attolitres NCMP000 centilitres NCMP000 décalitres NCMP000 décilitres NCMP000 exalitres NCMP000 femtolitres NCMP000 gigalitres NCMP000 hectolitres NCMP000 kilolitres NCMP000 litres NCMP000 microlitres NCMP000 millilitres NCMP000 mégalitres NCMP000 nanolitres NCMP000 petalitres NCMP000 picolitres NCMP000 pétalitres NCMP000 téralitres NCMP000 yoctolitres NCMP000 yottalitres NCMP000 zeptolitres NCMP000 zettalitres NCMS000 attolitre NCMS000 centilitre NCMS000 décalitre NCMS000 décilitre NCMS000 exalitre NCMS000 femtolitre NCMS000 gigalitre NCMS000 hectolitre NCMS000 kilolitre NCMS000 litre NCMS000 microlitre NCMS000 millilitre NCMS000 mégalitre NCMS000 nanolitre NCMS000 petalitre NCMS000 picolitre NCMS000 pétalitre NCMS000 téralitre NCMS000 yoctolitre NCMS000 yottalitre NCMS000 zeptolitre NCMS000 zettalitre
+
+APERTIUM: m	PAR: mois__n	FORMS: NCMN000 m
+DICOLLEC: m	PAR: ??????????????	FORMS: NCMN000 Em NCMN000 Gm NCMN000 Mm NCMN000 Pm NCMN000 Tm NCMN000 Ym NCMN000 Zm NCMN000 am NCMN000 cm NCMN000 dam NCMN000 dm NCMN000 fm NCMN000 hm NCMN000 km NCMN000 m NCMN000 m NCMN000 mm NCMN000 nm NCMN000 pm NCMN000 ym NCMN000 zm NCMN000 µm
+
+APERTIUM: match	PAR: match__n	FORMS: NCMP000 matchs NCMS000 match
+DICOLLEC: match	PAR: ??????????????	FORMS: NCMP000 matches NCMP000 matchs NCMS000 match
+
+APERTIUM: mollet	PAR: livre__n	FORMS: NCMP000 mollets NCMS000 mollet
+DICOLLEC: mollet	PAR: ??????????????	FORMS: NCFP000 mollettes NCFS000 mollette NCMP000 mollets NCMP000 mollets NCMS000 mollet NCMS000 mollet
+
+APERTIUM: mort	PAR: livre__n	FORMS: NCMP000 morts NCMS000 mort
+DICOLLEC: mort	PAR: ??????????????	FORMS: NCFP000 mortes NCFP000 morts NCFS000 mort NCFS000 morte NCMP000 morts NCMS000 mort
+
+APERTIUM: mètre	PAR: livre__n	FORMS: NCMP000 mètres NCMS000 mètre
+DICOLLEC: mètre	PAR: ??????????????	FORMS: NCMP000 attomètres NCMP000 centimètres NCMP000 décamètres NCMP000 décimètres NCMP000 examètres NCMP000 femtomètres NCMP000 gigamètres NCMP000 hectomètres NCMP000 kilomètres NCMP000 micromètres NCMP000 millimètres NCMP000 mètres NCMP000 mégamètres NCMP000 nanomètres NCMP000 petamètres NCMP000 picomètres NCMP000 pétamètres NCMP000 téramètres NCMP000 yoctomètres NCMP000 yottamètres NCMP000 zeptomètres NCMP000 zettamètres NCMS000 attomètre NCMS000 centimètre NCMS000 décamètre NCMS000 décimètre NCMS000 examètre NCMS000 femtomètre NCMS000 gigamètre NCMS000 hectomètre NCMS000 kilomètre NCMS000 micromètre NCMS000 millimètre NCMS000 mètre NCMS000 mégamètre NCMS000 nanomètre NCMS000 petamètre NCMS000 picomètre NCMS000 pétamètre NCMS000 téramètre NCMS000 yoctomètre NCMS000 yottamètre NCMS000 zeptomètre NCMS000 zettamètre
+
+APERTIUM: ordinateur	PAR: livre__n	FORMS: NCMP000 ordinateurs NCMS000 ordinateur
+DICOLLEC: ordinateur	PAR: ??????????????	FORMS: NCFP000 ordinatrices NCFS000 ordinatrice NCMP000 ordinateurs NCMP000 ordinateurs NCMS000 ordinateur NCMS000 ordinateur
+
+APERTIUM: pare-brise	PAR: mois__n	FORMS: NCMN000 pare-brise
+DICOLLEC: pare-brise	PAR: ??????????????	FORMS: NCMN000 pare-brise NCMP000 pare-brises NCMS000 pare-brise
+
+APERTIUM: penalty	PAR: livre__n	FORMS: NCMP000 penaltys NCMS000 penalty
+DICOLLEC: penalty	PAR: ??????????????	FORMS: NCMP000 penalties NCMP000 penaltys NCMS000 penalty
+
+APERTIUM: plan	PAR: livre__n	FORMS: NCMP000 plans NCMS000 plan
+DICOLLEC: plan	PAR: ??????????????	FORMS: NCFP000 planes NCFS000 plane NCMP000 plans NCMP000 plans NCMS000 plan NCMS000 plan
+
+APERTIUM: porte-parole	PAR: ex__n	FORMS: NCCN000 porte-parole
+DICOLLEC: porte-parole	PAR: ??????????????	FORMS: NCCN000 porte-parole NCCP000 porte-paroles NCCS000 porte-parole
+
+APERTIUM: préfet	PAR: livre__n	FORMS: NCMP000 préfets NCMS000 préfet
+DICOLLEC: préfet	PAR: ??????????????	FORMS: NCFP000 préfètes NCFS000 préfète NCMP000 préfets NCMS000 préfet
+
+APERTIUM: s	PAR: mois__n	FORMS: NCMN000 s
+DICOLLEC: s	PAR: ??????????????	FORMS: NCFN000 Es NCFN000 Gs NCFN000 Ms NCFN000 Ps NCFN000 Ts NCFN000 Ys NCFN000 Zs NCFN000 as NCFN000 cs NCFN000 das NCFN000 ds NCFN000 fs NCFN000 hs NCFN000 ks NCFN000 ms NCFN000 ns NCFN000 ps NCFN000 s NCFN000 ys NCFN000 zs NCFN000 µs NCMN000 s
+
+APERTIUM: sandwich	PAR: livre__n	FORMS: NCMP000 sandwichs NCMS000 sandwich
+DICOLLEC: sandwich	PAR: ??????????????	FORMS: NCMP000 sandwiches NCMP000 sandwichs NCMS000 sandwich
+
+APERTIUM: sans-abri	PAR: ex__n	FORMS: NCCN000 sans-abri
+DICOLLEC: sans-abri	PAR: ??????????????	FORMS: NCCN000 sans-abri NCCP000 sans-abris NCCS000 sans-abri
+
+APERTIUM: sauveur	PAR: administrat/eur__n	FORMS: NCFP000 sauvrices NCFS000 sauvrice NCMP000 sauveurs NCMS000 sauveur
+DICOLLEC: sauveur	PAR: ??????????????	FORMS: NCFP000 sauveuses NCFS000 sauveuse NCMP000 sauveurs NCMP000 sauveurs NCMS000 sauveur NCMS000 sauveur
+
+APERTIUM: seconde	PAR: abeille__n	FORMS: NCFP000 secondes NCFS000 seconde
+DICOLLEC: seconde	PAR: ??????????????	FORMS: NCFP000 attosecondes NCFP000 centisecondes NCFP000 décasecondes NCFP000 décisecondes NCFP000 exasecondes NCFP000 femtosecondes NCFP000 gigasecondes NCFP000 hectosecondes NCFP000 kilosecondes NCFP000 microsecondes NCFP000 millisecondes NCFP000 mégasecondes NCFP000 nanosecondes NCFP000 petasecondes NCFP000 picosecondes NCFP000 pétasecondes NCFP000 secondes NCFP000 térasecondes NCFP000 yoctosecondes NCFP000 yottasecondes NCFP000 zeptosecondes NCFP000 zettasecondes NCFS000 attoseconde NCFS000 centiseconde NCFS000 décaseconde NCFS000 déciseconde NCFS000 exaseconde NCFS000 femtoseconde NCFS000 gigaseconde NCFS000 hectoseconde NCFS000 kiloseconde NCFS000 microseconde NCFS000 milliseconde NCFS000 mégaseconde NCFS000 nanoseconde NCFS000 petaseconde NCFS000 picoseconde NCFS000 pétaseconde NCFS000 seconde NCFS000 téraseconde NCFS000 yoctoseconde NCFS000 yottaseconde NCFS000 zeptoseconde NCFS000 zettaseconde
+
+APERTIUM: secret	PAR: livre__n	FORMS: NCMP000 secrets NCMS000 secret
+DICOLLEC: secret	PAR: ??????????????	FORMS: NCFP000 secrètes NCFS000 secrète NCMP000 secrets NCMS000 secret
+
+APERTIUM: sol	PAR: livre__n	FORMS: NCMP000 sols NCMS000 sol
+DICOLLEC: sol	PAR: ??????????????	FORMS: NCMN000 sol NCMP000 sols NCMS000 sol
+
+APERTIUM: soprano	PAR: abeille__n	FORMS: NCFP000 sopranos NCFS000 soprano
+DICOLLEC: soprano	PAR: ??????????????	FORMS: NCCP000 soprani NCCP000 sopranos NCCP000 sopranos NCCS000 soprano NCCS000 soprano
+
+APERTIUM: souris	PAR: fois__n	FORMS: NCFN000 souris
+DICOLLEC: souris	PAR: ??????????????	FORMS: NCFN000 souris NCMN000 souris
+
+APERTIUM: standard	PAR: livre__n	FORMS: NCMP000 standards NCMS000 standard
+DICOLLEC: standard	PAR: ??????????????	FORMS: NCMP000 standards NCMP000 standards NCMS000 standard NCMS000 standard
+
+APERTIUM: sèche-linge	PAR: livre__n	FORMS: NCMP000 sèche-linges NCMS000 sèche-linge
+DICOLLEC: sèche-linge	PAR: ??????????????	FORMS: NCMN000 sèche-linge NCMP000 sèche-linges NCMS000 sèche-linge
+
+APERTIUM: t	PAR: mois__n	FORMS: NCMN000 t
+DICOLLEC: t	PAR: ??????????????	FORMS: NCFN000 t NCMN000 t
+
+APERTIUM: tome	PAR: livre__n	FORMS: NCMP000 tomes NCMS000 tome
+DICOLLEC: tome	PAR: ??????????????	FORMS: NCFP000 tomes NCFS000 tome NCMP000 tomes NCMS000 tome
+
+APERTIUM: triplicata	PAR: livre__n	FORMS: NCMP000 triplicatas NCMS000 triplicata
+DICOLLEC: triplicata	PAR: ??????????????	FORMS: NCMN000 triplicata NCMP000 triplicatas NCMS000 triplicata
+
+APERTIUM: turbo	PAR: livre__n	FORMS: NCMP000 turbos NCMS000 turbo
+DICOLLEC: turbo	PAR: ??????????????	FORMS: NCCP000 turbos NCCS000 turbo NCMN000 turbo
+
+APERTIUM: watt	PAR: livre__n	FORMS: NCMP000 watts NCMS000 watt
+DICOLLEC: watt	PAR: ??????????????	FORMS: NCMP000 attowatts NCMP000 centiwatts NCMP000 décawatts NCMP000 déciwatts NCMP000 exawatts NCMP000 femtowatts NCMP000 gigawatts NCMP000 hectowatts NCMP000 kilowatts NCMP000 microwatts NCMP000 milliwatts NCMP000 mégawatts NCMP000 nanowatts NCMP000 petawatts NCMP000 picowatts NCMP000 pétawatts NCMP000 térawatts NCMP000 watts NCMP000 yoctowatts NCMP000 yottawatts NCMP000 zeptowatts NCMP000 zettawatts NCMS000 attowatt NCMS000 centiwatt NCMS000 décawatt NCMS000 déciwatt NCMS000 exawatt NCMS000 femtowatt NCMS000 gigawatt NCMS000 hectowatt NCMS000 kilowatt NCMS000 microwatt NCMS000 milliwatt NCMS000 mégawatt NCMS000 nanowatt NCMS000 petawatt NCMS000 picowatt NCMS000 pétawatt NCMS000 térawatt NCMS000 watt NCMS000 yoctowatt NCMS000 yottawatt NCMS000 zeptowatt NCMS000 zettawatt
+
+APERTIUM: whisky	PAR: brand/y__n	FORMS: NCMP000 whiskies NCMS000 whisky
+DICOLLEC: whisky	PAR: ??????????????	FORMS: NCMP000 whiskies NCMP000 whiskys NCMS000 whisky
+
+APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 ânes NCMS000 âne
+DICOLLEC: âne	PAR: ??????????????	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 ânes NCMP000 ânes NCMS000 âne NCMS000 âne
+<e lm="A"><i>A</i><par n="??????????"/></e>
+<e lm="Bornes"><i>Bornes</i><par n="??????????"/></e>
+<e lm="Bq"><i>Bq</i><par n="??????????"/></e>
+<e lm="C"><i>C</i><par n="??????????"/></e>
+<e lm="Ci"><i>Ci</i><par n="??????????"/></e>
+<e lm="Da"><i>Da</i><par n="??????????"/></e>
+<e lm="Féroé"><i>Féroé</i><par n="??????????"/></e>
+<e lm="G"><i>G</i><par n="??????????"/></e>
+<e lm="GPL"><i>GPL</i><par n="??????????"/></e>
+<e lm="Grisons"><i>Grisons</i><par n="??????????"/></e>
+<e lm="Gy"><i>Gy</i><par n="??????????"/></e>
+<e lm="H"><i>H</i><par n="??????????"/></e>
+<e lm="Hz"><i>Hz</i><par n="??????????"/></e>
+<e lm="J"><i>J</i><par n="??????????"/></e>
+<e lm="K"><i>K</i><par n="??????????"/></e>
+<e lm="L"><i>L</i><par n="??????????"/></e>
+<e lm="N"><i>N</i><par n="??????????"/></e>
+<e lm="Pa"><i>Pa</i><par n="??????????"/></e>
+<e lm="S"><i>S</i><par n="??????????"/></e>
+<e lm="SEPA"><i>SEPA</i><par n="??????????"/></e>
+<e lm="Sv"><i>Sv</i><par n="??????????"/></e>
+<e lm="T"><i>T</i><par n="??????????"/></e>
+<e lm="V"><i>V</i><par n="??????????"/></e>
+<e lm="VA"><i>VA</i><par n="??????????"/></e>
+<e lm="W"><i>W</i><par n="??????????"/></e>
+<e lm="Wb"><i>Wb</i><par n="??????????"/></e>
+<e lm="Wh"><i>Wh</i><par n="??????????"/></e>
+<e lm="a"><i>a</i><par n="??????????"/></e>
+<e lm="abaisse-langue"><i>abaisse-langue</i><par n="??????????"/></e>
+<e lm="abat-feuille"><i>abat-feuille</i><par n="??????????"/></e>
+<e lm="abat-foin"><i>abat-foin</i><par n="??????????"/></e>
+<e lm="abat-jour"><i>abat-jour</i><par n="??????????"/></e>
+<e lm="abat-son"><i>abat-son</i><par n="??????????"/></e>
+<e lm="abat-vent"><i>abat-vent</i><par n="??????????"/></e>
+<e lm="acconier"><i>acconier</i><par n="??????????"/></e>
+<e lm="accroche-cœur"><i>accroche-cœur</i><par n="??????????"/></e>
+<e lm="accroche-plat"><i>accroche-plat</i><par n="??????????"/></e>
+<e lm="acinus"><i>acinus</i><par n="??????????"/></e>
+<e lm="aconier"><i>aconier</i><par n="??????????"/></e>
+<e lm="acétobacter"><i>acétobacter</i><par n="??????????"/></e>
+<e lm="adagio"><i>adagio</i><par n="??????????"/></e>
+<e lm="addendum"><i>addendum</i><par n="??????????"/></e>
+<e lm="aide-mémoire"><i>aide-mémoire</i><par n="??????????"/></e>
+<e lm="aides-comptables"><i>aides-comptables</i><par n="??????????"/></e>
+<e lm="aiguise-crayon"><i>aiguise-crayon</i><par n="??????????"/></e>
+<e lm="allume-feu"><i>allume-feu</i><par n="??????????"/></e>
+<e lm="alpha"><i>alpha</i><par n="??????????"/></e>
+<e lm="amish"><i>amish</i><par n="??????????"/></e>
+<e lm="ampère"><i>ampère</i><par n="??????????"/></e>
+<e lm="amuse-bouche"><i>amuse-bouche</i><par n="??????????"/></e>
+<e lm="ana"><i>ana</i><par n="??????????"/></e>
+<e lm="antiparasitage"><i>antiparasitage</i><par n="??????????"/></e>
+<e lm="antislash"><i>antislash</i><par n="??????????"/></e>
+<e lm="apparatchik"><i>apparatchik</i><par n="??????????"/></e>
+<e lm="appuie-main"><i>appuie-main</i><par n="??????????"/></e>
+<e lm="appuie-nuque"><i>appuie-nuque</i><par n="??????????"/></e>
+<e lm="appuie-tête"><i>appuie-tête</i><par n="??????????"/></e>
+<e lm="après-dîner"><i>après-dîner</i><par n="??????????"/></e>
+<e lm="après-rasage"><i>après-rasage</i><par n="??????????"/></e>
+<e lm="après-ski"><i>après-ski</i><par n="??????????"/></e>
+<e lm="arioso"><i>arioso</i><par n="??????????"/></e>
+<e lm="arrache-racine"><i>arrache-racine</i><par n="??????????"/></e>
+<e lm="arrête-bœuf"><i>arrête-bœuf</i><par n="??????????"/></e>
+<e lm="ashkenaze"><i>ashkenaze</i><par n="??????????"/></e>
+<e lm="ashkenazi"><i>ashkenazi</i><par n="??????????"/></e>
+<e lm="asti"><i>asti</i><par n="??????????"/></e>
+<e lm="attrape-nigaud"><i>attrape-nigaud</i><par n="??????????"/></e>
+<e lm="avant-midi"><i>avant-midi</i><par n="??????????"/></e>
+<e lm="avants-centres"><i>avants-centres</i><par n="??????????"/></e>
+<e lm="b"><i>b</i><par n="??????????"/></e>
+<e lm="baby"><i>baby</i><par n="??????????"/></e>
+<e lm="bafouillement"><i>bafouillement</i><par n="??????????"/></e>
+<e lm="baggy"><i>baggy</i><par n="??????????"/></e>
+<e lm="bailleur"><i>bailleur</i><par n="??????????"/></e>
+<e lm="barbet"><i>barbet</i><par n="??????????"/></e>
+<e lm="barge"><i>barge</i><par n="??????????"/></e>
+<e lm="barman"><i>barman</i><par n="??????????"/></e>
+<e lm="bas"><i>bas</i><par n="??????????"/></e>
+<e lm="basse-taille"><i>basse-taille</i><par n="??????????"/></e>
+<e lm="basses-tailles"><i>basses-tailles</i><par n="??????????"/></e>
+<e lm="bat-flanc"><i>bat-flanc</i><par n="??????????"/></e>
+<e lm="becquerel"><i>becquerel</i><par n="??????????"/></e>
+<e lm="bel"><i>bel</i><par n="??????????"/></e>
+<e lm="belcanto"><i>belcanto</i><par n="??????????"/></e>
+<e lm="biffeton"><i>biffeton</i><par n="??????????"/></e>
+<e lm="bigouden"><i>bigouden</i><par n="??????????"/></e>
+<e lm="biogenèse"><i>biogenèse</i><par n="??????????"/></e>
+<e lm="bodhisattva"><i>bodhisattva</i><par n="??????????"/></e>
+<e lm="body"><i>body</i><par n="??????????"/></e>
+<e lm="boss"><i>boss</i><par n="??????????"/></e>
+<e lm="bossanova"><i>bossanova</i><par n="??????????"/></e>
+<e lm="bouche-à-oreille"><i>bouche-à-oreille</i><par n="??????????"/></e>
+<e lm="branle-queue"><i>branle-queue</i><par n="??????????"/></e>
+<e lm="bravo"><i>bravo</i><par n="??????????"/></e>
+<e lm="bref"><i>bref</i><par n="??????????"/></e>
+<e lm="brise-bise"><i>brise-bise</i><par n="??????????"/></e>
+<e lm="brise-béton"><i>brise-béton</i><par n="??????????"/></e>
+<e lm="brise-fer"><i>brise-fer</i><par n="??????????"/></e>
+<e lm="brise-glace"><i>brise-glace</i><par n="??????????"/></e>
+<e lm="brise-jet"><i>brise-jet</i><par n="??????????"/></e>
+<e lm="brise-mariage"><i>brise-mariage</i><par n="??????????"/></e>
+<e lm="brise-mèche"><i>brise-mèche</i><par n="??????????"/></e>
+<e lm="brise-soleil"><i>brise-soleil</i><par n="??????????"/></e>
+<e lm="brise-vent"><i>brise-vent</i><par n="??????????"/></e>
+<e lm="brunch"><i>brunch</i><par n="??????????"/></e>
+<e lm="brèche-dent"><i>brèche-dent</i><par n="??????????"/></e>
+<e lm="brûle-parfum"><i>brûle-parfum</i><par n="??????????"/></e>
+<e lm="buggy"><i>buggy</i><par n="??????????"/></e>
+<e lm="bull-finch"><i>bull-finch</i><par n="??????????"/></e>
+<e lm="bush"><i>bush</i><par n="??????????"/></e>
+<e lm="bushman"><i>bushman</i><par n="??????????"/></e>
+<e lm="businessman"><i>businessman</i><par n="??????????"/></e>
+<e lm="businesswoman"><i>businesswoman</i><par n="??????????"/></e>
+<e lm="bêta"><i>bêta</i><par n="??????????"/></e>
+<e lm="cache-brassière"><i>cache-brassière</i><par n="??????????"/></e>
+<e lm="cache-col"><i>cache-col</i><par n="??????????"/></e>
+<e lm="cache-corset"><i>cache-corset</i><par n="??????????"/></e>
+<e lm="cache-cœur"><i>cache-cœur</i><par n="??????????"/></e>
+<e lm="cache-entrée"><i>cache-entrée</i><par n="??????????"/></e>
+<e lm="cache-flamme"><i>cache-flamme</i><par n="??????????"/></e>
+<e lm="cache-lait"><i>cache-lait</i><par n="??????????"/></e>
+<e lm="cache-lumière"><i>cache-lumière</i><par n="??????????"/></e>
+<e lm="cache-misère"><i>cache-misère</i><par n="??????????"/></e>
+<e lm="cache-museau"><i>cache-museau</i><par n="??????????"/></e>
+<e lm="cache-pot"><i>cache-pot</i><par n="??????????"/></e>
+<e lm="cache-poussière"><i>cache-poussière</i><par n="??????????"/></e>
+<e lm="cache-prise"><i>cache-prise</i><par n="??????????"/></e>
+<e lm="cache-radiateur"><i>cache-radiateur</i><par n="??????????"/></e>
+<e lm="cache-sexe"><i>cache-sexe</i><par n="??????????"/></e>
+<e lm="cache-tampon"><i>cache-tampon</i><par n="??????????"/></e>
+<e lm="cache-théière"><i>cache-théière</i><par n="??????????"/></e>
+<e lm="cacou"><i>cacou</i><par n="??????????"/></e>
+<e lm="cailleteau"><i>cailleteau</i><par n="??????????"/></e>
+<e lm="cal"><i>cal</i><par n="??????????"/></e>
+<e lm="cale-pied"><i>cale-pied</i><par n="??????????"/></e>
+<e lm="calorie"><i>calorie</i><par n="??????????"/></e>
+<e lm="cameraman"><i>cameraman</i><par n="??????????"/></e>
+<e lm="canada"><i>canada</i><par n="??????????"/></e>
+<e lm="candela"><i>candela</i><par n="??????????"/></e>
+<e lm="candéla"><i>candéla</i><par n="??????????"/></e>
+<e lm="cannelloni"><i>cannelloni</i><par n="??????????"/></e>
+<e lm="canzone"><i>canzone</i><par n="??????????"/></e>
+<e lm="capte-suie"><i>capte-suie</i><par n="??????????"/></e>
+<e lm="car-ferry"><i>car-ferry</i><par n="??????????"/></e>
+<e lm="carbonaro"><i>carbonaro</i><par n="??????????"/></e>
+<e lm="casse-cou"><i>casse-cou</i><par n="??????????"/></e>
+<e lm="casse-cul"><i>casse-cul</i><par n="??????????"/></e>
+<e lm="casse-dalle"><i>casse-dalle</i><par n="??????????"/></e>
+<e lm="casse-graine"><i>casse-graine</i><par n="??????????"/></e>
+<e lm="casse-gueule"><i>casse-gueule</i><par n="??????????"/></e>
+<e lm="casse-pierre"><i>casse-pierre</i><par n="??????????"/></e>
+<e lm="casse-pipe"><i>casse-pipe</i><par n="??????????"/></e>
+<e lm="casse-tête"><i>casse-tête</i><par n="??????????"/></e>
+<e lm="cd"><i>cd</i><par n="??????????"/></e>
+<e lm="centre-avant"><i>centre-avant</i><par n="??????????"/></e>
+<e lm="centres-avant"><i>centres-avant</i><par n="??????????"/></e>
+<e lm="cerf-voliste"><i>cerf-voliste</i><par n="??????????"/></e>
+<e lm="cerfs-volistes"><i>cerfs-volistes</i><par n="??????????"/></e>
+<e lm="chantilly"><i>chantilly</i><par n="??????????"/></e>
+<e lm="chasse-marée"><i>chasse-marée</i><par n="??????????"/></e>
+<e lm="chasse-neige"><i>chasse-neige</i><par n="??????????"/></e>
+<e lm="chasse-vase"><i>chasse-vase</i><par n="??????????"/></e>
+<e lm="chauffe-bain"><i>chauffe-bain</i><par n="??????????"/></e>
+<e lm="chauffe-cire"><i>chauffe-cire</i><par n="??????????"/></e>
+<e lm="chauffe-eau"><i>chauffe-eau</i><par n="??????????"/></e>
+<e lm="chauffe-lit"><i>chauffe-lit</i><par n="??????????"/></e>
+<e lm="chauffe-moût"><i>chauffe-moût</i><par n="??????????"/></e>
+<e lm="cherry"><i>cherry</i><par n="??????????"/></e>
+<e lm="chevaucheur"><i>chevaucheur</i><par n="??????????"/></e>
+<e lm="chitosan(e)"><i>chitosan(e)</i><par n="??????????"/></e>
+<e lm="chitosan(e)"><i>chitosan(e)</i><par n="??????????"/></e>
+<e lm="clash"><i>clash</i><par n="??????????"/></e>
+<e lm="clergyman"><i>clergyman</i><par n="??????????"/></e>
+<e lm="cnidaire"><i>cnidaire</i><par n="??????????"/></e>
+<e lm="coach"><i>coach</i><par n="??????????"/></e>
+<e lm="coagulum"><i>coagulum</i><par n="??????????"/></e>
+<e lm="coccus"><i>coccus</i><par n="??????????"/></e>
+<e lm="codemandeur"><i>codemandeur</i><par n="??????????"/></e>
+<e lm="coextrusion"><i>coextrusion</i><par n="??????????"/></e>
+<e lm="columbarium"><i>columbarium</i><par n="??????????"/></e>
+<e lm="concertina"><i>concertina</i><par n="??????????"/></e>
+<e lm="concetti"><i>concetti</i><par n="??????????"/></e>
+<e lm="condottiere"><i>condottiere</i><par n="??????????"/></e>
+<e lm="consulteur"><i>consulteur</i><par n="??????????"/></e>
+<e lm="coulomb"><i>coulomb</i><par n="??????????"/></e>
+<e lm="coupe-batterie"><i>coupe-batterie</i><par n="??????????"/></e>
+<e lm="coupe-circuit"><i>coupe-circuit</i><par n="??????????"/></e>
+<e lm="coupe-faim"><i>coupe-faim</i><par n="??????????"/></e>
+<e lm="coupe-file"><i>coupe-file</i><par n="??????????"/></e>
+<e lm="coupe-gorge"><i>coupe-gorge</i><par n="??????????"/></e>
+<e lm="coupe-jambon"><i>coupe-jambon</i><par n="??????????"/></e>
+<e lm="coupe-papier"><i>coupe-papier</i><par n="??????????"/></e>
+<e lm="coupe-pâte"><i>coupe-pâte</i><par n="??????????"/></e>
+<e lm="coupe-vent"><i>coupe-vent</i><par n="??????????"/></e>
+<e lm="coupecoupe"><i>coupecoupe</i><par n="??????????"/></e>
+<e lm="cranberry"><i>cranberry</i><par n="??????????"/></e>
+<e lm="crash"><i>crash</i><par n="??????????"/></e>
+<e lm="crescendo"><i>crescendo</i><par n="??????????"/></e>
+<e lm="criterium"><i>criterium</i><par n="??????????"/></e>
+<e lm="cross-country"><i>cross-country</i><par n="??????????"/></e>
+<e lm="crève-cœur"><i>crève-cœur</i><par n="??????????"/></e>
+<e lm="crève-tonneau"><i>crève-tonneau</i><par n="??????????"/></e>
+<e lm="crève-vessie"><i>crève-vessie</i><par n="??????????"/></e>
+<e lm="cucul"><i>cucul</i><par n="??????????"/></e>
+<e lm="cure-oreille"><i>cure-oreille</i><par n="??????????"/></e>
+<e lm="curie"><i>curie</i><par n="??????????"/></e>
+<e lm="célébrant"><i>célébrant</i><par n="??????????"/></e>
+<e lm="cérite"><i>cérite</i><par n="??????????"/></e>
+<e lm="dalton"><i>dalton</i><par n="??????????"/></e>
+<e lm="dandy"><i>dandy</i><par n="??????????"/></e>
+<e lm="decrescendo"><i>decrescendo</i><par n="??????????"/></e>
+<e lm="delta"><i>delta</i><par n="??????????"/></e>
+<e lm="demi-solde"><i>demi-solde</i><par n="??????????"/></e>
+<e lm="descripteur"><i>descripteur</i><par n="??????????"/></e>
+<e lm="desideratum"><i>desideratum</i><par n="??????????"/></e>
+<e lm="digamma"><i>digamma</i><par n="??????????"/></e>
+<e lm="diminuendo"><i>diminuendo</i><par n="??????????"/></e>
+<e lm="dinghy"><i>dinghy</i><par n="??????????"/></e>
+<e lm="discret"><i>discret</i><par n="??????????"/></e>
+<e lm="disque-jockey"><i>disque-jockey</i><par n="??????????"/></e>
+<e lm="disques-jockeys"><i>disques-jockeys</i><par n="??????????"/></e>
+<e lm="dissimilarité"><i>dissimilarité</i><par n="??????????"/></e>
+<e lm="dompte-venin"><i>dompte-venin</i><par n="??????????"/></e>
+<e lm="doux"><i>doux</i><par n="??????????"/></e>
+<e lm="dry"><i>dry</i><par n="??????????"/></e>
+<e lm="duetto"><i>duetto</i><par n="??????????"/></e>
+<e lm="duplicata"><i>duplicata</i><par n="??????????"/></e>
+<e lm="dzêta"><i>dzêta</i><par n="??????????"/></e>
+<e lm="défendeur"><i>défendeur</i><par n="??????????"/></e>
+<e lm="eV"><i>eV</i><par n="??????????"/></e>
+<e lm="ecstasy"><i>ecstasy</i><par n="??????????"/></e>
+<e lm="emporium"><i>emporium</i><par n="??????????"/></e>
+<e lm="emporte-pièce"><i>emporte-pièce</i><par n="??????????"/></e>
+<e lm="en-but"><i>en-but</i><par n="??????????"/></e>
+<e lm="enchanteur"><i>enchanteur</i><par n="??????????"/></e>
+<e lm="endothermicité"><i>endothermicité</i><par n="??????????"/></e>
+<e lm="epsilon"><i>epsilon</i><par n="??????????"/></e>
+<e lm="erg"><i>erg</i><par n="??????????"/></e>
+<e lm="errata"><i>errata</i><par n="??????????"/></e>
+<e lm="erratum"><i>erratum</i><par n="??????????"/></e>
+<e lm="essuie-glace"><i>essuie-glace</i><par n="??????????"/></e>
+<e lm="essuie-phare"><i>essuie-phare</i><par n="??????????"/></e>
+<e lm="essuie-plume"><i>essuie-plume</i><par n="??????????"/></e>
+<e lm="exemplum"><i>exemplum</i><par n="??????????"/></e>
+<e lm="exit"><i>exit</i><par n="??????????"/></e>
+<e lm="exothermicité"><i>exothermicité</i><par n="??????????"/></e>
+<e lm="extra"><i>extra</i><par n="??????????"/></e>
+<e lm="extremum"><i>extremum</i><par n="??????????"/></e>
+<e lm="farad"><i>farad</i><par n="??????????"/></e>
+<e lm="farfalle"><i>farfalle</i><par n="??????????"/></e>
+<e lm="fatma"><i>fatma</i><par n="??????????"/></e>
+<e lm="faux"><i>faux</i><par n="??????????"/></e>
+<e lm="favela"><i>favela</i><par n="??????????"/></e>
+<e lm="fedayin"><i>fedayin</i><par n="??????????"/></e>
+<e lm="fesse-mathieu"><i>fesse-mathieu</i><par n="??????????"/></e>
+<e lm="fettucine"><i>fettucine</i><par n="??????????"/></e>
+<e lm="finish"><i>finish</i><par n="??????????"/></e>
+<e lm="finisseur"><i>finisseur</i><par n="??????????"/></e>
+<e lm="flush"><i>flush</i><par n="??????????"/></e>
+<e lm="fol"><i>fol</i><par n="??????????"/></e>
+<e lm="fontanili"><i>fontanili</i><par n="??????????"/></e>
+<e lm="foramen"><i>foramen</i><par n="??????????"/></e>
+<e lm="fortissimo"><i>fortissimo</i><par n="??????????"/></e>
+<e lm="foufou"><i>foufou</i><par n="??????????"/></e>
+<e lm="foulonnier"><i>foulonnier</i><par n="??????????"/></e>
+<e lm="frutti"><i>frutti</i><par n="??????????"/></e>
+<e lm="fume-cigare"><i>fume-cigare</i><par n="??????????"/></e>
+<e lm="fume-cigarette"><i>fume-cigarette</i><par n="??????????"/></e>
+<e lm="furigana"><i>furigana</i><par n="??????????"/></e>
+<e lm="gagman"><i>gagman</i><par n="??????????"/></e>
+<e lm="gagne-pain"><i>gagne-pain</i><par n="??????????"/></e>
+<e lm="gal"><i>gal</i><par n="??????????"/></e>
+<e lm="gamin"><i>gamin</i><par n="??????????"/></e>
+<e lm="gamma"><i>gamma</i><par n="??????????"/></e>
+<e lm="garde-barrière"><i>garde-barrière</i><par n="??????????"/></e>
+<e lm="garde-boue"><i>garde-boue</i><par n="??????????"/></e>
+<e lm="garde-but"><i>garde-but</i><par n="??????????"/></e>
+<e lm="garde-cendre"><i>garde-cendre</i><par n="??????????"/></e>
+<e lm="garde-chasse"><i>garde-chasse</i><par n="??????????"/></e>
+<e lm="garde-chiourme"><i>garde-chiourme</i><par n="??????????"/></e>
+<e lm="garde-côte"><i>garde-côte</i><par n="??????????"/></e>
+<e lm="garde-feu"><i>garde-feu</i><par n="??????????"/></e>
+<e lm="garde-fou"><i>garde-fou</i><par n="??????????"/></e>
+<e lm="garde-frein"><i>garde-frein</i><par n="??????????"/></e>
+<e lm="garde-frontière"><i>garde-frontière</i><par n="??????????"/></e>
+<e lm="garde-magasin"><i>garde-magasin</i><par n="??????????"/></e>
+<e lm="garde-malade"><i>garde-malade</i><par n="??????????"/></e>
+<e lm="garde-manège"><i>garde-manège</i><par n="??????????"/></e>
+<e lm="garde-nappe"><i>garde-nappe</i><par n="??????????"/></e>
+<e lm="garde-port"><i>garde-port</i><par n="??????????"/></e>
+<e lm="garde-pêche"><i>garde-pêche</i><par n="??????????"/></e>
+<e lm="garde-voie"><i>garde-voie</i><par n="??????????"/></e>
+<e lm="garde-vue"><i>garde-vue</i><par n="??????????"/></e>
+<e lm="garden-party"><i>garden-party</i><par n="??????????"/></e>
+<e lm="gardes-barrières"><i>gardes-barrières</i><par n="??????????"/></e>
+<e lm="gardes-buts"><i>gardes-buts</i><par n="??????????"/></e>
+<e lm="gardes-côtes"><i>gardes-côtes</i><par n="??????????"/></e>
+<e lm="gardes-frontières"><i>gardes-frontières</i><par n="??????????"/></e>
+<e lm="gardes-magasins"><i>gardes-magasins</i><par n="??????????"/></e>
+<e lm="gardes-maisons"><i>gardes-maisons</i><par n="??????????"/></e>
+<e lm="gardes-malades"><i>gardes-malades</i><par n="??????????"/></e>
+<e lm="gardes-pêche"><i>gardes-pêche</i><par n="??????????"/></e>
+<e lm="gauss"><i>gauss</i><par n="??????????"/></e>
+<e lm="gentleman"><i>gentleman</i><par n="??????????"/></e>
+<e lm="gentry"><i>gentry</i><par n="??????????"/></e>
+<e lm="glyptodon"><i>glyptodon</i><par n="??????????"/></e>
+<e lm="gnocchi"><i>gnocchi</i><par n="??????????"/></e>
+<e lm="goyim"><i>goyim</i><par n="??????????"/></e>
+<e lm="goïm"><i>goïm</i><par n="??????????"/></e>
+<e lm="graffiti"><i>graffiti</i><par n="??????????"/></e>
+<e lm="grand-route"><i>grand-route</i><par n="??????????"/></e>
+<e lm="gratte-cul"><i>gratte-cul</i><par n="??????????"/></e>
+<e lm="gratte-papier"><i>gratte-papier</i><par n="??????????"/></e>
+<e lm="gray"><i>gray</i><par n="??????????"/></e>
+<e lm="grille-pain"><i>grille-pain</i><par n="??????????"/></e>
+<e lm="grizzly"><i>grizzly</i><par n="??????????"/></e>
+<e lm="gros"><i>gros</i><par n="??????????"/></e>
+<e lm="gruppetto"><i>gruppetto</i><par n="??????????"/></e>
+<e lm="guide-fil"><i>guide-fil</i><par n="??????????"/></e>
+<e lm="gâte-sauce"><i>gâte-sauce</i><par n="??????????"/></e>
+<e lm="hache-fourrage"><i>hache-fourrage</i><par n="??????????"/></e>
+<e lm="hache-paille"><i>hache-paille</i><par n="??????????"/></e>
+<e lm="hache-viande"><i>hache-viande</i><par n="??????????"/></e>
+<e lm="hadith"><i>hadith</i><par n="??????????"/></e>
+<e lm="hadj"><i>hadj</i><par n="??????????"/></e>
+<e lm="hadji"><i>hadji</i><par n="??????????"/></e>
+<e lm="harraga"><i>harraga</i><par n="??????????"/></e>
+<e lm="haute-contre"><i>haute-contre</i><par n="??????????"/></e>
+<e lm="hautes-contre"><i>hautes-contre</i><par n="??????????"/></e>
+<e lm="henry"><i>henry</i><par n="??????????"/></e>
+<e lm="hertz"><i>hertz</i><par n="??????????"/></e>
+<e lm="hic"><i>hic</i><par n="??????????"/></e>
+<e lm="hippy"><i>hippy</i><par n="??????????"/></e>
+<e lm="hiragana"><i>hiragana</i><par n="??????????"/></e>
+<e lm="hobby"><i>hobby</i><par n="??????????"/></e>
+<e lm="homo"><i>homo</i><par n="??????????"/></e>
+<e lm="hors-bilan"><i>hors-bilan</i><par n="??????????"/></e>
+<e lm="hors-bord"><i>hors-bord</i><par n="??????????"/></e>
+<e lm="hors-champ"><i>hors-champ</i><par n="??????????"/></e>
+<e lm="hors-cote"><i>hors-cote</i><par n="??????????"/></e>
+<e lm="hors-jeu"><i>hors-jeu</i><par n="??????????"/></e>
+<e lm="hors-ligne"><i>hors-ligne</i><par n="??????????"/></e>
+<e lm="hors-média"><i>hors-média</i><par n="??????????"/></e>
+<e lm="hors-piste"><i>hors-piste</i><par n="??????????"/></e>
+<e lm="hors-sol"><i>hors-sol</i><par n="??????????"/></e>
+<e lm="hors-statut"><i>hors-statut</i><par n="??????????"/></e>
+<e lm="hors-série"><i>hors-série</i><par n="??????????"/></e>
+<e lm="hors-taxe"><i>hors-taxe</i><par n="??????????"/></e>
+<e lm="hors-texte"><i>hors-texte</i><par n="??????????"/></e>
+<e lm="husky"><i>husky</i><par n="??????????"/></e>
+<e lm="hypernova"><i>hypernova</i><par n="??????????"/></e>
+<e lm="ice-shelf"><i>ice-shelf</i><par n="??????????"/></e>
+<e lm="impedimentum"><i>impedimentum</i><par n="??????????"/></e>
+<e lm="imports-exports"><i>imports-exports</i><par n="??????????"/></e>
+<e lm="impresario"><i>impresario</i><par n="??????????"/></e>
+<e lm="imprimatur"><i>imprimatur</i><par n="??????????"/></e>
+<e lm="incipit"><i>incipit</i><par n="??????????"/></e>
+<e lm="incomplet"><i>incomplet</i><par n="??????????"/></e>
+<e lm="indiscret"><i>indiscret</i><par n="??????????"/></e>
+<e lm="jazzman"><i>jazzman</i><par n="??????????"/></e>
+<e lm="jet-society"><i>jet-society</i><par n="??????????"/></e>
+<e lm="job"><i>job</i><par n="??????????"/></e>
+<e lm="joule"><i>joule</i><par n="??????????"/></e>
+<e lm="juke-box"><i>juke-box</i><par n="??????????"/></e>
+<e lm="junky"><i>junky</i><par n="??????????"/></e>
+<e lm="kakemono"><i>kakemono</i><par n="??????????"/></e>
+<e lm="kana"><i>kana</i><par n="??????????"/></e>
+<e lm="kanji"><i>kanji</i><par n="??????????"/></e>
+<e lm="kappa"><i>kappa</i><par n="??????????"/></e>
+<e lm="kat"><i>kat</i><par n="??????????"/></e>
+<e lm="katakana"><i>katakana</i><par n="??????????"/></e>
+<e lm="katal"><i>katal</i><par n="??????????"/></e>
+<e lm="kelvin"><i>kelvin</i><par n="??????????"/></e>
+<e lm="khi"><i>khi</i><par n="??????????"/></e>
+<e lm="kibboutznik"><i>kibboutznik</i><par n="??????????"/></e>
+<e lm="kitch"><i>kitch</i><par n="??????????"/></e>
+<e lm="ksar"><i>ksar</i><par n="??????????"/></e>
+<e lm="kshatriya"><i>kshatriya</i><par n="??????????"/></e>
+<e lm="ksi"><i>ksi</i><par n="??????????"/></e>
+<e lm="lady"><i>lady</i><par n="??????????"/></e>
+<e lm="lambda"><i>lambda</i><par n="??????????"/></e>
+<e lm="land"><i>land</i><par n="??????????"/></e>
+<e lm="lapilli"><i>lapilli</i><par n="??????????"/></e>
+<e lm="lapon"><i>lapon</i><par n="??????????"/></e>
+<e lm="largo"><i>largo</i><par n="??????????"/></e>
+<e lm="lasagne"><i>lasagne</i><par n="??????????"/></e>
+<e lm="latifundium"><i>latifundium</i><par n="??????????"/></e>
+<e lm="lavatory"><i>lavatory</i><par n="??????????"/></e>
+<e lm="lave-auto"><i>lave-auto</i><par n="??????????"/></e>
+<e lm="lave-glace"><i>lave-glace</i><par n="??????????"/></e>
+<e lm="lave-linge"><i>lave-linge</i><par n="??????????"/></e>
+<e lm="lave-pont"><i>lave-pont</i><par n="??????????"/></e>
+<e lm="lave-tête"><i>lave-tête</i><par n="??????????"/></e>
+<e lm="lazzarone"><i>lazzarone</i><par n="??????????"/></e>
+<e lm="lazzi"><i>lazzi</i><par n="??????????"/></e>
+<e lm="legato"><i>legato</i><par n="??????????"/></e>
+<e lm="lento"><i>lento</i><par n="??????????"/></e>
+<e lm="libretto"><i>libretto</i><par n="??????????"/></e>
+<e lm="linga"><i>linga</i><par n="??????????"/></e>
+<e lm="lingam"><i>lingam</i><par n="??????????"/></e>
+<e lm="lm"><i>lm</i><par n="??????????"/></e>
+<e lm="lobby"><i>lobby</i><par n="??????????"/></e>
+<e lm="lorry"><i>lorry</i><par n="??????????"/></e>
+<e lm="lumen"><i>lumen</i><par n="??????????"/></e>
+<e lm="lunch"><i>lunch</i><par n="??????????"/></e>
+<e lm="lux"><i>lux</i><par n="??????????"/></e>
+<e lm="lx"><i>lx</i><par n="??????????"/></e>
+<e lm="lèche-cul"><i>lèche-cul</i><par n="??????????"/></e>
+<e lm="lèse-majesté"><i>lèse-majesté</i><par n="??????????"/></e>
+<e lm="lève-glace"><i>lève-glace</i><par n="??????????"/></e>
+<e lm="lève-vitre"><i>lève-vitre</i><par n="??????????"/></e>
+<e lm="macaroni"><i>macaroni</i><par n="??????????"/></e>
+<e lm="maffioso"><i>maffioso</i><par n="??????????"/></e>
+<e lm="mafioso"><i>mafioso</i><par n="??????????"/></e>
+<e lm="magnificat"><i>magnificat</i><par n="??????????"/></e>
+<e lm="mail-coach"><i>mail-coach</i><par n="??????????"/></e>
+<e lm="maitre-chien"><i>maitre-chien</i><par n="??????????"/></e>
+<e lm="maitres-chiens"><i>maitres-chiens</i><par n="??????????"/></e>
+<e lm="malin"><i>malin</i><par n="??????????"/></e>
+<e lm="marque-page"><i>marque-page</i><par n="??????????"/></e>
+<e lm="martini"><i>martini</i><par n="??????????"/></e>
+<e lm="marxiste-léniniste"><i>marxiste-léniniste</i><par n="??????????"/></e>
+<e lm="marxistes-léninistes"><i>marxistes-léninistes</i><par n="??????????"/></e>
+<e lm="mas"><i>mas</i><par n="??????????"/></e>
+<e lm="math"><i>math</i><par n="??????????"/></e>
+<e lm="maxima"><i>maxima</i><par n="??????????"/></e>
+<e lm="medium"><i>medium</i><par n="??????????"/></e>
+<e lm="melba"><i>melba</i><par n="??????????"/></e>
+<e lm="memorandum"><i>memorandum</i><par n="??????????"/></e>
+<e lm="mezzo"><i>mezzo</i><par n="??????????"/></e>
+<e lm="mezzo-soprano"><i>mezzo-soprano</i><par n="??????????"/></e>
+<e lm="mi"><i>mi</i><par n="??????????"/></e>
+<e lm="midshipman"><i>midshipman</i><par n="??????????"/></e>
+<e lm="milady"><i>milady</i><par n="??????????"/></e>
+<e lm="min"><i>min</i><par n="??????????"/></e>
+<e lm="minima"><i>minima</i><par n="??????????"/></e>
+<e lm="minot"><i>minot</i><par n="??????????"/></e>
+<e lm="miss"><i>miss</i><par n="??????????"/></e>
+<e lm="moderato"><i>moderato</i><par n="??????????"/></e>
+<e lm="mol"><i>mol</i><par n="??????????"/></e>
+<e lm="mole"><i>mole</i><par n="??????????"/></e>
+<e lm="monsignore"><i>monsignore</i><par n="??????????"/></e>
+<e lm="monte-charge"><i>monte-charge</i><par n="??????????"/></e>
+<e lm="monte-glace"><i>monte-glace</i><par n="??????????"/></e>
+<e lm="monte-meuble"><i>monte-meuble</i><par n="??????????"/></e>
+<e lm="monte-pente"><i>monte-pente</i><par n="??????????"/></e>
+<e lm="mu"><i>mu</i><par n="??????????"/></e>
+<e lm="multicomposant"><i>multicomposant</i><par n="??????????"/></e>
+<e lm="méthacrylate"><i>méthacrylate</i><par n="??????????"/></e>
+<e lm="métis"><i>métis</i><par n="??????????"/></e>
+<e lm="national-socialiste"><i>national-socialiste</i><par n="??????????"/></e>
+<e lm="nationaux-socialistes"><i>nationaux-socialistes</i><par n="??????????"/></e>
+<e lm="neu-neu"><i>neu-neu</i><par n="??????????"/></e>
+<e lm="neux-neux"><i>neux-neux</i><par n="??????????"/></e>
+<e lm="newton"><i>newton</i><par n="??????????"/></e>
+<e lm="nippon"><i>nippon</i><par n="??????????"/></e>
+<e lm="nouvel"><i>nouvel</i><par n="??????????"/></e>
+<e lm="nova"><i>nova</i><par n="??????????"/></e>
+<e lm="nuraghe"><i>nuraghe</i><par n="??????????"/></e>
+<e lm="nursery"><i>nursery</i><par n="??????????"/></e>
+<e lm="o"><i>o</i><par n="??????????"/></e>
+<e lm="oculus"><i>oculus</i><par n="??????????"/></e>
+<e lm="ohm"><i>ohm</i><par n="??????????"/></e>
+<e lm="oligo-élément"><i>oligo-élément</i><par n="??????????"/></e>
+<e lm="oligoélément"><i>oligoélément</i><par n="??????????"/></e>
+<e lm="olim"><i>olim</i><par n="??????????"/></e>
+<e lm="ombrien"><i>ombrien</i><par n="??????????"/></e>
+<e lm="ombudsman"><i>ombudsman</i><par n="??????????"/></e>
+<e lm="omicron"><i>omicron</i><par n="??????????"/></e>
+<e lm="oméga"><i>oméga</i><par n="??????????"/></e>
+<e lm="open"><i>open</i><par n="??????????"/></e>
+<e lm="oppidum"><i>oppidum</i><par n="??????????"/></e>
+<e lm="optimum"><i>optimum</i><par n="??????????"/></e>
+<e lm="ordo"><i>ordo</i><par n="??????????"/></e>
+<e lm="ouzbek"><i>ouzbek</i><par n="??????????"/></e>
+<e lm="paddy"><i>paddy</i><par n="??????????"/></e>
+<e lm="pagus"><i>pagus</i><par n="??????????"/></e>
+<e lm="palazzo"><i>palazzo</i><par n="??????????"/></e>
+<e lm="palettiseur"><i>palettiseur</i><par n="??????????"/></e>
+<e lm="panty"><i>panty</i><par n="??????????"/></e>
+<e lm="paparazzo"><i>paparazzo</i><par n="??????????"/></e>
+<e lm="parabellum"><i>parabellum</i><par n="??????????"/></e>
+<e lm="pare-battage"><i>pare-battage</i><par n="??????????"/></e>
+<e lm="pare-boue"><i>pare-boue</i><par n="??????????"/></e>
+<e lm="pare-feu"><i>pare-feu</i><par n="??????????"/></e>
+<e lm="pare-fumée"><i>pare-fumée</i><par n="??????????"/></e>
+<e lm="pare-neige"><i>pare-neige</i><par n="??????????"/></e>
+<e lm="pare-soleil"><i>pare-soleil</i><par n="??????????"/></e>
+<e lm="pare-vapeur"><i>pare-vapeur</i><par n="??????????"/></e>
+<e lm="pare-vent"><i>pare-vent</i><par n="??????????"/></e>
+<e lm="partita"><i>partita</i><par n="??????????"/></e>
+<e lm="pascal"><i>pascal</i><par n="??????????"/></e>
+<e lm="passe-coupe"><i>passe-coupe</i><par n="??????????"/></e>
+<e lm="passe-crassane"><i>passe-crassane</i><par n="??????????"/></e>
+<e lm="passe-droit"><i>passe-droit</i><par n="??????????"/></e>
+<e lm="passe-lacet"><i>passe-lacet</i><par n="??????????"/></e>
+<e lm="passe-lait"><i>passe-lait</i><par n="??????????"/></e>
+<e lm="passe-montagne"><i>passe-montagne</i><par n="??????????"/></e>
+<e lm="passe-pied"><i>passe-pied</i><par n="??????????"/></e>
+<e lm="passe-pierre"><i>passe-pierre</i><par n="??????????"/></e>
+<e lm="passe-plat"><i>passe-plat</i><par n="??????????"/></e>
+<e lm="passe-thé"><i>passe-thé</i><par n="??????????"/></e>
+<e lm="passe-volant"><i>passe-volant</i><par n="??????????"/></e>
+<e lm="peau-rouge"><i>peau-rouge</i><par n="??????????"/></e>
+<e lm="peaux-rouges"><i>peaux-rouges</i><par n="??????????"/></e>
+<e lm="pecorino"><i>pecorino</i><par n="??????????"/></e>
+<e lm="penny"><i>penny</i><par n="??????????"/></e>
+<e lm="perce-muraille"><i>perce-muraille</i><par n="??????????"/></e>
+<e lm="perce-neige"><i>perce-neige</i><par n="??????????"/></e>
+<e lm="perce-oreille"><i>perce-oreille</i><par n="??????????"/></e>
+<e lm="perce-pierre"><i>perce-pierre</i><par n="??????????"/></e>
+<e lm="perchman"><i>perchman</i><par n="??????????"/></e>
+<e lm="phi"><i>phi</i><par n="??????????"/></e>
+<e lm="photo-robot"><i>photo-robot</i><par n="??????????"/></e>
+<e lm="photos-robots"><i>photos-robots</i><par n="??????????"/></e>
+<e lm="phyllosilicate"><i>phyllosilicate</i><par n="??????????"/></e>
+<e lm="phylum"><i>phylum</i><par n="??????????"/></e>
+<e lm="phytohormone"><i>phytohormone</i><par n="??????????"/></e>
+<e lm="phytotoxicité"><i>phytotoxicité</i><par n="??????????"/></e>
+<e lm="pi"><i>pi</i><par n="??????????"/></e>
+<e lm="pianissimo"><i>pianissimo</i><par n="??????????"/></e>
+<e lm="pied-noir"><i>pied-noir</i><par n="??????????"/></e>
+<e lm="pieds-noirs"><i>pieds-noirs</i><par n="??????????"/></e>
+<e lm="pifferaro"><i>pifferaro</i><par n="??????????"/></e>
+<e lm="pince-maille"><i>pince-maille</i><par n="??????????"/></e>
+<e lm="ping-pong"><i>ping-pong</i><par n="??????????"/></e>
+<e lm="pique-assiette"><i>pique-assiette</i><par n="??????????"/></e>
+<e lm="pique-bœuf"><i>pique-bœuf</i><par n="??????????"/></e>
+<e lm="pique-feu"><i>pique-feu</i><par n="??????????"/></e>
+<e lm="pirojki"><i>pirojki</i><par n="??????????"/></e>
+<e lm="pisse-vinaigre"><i>pisse-vinaigre</i><par n="??????????"/></e>
+<e lm="pitch"><i>pitch</i><par n="??????????"/></e>
+<e lm="pizzaiolo"><i>pizzaiolo</i><par n="??????????"/></e>
+<e lm="pizzicato"><i>pizzicato</i><par n="??????????"/></e>
+<e lm="plain"><i>plain</i><par n="??????????"/></e>
+<e lm="pleure-misère"><i>pleure-misère</i><par n="??????????"/></e>
+<e lm="poise"><i>poise</i><par n="??????????"/></e>
+<e lm="policeman"><i>policeman</i><par n="??????????"/></e>
+<e lm="pollicitation"><i>pollicitation</i><par n="??????????"/></e>
+<e lm="ponte"><i>ponte</i><par n="??????????"/></e>
+<e lm="porte-aigle"><i>porte-aigle</i><par n="??????????"/></e>
+<e lm="porte-aiguille"><i>porte-aiguille</i><par n="??????????"/></e>
+<e lm="porte-amarre"><i>porte-amarre</i><par n="??????????"/></e>
+<e lm="porte-bannière"><i>porte-bannière</i><par n="??????????"/></e>
+<e lm="porte-baïonnette"><i>porte-baïonnette</i><par n="??????????"/></e>
+<e lm="porte-bonheur"><i>porte-bonheur</i><par n="??????????"/></e>
+<e lm="porte-bouquet"><i>porte-bouquet</i><par n="??????????"/></e>
+<e lm="porte-brancard"><i>porte-brancard</i><par n="??????????"/></e>
+<e lm="porte-bébé"><i>porte-bébé</i><par n="??????????"/></e>
+<e lm="porte-copie"><i>porte-copie</i><par n="??????????"/></e>
+<e lm="porte-couteau"><i>porte-couteau</i><par n="??????????"/></e>
+<e lm="porte-crayon"><i>porte-crayon</i><par n="??????????"/></e>
+<e lm="porte-crosse"><i>porte-crosse</i><par n="??????????"/></e>
+<e lm="porte-drapeau"><i>porte-drapeau</i><par n="??????????"/></e>
+<e lm="porte-enseigne"><i>porte-enseigne</i><par n="??????????"/></e>
+<e lm="porte-fanion"><i>porte-fanion</i><par n="??????????"/></e>
+<e lm="porte-glaive"><i>porte-glaive</i><par n="??????????"/></e>
+<e lm="porte-greffe"><i>porte-greffe</i><par n="??????????"/></e>
+<e lm="porte-jupe"><i>porte-jupe</i><par n="??????????"/></e>
+<e lm="porte-lame"><i>porte-lame</i><par n="??????????"/></e>
+<e lm="porte-malheur"><i>porte-malheur</i><par n="??????????"/></e>
+<e lm="porte-menu"><i>porte-menu</i><par n="??????????"/></e>
+<e lm="porte-montre"><i>porte-montre</i><par n="??????????"/></e>
+<e lm="porte-musique"><i>porte-musique</i><par n="??????????"/></e>
+<e lm="porte-objet"><i>porte-objet</i><par n="??????????"/></e>
+<e lm="porte-outil"><i>porte-outil</i><par n="??????????"/></e>
+<e lm="porte-papier"><i>porte-papier</i><par n="??????????"/></e>
+<e lm="porte-plume"><i>porte-plume</i><par n="??????????"/></e>
+<e lm="porte-queue"><i>porte-queue</i><par n="??????????"/></e>
+<e lm="porte-savon"><i>porte-savon</i><par n="??????????"/></e>
+<e lm="porte-serviette"><i>porte-serviette</i><par n="??????????"/></e>
+<e lm="porte-trait"><i>porte-trait</i><par n="??????????"/></e>
+<e lm="porte-vent"><i>porte-vent</i><par n="??????????"/></e>
+<e lm="porte-épée"><i>porte-épée</i><par n="??????????"/></e>
+<e lm="porte-étendard"><i>porte-étendard</i><par n="??????????"/></e>
+<e lm="porte-étrivière"><i>porte-étrivière</i><par n="??????????"/></e>
+<e lm="pousse-café"><i>pousse-café</i><par n="??????????"/></e>
+<e lm="pousse-cul"><i>pousse-cul</i><par n="??????????"/></e>
+<e lm="pousse-pied"><i>pousse-pied</i><par n="??????????"/></e>
+<e lm="pousse-toc"><i>pousse-toc</i><par n="??????????"/></e>
+<e lm="pousse-wagon"><i>pousse-wagon</i><par n="??????????"/></e>
+<e lm="presse-citron"><i>presse-citron</i><par n="??????????"/></e>
+<e lm="presse-purée"><i>presse-purée</i><par n="??????????"/></e>
+<e lm="presse-raquette"><i>presse-raquette</i><par n="??????????"/></e>
+<e lm="presse-viande"><i>presse-viande</i><par n="??????????"/></e>
+<e lm="presse-étoupe"><i>presse-étoupe</i><par n="??????????"/></e>
+<e lm="prestissimo"><i>prestissimo</i><par n="??????????"/></e>
+<e lm="prima-donna"><i>prima-donna</i><par n="??????????"/></e>
+<e lm="profès"><i>profès</i><par n="??????????"/></e>
+<e lm="propre-à-rien"><i>propre-à-rien</i><par n="??????????"/></e>
+<e lm="propres-à-rien"><i>propres-à-rien</i><par n="??????????"/></e>
+<e lm="prorata"><i>prorata</i><par n="??????????"/></e>
+<e lm="protège-cahier"><i>protège-cahier</i><par n="??????????"/></e>
+<e lm="protège-tibia"><i>protège-tibia</i><par n="??????????"/></e>
+<e lm="proxy"><i>proxy</i><par n="??????????"/></e>
+<e lm="psi"><i>psi</i><par n="??????????"/></e>
+<e lm="pt"><i>pt</i><par n="??????????"/></e>
+<e lm="puceau"><i>puceau</i><par n="??????????"/></e>
+<e lm="pupazzo"><i>pupazzo</i><par n="??????????"/></e>
+<e lm="putto"><i>putto</i><par n="??????????"/></e>
+<e lm="pèse-acide"><i>pèse-acide</i><par n="??????????"/></e>
+<e lm="pèse-alcool"><i>pèse-alcool</i><par n="??????????"/></e>
+<e lm="pèse-bébé"><i>pèse-bébé</i><par n="??????????"/></e>
+<e lm="pèse-esprit"><i>pèse-esprit</i><par n="??????????"/></e>
+<e lm="pèse-lait"><i>pèse-lait</i><par n="??????????"/></e>
+<e lm="pèse-lettre"><i>pèse-lettre</i><par n="??????????"/></e>
+<e lm="pèse-liqueur"><i>pèse-liqueur</i><par n="??????????"/></e>
+<e lm="pèse-moût"><i>pèse-moût</i><par n="??????????"/></e>
+<e lm="pèse-personne"><i>pèse-personne</i><par n="??????????"/></e>
+<e lm="pèse-sel"><i>pèse-sel</i><par n="??????????"/></e>
+<e lm="pèse-sirop"><i>pèse-sirop</i><par n="??????????"/></e>
+<e lm="pèse-vin"><i>pèse-vin</i><par n="??????????"/></e>
+<e lm="pécheur"><i>pécheur</i><par n="??????????"/></e>
+<e lm="quantum"><i>quantum</i><par n="??????????"/></e>
+<e lm="quartier-maitre"><i>quartier-maitre</i><par n="??????????"/></e>
+<e lm="quartier-maître"><i>quartier-maître</i><par n="??????????"/></e>
+<e lm="quartiers-maitres"><i>quartiers-maitres</i><par n="??????????"/></e>
+<e lm="quartiers-maîtres"><i>quartiers-maîtres</i><par n="??????????"/></e>
+<e lm="quatre-vingt-dixième"><i>quatre-vingt-dixième</i><par n="??????????"/></e>
+<e lm="quatre-épices"><i>quatre-épices</i><par n="??????????"/></e>
+<e lm="rabat-eau"><i>rabat-eau</i><par n="??????????"/></e>
+<e lm="rabat-joie"><i>rabat-joie</i><par n="??????????"/></e>
+<e lm="rabat-vent"><i>rabat-vent</i><par n="??????????"/></e>
+<e lm="rad"><i>rad</i><par n="??????????"/></e>
+<e lm="radian"><i>radian</i><par n="??????????"/></e>
+<e lm="raideur"><i>raideur</i><par n="??????????"/></e>
+<e lm="ramasse-monnaie"><i>ramasse-monnaie</i><par n="??????????"/></e>
+<e lm="ramasse-poussière"><i>ramasse-poussière</i><par n="??????????"/></e>
+<e lm="ranch"><i>ranch</i><par n="??????????"/></e>
+<e lm="rase-pet"><i>rase-pet</i><par n="??????????"/></e>
+<e lm="rash"><i>rash</i><par n="??????????"/></e>
+<e lm="rave-party"><i>rave-party</i><par n="??????????"/></e>
+<e lm="ravioli"><i>ravioli</i><par n="??????????"/></e>
+<e lm="ready-made"><i>ready-made</i><par n="??????????"/></e>
+<e lm="recordman"><i>recordman</i><par n="??????????"/></e>
+<e lm="recordwoman"><i>recordwoman</i><par n="??????????"/></e>
+<e lm="relish"><i>relish</i><par n="??????????"/></e>
+<e lm="remix"><i>remix</i><par n="??????????"/></e>
+<e lm="remonte-pente"><i>remonte-pente</i><par n="??????????"/></e>
+<e lm="remue-ménage"><i>remue-ménage</i><par n="??????????"/></e>
+<e lm="repose-tête"><i>repose-tête</i><par n="??????????"/></e>
+<e lm="ricercare"><i>ricercare</i><par n="??????????"/></e>
+<e lm="rifle"><i>rifle</i><par n="??????????"/></e>
+<e lm="rigolo"><i>rigolo</i><par n="??????????"/></e>
+<e lm="rigolote"><i>rigolote</i><par n="??????????"/></e>
+<e lm="rince-bouche"><i>rince-bouche</i><par n="??????????"/></e>
+<e lm="ripieno"><i>ripieno</i><par n="??????????"/></e>
+<e lm="ripou"><i>ripou</i><par n="??????????"/></e>
+<e lm="ripous"><i>ripous</i><par n="??????????"/></e>
+<e lm="robinetier"><i>robinetier</i><par n="??????????"/></e>
+<e lm="robinétier"><i>robinétier</i><par n="??????????"/></e>
+<e lm="roentgen"><i>roentgen</i><par n="??????????"/></e>
+<e lm="rogne-pied"><i>rogne-pied</i><par n="??????????"/></e>
+<e lm="romaji"><i>romaji</i><par n="??????????"/></e>
+<e lm="roumi"><i>roumi</i><par n="??????????"/></e>
+<e lm="routeur"><i>routeur</i><par n="??????????"/></e>
+<e lm="roux"><i>roux</i><par n="??????????"/></e>
+<e lm="royalty"><i>royalty</i><par n="??????????"/></e>
+<e lm="rugbyman"><i>rugbyman</i><par n="??????????"/></e>
+<e lm="rush"><i>rush</i><par n="??????????"/></e>
+<e lm="régal"><i>régal</i><par n="??????????"/></e>
+<e lm="réveille-matin"><i>réveille-matin</i><par n="??????????"/></e>
+<e lm="röntgen"><i>röntgen</i><par n="??????????"/></e>
+<e lm="salonnard"><i>salonnard</i><par n="??????????"/></e>
+<e lm="sampi"><i>sampi</i><par n="??????????"/></e>
+<e lm="sanatorium"><i>sanatorium</i><par n="??????????"/></e>
+<e lm="sangs-mêlés"><i>sangs-mêlés</i><par n="??????????"/></e>
+<e lm="sans-culotte"><i>sans-culotte</i><par n="??????????"/></e>
+<e lm="sans-cœur"><i>sans-cœur</i><par n="??????????"/></e>
+<e lm="sans-emploi"><i>sans-emploi</i><par n="??????????"/></e>
+<e lm="sans-faute"><i>sans-faute</i><par n="??????????"/></e>
+<e lm="sans-façon"><i>sans-façon</i><par n="??????????"/></e>
+<e lm="sans-fil"><i>sans-fil</i><par n="??????????"/></e>
+<e lm="sans-filiste"><i>sans-filiste</i><par n="??????????"/></e>
+<e lm="sans-grade"><i>sans-grade</i><par n="??????????"/></e>
+<e lm="sans-gêne"><i>sans-gêne</i><par n="??????????"/></e>
+<e lm="sans-parti"><i>sans-parti</i><par n="??????????"/></e>
+<e lm="sans-patrie"><i>sans-patrie</i><par n="??????????"/></e>
+<e lm="sans-plomb"><i>sans-plomb</i><par n="??????????"/></e>
+<e lm="sans-soin"><i>sans-soin</i><par n="??????????"/></e>
+<e lm="sans-souci"><i>sans-souci</i><par n="??????????"/></e>
+<e lm="saute-mouton"><i>saute-mouton</i><par n="??????????"/></e>
+<e lm="saute-ruisseau"><i>saute-ruisseau</i><par n="??????????"/></e>
+<e lm="scenario"><i>scenario</i><par n="??????????"/></e>
+<e lm="scotch"><i>scotch</i><par n="??????????"/></e>
+<e lm="scratch"><i>scratch</i><par n="??????????"/></e>
+<e lm="scriptorium"><i>scriptorium</i><par n="??????????"/></e>
+<e lm="scutum"><i>scutum</i><par n="??????????"/></e>
+<e lm="sec"><i>sec</i><par n="??????????"/></e>
+<e lm="self-made-man"><i>self-made-man</i><par n="??????????"/></e>
+<e lm="self-made-woman"><i>self-made-woman</i><par n="??????????"/></e>
+<e lm="sempervivum"><i>sempervivum</i><par n="??????????"/></e>
+<e lm="serre-bosse"><i>serre-bosse</i><par n="??????????"/></e>
+<e lm="serre-câble"><i>serre-câble</i><par n="??????????"/></e>
+<e lm="serre-file"><i>serre-file</i><par n="??????????"/></e>
+<e lm="serre-tube"><i>serre-tube</i><par n="??????????"/></e>
+<e lm="serre-tête"><i>serre-tête</i><par n="??????????"/></e>
+<e lm="serre-écrou"><i>serre-écrou</i><par n="??????????"/></e>
+<e lm="sherry"><i>sherry</i><par n="??????????"/></e>
+<e lm="siemens"><i>siemens</i><par n="??????????"/></e>
+<e lm="sievert"><i>sievert</i><par n="??????????"/></e>
+<e lm="sigma"><i>sigma</i><par n="??????????"/></e>
+<e lm="sketch"><i>sketch</i><par n="??????????"/></e>
+<e lm="slash"><i>slash</i><par n="??????????"/></e>
+<e lm="smash"><i>smash</i><par n="??????????"/></e>
+<e lm="snoreau"><i>snoreau</i><par n="??????????"/></e>
+<e lm="solo"><i>solo</i><par n="??????????"/></e>
+<e lm="souffre-douleur"><i>souffre-douleur</i><par n="??????????"/></e>
+<e lm="sous-gorge"><i>sous-gorge</i><par n="??????????"/></e>
+<e lm="sous-main"><i>sous-main</i><par n="??????????"/></e>
+<e lm="sous-préfet"><i>sous-préfet</i><par n="??????????"/></e>
+<e lm="sous-seing"><i>sous-seing</i><par n="??????????"/></e>
+<e lm="sous-verge"><i>sous-verge</i><par n="??????????"/></e>
+<e lm="sous-verre"><i>sous-verre</i><par n="??????????"/></e>
+<e lm="spaghetti"><i>spaghetti</i><par n="??????????"/></e>
+<e lm="speakeasy"><i>speakeasy</i><par n="??????????"/></e>
+<e lm="speech"><i>speech</i><par n="??????????"/></e>
+<e lm="sportsman"><i>sportsman</i><par n="??????????"/></e>
+<e lm="sportswoman"><i>sportswoman</i><par n="??????????"/></e>
+<e lm="sr"><i>sr</i><par n="??????????"/></e>
+<e lm="staccato"><i>staccato</i><par n="??????????"/></e>
+<e lm="stimulus"><i>stimulus</i><par n="??????????"/></e>
+<e lm="stups"><i>stups</i><par n="??????????"/></e>
+<e lm="stéradian"><i>stéradian</i><par n="??????????"/></e>
+<e lm="sulky"><i>sulky</i><par n="??????????"/></e>
+<e lm="super"><i>super</i><par n="??????????"/></e>
+<e lm="superman"><i>superman</i><par n="??????????"/></e>
+<e lm="supernova"><i>supernova</i><par n="??????????"/></e>
+<e lm="superwoman"><i>superwoman</i><par n="??????????"/></e>
+<e lm="surmoi"><i>surmoi</i><par n="??????????"/></e>
+<e lm="symposium"><i>symposium</i><par n="??????????"/></e>
+<e lm="séraphin"><i>séraphin</i><par n="??????????"/></e>
+<e lm="sétaire"><i>sétaire</i><par n="??????????"/></e>
+<e lm="tagliatelle"><i>tagliatelle</i><par n="??????????"/></e>
+<e lm="taille-crayon"><i>taille-crayon</i><par n="??????????"/></e>
+<e lm="taille-mer"><i>taille-mer</i><par n="??????????"/></e>
+<e lm="taille-vent"><i>taille-vent</i><par n="??????????"/></e>
+<e lm="tam-tam"><i>tam-tam</i><par n="??????????"/></e>
+<e lm="tambour-major"><i>tambour-major</i><par n="??????????"/></e>
+<e lm="tambours-majors"><i>tambours-majors</i><par n="??????????"/></e>
+<e lm="tan"><i>tan</i><par n="??????????"/></e>
+<e lm="tau"><i>tau</i><par n="??????????"/></e>
+<e lm="taximan"><i>taximan</i><par n="??????????"/></e>
+<e lm="taxum"><i>taxum</i><par n="??????????"/></e>
+<e lm="tchervonets"><i>tchervonets</i><par n="??????????"/></e>
+<e lm="tempo"><i>tempo</i><par n="??????????"/></e>
+<e lm="teneur"><i>teneur</i><par n="??????????"/></e>
+<e lm="tennisman"><i>tennisman</i><par n="??????????"/></e>
+<e lm="tenniswoman"><i>tenniswoman</i><par n="??????????"/></e>
+<e lm="tepidarium"><i>tepidarium</i><par n="??????????"/></e>
+<e lm="tesla"><i>tesla</i><par n="??????????"/></e>
+<e lm="teufs-teufs"><i>teufs-teufs</i><par n="??????????"/></e>
+<e lm="tex"><i>tex</i><par n="??????????"/></e>
+<e lm="thaï"><i>thaï</i><par n="??????????"/></e>
+<e lm="thermogramme"><i>thermogramme</i><par n="??????????"/></e>
+<e lm="thysanoptère"><i>thysanoptère</i><par n="??????????"/></e>
+<e lm="thêta"><i>thêta</i><par n="??????????"/></e>
+<e lm="tifosi"><i>tifosi</i><par n="??????????"/></e>
+<e lm="tire-balle"><i>tire-balle</i><par n="??????????"/></e>
+<e lm="tire-bonde"><i>tire-bonde</i><par n="??????????"/></e>
+<e lm="tire-botte"><i>tire-botte</i><par n="??????????"/></e>
+<e lm="tire-bourre"><i>tire-bourre</i><par n="??????????"/></e>
+<e lm="tire-bouton"><i>tire-bouton</i><par n="??????????"/></e>
+<e lm="tire-braise"><i>tire-braise</i><par n="??????????"/></e>
+<e lm="tire-clou"><i>tire-clou</i><par n="??????????"/></e>
+<e lm="tire-feu"><i>tire-feu</i><par n="??????????"/></e>
+<e lm="tire-filet"><i>tire-filet</i><par n="??????????"/></e>
+<e lm="tire-laine"><i>tire-laine</i><par n="??????????"/></e>
+<e lm="tire-lait"><i>tire-lait</i><par n="??????????"/></e>
+<e lm="tire-lisse"><i>tire-lisse</i><par n="??????????"/></e>
+<e lm="tire-pied"><i>tire-pied</i><par n="??????????"/></e>
+<e lm="tire-sac"><i>tire-sac</i><par n="??????????"/></e>
+<e lm="tire-sou"><i>tire-sou</i><par n="??????????"/></e>
+<e lm="tire-terre"><i>tire-terre</i><par n="??????????"/></e>
+<e lm="tire-veille"><i>tire-veille</i><par n="??????????"/></e>
+<e lm="tire-veine"><i>tire-veine</i><par n="??????????"/></e>
+<e lm="toccata"><i>toccata</i><par n="??????????"/></e>
+<e lm="tommy"><i>tommy</i><par n="??????????"/></e>
+<e lm="torii"><i>torii</i><par n="??????????"/></e>
+<e lm="tory"><i>tory</i><par n="??????????"/></e>
+<e lm="tourangeau"><i>tourangeau</i><par n="??????????"/></e>
+<e lm="tourne-disque"><i>tourne-disque</i><par n="??????????"/></e>
+<e lm="tourne-feuille"><i>tourne-feuille</i><par n="??????????"/></e>
+<e lm="tourne-oreille"><i>tourne-oreille</i><par n="??????????"/></e>
+<e lm="tourne-pierre"><i>tourne-pierre</i><par n="??????????"/></e>
+<e lm="tourne-soc"><i>tourne-soc</i><par n="??????????"/></e>
+<e lm="tourne-vent"><i>tourne-vent</i><par n="??????????"/></e>
+<e lm="tourtereau"><i>tourtereau</i><par n="??????????"/></e>
+<e lm="triclinium"><i>triclinium</i><par n="??????????"/></e>
+<e lm="trijumeau"><i>trijumeau</i><par n="??????????"/></e>
+<e lm="trouble-fête"><i>trouble-fête</i><par n="??????????"/></e>
+<e lm="trousse-galant"><i>trousse-galant</i><par n="??????????"/></e>
+<e lm="trousse-pet"><i>trousse-pet</i><par n="??????????"/></e>
+<e lm="trousse-pied"><i>trousse-pied</i><par n="??????????"/></e>
+<e lm="trousse-pète"><i>trousse-pète</i><par n="??????????"/></e>
+<e lm="trousse-queue"><i>trousse-queue</i><par n="??????????"/></e>
+<e lm="trullo"><i>trullo</i><par n="??????????"/></e>
+<e lm="tue-chien"><i>tue-chien</i><par n="??????????"/></e>
+<e lm="tue-diable"><i>tue-diable</i><par n="??????????"/></e>
+<e lm="tue-loup"><i>tue-loup</i><par n="??????????"/></e>
+<e lm="tue-mouche"><i>tue-mouche</i><par n="??????????"/></e>
+<e lm="tumulus"><i>tumulus</i><par n="??????????"/></e>
+<e lm="tutti"><i>tutti</i><par n="??????????"/></e>
+<e lm="tâte-vin"><i>tâte-vin</i><par n="??????????"/></e>
+<e lm="u"><i>u</i><par n="??????????"/></e>
+<e lm="upsilon"><i>upsilon</i><par n="??????????"/></e>
+<e lm="vad"><i>vad</i><par n="??????????"/></e>
+<e lm="var"><i>var</i><par n="??????????"/></e>
+<e lm="varia"><i>varia</i><par n="??????????"/></e>
+<e lm="vengeur"><i>vengeur</i><par n="??????????"/></e>
+<e lm="vide-cave"><i>vide-cave</i><par n="??????????"/></e>
+<e lm="vide-pomme"><i>vide-pomme</i><par n="??????????"/></e>
+<e lm="vide-tourie"><i>vide-tourie</i><par n="??????????"/></e>
+<e lm="vide-vite"><i>vide-vite</i><par n="??????????"/></e>
+<e lm="vieil"><i>vieil</i><par n="??????????"/></e>
+<e lm="vocero"><i>vocero</i><par n="??????????"/></e>
+<e lm="volt"><i>volt</i><par n="??????????"/></e>
+<e lm="voltampère"><i>voltampère</i><par n="??????????"/></e>
+<e lm="wallaby"><i>wallaby</i><par n="??????????"/></e>
+<e lm="wattheure"><i>wattheure</i><par n="??????????"/></e>
+<e lm="wattman"><i>wattman</i><par n="??????????"/></e>
+<e lm="weber"><i>weber</i><par n="??????????"/></e>
+<e lm="winch"><i>winch</i><par n="??????????"/></e>
+<e lm="wéber"><i>wéber</i><par n="??????????"/></e>
+<e lm="xi"><i>xi</i><par n="??????????"/></e>
+<e lm="yachtman"><i>yachtman</i><par n="??????????"/></e>
+<e lm="yachtsman"><i>yachtsman</i><par n="??????????"/></e>
+<e lm="yachtswoman"><i>yachtswoman</i><par n="??????????"/></e>
+<e lm="yachtwoman"><i>yachtwoman</i><par n="??????????"/></e>
+<e lm="yeoman"><i>yeoman</i><par n="??????????"/></e>
+<e lm="yeomanry"><i>yeomanry</i><par n="??????????"/></e>
+<e lm="zakouski"><i>zakouski</i><par n="??????????"/></e>
+<e lm="zingaro"><i>zingaro</i><par n="??????????"/></e>
+<e lm="zêta"><i>zêta</i><par n="??????????"/></e>
+<e lm="à-pic"><i>à-pic</i><par n="??????????"/></e>
+<e lm="échangeur"><i>échangeur</i><par n="??????????"/></e>
+<e lm="électronvolt"><i>électronvolt</i><par n="??????????"/></e>
+<e lm="électuaire"><i>électuaire</i><par n="??????????"/></e>
+<e lm="étouffe-chrétien"><i>étouffe-chrétien</i><par n="??????????"/></e>
+<e lm="êta"><i>êta</i><par n="??????????"/></e>
+<e lm="Ω"><i>Ω</i><par n="??????????"/></e>
+<e lm="ℓ"><i>ℓ</i><par n="??????????"/></e>
+<e lm="Ω"><i>Ω</i><par n="??????????"/></e>
