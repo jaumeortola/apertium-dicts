@@ -169,8 +169,17 @@ sub check_adjective {
         $flexio_lt = $2;
     }
 
+    # check lemma in participles
+    my $newlemma = "";
+    if ($flexio_lt =~ /AQ0MS0 ([^ ]+)/ ) {
+        $newlemma = $1;
+        if ($lema !~ /^$newlemma$/) {
+            #print STDERR "$lema > $newlemma | $flexio_lt\n";
+            $lema = $newlemma;	
+        }
+    }
+ 
     my $found = 0;
-    
     for my $rule_name (sort keys %paradigm_names) {
         #print "NOM REGLA: $rule_name\n";
         my $terminacio = $paradigm_names{$rule_name};
@@ -179,9 +188,9 @@ sub check_adjective {
             my $flexio_ap = $rules_in_oneline{$rule_name};
             $flexio_ap =~ s/<r>/$arrel/g;
             $flexio_lt =~ s/(AQA|AO0)/AQ0/g;
-            if ($lema =~ /abaissant/) {
-                print "***** $rule_name $lema $arrel*$flexio_ap*$flexio_lt\n\n";
-            }
+            #if ($lema =~ /abaissant/) {
+            #    print "***** $rule_name $lema $arrel*$flexio_ap*$flexio_lt\n\n";
+            #}
             if ($flexio_ap =~ /^$flexio_lt$/) {
                 # generate only non existent words
                 if (!exists $apertium_dict{$lema}) {
