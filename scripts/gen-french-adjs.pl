@@ -193,7 +193,7 @@ sub check_adjective {
             my $arrel = $1;
             my $flexio_ap = $rules_in_oneline{$rule_name};
             $flexio_ap =~ s/<r>/$arrel/g;
-            $flexio_lt =~ s/(AQA|AO0)/AQ0/g;
+            #$flexio_lt =~ s/(AQA|AO0)/AQ0/g;
             if ($lema =~ /commettre/) {
                 print "***** $rule_name $lema $arrel*$flexio_ap*$flexio_lt\n\n";
             }
@@ -207,7 +207,7 @@ sub check_adjective {
                         if ($found==0) {
                             $global_errors .= "\nAPERTIUM: $lema\tPAR: $apertium_dict_paradigm{$lema}\tFORMS: $apertium_dict{$lema}\n";
                         }
-                        $global_errors .= "   OTHER: $lema\tPAR: $rule_name\tFORMS: $flexio_lt\n";
+                        $global_errors .= "DICOLLEC: $lema\tPAR: $rule_name\tFORMS: $flexio_lt\n";
                         $found = 1;
                     } else {
                         $found = 1;
@@ -223,7 +223,7 @@ sub check_adjective {
     } else {
         if ($found==0) {
             $global_errors2 .= "\nAPERTIUM: $lema\tPAR: $apertium_dict_paradigm{$lema}\tFORMS: $apertium_dict{$lema}\n";
-            $global_errors2 .= "   OTHER: $lema\tPAR: ??????????????\tFORMS: $flexio_lt\n";
+            $global_errors2 .= "DICOLLEC: $lema\tPAR: ??????????????\tFORMS: $flexio_lt\n";
         }
     }
 }
