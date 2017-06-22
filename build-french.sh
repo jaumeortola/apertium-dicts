@@ -7,7 +7,7 @@ original_apertium_dict="/home/jaume/apertium/apertium-fra/apertium-fra.fra.metad
 rm -rf $dir_results
 mkdir $dir_results
 
-perl $dir_scripts/gen-french-adjs.pl $lt_dict $original_apertium_dict > $dir_results/french-adjs.txt
+perl $dir_scripts/gen-french-adjs.pl $lt_dict $original_apertium_dict > $dir_results/french-adjs.txt 2>$dir_results/french-adjs-diff.txt
 #perl $dir_scripts/gen-french-names.pl $lt_dict $original_apertium_dict > $dir_results/french-names.txt
 
 echo "Resultats en: $dir_results"

@@ -4,11 +4,16 @@ use autodie;
 use utf8;
 
 binmode( STDOUT, ":utf8" );
+binmode( STDERR, ":utf8" );
 
 my $input_dict=$ARGV[0];
 my $apertium_dict = $ARGV[1]; # paradigmes Apertium
 
 open( my $fh,  "<:encoding(UTF-8)", $apertium_dict );
+
+my $global_errors = "";
+my $global_errors2 = "";
+my $global_errors3 = "";
 
 my $in_rule = 0;
 my @rules;
@@ -107,8 +112,6 @@ close ($fh);
 @adjs_lt = sort @adjs_lt;
 
 
-
-
 my %apertium_dict;
 my %apertium_dict_paradigm;
 open($fh,  "<:encoding(UTF-8)", $apertium_dict );
@@ -126,7 +129,6 @@ while (my $line = <$fh>) {
     }
 }
 close ($fh);
-
 
 
 $line = "";
@@ -150,7 +152,9 @@ for my $line_adj (@adjs_lt) {
 }
 &check_adjective($line); # the last one
 
-
+print STDERR $global_errors;
+print STDERR $global_errors2;
+print STDERR $global_errors3;
 
 sub check_adjective {
     if ($line =~ /^$/) {
@@ -166,28 +170,38 @@ sub check_adjective {
     }
 
     # generate only non existent words
-    if (!exists $apertium_dict{$lema}) {
-        for my $rule_name (sort keys %paradigm_names) {
-            #print "NOM REGLA: $rule_name\n";
-            my $terminacio = $paradigm_names{$rule_name};
-            if ($lema =~ /^(.*)$terminacio$/) {
-                my $arrel = $1;
-                my $flexio_ap = $rules_in_oneline{$rule_name};
-                $flexio_ap =~ s/<r>/$arrel/g;
-                $flexio_lt =~ s/(AQA|AO0)/AQ0/g;
-                #if ($lema =~ /testamentaire/) {
-                #    print "***** $rule_name $lema $arrel $flexio_ap ** $flexio_lt\n";
-                #}
-                if ($flexio_ap =~ /^$flexio_lt$/) {
+    
+    for my $rule_name (sort keys %paradigm_names) {
+        #print "NOM REGLA: $rule_name\n";
+        my $terminacio = $paradigm_names{$rule_name};
+        if ($lema =~ /^(.*)$terminacio$/) {
+            my $arrel = $1;
+            my $flexio_ap = $rules_in_oneline{$rule_name};
+            $flexio_ap =~ s/<r>/$arrel/g;
+            $flexio_lt =~ s/(AQA|AO0)/AQ0/g;
+            #if ($lema =~ /testamentaire/) {
+            #    print "***** $rule_name $lema $arrel $flexio_ap ** $flexio_lt\n";
+            #}
+            if ($flexio_ap =~ /^$flexio_lt$/) {
+                if (!exists $apertium_dict{$lema}) {
                     print "<e lm=\"$lema\"><i>$arrel</i><par n=\"$rule_name\"/></e>\n";
                     return;
+                } else {
+                    if ($apertium_dict{$lema} !~ /^$flexio_lt$/ ) {
+                        $global_errors .= "APERTIUM: $lema\tPAR: $apertium_dict_paradigm{$lema}\tFORMS: $apertium_dict{$lema}\n";
+                        $global_errors .= "   OTHER: $lema\tPAR: $rule_name\tFORMS: $flexio_lt\n\n";
+
+                    }
                 }
-            }
+            } 
         }
-        print "<e lm=\"$lema\"><i>$lema</i><par n=\"??????????\"/></e>\n";
     }
 
-
-
+    if (!exists $apertium_dict{$lema}) {
+        $global_errors3 .= "<e lm=\"$lema\"><i>$lema</i><par n=\"??????????\"/></e>\n";
+    } else {
+        $global_errors2 .= "APERTIUM: $lema\tPAR: $apertium_dict_paradigm{$lema}\tFORMS: $apertium_dict{$lema}\n";
+        $global_errors2 .= "   OTHER: $lema\tPAR: ??????????????\tFORMS: $flexio_lt\n\n";
+    }
 }
 
