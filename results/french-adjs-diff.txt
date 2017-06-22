@@ -98,6 +98,7 @@ APERTIUM: énième	PAR: arrière__adj	FORMS: AQ0CN0 énième
 
 APERTIUM: épais	PAR: anglais__adj	FORMS: AQ0FP0 épaises AQ0FS0 épaise AQ0MN0 épais
    OTHER: épais	PAR: bas__adj	FORMS: AQ0FP0 épaisses AQ0FS0 épaisse AQ0MN0 épais
+
 APERTIUM: aigre-doux	PAR: dou/x__adj	FORMS: AQ0FP0 aigre-douces AQ0FS0 aigre-douce AQ0MN0 aigre-doux
    OTHER: aigre-doux	PAR: ??????????????	FORMS: AQ0MS0 aigre-doux
 
@@ -193,7 +194,6 @@ APERTIUM: vieil	PAR: vie/il__adj	FORMS: AQ0FP0 vieilles AQ0FS0 vieille AQ0MP0 vi
 
 APERTIUM: zen	PAR: arrière__adj	FORMS: AQ0CN0 zen
    OTHER: zen	PAR: ??????????????	FORMS: AQ0CN0 zen AQ0CP0 zens AQ0CS0 zen
-
 <e lm="1er"><i>1er</i><par n="??????????"/></e>
 <e lm="1ers"><i>1ers</i><par n="??????????"/></e>
 <e lm="1re"><i>1re</i><par n="??????????"/></e>

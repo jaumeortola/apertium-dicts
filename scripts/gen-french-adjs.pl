@@ -183,19 +183,19 @@ sub check_adjective {
                 print "***** $rule_name $lema $arrel*$flexio_ap*$flexio_lt\n\n";
             }
             if ($flexio_ap =~ /^$flexio_lt$/) {
-            	# generate only non existent words
+                # generate only non existent words
                 if (!exists $apertium_dict{$lema}) {
                     print "<e lm=\"$lema\"><i>$arrel</i><par n=\"$rule_name\"/></e>\n";
                     return;
                 } else {     # check paradigm
                     if ($apertium_dict{$lema} !~ /^$flexio_lt$/ ) {
-                    	if ($found==0) {
-                        	$global_errors .= "\nAPERTIUM: $lema\tPAR: $apertium_dict_paradigm{$lema}\tFORMS: $apertium_dict{$lema}\n";
+                        if ($found==0) {
+                            $global_errors .= "\nAPERTIUM: $lema\tPAR: $apertium_dict_paradigm{$lema}\tFORMS: $apertium_dict{$lema}\n";
                         }
                         $global_errors .= "   OTHER: $lema\tPAR: $rule_name\tFORMS: $flexio_lt\n";
                         $found = 1;
                     } else {
-                    	$found = 1;
+                        $found = 1;
                     }
                 }
 
@@ -206,9 +206,9 @@ sub check_adjective {
     if (!exists $apertium_dict{$lema}) {
         $global_errors3 .= "<e lm=\"$lema\"><i>$lema</i><par n=\"??????????\"/></e>\n";
     } else {
-    	if ($found==0) {
-        	$global_errors2 .= "APERTIUM: $lema\tPAR: $apertium_dict_paradigm{$lema}\tFORMS: $apertium_dict{$lema}\n";
-        	$global_errors2 .= "   OTHER: $lema\tPAR: ??????????????\tFORMS: $flexio_lt\n\n";
+        if ($found==0) {
+            $global_errors2 .= "\nAPERTIUM: $lema\tPAR: $apertium_dict_paradigm{$lema}\tFORMS: $apertium_dict{$lema}\n";
+            $global_errors2 .= "   OTHER: $lema\tPAR: ??????????????\tFORMS: $flexio_lt\n";
         }
     }
 }
