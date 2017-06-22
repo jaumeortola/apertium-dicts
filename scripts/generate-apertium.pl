@@ -6,8 +6,11 @@ use utf8;
 binmode( STDOUT, ":utf8" );
 binmode( STDERR, ":utf8" );
 
-my $input_dict=$ARGV[0];
-my $apertium_dict = $ARGV[1]; # paradigmes Apertium
+
+my $lang = $ARGV[0]; #language (fra, cat, spa, eng...)
+my $gram_cat = $ARGV[1]; #grammar category (adj, name)
+my $input_dict = $ARGV[2];
+my $apertium_dict = $ARGV[3]; # paradigmes Apertium
 
 open( my $fh,  "<:encoding(UTF-8)", $apertium_dict );
 
