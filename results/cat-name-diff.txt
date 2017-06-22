@@ -306,7 +306,7 @@ APERTIUM: blast	PAR: abric__n	FORMS: NCMP000 blasts NCMS000 blast
 APERTIUM: bleda	PAR: abell/a__n	FORMS: NCFP000 bledes NCFS000 bleda
    OTHER: bleda	PAR: accionist/a__n	FORMS: NCCP000 bledes NCCS000 bleda
 
-APERTIUM: boig	PAR: bo/ig__n	FORMS: NCFP000 boges NCFS000 boja NCMP000 bojos NCMS000 boig
+APERTIUM: boig	PAR: bo/ig__n	FORMS: NCFP000 boges NCFS000 boja NCMP000 boigs NCMP000 bojos NCMS000 boig
    OTHER: boig	PAR: assa/ig__n	FORMS: NCMP000 boigs NCMP000 bojos NCMS000 boig
 
 APERTIUM: bombarder	PAR: senyor__n	FORMS: NCFP000 bombarderes NCFS000 bombardera NCMP000 bombarders NCMS000 bombarder
@@ -1223,10 +1223,6 @@ APERTIUM: jutge	PAR: abric__n	FORMS: NCMP000 jutges NCMS000 jutge
 APERTIUM: jònec	PAR: ami/c__n	FORMS: NCFP000 jònegues NCFS000 jònega NCMP000 jònecs NCMS000 jònec
    OTHER: jònec	PAR: abric__n	FORMS: NCMP000 jònecs NCMS000 jònec
 
-APERTIUM: kirguís	PAR: su/ís__n	FORMS: NCFP000 kirguïsses NCFS000 kirguïssa NCMP000 kirguïssos NCMS000 kirguís
-   OTHER: kirguís	PAR: ATS__n	FORMS: NCCN000 kirguís
-   OTHER: kirguís	PAR: guardaespatlles__n	FORMS: NCCN000 kirguís
-
 APERTIUM: krausisme	PAR: atletisme__n	FORMS: NCMS000 krausisme
    OTHER: krausisme	PAR: abric__n	FORMS: NCMP000 krausismes NCMS000 krausisme
 
@@ -1376,9 +1372,6 @@ APERTIUM: magenta	PAR: carism/a__n	FORMS: NCMP000 magentes NCMS000 magenta
 
 APERTIUM: magnat	PAR: acompanyant__n	FORMS: NCCP000 magnats NCCS000 magnat
    OTHER: magnat	PAR: abric__n	FORMS: NCMP000 magnats NCMS000 magnat
-
-APERTIUM: magnetró	PAR: aband/ó__n	FORMS: NCMP000 magnetróons NCMS000 magnetróó
-   OTHER: magnetró	PAR: aband/ó__n	FORMS: NCMP000 magnetrons NCMS000 magnetró
 
 APERTIUM: magrebí	PAR: alacant/í__n	FORMS: NCFP000 magrebines NCFS000 magrebina NCMP000 magrebins NCMS000 magrebí
    OTHER: magrebí	PAR: boc/í__n	FORMS: NCMP000 magrebins NCMS000 magrebí

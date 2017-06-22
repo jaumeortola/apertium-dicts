@@ -6334,7 +6334,7 @@
 <e lm="beatitud"><i>beatitud</i><par n="accessibilitat__n"/></e>
 <e lm="beaumontès"><i>beaumont</i><par n="angl/ès__n"/></e>
 <e lm="bebop"><i>bebop</i><par n="BBVA__n"/></e>
-<e lm="bec-roig"><i>bec-ro</i><par n="pèl-ro/ig__n"/></e>
+<e lm="bec-roig"><i>bec-ro</i><par n="bo/ig__n"/></e>
 <e lm="becada"><i>becad</i><par n="abell/a__n"/></e>
 <e lm="becadell"><i>becadell</i><par n="abric__n"/></e>
 <e lm="becadeta"><i>becadet</i><par n="abell/a__n"/></e>
@@ -10636,7 +10636,7 @@
 <e lm="celistre"><i>celistre</i><par n="abric__n"/></e>
 <e lm="celiàlgia"><i>celiàlgi</i><par n="abell/a__n"/></e>
 <e lm="cell"><i>cell</i><par n="abric__n"/></e>
-<e lm="cella-roig"><i>cella-ro</i><par n="pèl-ro/ig__n"/></e>
+<e lm="cella-roig"><i>cella-ro</i><par n="bo/ig__n"/></e>
 <e lm="cellerat"><i>cellerat</i><par n="abric__n"/></e>
 <e lm="cellerenc"><i>celleren</i><par n="asiàti/c__n"/></e>
 <e lm="celleta"><i>cellet</i><par n="abell/a__n"/></e>
@@ -24284,7 +24284,7 @@
 <e lm="goja"><i>go</i><par n="barre/ja__n"/></e>
 <e lm="gojaire"><i>gojaire</i><par n="acompanyant__n"/></e>
 <e lm="gojat"><i>gojat</i><par n="abric__n"/></e>
-<e lm="gola-roig"><i>gola-ro</i><par n="pèl-ro/ig__n"/></e>
+<e lm="gola-roig"><i>gola-ro</i><par n="bo/ig__n"/></e>
 <e lm="golada"><i>golad</i><par n="abell/a__n"/></e>
 <e lm="golafreria"><i>golafreri</i><par n="abell/a__n"/></e>
 <e lm="golbol"><i>golbol</i><par n="abric__n"/></e>
@@ -27973,6 +27973,7 @@
 <e lm="kip"><i>kip</i><par n="abric__n"/></e>
 <e lm="kiptxak"><i>kiptxak</i><par n="acompanyant__n"/></e>
 <e lm="kirchnerisme"><i>kirchnerisme</i><par n="abric__n"/></e>
+<e lm="kirguís"><i>kirguís</i><par n="ATS__n"/></e>
 <e lm="kirsch"><i>kirsch</i><par n="abric__n"/></e>
 <e lm="kitsch"><i>kitsch</i><par n="abric__n"/></e>
 <e lm="klebshormidial"><i>klebshormidial</i><par n="accessibilitat__n"/></e>

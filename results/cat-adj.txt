@@ -2727,6 +2727,7 @@
 <e lm="beja"><i>be</i><par n="taron/ja__adj"/></e>
 <e lm="belador"><i>belador</i><par n="absolut__adj"/></e>
 <e lm="belai"><i>belai</i><par n="absolut__adj"/></e>
+<e lm="belarús"><i>belar</i><par n="bielor/ús__adj"/></e>
 <e lm="belcantista"><i>belcantist</i><par n="agrícol/a__adj"/></e>
 <e lm="belemnític"><i>belemníti</i><par n="acadèmi/c__adj"/></e>
 <e lm="belend"><i>belend</i><par n="absolut__adj"/></e>
@@ -3122,6 +3123,7 @@
 <e lm="blancafortí"><i>blancafort</i><par n="alacant/í__adj"/></e>
 <e lm="blancal"><i>blancal</i><par n="abdominal__adj"/></e>
 <e lm="blancós"><i>blanc</i><par n="aliment/ós__adj"/></e>
+<e lm="blancús"><i>blanc</i><par n="bielor/ús__adj"/></e>
 <e lm="blanenc"><i>blanen</i><par n="acadèmi/c__adj"/></e>
 <e lm="blanet"><i>blanet</i><par n="absolut__adj"/></e>
 <e lm="blanquejant"><i>blanquejant</i><par n="abdominal__adj"/></e>
@@ -7180,6 +7182,7 @@
 <e lm="esmortidor"><i>esmortidor</i><par n="absolut__adj"/></e>
 <e lm="esmussador"><i>esmussador</i><par n="absolut__adj"/></e>
 <e lm="esmèctic"><i>esmècti</i><par n="acadèmi/c__adj"/></e>
+<e lm="esmús"><i>esm</i><par n="bielor/ús__adj"/></e>
 <e lm="esnob"><i>esnob</i><par n="abdominal__adj"/></e>
 <e lm="esofàgic"><i>esofàgi</i><par n="acadèmi/c__adj"/></e>
 <e lm="espaciotemporal"><i>espaciotemporal</i><par n="abdominal__adj"/></e>
@@ -10085,6 +10088,7 @@
 <e lm="incomprès"><i>incompr</i><par n="afgan/ès__adj"/></e>
 <e lm="inconciliable"><i>inconciliable</i><par n="abdominal__adj"/></e>
 <e lm="inconclús"><i>inconcl</i><par n="andal/ús__adj"/></e>
+<e lm="inconcús"><i>inconc</i><par n="bielor/ús__adj"/></e>
 <e lm="incondensable"><i>incondensable</i><par n="abdominal__adj"/></e>
 <e lm="incondicionat"><i>incondiciona</i><par n="triparti/t__adj"/></e>
 <e lm="inconegut"><i>inconegu</i><par n="triparti/t__adj"/></e>
@@ -11728,6 +11732,7 @@
 <e lm="malaiàlam"><i>malaiàlam</i><par n="abdominal__adj"/></e>
 <e lm="malaltet"><i>malaltet</i><par n="absolut__adj"/></e>
 <e lm="malaltós"><i>malalt</i><par n="aliment/ós__adj"/></e>
+<e lm="malaltús"><i>malalt</i><par n="bielor/ús__adj"/></e>
 <e lm="malamorós"><i>malamor</i><par n="aliment/ós__adj"/></e>
 <e lm="malanat"><i>malana</i><par n="triparti/t__adj"/></e>
 <e lm="malaparellat"><i>malaparella</i><par n="triparti/t__adj"/></e>
@@ -11820,6 +11825,7 @@
 <e lm="mal·leolar"><i>mal·leolar</i><par n="abdominal__adj"/></e>
 <e lm="malànima"><i>malànim</i><par n="agrícol/a__adj"/></e>
 <e lm="malònic"><i>malòni</i><par n="acadèmi/c__adj"/></e>
+<e lm="malús"><i>mal</i><par n="bielor/ús__adj"/></e>
 <e lm="mamador"><i>mamador</i><par n="absolut__adj"/></e>
 <e lm="mamaire"><i>mamaire</i><par n="abdominal__adj"/></e>
 <e lm="mamantoner"><i>mamantoner</i><par n="absolut__adj"/></e>
@@ -13998,6 +14004,7 @@
 <e lm="pallarès"><i>pallar</i><par n="afgan/ès__adj"/></e>
 <e lm="pallejanenc"><i>pallejanen</i><par n="acadèmi/c__adj"/></e>
 <e lm="pallós"><i>pall</i><par n="aliment/ós__adj"/></e>
+<e lm="pallús"><i>pall</i><par n="bielor/ús__adj"/></e>
 <e lm="palmar"><i>palmar</i><par n="abdominal__adj"/></e>
 <e lm="palmari"><i>palm</i><par n="adjudicat/ari__adj"/></e>
 <e lm="palmat"><i>palma</i><par n="triparti/t__adj"/></e>
@@ -14896,6 +14903,7 @@
 <e lm="pobric"><i>pobri</i><par n="acadèmi/c__adj"/></e>
 <e lm="pobrissó"><i>pobriss</i><par n="amfitri/ó__adj"/></e>
 <e lm="pobríssim"><i>pobríssim</i><par n="absolut__adj"/></e>
+<e lm="pobrús"><i>pobr</i><par n="bielor/ús__adj"/></e>
 <e lm="poca-solta"><i>poca-solt</i><par n="agrícol/a__adj"/></e>
 <e lm="pocavergonya"><i>pocavergony</i><par n="agrícol/a__adj"/></e>
 <e lm="podador"><i>podador</i><par n="absolut__adj"/></e>
@@ -15496,6 +15504,7 @@
 <e lm="propvinent"><i>propvinent</i><par n="abdominal__adj"/></e>
 <e lm="propílic"><i>propíli</i><par n="acadèmi/c__adj"/></e>
 <e lm="prorratejable"><i>prorratejable</i><par n="abdominal__adj"/></e>
+<e lm="prorús"><i>pror</i><par n="bielor/ús__adj"/></e>
 <e lm="pros"><i>pros</i><par n="multimèdia__adj"/></e>
 <e lm="prosaic"><i>prosai</i><par n="acadèmi/c__adj"/></e>
 <e lm="proscriptor"><i>proscriptor</i><par n="absolut__adj"/></e>
@@ -19574,6 +19583,7 @@
 <e lm="vellàs"><i>vell</i><par n="esc/às__adj"/></e>
 <e lm="vellíssim"><i>vellíssim</i><par n="absolut__adj"/></e>
 <e lm="vellós"><i>vell</i><par n="aliment/ós__adj"/></e>
+<e lm="vellús"><i>vell</i><par n="bielor/ús__adj"/></e>
 <e lm="velocíssim"><i>velocíssim</i><par n="absolut__adj"/></e>
 <e lm="velocístic"><i>velocísti</i><par n="acadèmi/c__adj"/></e>
 <e lm="velutina"><i>velutin</i><par n="agrícol/a__adj"/></e>
