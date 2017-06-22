@@ -34,6 +34,38 @@
 <e lm="Wi-Fi"><i>Wi-Fi</i><par n="arrière__adj"/></e>
 <e lm="XXL"><i>XXL</i><par n="arrière__adj"/></e>
 <e lm="abaissable"><i>abaissable</i><par n="académique__adj"/></e>
+***** abaissant__adj abaissant abaissant*AQ0FP0 abaissantes AQ0FS0 abaissante AQ0MP0 abaissants AQ0MS0 abaissant*AQ0FP0 abaissantes AQ0FS0 abaissante AQ0MP0 abaissants AQ0MS0 abaissant
+
+***** académique__adj abaissant abaissant*AQ0CP0 abaissants AQ0CS0 abaissant*AQ0FP0 abaissantes AQ0FS0 abaissante AQ0MP0 abaissants AQ0MS0 abaissant
+
+***** ambigu__adj abaissant abaissant*AQ0FP0 abaissantës AQ0FS0 abaissantë AQ0MP0 abaissants AQ0MS0 abaissant*AQ0FP0 abaissantes AQ0FS0 abaissante AQ0MP0 abaissants AQ0MS0 abaissant
+
+***** ancien__adj abaissant abaissant*AQ0FP0 abaissantnes AQ0FS0 abaissantne AQ0MP0 abaissants AQ0MS0 abaissant*AQ0FP0 abaissantes AQ0FS0 abaissante AQ0MP0 abaissants AQ0MS0 abaissant
+
+***** andalou__adj abaissant abaissant*AQ0FP0 abaissantses AQ0FS0 abaissantse AQ0MP0 abaissants AQ0MS0 abaissant*AQ0FP0 abaissantes AQ0FS0 abaissante AQ0MP0 abaissants AQ0MS0 abaissant
+
+***** anglais__adj abaissant abaissant*AQ0FP0 abaissantes AQ0FS0 abaissante AQ0MN0 abaissant*AQ0FP0 abaissantes AQ0FS0 abaissante AQ0MP0 abaissants AQ0MS0 abaissant
+
+***** annuel__adj abaissant abaissant*AQ0FP0 abaissantles AQ0FS0 abaissantle AQ0MP0 abaissants AQ0MS0 abaissant*AQ0FP0 abaissantes AQ0FS0 abaissante AQ0MP0 abaissants AQ0MS0 abaissant
+
+***** arrière__adj abaissant abaissant*AQ0CN0 abaissant*AQ0FP0 abaissantes AQ0FS0 abaissante AQ0MP0 abaissants AQ0MS0 abaissant
+
+***** bas__adj abaissant abaissant*AQ0FP0 abaissantses AQ0FS0 abaissantse AQ0MN0 abaissant*AQ0FP0 abaissantes AQ0FS0 abaissante AQ0MP0 abaissants AQ0MS0 abaissant
+
+***** blanc__adj abaissant abaissant*AQ0FP0 abaissanthes AQ0FS0 abaissanthe AQ0MP0 abaissants AQ0MS0 abaissant*AQ0FP0 abaissantes AQ0FS0 abaissante AQ0MP0 abaissants AQ0MS0 abaissant
+
+***** favori__adj abaissant abaissant*AQ0FP0 abaissanttes AQ0FS0 abaissantte AQ0MP0 abaissants AQ0MS0 abaissant*AQ0FP0 abaissantes AQ0FS0 abaissante AQ0MP0 abaissants AQ0MS0 abaissant
+
+***** grec__adj abaissant abaissant*AQ0FP0 abaissantques AQ0FS0 abaissantque AQ0MP0 abaissants AQ0MS0 abaissant*AQ0FP0 abaissantes AQ0FS0 abaissante AQ0MP0 abaissants AQ0MS0 abaissant
+
+***** long__adj abaissant abaissant*AQ0FP0 abaissantues AQ0FS0 abaissantue AQ0MP0 abaissants AQ0MS0 abaissant*AQ0FP0 abaissantes AQ0FS0 abaissante AQ0MP0 abaissants AQ0MS0 abaissant
+
+***** même__adj abaissant abaissant*AQ0CP0 abaissants AQ0CS0 abaissant*AQ0FP0 abaissantes AQ0FS0 abaissante AQ0MP0 abaissants AQ0MS0 abaissant
+
+***** quel__adj abaissant abaissant*AQ0FP0 abaissantles AQ0FS0 abaissantle AQ0MP0 abaissants AQ0MS0 abaissant*AQ0FP0 abaissantes AQ0FS0 abaissante AQ0MP0 abaissants AQ0MS0 abaissant
+
+***** à_moi__adj abaissant abaissant*AQ0CN0 abaissant*AQ0FP0 abaissantes AQ0FS0 abaissante AQ0MP0 abaissants AQ0MS0 abaissant
+
 <e lm="abandonnique"><i>abandonnique</i><par n="académique__adj"/></e>
 <e lm="abarticulaire"><i>abarticulaire</i><par n="académique__adj"/></e>
 <e lm="abasourdissant"><i>abasourdissant</i><par n="abaissant__adj"/></e>
