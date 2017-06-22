@@ -5,161 +5,159 @@ use utf8;
 
 binmode( STDOUT, ":utf8" );
 
-my $dict_entrada=$ARGV[0];
-my $regles = $ARGV[1]; # paradigmes Apertium
+my $input_dict=$ARGV[0];
+my $apertium_dict = $ARGV[1]; # paradigmes Apertium
 
-open( my $fh,  "<:encoding(UTF-8)", $regles );
+open( my $fh,  "<:encoding(UTF-8)", $apertium_dict );
 
-my $inregla = 0;
-my @regles;
-my %nomsregles;
-my $spfx;
-my $regla ="";
+my $in_rule = 0;
+my @rules;
+my %paradigm_names;
+my $rule ="";
 while (my $line = <$fh>) {
     chomp($line);
     if ($line =~ /<pardef n="(.*_adj)".*>/) {
-		$regla = $1;
-		#$spfx =$2;
-		$inregla = 1;
-		my $sufix = "";
-		if ($regla =~ /\/(.*)__adj/) {
-			$sufix = $1;
-		}
-		$nomsregles{$regla} = $sufix;
+        $rule = $1;
+        $in_rule = 1;
+        my $sufix = "";
+        if ($rule =~ /\/(.*)__adj/) {
+            $sufix = $1;
+        }
+        $paradigm_names{$rule} = $sufix;
     } elsif ($line =~ /<\/pardef>/) {
-		$inregla = 0;
-    } elsif ($inregla) {
-		if ($line =~ /<e(.*?)>.*?<p>(.*?)(<\/l>|<l\/>).*<r>(.*?)(<.*>)<\/r><\/p><\/e>/) {
-			my $direction = $1;
-		    my $etiquetes=$5;
-		    my $lleva=$4;
-		    my $afig=$2;
-		    $afig =~ s/<l>(.*)/$1/;
-		    my $nombre = "S";
-		    if ($etiquetes =~ /"pl"/) { $nombre= "P";}
-		    if ($etiquetes =~ /"sp"/) { $nombre= "N";}
-		    my $genere = "M";
-		    if ($etiquetes =~ /"mf"/) { $genere= "C";}
-		    if ($etiquetes =~ /"f"/) { $genere= "F";}
-		    my $categoria = "AQ0";
-		    #if ($etiquetes =~ /"sup"/) { $categoria= "AQA";}
-		    my $postag= $categoria.$genere.$nombre."0";
-		    #print "$regla $postag $afig $line\n";
-		    if ($direction =~ /^$/) {
-		    	push (@regles, "$regla $postag $afig");
-			}
-		}
+        $in_rule = 0;
+    } elsif ($in_rule) {
+        if ($line =~ /<e(.*?)>.*?<p>(.*?)(<\/l>|<l\/>).*<r>(.*?)(<.*>)<\/r><\/p><\/e>/) {
+            my $direction = $1;
+            my $etiquetes=$5;
+            my $lleva=$4;
+            my $afig=$2;
+            $afig =~ s/<l>(.*)/$1/;
+            my $nombre = "S";
+            if ($etiquetes =~ /"pl"/) { $nombre= "P";}
+            if ($etiquetes =~ /"sp"/) { $nombre= "N";}
+            my $genere = "M";
+            if ($etiquetes =~ /"mf"/) { $genere= "C";}
+            if ($etiquetes =~ /"f"/) { $genere= "F";}
+            my $categoria = "AQ0";
+            #if ($etiquetes =~ /"sup"/) { $categoria= "AQA";}
+            my $postag= $categoria.$genere.$nombre."0";
+            #print "$rule $postag $afig $line\n";
+            if ($direction =~ /^$/) {
+                push (@rules, "$rule $postag $afig");
+            }
+        }
     }
 }
 close ($fh);
 
-@regles = sort @regles;
+@rules = sort @rules;
 
-my %regles_unalinia;
+my %rules_in_oneline;
 
-my $linia = "";
-my $nomregla = "";
-my $prevnomregla = "-1";
-for my $linia_regla (@regles) { 	
-	if ($linia_regla =~ /(.*) (.*) (.*)/) {
-		$nomregla = $1; 
-		my $postag = $2;
-		my $afig = $3;
-		#print "$prevnomregla $nomregla $1 $2 $3\n";
-		if ($nomregla !~ /^$prevnomregla$/) {
-			$regles_unalinia{$prevnomregla} = $linia;
-			# Comença nou adjectiu
-			$linia = "$postag <r>$afig";
-		} else {
-			$linia = $linia." $postag <r>$afig";
-		}
-		$prevnomregla = $nomregla;
-	}
+my $line = "";
+my $rule_name = "";
+my $prev_rule_name = "-1";
+for my $line_regla (@rules) {     
+    if ($line_regla =~ /(.*) (.*) (.*)/) {
+        $rule_name = $1; 
+        my $postag = $2;
+        my $afig = $3;
+        #print "$prev_rule_name $rule_name $1 $2 $3\n";
+        if ($rule_name !~ /^$prev_rule_name$/) {
+            $rules_in_oneline{$prev_rule_name} = $line;
+            # Comença nou adjectiu
+            $line = "$postag <r>$afig";
+        } else {
+            $line = $line." $postag <r>$afig";
+        }
+        $prev_rule_name = $rule_name;
+    }
 }
-$regles_unalinia{$prevnomregla} = $linia;
+$rules_in_oneline{$prev_rule_name} = $line;
 
 #print "REGLES\n";
-#for my $nomregla (keys %regles_unalinia) {
-#	print "$nomregla $regles_unalinia{$nomregla}\n";
+#for my $rule_name (keys %rules_in_oneline) {
+#    print "$rule_name $rules_in_oneline{$rule_name}\n";
 #}
 #print "FI REGLES\n";
 
-my @adjectius_lt;
-open($fh,  "<:encoding(UTF-8)", $dict_entrada );
+my @adjs_lt;
+open($fh,  "<:encoding(UTF-8)", $input_dict );
 while (my $line = <$fh>) {
     chomp($line);
     if ($line =~ /^\d+\t(.*?)\t(.*?)\t(.*?)\t.*/) { #Id Flexion Lemme Étiquettes
- 		my $tags = $3;
- 		my $flexion = $1;
- 		my $lemme = $2;
- 		my $genere = "C";
- 		my $nombre = "N";
- 		if ($tags =~ /\badj\b/) { 
- 			if ($tags =~ /\bmas\b/) { $genere = "M"; } 
- 			if ($tags =~ /\bfem\b/) { $genere = "F"; } 
- 			if ($tags =~ /\bpl\b/) { $nombre = "P"; } 
- 			if ($tags =~ /\bsg\b/) { $nombre = "S"; } 
- 			my $newtag = "AQ0".$genere.$nombre."0";
- 			push (@adjectius_lt, "$lemme $newtag $flexion");    #lemma tags wordform
- 			#print "$lemme $newtag $flexion\n";
- 		}
+         my $tags = $3;
+         my $flexion = $1;
+         my $lemme = $2;
+         my $genere = "C";
+         my $nombre = "N";
+         if ($tags =~ /\badj\b/) { 
+             if ($tags =~ /\bmas\b/) { $genere = "M"; } 
+             if ($tags =~ /\bfem\b/) { $genere = "F"; } 
+             if ($tags =~ /\bpl\b/) { $nombre = "P"; } 
+             if ($tags =~ /\bsg\b/) { $nombre = "S"; } 
+             my $newtag = "AQ0".$genere.$nombre."0";
+             push (@adjs_lt, "$lemme $newtag $flexion");    #lemma tags wordform
+             #print "$lemme $newtag $flexion\n";
+         }
     }
 }
 close ($fh);
-@adjectius_lt = sort @adjectius_lt;
+@adjs_lt = sort @adjs_lt;
 
-$linia = "";
+$line = "";
 my $lema = "";
 my $prevlema = "-1";
-for my $linia_adj (@adjectius_lt) { 	
-	if ($linia_adj =~ /(.*) (.*) (.*)/) {
-		$lema = $1; 
-		my $postag = $2;
-		my $wordform = $3;
-		#print "$lema $prevlema $linia\n";
-		if ($lema !~ /^$prevlema$/) {
-			&comprova_adjectiu($linia);
-			# Comença nou adjectiu
-			$linia = "$lema $postag $wordform";
-		} else {
-			$linia = $linia." $postag $wordform";
-		}
-		$prevlema = $lema;
-	}
+for my $line_adj (@adjs_lt) {     
+    if ($line_adj =~ /(.*) (.*) (.*)/) {
+        $lema = $1; 
+        my $postag = $2;
+        my $wordform = $3;
+        #print "$lema $prevlema $line\n";
+        if ($lema !~ /^$prevlema$/) {
+            &check_adjective($line);
+            # Comença nou adjectiu
+            $line = "$lema $postag $wordform";
+        } else {
+            $line = $line." $postag $wordform";
+        }
+        $prevlema = $lema;
+    }
 }
-&comprova_adjectiu($linia);
+&check_adjective($line); # the last one
 
 
 
-sub comprova_adjectiu {
-	if ($linia =~ /^$/) {
-		return;
-	}
-    my $linia = $_[0];
-    #print "LINIA ***** $linia\n";
+sub check_adjective {
+    if ($line =~ /^$/) {
+        return;
+    }
+    my $line = $_[0];
+    #print "line ***** $line\n";
     my $flexio_lt = "";
     my $lema = "";
-    if ($linia =~ /(.*?) (.*)$/) {
-    	$lema = $1;
-    	$flexio_lt = $2;
+    if ($line =~ /(.*?) (.*)$/) {
+        $lema = $1;
+        $flexio_lt = $2;
     }
-    for my $nomregla (sort keys %nomsregles) {
-    	#print "NOM REGLA: $nomregla\n";
-    	my $terminacio = $nomsregles{$nomregla};
-    	if ($lema =~ /^(.*)$terminacio$/) {
-    		my $arrel = $1;
-    		my $flexio_ap = $regles_unalinia{$nomregla};
-    		$flexio_ap =~ s/<r>/$arrel/g;
-    		$flexio_lt =~ s/(AQA|AO0)/AQ0/g;
-    		#if ($lema =~ /testamentaire/) {
-    		#	print "***** $nomregla $lema $arrel $flexio_ap ** $flexio_lt\n";
-    		#}
-    		if ($flexio_ap =~ /^$flexio_lt$/) {
-    			print "<e lm=\"$lema\">        <i>$arrel</i><par n=\"$nomregla\"/></e>\n";
-    			return;
-    		}
-    	}
-	}
-	print "<e lm=\"$lema\">        <i>$lema</i><par n=\"??????????\"/></e>\n";
+    for my $rule_name (sort keys %paradigm_names) {
+        #print "NOM REGLA: $rule_name\n";
+        my $terminacio = $paradigm_names{$rule_name};
+        if ($lema =~ /^(.*)$terminacio$/) {
+            my $arrel = $1;
+            my $flexio_ap = $rules_in_oneline{$rule_name};
+            $flexio_ap =~ s/<r>/$arrel/g;
+            $flexio_lt =~ s/(AQA|AO0)/AQ0/g;
+            #if ($lema =~ /testamentaire/) {
+            #    print "***** $rule_name $lema $arrel $flexio_ap ** $flexio_lt\n";
+            #}
+            if ($flexio_ap =~ /^$flexio_lt$/) {
+                print "<e lm=\"$lema\"><i>$arrel</i><par n=\"$rule_name\"/></e>\n";
+                return;
+            }
+        }
+    }
+    print "<e lm=\"$lema\"><i>$lema</i><par n=\"??????????\"/></e>\n";
 }
 
