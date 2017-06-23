@@ -251,7 +251,7 @@ sub check_adjective {
                         if ($found==0) {
                             $global_errors .= "\nAPERTIUM: $lema\tPAR: $apertium_dict_paradigm{$lema}\tFORMS: $apertium_dict{$lema}\n";
                         }
-                        $global_errors .= "   OTHER: $lema\tPAR: $rule_name\tFORMS: $flexio_lt\n";
+                        $global_errors .= "DICOLLEC: $lema\tPAR: $rule_name\tFORMS: $flexio_lt\n";
                         $found = 1;
                     } else {
                         $found = 1;
@@ -267,7 +267,7 @@ sub check_adjective {
     } else {
         if ($found==0) {
             $global_errors2 .= "\nAPERTIUM: $lema\tPAR: $apertium_dict_paradigm{$lema}\tFORMS: $apertium_dict{$lema}\n";
-            $global_errors2 .= "   OTHER: $lema\tPAR: ??????????????\tFORMS: $flexio_lt\n";
+            $global_errors2 .= "DICOLLEC: $lema\tPAR: ??????????????\tFORMS: $flexio_lt\n";
         }
     }
 }

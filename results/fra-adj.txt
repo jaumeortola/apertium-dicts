@@ -50,10 +50,8 @@
 <e lm="abdiqué"><i>abdiqué</i><par n="abaissant__adj"/></e>
 <e lm="abdominal"><i>abdomina</i><par n="amica/l__adj"/></e>
 <e lm="abdomino-génital"><i>abdomino-génita</i><par n="amica/l__adj"/></e>
-<e lm="abducteur"><i>abduct</i><par n="conduct/eur__adj"/></e>
 <e lm="abecqué"><i>abecqué</i><par n="abaissant__adj"/></e>
 <e lm="abeiller"><i>abeill</i><par n="ch/er__adj"/></e>
-<e lm="aberrant"><i>aberrant</i><par n="abaissant__adj"/></e>
 <e lm="abhorré"><i>abhorré</i><par n="abaissant__adj"/></e>
 <e lm="abimé"><i>abimé</i><par n="abaissant__adj"/></e>
 <e lm="abiotique"><i>abiotique</i><par n="académique__adj"/></e>
@@ -129,7 +127,6 @@
 <e lm="abusé"><i>abusé</i><par n="abaissant__adj"/></e>
 <e lm="abuseur"><i>abuseu</i><par n="causeu/r__adj"/></e>
 <e lm="abutyrotomofilogène"><i>abutyrotomofilogène</i><par n="académique__adj"/></e>
-<e lm="abyssal"><i>abyssa</i><par n="amica/l__adj"/></e>
 <e lm="abyssin"><i>abyssin</i><par n="abaissant__adj"/></e>
 <e lm="abyssinien"><i>abyssinien</i><par n="ancien__adj"/></e>
 <e lm="abyssopélagique"><i>abyssopélagique</i><par n="académique__adj"/></e>
@@ -165,7 +162,6 @@
 <e lm="accepté"><i>accepté</i><par n="abaissant__adj"/></e>
 <e lm="accessoirisé"><i>accessoirisé</i><par n="abaissant__adj"/></e>
 <e lm="accessoiriste"><i>accessoiriste</i><par n="académique__adj"/></e>
-<e lm="accidentel"><i>accidentel</i><par n="annuel__adj"/></e>
 <e lm="accidenté"><i>accidenté</i><par n="abaissant__adj"/></e>
 <e lm="accidentogène"><i>accidentogène</i><par n="académique__adj"/></e>
 <e lm="accidenté"><i>accidenté</i><par n="abaissant__adj"/></e>
@@ -344,7 +340,6 @@
 <e lm="admonesté"><i>admonesté</i><par n="abaissant__adj"/></e>
 <e lm="admoniteur"><i>admonit</i><par n="conduct/eur__adj"/></e>
 <e lm="adné"><i>adné</i><par n="abaissant__adj"/></e>
-<e lm="adolescent"><i>adolescent</i><par n="abaissant__adj"/></e>
 <e lm="adonisé"><i>adonisé</i><par n="abaissant__adj"/></e>
 <e lm="adonné"><i>adonné</i><par n="abaissant__adj"/></e>
 <e lm="adoptable"><i>adoptable</i><par n="académique__adj"/></e>
@@ -538,7 +533,6 @@
 <e lm="aiguiseur"><i>aiguiseu</i><par n="causeu/r__adj"/></e>
 <e lm="aillé"><i>aillé</i><par n="abaissant__adj"/></e>
 <e lm="ailé"><i>ailé</i><par n="abaissant__adj"/></e>
-<e lm="aimant"><i>aimant</i><par n="abaissant__adj"/></e>
 <e lm="aimanté"><i>aimanté</i><par n="abaissant__adj"/></e>
 <e lm="aimantin"><i>aimantin</i><par n="abaissant__adj"/></e>
 <e lm="aimé"><i>aimé</i><par n="abaissant__adj"/></e>
@@ -646,7 +640,6 @@
 <e lm="allogame"><i>allogame</i><par n="académique__adj"/></e>
 <e lm="allogène"><i>allogène</i><par n="académique__adj"/></e>
 <e lm="allométrique"><i>allométrique</i><par n="académique__adj"/></e>
-<e lm="allongé"><i>allongé</i><par n="abaissant__adj"/></e>
 <e lm="allopathique"><i>allopathique</i><par n="académique__adj"/></e>
 <e lm="allopatrique"><i>allopatrique</i><par n="académique__adj"/></e>
 <e lm="allophone"><i>allophone</i><par n="académique__adj"/></e>
@@ -1409,7 +1402,6 @@
 <e lm="apprécié"><i>apprécié</i><par n="abaissant__adj"/></e>
 <e lm="appréhendé"><i>appréhendé</i><par n="abaissant__adj"/></e>
 <e lm="appréhensif"><i>appréhensi</i><par n="affirmati/f__adj"/></e>
-<e lm="apprêté"><i>apprêté</i><par n="abaissant__adj"/></e>
 <e lm="appuyé"><i>appuyé</i><par n="abaissant__adj"/></e>
 <e lm="appâté"><i>appâté</i><par n="abaissant__adj"/></e>
 <e lm="appété"><i>appété</i><par n="abaissant__adj"/></e>
@@ -1673,7 +1665,6 @@
 <e lm="assujetti"><i>assujetti</i><par n="abaissant__adj"/></e>
 <e lm="assujettissant"><i>assujettissant</i><par n="abaissant__adj"/></e>
 <e lm="assumé"><i>assumé</i><par n="abaissant__adj"/></e>
-<e lm="assurable"><i>assurable</i><par n="académique__adj"/></e>
 <e lm="assurantiel"><i>assurantiel</i><par n="annuel__adj"/></e>
 <e lm="assuré"><i>assuré</i><par n="abaissant__adj"/></e>
 <e lm="assyrien"><i>assyrien</i><par n="ancien__adj"/></e>
@@ -2033,7 +2024,6 @@
 <e lm="aéraulique"><i>aéraulique</i><par n="académique__adj"/></e>
 <e lm="aéré"><i>aéré</i><par n="abaissant__adj"/></e>
 <e lm="aéricole"><i>aéricole</i><par n="académique__adj"/></e>
-<e lm="aérien"><i>aérien</i><par n="ancien__adj"/></e>
 <e lm="aériforme"><i>aériforme</i><par n="académique__adj"/></e>
 <e lm="aérifère"><i>aérifère</i><par n="académique__adj"/></e>
 <e lm="aérobie"><i>aérobie</i><par n="académique__adj"/></e>
@@ -2121,7 +2111,6 @@
 <e lm="balloté"><i>balloté</i><par n="abaissant__adj"/></e>
 <e lm="ballotté"><i>ballotté</i><par n="abaissant__adj"/></e>
 <e lm="balnéaire"><i>balnéaire</i><par n="académique__adj"/></e>
-<e lm="balourd"><i>balourd</i><par n="abaissant__adj"/></e>
 <e lm="baloutche"><i>baloutche</i><par n="académique__adj"/></e>
 <e lm="balsamique"><i>balsamique</i><par n="académique__adj"/></e>
 <e lm="balte"><i>balte</i><par n="académique__adj"/></e>
@@ -2473,7 +2462,6 @@
 <e lm="biréfringent"><i>biréfringent</i><par n="abaissant__adj"/></e>
 <e lm="bis"><i>bis</i><par n="anglais__adj"/></e>
 <e lm="bisannuel"><i>bisannuel</i><par n="annuel__adj"/></e>
-<e lm="biscaïen"><i>biscaïen</i><par n="ancien__adj"/></e>
 <e lm="biscornu"><i>biscornu</i><par n="abaissant__adj"/></e>
 <e lm="biscottier"><i>biscotti</i><par n="ch/er__adj"/></e>
 <e lm="biscuité"><i>biscuité</i><par n="abaissant__adj"/></e>
@@ -2602,7 +2590,6 @@
 <e lm="bonasse"><i>bonasse</i><par n="académique__adj"/></e>
 <e lm="bondé"><i>bondé</i><par n="abaissant__adj"/></e>
 <e lm="bondieusard"><i>bondieusard</i><par n="abaissant__adj"/></e>
-<e lm="bondissant"><i>bondissant</i><par n="abaissant__adj"/></e>
 <e lm="bondonné"><i>bondonné</i><par n="abaissant__adj"/></e>
 <e lm="bondérisé"><i>bondérisé</i><par n="abaissant__adj"/></e>
 <e lm="bonhomme"><i>bonhomme</i><par n="académique__adj"/></e>
@@ -3130,7 +3117,6 @@
 <e lm="cantonais"><i>cantonais</i><par n="anglais__adj"/></e>
 <e lm="cantonal"><i>cantona</i><par n="amica/l__adj"/></e>
 <e lm="cantonaliste"><i>cantonaliste</i><par n="académique__adj"/></e>
-<e lm="cantonné"><i>cantonné</i><par n="abaissant__adj"/></e>
 <e lm="canulant"><i>canulant</i><par n="abaissant__adj"/></e>
 <e lm="canularesque"><i>canularesque</i><par n="académique__adj"/></e>
 <e lm="canulé"><i>canulé</i><par n="abaissant__adj"/></e>
@@ -3282,7 +3268,6 @@
 <e lm="carthaginois"><i>carthaginois</i><par n="anglais__adj"/></e>
 <e lm="cartilagineux"><i>cartilagineu</i><par n="affectueu/x__adj"/></e>
 <e lm="cartographié"><i>cartographié</i><par n="abaissant__adj"/></e>
-<e lm="cartographique"><i>cartographique</i><par n="académique__adj"/></e>
 <e lm="cartonné"><i>cartonné</i><par n="abaissant__adj"/></e>
 <e lm="cartonneux"><i>cartonneu</i><par n="affectueu/x__adj"/></e>
 <e lm="cartonnier"><i>cartonni</i><par n="ch/er__adj"/></e>
@@ -3495,7 +3480,6 @@
 <e lm="chanci"><i>chanci</i><par n="abaissant__adj"/></e>
 <e lm="chanfreiné"><i>chanfreiné</i><par n="abaissant__adj"/></e>
 <e lm="changeable"><i>changeable</i><par n="académique__adj"/></e>
-<e lm="changeant"><i>changeant</i><par n="abaissant__adj"/></e>
 <e lm="changé"><i>changé</i><par n="abaissant__adj"/></e>
 <e lm="chansonné"><i>chansonné</i><par n="abaissant__adj"/></e>
 <e lm="chanstiqué"><i>chanstiqué</i><par n="abaissant__adj"/></e>
@@ -3583,7 +3567,6 @@
 <e lm="chevelu"><i>chevelu</i><par n="abaissant__adj"/></e>
 <e lm="chevelé"><i>chevelé</i><par n="abaissant__adj"/></e>
 <e lm="chevillé"><i>chevillé</i><par n="abaissant__adj"/></e>
-<e lm="chevronné"><i>chevronné</i><par n="abaissant__adj"/></e>
 <e lm="chevrotant"><i>chevrotant</i><par n="abaissant__adj"/></e>
 <e lm="cheyenne"><i>cheyenne</i><par n="académique__adj"/></e>
 <e lm="chiadé"><i>chiadé</i><par n="abaissant__adj"/></e>
@@ -3847,7 +3830,6 @@
 <e lm="classifié"><i>classifié</i><par n="abaissant__adj"/></e>
 <e lm="clastique"><i>clastique</i><par n="académique__adj"/></e>
 <e lm="claude"><i>claude</i><par n="académique__adj"/></e>
-<e lm="claudicant"><i>claudicant</i><par n="abaissant__adj"/></e>
 <e lm="claudélien"><i>claudélien</i><par n="ancien__adj"/></e>
 <e lm="claustral"><i>claustra</i><par n="amica/l__adj"/></e>
 <e lm="claustré"><i>claustré</i><par n="abaissant__adj"/></e>
@@ -3974,7 +3956,6 @@
 <e lm="cohésif"><i>cohési</i><par n="affirmati/f__adj"/></e>
 <e lm="coiffant"><i>coiffant</i><par n="abaissant__adj"/></e>
 <e lm="coiffé"><i>coiffé</i><par n="abaissant__adj"/></e>
-<e lm="coincé"><i>coincé</i><par n="abaissant__adj"/></e>
 <e lm="coksé"><i>coksé</i><par n="abaissant__adj"/></e>
 <e lm="cokéfiable"><i>cokéfiable</i><par n="académique__adj"/></e>
 <e lm="cokéfiant"><i>cokéfiant</i><par n="abaissant__adj"/></e>
@@ -4114,7 +4095,6 @@
 <e lm="compilable"><i>compilable</i><par n="académique__adj"/></e>
 <e lm="compilé"><i>compilé</i><par n="abaissant__adj"/></e>
 <e lm="compissé"><i>compissé</i><par n="abaissant__adj"/></e>
-<e lm="complexé"><i>complexé</i><par n="abaissant__adj"/></e>
 <e lm="complexifié"><i>complexifié</i><par n="abaissant__adj"/></e>
 <e lm="complexuel"><i>complexuel</i><par n="annuel__adj"/></e>
 <e lm="complice"><i>complice</i><par n="académique__adj"/></e>
@@ -4207,7 +4187,6 @@
 <e lm="concupiscent"><i>concupiscent</i><par n="abaissant__adj"/></e>
 <e lm="concupiscible"><i>concupiscible</i><par n="académique__adj"/></e>
 <e lm="concurrencé"><i>concurrencé</i><par n="abaissant__adj"/></e>
-<e lm="concurrentiel"><i>concurrentiel</i><par n="annuel__adj"/></e>
 <e lm="concédant"><i>concédant</i><par n="abaissant__adj"/></e>
 <e lm="concédé"><i>concédé</i><par n="abaissant__adj"/></e>
 <e lm="concélébré"><i>concélébré</i><par n="abaissant__adj"/></e>
@@ -4399,7 +4378,6 @@
 <e lm="contextuel"><i>contextuel</i><par n="annuel__adj"/></e>
 <e lm="continent"><i>continent</i><par n="abaissant__adj"/></e>
 <e lm="contingenté"><i>contingenté</i><par n="abaissant__adj"/></e>
-<e lm="continuel"><i>continuel</i><par n="annuel__adj"/></e>
 <e lm="continué"><i>continué</i><par n="abaissant__adj"/></e>
 <e lm="contondant"><i>contondant</i><par n="abaissant__adj"/></e>
 <e lm="contorsionné"><i>contorsionné</i><par n="abaissant__adj"/></e>
@@ -5221,7 +5199,6 @@
 <e lm="diadémé"><i>diadémé</i><par n="abaissant__adj"/></e>
 <e lm="diagnostique"><i>diagnostique</i><par n="académique__adj"/></e>
 <e lm="diagnostiqué"><i>diagnostiqué</i><par n="abaissant__adj"/></e>
-<e lm="diagonal"><i>diagona</i><par n="amica/l__adj"/></e>
 <e lm="diagonalisable"><i>diagonalisable</i><par n="académique__adj"/></e>
 <e lm="diagonalisé"><i>diagonalisé</i><par n="abaissant__adj"/></e>
 <e lm="diagrammatique"><i>diagrammatique</i><par n="académique__adj"/></e>
@@ -5276,7 +5253,6 @@
 <e lm="dictatorial"><i>dictatoria</i><par n="amica/l__adj"/></e>
 <e lm="dicté"><i>dicté</i><par n="abaissant__adj"/></e>
 <e lm="dictionnairique"><i>dictionnairique</i><par n="académique__adj"/></e>
-<e lm="didactique"><i>didactique</i><par n="académique__adj"/></e>
 <e lm="didactisé"><i>didactisé</i><par n="abaissant__adj"/></e>
 <e lm="didactyle"><i>didactyle</i><par n="académique__adj"/></e>
 <e lm="didyme"><i>didyme</i><par n="académique__adj"/></e>
@@ -5575,7 +5551,6 @@
 <e lm="dorique"><i>dorique</i><par n="académique__adj"/></e>
 <e lm="dorloté"><i>dorloté</i><par n="abaissant__adj"/></e>
 <e lm="dormant"><i>dormant</i><par n="abaissant__adj"/></e>
-<e lm="dormeur"><i>dormeu</i><par n="causeu/r__adj"/></e>
 <e lm="dormitif"><i>dormiti</i><par n="affirmati/f__adj"/></e>
 <e lm="dorso-lombaire"><i>dorso-lombaire</i><par n="académique__adj"/></e>
 <e lm="dorso-ventral"><i>dorso-ventra</i><par n="amica/l__adj"/></e>
@@ -5613,7 +5588,6 @@
 <e lm="drapelé"><i>drapelé</i><par n="abaissant__adj"/></e>
 <e lm="drapé"><i>drapé</i><par n="abaissant__adj"/></e>
 <e lm="drapier"><i>drapi</i><par n="ch/er__adj"/></e>
-<e lm="drastique"><i>drastique</i><par n="académique__adj"/></e>
 <e lm="dravé"><i>dravé</i><par n="abaissant__adj"/></e>
 <e lm="dravidien"><i>dravidien</i><par n="ancien__adj"/></e>
 <e lm="drayé"><i>drayé</i><par n="abaissant__adj"/></e>
@@ -5965,7 +5939,6 @@
 <e lm="décontractant"><i>décontractant</i><par n="abaissant__adj"/></e>
 <e lm="décontracté"><i>décontracté</i><par n="abaissant__adj"/></e>
 <e lm="déconventionné"><i>déconventionné</i><par n="abaissant__adj"/></e>
-<e lm="décoratif"><i>décorati</i><par n="affirmati/f__adj"/></e>
 <e lm="décorcé"><i>décorcé</i><par n="abaissant__adj"/></e>
 <e lm="décordé"><i>décordé</i><par n="abaissant__adj"/></e>
 <e lm="décoré"><i>décoré</i><par n="abaissant__adj"/></e>
@@ -6045,7 +6018,6 @@
 <e lm="déductif"><i>déducti</i><par n="affirmati/f__adj"/></e>
 <e lm="déduit"><i>déduit</i><par n="abaissant__adj"/></e>
 <e lm="défacé"><i>défacé</i><par n="abaissant__adj"/></e>
-<e lm="défaillant"><i>défaillant</i><par n="abaissant__adj"/></e>
 <e lm="défait"><i>défait</i><par n="abaissant__adj"/></e>
 <e lm="défaitiste"><i>défaitiste</i><par n="académique__adj"/></e>
 <e lm="défalqué"><i>défalqué</i><par n="abaissant__adj"/></e>
@@ -6068,7 +6040,6 @@
 <e lm="défibré"><i>défibré</i><par n="abaissant__adj"/></e>
 <e lm="déficelé"><i>déficelé</i><par n="abaissant__adj"/></e>
 <e lm="défiché"><i>défiché</i><par n="abaissant__adj"/></e>
-<e lm="déficient"><i>déficient</i><par n="abaissant__adj"/></e>
 <e lm="défié"><i>défié</i><par n="abaissant__adj"/></e>
 <e lm="défigé"><i>défigé</i><par n="abaissant__adj"/></e>
 <e lm="défiguré"><i>défiguré</i><par n="abaissant__adj"/></e>
@@ -6132,7 +6103,6 @@
 <e lm="dégazonné"><i>dégazonné</i><par n="abaissant__adj"/></e>
 <e lm="dégelé"><i>dégelé</i><par n="abaissant__adj"/></e>
 <e lm="dégermé"><i>dégermé</i><par n="abaissant__adj"/></e>
-<e lm="dégingandé"><i>dégingandé</i><par n="abaissant__adj"/></e>
 <e lm="dégité"><i>dégité</i><par n="abaissant__adj"/></e>
 <e lm="dégivrant"><i>dégivrant</i><par n="abaissant__adj"/></e>
 <e lm="dégivré"><i>dégivré</i><par n="abaissant__adj"/></e>
@@ -6177,7 +6147,6 @@
 <e lm="dégréné"><i>dégréné</i><par n="abaissant__adj"/></e>
 <e lm="déguenillé"><i>déguenillé</i><par n="abaissant__adj"/></e>
 <e lm="déguerpi"><i>déguerpi</i><par n="abaissant__adj"/></e>
-<e lm="dégueulasse"><i>dégueulasse</i><par n="académique__adj"/></e>
 <e lm="dégueulassé"><i>dégueulassé</i><par n="abaissant__adj"/></e>
 <e lm="dégueulatoire"><i>dégueulatoire</i><par n="académique__adj"/></e>
 <e lm="dégueulé"><i>dégueulé</i><par n="abaissant__adj"/></e>
@@ -6847,7 +6816,6 @@
 <e lm="dévalué"><i>dévalué</i><par n="abaissant__adj"/></e>
 <e lm="dévanagari"><i>dévanagari</i><par n="académique__adj"/></e>
 <e lm="dévasé"><i>dévasé</i><par n="abaissant__adj"/></e>
-<e lm="dévastateur"><i>dévastat</i><par n="conduct/eur__adj"/></e>
 <e lm="dévasté"><i>dévasté</i><par n="abaissant__adj"/></e>
 <e lm="développable"><i>développable</i><par n="académique__adj"/></e>
 <e lm="développant"><i>développant</i><par n="abaissant__adj"/></e>
@@ -7093,7 +7061,6 @@
 <e lm="empoussiéré"><i>empoussiéré</i><par n="abaissant__adj"/></e>
 <e lm="empreint"><i>empreint</i><par n="abaissant__adj"/></e>
 <e lm="empressé"><i>empressé</i><par n="abaissant__adj"/></e>
-<e lm="emprisonné"><i>emprisonné</i><par n="abaissant__adj"/></e>
 <e lm="empruntable"><i>empruntable</i><par n="académique__adj"/></e>
 <e lm="emprunté"><i>emprunté</i><par n="abaissant__adj"/></e>
 <e lm="emprésuré"><i>emprésuré</i><par n="abaissant__adj"/></e>
@@ -7216,7 +7183,6 @@
 <e lm="enduit"><i>enduit</i><par n="abaissant__adj"/></e>
 <e lm="endurable"><i>endurable</i><par n="académique__adj"/></e>
 <e lm="endurant"><i>endurant</i><par n="abaissant__adj"/></e>
-<e lm="endurci"><i>endurci</i><par n="abaissant__adj"/></e>
 <e lm="enduré"><i>enduré</i><par n="abaissant__adj"/></e>
 <e lm="endémique"><i>endémique</i><par n="académique__adj"/></e>
 <e lm="endémo-épidémique"><i>endémo-épidémique</i><par n="académique__adj"/></e>
@@ -7732,12 +7698,10 @@
 <e lm="exosphérique"><i>exosphérique</i><par n="académique__adj"/></e>
 <e lm="exotherme"><i>exotherme</i><par n="académique__adj"/></e>
 <e lm="exothermique"><i>exothermique</i><par n="académique__adj"/></e>
-<e lm="exotique"><i>exotique</i><par n="académique__adj"/></e>
 <e lm="exotérique"><i>exotérique</i><par n="académique__adj"/></e>
 <e lm="expansible"><i>expansible</i><par n="académique__adj"/></e>
 <e lm="expansionniste"><i>expansionniste</i><par n="académique__adj"/></e>
 <e lm="expansé"><i>expansé</i><par n="abaissant__adj"/></e>
-<e lm="expatrié"><i>expatrié</i><par n="abaissant__adj"/></e>
 <e lm="expectant"><i>expectant</i><par n="abaissant__adj"/></e>
 <e lm="expectatif"><i>expectati</i><par n="affirmati/f__adj"/></e>
 <e lm="expectorant"><i>expectorant</i><par n="abaissant__adj"/></e>
@@ -7786,7 +7750,6 @@
 <e lm="expéditionnaire"><i>expéditionnaire</i><par n="académique__adj"/></e>
 <e lm="expérimentable"><i>expérimentable</i><par n="académique__adj"/></e>
 <e lm="expérimentaliste"><i>expérimentaliste</i><par n="académique__adj"/></e>
-<e lm="expérimenté"><i>expérimenté</i><par n="abaissant__adj"/></e>
 <e lm="exsangue"><i>exsangue</i><par n="académique__adj"/></e>
 <e lm="exsudé"><i>exsudé</i><par n="abaissant__adj"/></e>
 <e lm="extasié"><i>extasié</i><par n="abaissant__adj"/></e>
@@ -7935,7 +7898,6 @@
 <e lm="falsifié"><i>falsifié</i><par n="abaissant__adj"/></e>
 <e lm="faluné"><i>faluné</i><par n="abaissant__adj"/></e>
 <e lm="famennois"><i>famennois</i><par n="anglais__adj"/></e>
-<e lm="familial"><i>familia</i><par n="amica/l__adj"/></e>
 <e lm="familialiste"><i>familialiste</i><par n="académique__adj"/></e>
 <e lm="familiarisé"><i>familiarisé</i><par n="abaissant__adj"/></e>
 <e lm="famé"><i>famé</i><par n="abaissant__adj"/></e>
@@ -7966,7 +7928,6 @@
 <e lm="farinacé"><i>farinacé</i><par n="abaissant__adj"/></e>
 <e lm="fariné"><i>fariné</i><par n="abaissant__adj"/></e>
 <e lm="farineux"><i>farineu</i><par n="affectueu/x__adj"/></e>
-<e lm="farouche"><i>farouche</i><par n="académique__adj"/></e>
 <e lm="farté"><i>farté</i><par n="abaissant__adj"/></e>
 <e lm="fasciculé"><i>fasciculé</i><par n="abaissant__adj"/></e>
 <e lm="fascinateur"><i>fascinat</i><par n="conduct/eur__adj"/></e>
@@ -8145,7 +8106,6 @@
 <e lm="fixé"><i>fixé</i><par n="abaissant__adj"/></e>
 <e lm="fixiste"><i>fixiste</i><par n="académique__adj"/></e>
 <e lm="fiérot"><i>fiérot</i><par n="abaissant__adj"/></e>
-<e lm="fiévreux"><i>fiévreu</i><par n="affectueu/x__adj"/></e>
 <e lm="flabelliforme"><i>flabelliforme</i><par n="académique__adj"/></e>
 <e lm="flabellé"><i>flabellé</i><par n="abaissant__adj"/></e>
 <e lm="flaccide"><i>flaccide</i><par n="académique__adj"/></e>
@@ -8315,7 +8275,6 @@
 <e lm="fortifiant"><i>fortifiant</i><par n="abaissant__adj"/></e>
 <e lm="fortifié"><i>fortifié</i><par n="abaissant__adj"/></e>
 <e lm="fortrait"><i>fortrait</i><par n="abaissant__adj"/></e>
-<e lm="fortuit"><i>fortuit</i><par n="abaissant__adj"/></e>
 <e lm="fossilifère"><i>fossilifère</i><par n="académique__adj"/></e>
 <e lm="fossilisé"><i>fossilisé</i><par n="abaissant__adj"/></e>
 <e lm="fossoyé"><i>fossoyé</i><par n="abaissant__adj"/></e>
@@ -8779,7 +8738,6 @@
 <e lm="gerbeur"><i>gerbeu</i><par n="causeu/r__adj"/></e>
 <e lm="gercé"><i>gercé</i><par n="abaissant__adj"/></e>
 <e lm="germain"><i>germain</i><par n="abaissant__adj"/></e>
-<e lm="germanique"><i>germanique</i><par n="académique__adj"/></e>
 <e lm="germanisé"><i>germanisé</i><par n="abaissant__adj"/></e>
 <e lm="germano-américain"><i>germano-américain</i><par n="abaissant__adj"/></e>
 <e lm="germano-autrichien"><i>germano-autrichien</i><par n="ancien__adj"/></e>
@@ -8876,7 +8834,6 @@
 <e lm="gloussant"><i>gloussant</i><par n="abaissant__adj"/></e>
 <e lm="glouton"><i>glouton</i><par n="ancien__adj"/></e>
 <e lm="gloutonné"><i>gloutonné</i><par n="abaissant__adj"/></e>
-<e lm="gluant"><i>gluant</i><par n="abaissant__adj"/></e>
 <e lm="glucidique"><i>glucidique</i><par n="académique__adj"/></e>
 <e lm="gluconique"><i>gluconique</i><par n="académique__adj"/></e>
 <e lm="glucosé"><i>glucosé</i><par n="abaissant__adj"/></e>
@@ -8998,7 +8955,6 @@
 <e lm="grandet"><i>grandet</i><par n="favori__adj"/></e>
 <e lm="grandiloquent"><i>grandiloquent</i><par n="abaissant__adj"/></e>
 <e lm="grandi"><i>grandi</i><par n="abaissant__adj"/></e>
-<e lm="grandissant"><i>grandissant</i><par n="abaissant__adj"/></e>
 <e lm="grandissime"><i>grandissime</i><par n="académique__adj"/></e>
 <e lm="granité"><i>granité</i><par n="abaissant__adj"/></e>
 <e lm="graniteux"><i>graniteu</i><par n="affectueu/x__adj"/></e>
@@ -9378,7 +9334,6 @@
 <e lm="hellénistique"><i>hellénistique</i><par n="académique__adj"/></e>
 <e lm="hellénophone"><i>hellénophone</i><par n="académique__adj"/></e>
 <e lm="helminthique"><i>helminthique</i><par n="académique__adj"/></e>
-<e lm="helvétique"><i>helvétique</i><par n="académique__adj"/></e>
 <e lm="hendécagone"><i>hendécagone</i><par n="académique__adj"/></e>
 <e lm="hendécasyllabe"><i>hendécasyllabe</i><par n="académique__adj"/></e>
 <e lm="hennissant"><i>hennissant</i><par n="abaissant__adj"/></e>
@@ -9502,7 +9457,6 @@
 <e lm="holonome"><i>holonome</i><par n="académique__adj"/></e>
 <e lm="holophrastique"><i>holophrastique</i><par n="académique__adj"/></e>
 <e lm="homicidaire"><i>homicidaire</i><par n="académique__adj"/></e>
-<e lm="homicide"><i>homicide</i><par n="académique__adj"/></e>
 <e lm="homilétique"><i>homilétique</i><par n="académique__adj"/></e>
 <e lm="hominem"><i>hominem</i><par n="arrière__adj"/></e>
 <e lm="hominisé"><i>hominisé</i><par n="abaissant__adj"/></e>
@@ -9611,7 +9565,6 @@
 <e lm="humilié"><i>humilié</i><par n="abaissant__adj"/></e>
 <e lm="humique"><i>humique</i><par n="académique__adj"/></e>
 <e lm="humoral"><i>humora</i><par n="amica/l__adj"/></e>
-<e lm="humoristique"><i>humoristique</i><par n="académique__adj"/></e>
 <e lm="huméral"><i>huméra</i><par n="amica/l__adj"/></e>
 <e lm="huméro-scapulaire"><i>huméro-scapulaire</i><par n="académique__adj"/></e>
 <e lm="hunnique"><i>hunnique</i><par n="académique__adj"/></e>
@@ -9762,7 +9715,6 @@
 <e lm="hypocalorique"><i>hypocalorique</i><par n="académique__adj"/></e>
 <e lm="hypochloreux"><i>hypochloreu</i><par n="affectueu/x__adj"/></e>
 <e lm="hypochrome"><i>hypochrome</i><par n="académique__adj"/></e>
-<e lm="hypocondriaque"><i>hypocondriaque</i><par n="académique__adj"/></e>
 <e lm="hypocoristique"><i>hypocoristique</i><par n="académique__adj"/></e>
 <e lm="hypocrite"><i>hypocrite</i><par n="académique__adj"/></e>
 <e lm="hypodermique"><i>hypodermique</i><par n="académique__adj"/></e>
@@ -9805,7 +9757,6 @@
 <e lm="hypsochrome"><i>hypsochrome</i><par n="académique__adj"/></e>
 <e lm="hypsométrique"><i>hypsométrique</i><par n="académique__adj"/></e>
 <e lm="hystériforme"><i>hystériforme</i><par n="académique__adj"/></e>
-<e lm="hystérique"><i>hystérique</i><par n="académique__adj"/></e>
 <e lm="hystérisé"><i>hystérisé</i><par n="abaissant__adj"/></e>
 <e lm="hystéroscopique"><i>hystéroscopique</i><par n="académique__adj"/></e>
 <e lm="hâblé"><i>hâblé</i><par n="abaissant__adj"/></e>
@@ -10103,7 +10054,6 @@
 <e lm="impertinent"><i>impertinent</i><par n="abaissant__adj"/></e>
 <e lm="imperturbable"><i>imperturbable</i><par n="académique__adj"/></e>
 <e lm="impie"><i>impie</i><par n="académique__adj"/></e>
-<e lm="impitoyable"><i>impitoyable</i><par n="académique__adj"/></e>
 <e lm="implantable"><i>implantable</i><par n="académique__adj"/></e>
 <e lm="implanté"><i>implanté</i><par n="abaissant__adj"/></e>
 <e lm="implantologique"><i>implantologique</i><par n="académique__adj"/></e>
@@ -10191,7 +10141,6 @@
 <e lm="inaccusable"><i>inaccusable</i><par n="académique__adj"/></e>
 <e lm="inachetable"><i>inachetable</i><par n="académique__adj"/></e>
 <e lm="inachevable"><i>inachevable</i><par n="académique__adj"/></e>
-<e lm="inachevé"><i>inachevé</i><par n="abaissant__adj"/></e>
 <e lm="inactif"><i>inacti</i><par n="affirmati/f__adj"/></e>
 <e lm="inactinique"><i>inactinique</i><par n="académique__adj"/></e>
 <e lm="inactivé"><i>inactivé</i><par n="abaissant__adj"/></e>
@@ -10238,7 +10187,6 @@
 <e lm="inaudible"><i>inaudible</i><par n="académique__adj"/></e>
 <e lm="inauguré"><i>inauguré</i><par n="abaissant__adj"/></e>
 <e lm="inauthentique"><i>inauthentique</i><par n="académique__adj"/></e>
-<e lm="inavouable"><i>inavouable</i><par n="académique__adj"/></e>
 <e lm="inavoué"><i>inavoué</i><par n="abaissant__adj"/></e>
 <e lm="inca"><i>inca</i><par n="académique__adj"/></e>
 <e lm="incalcinable"><i>incalcinable</i><par n="académique__adj"/></e>
@@ -10527,7 +10475,6 @@
 <e lm="infalsifiable"><i>infalsifiable</i><par n="académique__adj"/></e>
 <e lm="infamant"><i>infamant</i><par n="abaissant__adj"/></e>
 <e lm="infant"><i>infant</i><par n="abaissant__adj"/></e>
-<e lm="infantile"><i>infantile</i><par n="académique__adj"/></e>
 <e lm="infantilisant"><i>infantilisant</i><par n="abaissant__adj"/></e>
 <e lm="infantilisé"><i>infantilisé</i><par n="abaissant__adj"/></e>
 <e lm="infatué"><i>infatué</i><par n="abaissant__adj"/></e>
@@ -10659,7 +10606,6 @@
 <e lm="innommé"><i>innommé</i><par n="abaissant__adj"/></e>
 <e lm="innomé"><i>innomé</i><par n="abaissant__adj"/></e>
 <e lm="innové"><i>innové</i><par n="abaissant__adj"/></e>
-<e lm="inné"><i>inné</i><par n="abaissant__adj"/></e>
 <e lm="innéiste"><i>innéiste</i><par n="académique__adj"/></e>
 <e lm="inobservable"><i>inobservable</i><par n="académique__adj"/></e>
 <e lm="inobservé"><i>inobservé</i><par n="abaissant__adj"/></e>
@@ -10984,7 +10930,6 @@
 <e lm="intrafamilial"><i>intrafamilia</i><par n="amica/l__adj"/></e>
 <e lm="intragénique"><i>intragénique</i><par n="académique__adj"/></e>
 <e lm="intragénérationnel"><i>intragénérationnel</i><par n="annuel__adj"/></e>
-<e lm="intraitable"><i>intraitable</i><par n="académique__adj"/></e>
 <e lm="intramodal"><i>intramoda</i><par n="amica/l__adj"/></e>
 <e lm="intramoléculaire"><i>intramoléculaire</i><par n="académique__adj"/></e>
 <e lm="intramuros"><i>intramuros</i><par n="arrière__adj"/></e>
@@ -11028,7 +10973,6 @@
 <e lm="intuitionniste"><i>intuitionniste</i><par n="académique__adj"/></e>
 <e lm="intumescent"><i>intumescent</i><par n="abaissant__adj"/></e>
 <e lm="intégrable"><i>intégrable</i><par n="académique__adj"/></e>
-<e lm="intégral"><i>intégra</i><par n="amica/l__adj"/></e>
 <e lm="intégrant"><i>intégrant</i><par n="abaissant__adj"/></e>
 <e lm="intégrationniste"><i>intégrationniste</i><par n="académique__adj"/></e>
 <e lm="intégré"><i>intégré</i><par n="abaissant__adj"/></e>
@@ -11180,7 +11124,6 @@
 <e lm="isentropique"><i>isentropique</i><par n="académique__adj"/></e>
 <e lm="isiaque"><i>isiaque</i><par n="académique__adj"/></e>
 <e lm="islamisé"><i>islamisé</i><par n="abaissant__adj"/></e>
-<e lm="islamiste"><i>islamiste</i><par n="académique__adj"/></e>
 <e lm="islamo-conservateur"><i>islamo-conservat</i><par n="conduct/eur__adj"/></e>
 <e lm="islamophobe"><i>islamophobe</i><par n="académique__adj"/></e>
 <e lm="ismaélien"><i>ismaélien</i><par n="ancien__adj"/></e>
@@ -11283,8 +11226,6 @@
 <e lm="jaillissant"><i>jaillissant</i><par n="abaissant__adj"/></e>
 <e lm="jalonné"><i>jalonné</i><par n="abaissant__adj"/></e>
 <e lm="jalousé"><i>jalousé</i><par n="abaissant__adj"/></e>
-<e lm="jaloux"><i>jalou</i><par n="affectueu/x__adj"/></e>
-<e lm="jamaïcain"><i>jamaïcain</i><par n="abaissant__adj"/></e>
 <e lm="jamaïquain"><i>jamaïquain</i><par n="abaissant__adj"/></e>
 <e lm="jambier"><i>jambi</i><par n="ch/er__adj"/></e>
 <e lm="jambonné"><i>jambonné</i><par n="abaissant__adj"/></e>
@@ -11540,7 +11481,6 @@
 <e lm="lanciné"><i>lanciné</i><par n="abaissant__adj"/></e>
 <e lm="lancéolé"><i>lancéolé</i><par n="abaissant__adj"/></e>
 <e lm="landais"><i>landais</i><par n="anglais__adj"/></e>
-<e lm="langagier"><i>langagi</i><par n="ch/er__adj"/></e>
 <e lm="langé"><i>langé</i><par n="abaissant__adj"/></e>
 <e lm="langoureux"><i>langoureu</i><par n="affectueu/x__adj"/></e>
 <e lm="languedocien"><i>languedocien</i><par n="ancien__adj"/></e>
@@ -11957,7 +11897,6 @@
 <e lm="lémanique"><i>lémanique</i><par n="académique__adj"/></e>
 <e lm="lénifiant"><i>lénifiant</i><par n="abaissant__adj"/></e>
 <e lm="lénifié"><i>lénifié</i><par n="abaissant__adj"/></e>
-<e lm="léniniste"><i>léniniste</i><par n="académique__adj"/></e>
 <e lm="lénitif"><i>léniti</i><par n="affirmati/f__adj"/></e>
 <e lm="léonard"><i>léonard</i><par n="abaissant__adj"/></e>
 <e lm="léonardesque"><i>léonardesque</i><par n="académique__adj"/></e>
@@ -12000,7 +11939,6 @@
 <e lm="macroure"><i>macroure</i><par n="académique__adj"/></e>
 <e lm="maculaire"><i>maculaire</i><par n="académique__adj"/></e>
 <e lm="maculé"><i>maculé</i><par n="abaissant__adj"/></e>
-<e lm="macédonien"><i>macédonien</i><par n="ancien__adj"/></e>
 <e lm="macéré"><i>macéré</i><par n="abaissant__adj"/></e>
 <e lm="made"><i>made</i><par n="arrière__adj"/></e>
 <e lm="madrinien"><i>madrinien</i><par n="ancien__adj"/></e>
@@ -12092,7 +12030,6 @@
 <e lm="malfaisant"><i>malfaisant</i><par n="abaissant__adj"/></e>
 <e lm="malfamé"><i>malfamé</i><par n="abaissant__adj"/></e>
 <e lm="malformé"><i>malformé</i><par n="abaissant__adj"/></e>
-<e lm="malgache"><i>malgache</i><par n="académique__adj"/></e>
 <e lm="malgracieux"><i>malgracieu</i><par n="affectueu/x__adj"/></e>
 <e lm="malhabile"><i>malhabile</i><par n="académique__adj"/></e>
 <e lm="malhonnête"><i>malhonnête</i><par n="académique__adj"/></e>
@@ -12129,7 +12066,6 @@
 <e lm="malvenu"><i>malvenu</i><par n="abaissant__adj"/></e>
 <e lm="malvoyant"><i>malvoyant</i><par n="abaissant__adj"/></e>
 <e lm="maléficieux"><i>maléficieu</i><par n="affectueu/x__adj"/></e>
-<e lm="maléfique"><i>maléfique</i><par n="académique__adj"/></e>
 <e lm="malékite"><i>malékite</i><par n="académique__adj"/></e>
 <e lm="malévolent"><i>malévolent</i><par n="abaissant__adj"/></e>
 <e lm="mamelonnaire"><i>mamelonnaire</i><par n="académique__adj"/></e>
@@ -12331,7 +12267,6 @@
 <e lm="matrilinéaire"><i>matrilinéaire</i><par n="académique__adj"/></e>
 <e lm="matrilocal"><i>matriloca</i><par n="amica/l__adj"/></e>
 <e lm="matronymique"><i>matronymique</i><par n="académique__adj"/></e>
-<e lm="mature"><i>mature</i><par n="académique__adj"/></e>
 <e lm="maturé"><i>maturé</i><par n="abaissant__adj"/></e>
 <e lm="matutinal"><i>matutina</i><par n="amica/l__adj"/></e>
 <e lm="matérialisé"><i>matérialisé</i><par n="abaissant__adj"/></e>
@@ -12341,7 +12276,6 @@
 <e lm="maure"><i>maure</i><par n="académique__adj"/></e>
 <e lm="mauricien"><i>mauricien</i><par n="ancien__adj"/></e>
 <e lm="mauritanien"><i>mauritanien</i><par n="ancien__adj"/></e>
-<e lm="maussade"><i>maussade</i><par n="académique__adj"/></e>
 <e lm="maxi"><i>maxi</i><par n="arrière__adj"/></e>
 <e lm="maxillaire"><i>maxillaire</i><par n="académique__adj"/></e>
 <e lm="maxillo-dentaire"><i>maxillo-dentaire</i><par n="académique__adj"/></e>
@@ -12521,7 +12455,6 @@
 <e lm="miniaturisé"><i>miniaturisé</i><par n="abaissant__adj"/></e>
 <e lm="miniaturiste"><i>miniaturiste</i><par n="académique__adj"/></e>
 <e lm="minifié"><i>minifié</i><par n="abaissant__adj"/></e>
-<e lm="minimal"><i>minima</i><par n="amica/l__adj"/></e>
 <e lm="minimaliste"><i>minimaliste</i><par n="académique__adj"/></e>
 <e lm="minimisant"><i>minimisant</i><par n="abaissant__adj"/></e>
 <e lm="minimisé"><i>minimisé</i><par n="abaissant__adj"/></e>
@@ -12656,7 +12589,6 @@
 <e lm="mondain"><i>mondain</i><par n="abaissant__adj"/></e>
 <e lm="mondé"><i>mondé</i><par n="abaissant__adj"/></e>
 <e lm="mondialisé"><i>mondialisé</i><par n="abaissant__adj"/></e>
-<e lm="mongol"><i>mongol</i><par n="abaissant__adj"/></e>
 <e lm="mongolien"><i>mongolien</i><par n="ancien__adj"/></e>
 <e lm="mongolique"><i>mongolique</i><par n="académique__adj"/></e>
 <e lm="mongoloïde"><i>mongoloïde</i><par n="académique__adj"/></e>
@@ -13106,7 +13038,6 @@
 <e lm="mède"><i>mède</i><par n="académique__adj"/></e>
 <e lm="méandriforme"><i>méandriforme</i><par n="académique__adj"/></e>
 <e lm="mécaniciste"><i>mécaniciste</i><par n="académique__adj"/></e>
-<e lm="mécanique"><i>mécanique</i><par n="académique__adj"/></e>
 <e lm="mécanisable"><i>mécanisable</i><par n="académique__adj"/></e>
 <e lm="mécanisé"><i>mécanisé</i><par n="abaissant__adj"/></e>
 <e lm="mécaniste"><i>mécaniste</i><par n="académique__adj"/></e>
@@ -13114,13 +13045,11 @@
 <e lm="mécanographique"><i>mécanographique</i><par n="académique__adj"/></e>
 <e lm="mécanosoudé"><i>mécanosoudé</i><par n="abaissant__adj"/></e>
 <e lm="mécatronicien"><i>mécatronicien</i><par n="ancien__adj"/></e>
-<e lm="méchant"><i>méchant</i><par n="abaissant__adj"/></e>
 <e lm="méché"><i>méché</i><par n="abaissant__adj"/></e>
 <e lm="mécheux"><i>mécheu</i><par n="affectueu/x__adj"/></e>
 <e lm="mécompté"><i>mécompté</i><par n="abaissant__adj"/></e>
 <e lm="méconduit"><i>méconduit</i><par n="abaissant__adj"/></e>
 <e lm="méconial"><i>méconia</i><par n="amica/l__adj"/></e>
-<e lm="méconnaissable"><i>méconnaissable</i><par n="académique__adj"/></e>
 <e lm="méconnu"><i>méconnu</i><par n="abaissant__adj"/></e>
 <e lm="méconnu"><i>méconnu</i><par n="abaissant__adj"/></e>
 <e lm="mécontenté"><i>mécontenté</i><par n="abaissant__adj"/></e>
@@ -13265,7 +13194,6 @@
 <e lm="métallographique"><i>métallographique</i><par n="académique__adj"/></e>
 <e lm="métallogénique"><i>métallogénique</i><par n="académique__adj"/></e>
 <e lm="métalloplastique"><i>métalloplastique</i><par n="académique__adj"/></e>
-<e lm="métallurgique"><i>métallurgique</i><par n="académique__adj"/></e>
 <e lm="métalogique"><i>métalogique</i><par n="académique__adj"/></e>
 <e lm="métamathématique"><i>métamathématique</i><par n="académique__adj"/></e>
 <e lm="métamorphe"><i>métamorphe</i><par n="académique__adj"/></e>
@@ -13398,7 +13326,6 @@
 <e lm="nettoyant"><i>nettoyant</i><par n="abaissant__adj"/></e>
 <e lm="nettoyé"><i>nettoyé</i><par n="abaissant__adj"/></e>
 <e lm="neuchâtelois"><i>neuchâtelois</i><par n="anglais__adj"/></e>
-<e lm="neuf"><i>neu</i><par n="affirmati/f__adj"/></e>
 <e lm="neumatique"><i>neumatique</i><par n="académique__adj"/></e>
 <e lm="neuneu"><i>neuneu</i><par n="académique__adj"/></e>
 <e lm="neural"><i>neura</i><par n="amica/l__adj"/></e>
@@ -13547,7 +13474,6 @@
 <e lm="nonagénaire"><i>nonagénaire</i><par n="académique__adj"/></e>
 <e lm="nonaire"><i>nonaire</i><par n="académique__adj"/></e>
 <e lm="nonantième"><i>nonantième</i><par n="académique__adj"/></e>
-<e lm="nonchalant"><i>nonchalant</i><par n="abaissant__adj"/></e>
 <e lm="nonpareil"><i>nonpareil</i><par n="annuel__adj"/></e>
 <e lm="nonstop"><i>nonstop</i><par n="académique__adj"/></e>
 <e lm="nonuplé"><i>nonuplé</i><par n="abaissant__adj"/></e>
@@ -13599,7 +13525,6 @@
 <e lm="nucléotidique"><i>nucléotidique</i><par n="académique__adj"/></e>
 <e lm="nudiste"><i>nudiste</i><par n="académique__adj"/></e>
 <e lm="nué"><i>nué</i><par n="abaissant__adj"/></e>
-<e lm="nul"><i>nul</i><par n="annuel__adj"/></e>
 <e lm="nullard"><i>nullard</i><par n="abaissant__adj"/></e>
 <e lm="nullipare"><i>nullipare</i><par n="académique__adj"/></e>
 <e lm="nullissime"><i>nullissime</i><par n="académique__adj"/></e>
@@ -13959,7 +13884,6 @@
 <e lm="opposite"><i>opposite</i><par n="académique__adj"/></e>
 <e lm="oppositif"><i>oppositi</i><par n="affirmati/f__adj"/></e>
 <e lm="oppositionnel"><i>oppositionnel</i><par n="annuel__adj"/></e>
-<e lm="oppressant"><i>oppressant</i><par n="abaissant__adj"/></e>
 <e lm="oppressé"><i>oppressé</i><par n="abaissant__adj"/></e>
 <e lm="oppressif"><i>oppressi</i><par n="affirmati/f__adj"/></e>
 <e lm="opprimant"><i>opprimant</i><par n="abaissant__adj"/></e>
@@ -14006,7 +13930,6 @@
 <e lm="ordonnable"><i>ordonnable</i><par n="académique__adj"/></e>
 <e lm="ordonnancé"><i>ordonnancé</i><par n="abaissant__adj"/></e>
 <e lm="ordonnateur"><i>ordonnat</i><par n="conduct/eur__adj"/></e>
-<e lm="ordonné"><i>ordonné</i><par n="abaissant__adj"/></e>
 <e lm="ordovicien"><i>ordovicien</i><par n="ancien__adj"/></e>
 <e lm="ordurier"><i>orduri</i><par n="ch/er__adj"/></e>
 <e lm="oreillard"><i>oreillard</i><par n="abaissant__adj"/></e>
@@ -14027,7 +13950,6 @@
 <e lm="orgastique"><i>orgastique</i><par n="académique__adj"/></e>
 <e lm="orgiaque"><i>orgiaque</i><par n="académique__adj"/></e>
 <e lm="orgiastique"><i>orgiastique</i><par n="académique__adj"/></e>
-<e lm="orgueilleux"><i>orgueilleu</i><par n="affectueu/x__adj"/></e>
 <e lm="orientable"><i>orientable</i><par n="académique__adj"/></e>
 <e lm="orientalisé"><i>orientalisé</i><par n="abaissant__adj"/></e>
 <e lm="orienté"><i>orienté</i><par n="abaissant__adj"/></e>
@@ -14443,7 +14365,6 @@
 <e lm="parmesan"><i>parmesan</i><par n="abaissant__adj"/></e>
 <e lm="parnassien"><i>parnassien</i><par n="ancien__adj"/></e>
 <e lm="parodié"><i>parodié</i><par n="abaissant__adj"/></e>
-<e lm="parodique"><i>parodique</i><par n="académique__adj"/></e>
 <e lm="parodontal"><i>parodonta</i><par n="amica/l__adj"/></e>
 <e lm="paroissial"><i>paroissia</i><par n="amica/l__adj"/></e>
 <e lm="paroissien"><i>paroissien</i><par n="ancien__adj"/></e>
@@ -14495,7 +14416,6 @@
 <e lm="passepartout"><i>passepartout</i><par n="académique__adj"/></e>
 <e lm="passepoilé"><i>passepoilé</i><par n="abaissant__adj"/></e>
 <e lm="passé"><i>passé</i><par n="abaissant__adj"/></e>
-<e lm="passible"><i>passible</i><par n="académique__adj"/></e>
 <e lm="passionnel"><i>passionnel</i><par n="annuel__adj"/></e>
 <e lm="passionné"><i>passionné</i><par n="abaissant__adj"/></e>
 <e lm="passivé"><i>passivé</i><par n="abaissant__adj"/></e>
@@ -14538,9 +14458,7 @@
 <e lm="patrilocal"><i>patriloca</i><par n="amica/l__adj"/></e>
 <e lm="patriotard"><i>patriotard</i><par n="abaissant__adj"/></e>
 <e lm="patriote"><i>patriote</i><par n="académique__adj"/></e>
-<e lm="patriotique"><i>patriotique</i><par n="académique__adj"/></e>
 <e lm="patristique"><i>patristique</i><par n="académique__adj"/></e>
-<e lm="patronal"><i>patrona</i><par n="amica/l__adj"/></e>
 <e lm="patronné"><i>patronné</i><par n="abaissant__adj"/></e>
 <e lm="patronymique"><i>patronymique</i><par n="académique__adj"/></e>
 <e lm="patté"><i>patté</i><par n="abaissant__adj"/></e>
@@ -14638,7 +14556,6 @@
 <e lm="perclus"><i>perclus</i><par n="anglais__adj"/></e>
 <e lm="percolé"><i>percolé</i><par n="abaissant__adj"/></e>
 <e lm="percussif"><i>percussi</i><par n="affirmati/f__adj"/></e>
-<e lm="percutant"><i>percutant</i><par n="abaissant__adj"/></e>
 <e lm="percutané"><i>percutané</i><par n="abaissant__adj"/></e>
 <e lm="percuté"><i>percuté</i><par n="abaissant__adj"/></e>
 <e lm="perdable"><i>perdable</i><par n="académique__adj"/></e>
@@ -14784,7 +14701,6 @@
 <e lm="phonotactique"><i>phonotactique</i><par n="académique__adj"/></e>
 <e lm="phonématique"><i>phonématique</i><par n="académique__adj"/></e>
 <e lm="phonémique"><i>phonémique</i><par n="académique__adj"/></e>
-<e lm="phonétique"><i>phonétique</i><par n="académique__adj"/></e>
 <e lm="phosphaté"><i>phosphaté</i><par n="abaissant__adj"/></e>
 <e lm="phosphatidique"><i>phosphatidique</i><par n="académique__adj"/></e>
 <e lm="phosphatier"><i>phosphati</i><par n="ch/er__adj"/></e>
@@ -14808,7 +14724,6 @@
 <e lm="photocopié"><i>photocopié</i><par n="abaissant__adj"/></e>
 <e lm="photogrammétrique"><i>photogrammétrique</i><par n="académique__adj"/></e>
 <e lm="photographié"><i>photographié</i><par n="abaissant__adj"/></e>
-<e lm="photographique"><i>photographique</i><par n="académique__adj"/></e>
 <e lm="photogène"><i>photogène</i><par n="académique__adj"/></e>
 <e lm="photogénique"><i>photogénique</i><par n="académique__adj"/></e>
 <e lm="photojournalistique"><i>photojournalistique</i><par n="académique__adj"/></e>
@@ -14870,7 +14785,6 @@
 <e lm="phytopharmaceutique"><i>phytopharmaceutique</i><par n="académique__adj"/></e>
 <e lm="phytosanitaire"><i>phytosanitaire</i><par n="académique__adj"/></e>
 <e lm="phytotronique"><i>phytotronique</i><par n="académique__adj"/></e>
-<e lm="phénicien"><i>phénicien</i><par n="ancien__adj"/></e>
 <e lm="phénique"><i>phénique</i><par n="académique__adj"/></e>
 <e lm="phéniqué"><i>phéniqué</i><par n="abaissant__adj"/></e>
 <e lm="phénolique"><i>phénolique</i><par n="académique__adj"/></e>
@@ -14957,7 +14871,6 @@
 <e lm="piquousé"><i>piquousé</i><par n="abaissant__adj"/></e>
 <e lm="piraté"><i>piraté</i><par n="abaissant__adj"/></e>
 <e lm="piriforme"><i>piriforme</i><par n="académique__adj"/></e>
-<e lm="pis"><i>pis</i><par n="arrière__adj"/></e>
 <e lm="piscicole"><i>piscicole</i><par n="académique__adj"/></e>
 <e lm="pisciforme"><i>pisciforme</i><par n="académique__adj"/></e>
 <e lm="piscivore"><i>piscivore</i><par n="académique__adj"/></e>
@@ -15151,7 +15064,6 @@
 <e lm="pointillé"><i>pointillé</i><par n="abaissant__adj"/></e>
 <e lm="pointilleux"><i>pointilleu</i><par n="affectueu/x__adj"/></e>
 <e lm="pointilliste"><i>pointilliste</i><par n="académique__adj"/></e>
-<e lm="pointu"><i>pointu</i><par n="abaissant__adj"/></e>
 <e lm="poinçonné"><i>poinçonné</i><par n="abaissant__adj"/></e>
 <e lm="poissard"><i>poissard</i><par n="abaissant__adj"/></e>
 <e lm="poissé"><i>poissé</i><par n="abaissant__adj"/></e>
@@ -15251,7 +15163,6 @@
 <e lm="polysyllabique"><i>polysyllabique</i><par n="académique__adj"/></e>
 <e lm="polysynthétique"><i>polysynthétique</i><par n="académique__adj"/></e>
 <e lm="polysémique"><i>polysémique</i><par n="académique__adj"/></e>
-<e lm="polytechnique"><i>polytechnique</i><par n="académique__adj"/></e>
 <e lm="polythéiste"><i>polythéiste</i><par n="académique__adj"/></e>
 <e lm="polytonal"><i>polytona</i><par n="amica/l__adj"/></e>
 <e lm="polytonique"><i>polytonique</i><par n="académique__adj"/></e>
@@ -15324,7 +15235,6 @@
 <e lm="positionnel"><i>positionnel</i><par n="annuel__adj"/></e>
 <e lm="positionné"><i>positionné</i><par n="abaissant__adj"/></e>
 <e lm="positivé"><i>positivé</i><par n="abaissant__adj"/></e>
-<e lm="positiviste"><i>positiviste</i><par n="académique__adj"/></e>
 <e lm="posologique"><i>posologique</i><par n="académique__adj"/></e>
 <e lm="possessif"><i>possessi</i><par n="affirmati/f__adj"/></e>
 <e lm="possessionnel"><i>possessionnel</i><par n="annuel__adj"/></e>
@@ -15419,7 +15329,6 @@
 <e lm="poétisé"><i>poétisé</i><par n="abaissant__adj"/></e>
 <e lm="poêlé"><i>poêlé</i><par n="abaissant__adj"/></e>
 <e lm="poïkilotherme"><i>poïkilotherme</i><par n="académique__adj"/></e>
-<e lm="pragmatique"><i>pragmatique</i><par n="académique__adj"/></e>
 <e lm="pragois"><i>pragois</i><par n="anglais__adj"/></e>
 <e lm="praguois"><i>praguois</i><par n="anglais__adj"/></e>
 <e lm="prairial"><i>prairia</i><par n="amica/l__adj"/></e>
@@ -15483,7 +15392,6 @@
 <e lm="probabilisable"><i>probabilisable</i><par n="académique__adj"/></e>
 <e lm="probabiliste"><i>probabiliste</i><par n="académique__adj"/></e>
 <e lm="probabilisé"><i>probabilisé</i><par n="abaissant__adj"/></e>
-<e lm="probant"><i>probant</i><par n="abaissant__adj"/></e>
 <e lm="probatique"><i>probatique</i><par n="académique__adj"/></e>
 <e lm="probatoire"><i>probatoire</i><par n="académique__adj"/></e>
 <e lm="probe"><i>probe</i><par n="académique__adj"/></e>
@@ -15755,7 +15663,6 @@
 <e lm="préimprimé"><i>préimprimé</i><par n="abaissant__adj"/></e>
 <e lm="préinstallé"><i>préinstallé</i><par n="abaissant__adj"/></e>
 <e lm="préislamique"><i>préislamique</i><par n="académique__adj"/></e>
-<e lm="préjudiciable"><i>préjudiciable</i><par n="académique__adj"/></e>
 <e lm="préjudiciel"><i>préjudiciel</i><par n="annuel__adj"/></e>
 <e lm="préjugé"><i>préjugé</i><par n="abaissant__adj"/></e>
 <e lm="prélassé"><i>prélassé</i><par n="abaissant__adj"/></e>
@@ -15838,7 +15745,6 @@
 <e lm="prévalent"><i>prévalent</i><par n="abaissant__adj"/></e>
 <e lm="prévalu"><i>prévalu</i><par n="abaissant__adj"/></e>
 <e lm="prévaricateur"><i>prévaricat</i><par n="conduct/eur__adj"/></e>
-<e lm="prévenant"><i>prévenant</i><par n="abaissant__adj"/></e>
 <e lm="prévenu"><i>prévenu</i><par n="abaissant__adj"/></e>
 <e lm="préventeur"><i>prévent</i><par n="conduct/eur__adj"/></e>
 <e lm="prévisionnel"><i>prévisionnel</i><par n="annuel__adj"/></e>
@@ -16074,7 +15980,6 @@
 <e lm="pénalisé"><i>pénalisé</i><par n="abaissant__adj"/></e>
 <e lm="pénaliste"><i>pénaliste</i><par n="académique__adj"/></e>
 <e lm="pénard"><i>pénard</i><par n="abaissant__adj"/></e>
-<e lm="pénible"><i>pénible</i><par n="académique__adj"/></e>
 <e lm="pénicillino-résistant"><i>pénicillino-résistant</i><par n="abaissant__adj"/></e>
 <e lm="pénicillinorésistant"><i>pénicillinorésistant</i><par n="abaissant__adj"/></e>
 <e lm="pénicillé"><i>pénicillé</i><par n="abaissant__adj"/></e>
@@ -16109,7 +16014,6 @@
 <e lm="périgourdin"><i>périgourdin</i><par n="abaissant__adj"/></e>
 <e lm="périhélie"><i>périhélie</i><par n="académique__adj"/></e>
 <e lm="périinformatique"><i>périinformatique</i><par n="académique__adj"/></e>
-<e lm="périlleux"><i>périlleu</i><par n="affectueu/x__adj"/></e>
 <e lm="périmé"><i>périmé</i><par n="abaissant__adj"/></e>
 <e lm="périmétrique"><i>périmétrique</i><par n="académique__adj"/></e>
 <e lm="périnatal"><i>périnatal</i><par n="abaissant__adj"/></e>
@@ -16143,7 +16047,6 @@
 <e lm="pétardé"><i>pétardé</i><par n="abaissant__adj"/></e>
 <e lm="pété"><i>pété</i><par n="abaissant__adj"/></e>
 <e lm="pétersbourgeois"><i>pétersbourgeois</i><par n="anglais__adj"/></e>
-<e lm="pétillant"><i>pétillant</i><par n="abaissant__adj"/></e>
 <e lm="pétiniste"><i>pétiniste</i><par n="académique__adj"/></e>
 <e lm="pétiolé"><i>pétiolé</i><par n="abaissant__adj"/></e>
 <e lm="pétitoire"><i>pétitoire</i><par n="académique__adj"/></e>
@@ -16519,14 +16422,12 @@
 <e lm="ravili"><i>ravili</i><par n="abaissant__adj"/></e>
 <e lm="raviné"><i>raviné</i><par n="abaissant__adj"/></e>
 <e lm="ravineux"><i>ravineu</i><par n="affectueu/x__adj"/></e>
-<e lm="ravi"><i>ravi</i><par n="abaissant__adj"/></e>
 <e lm="ravisé"><i>ravisé</i><par n="abaissant__adj"/></e>
 <e lm="ravissant"><i>ravissant</i><par n="abaissant__adj"/></e>
 <e lm="ravitaillé"><i>ravitaillé</i><par n="abaissant__adj"/></e>
 <e lm="ravivé"><i>ravivé</i><par n="abaissant__adj"/></e>
 <e lm="rayable"><i>rayable</i><par n="académique__adj"/></e>
 <e lm="rayé"><i>rayé</i><par n="abaissant__adj"/></e>
-<e lm="rayonnant"><i>rayonnant</i><par n="abaissant__adj"/></e>
 <e lm="rayonné"><i>rayonné</i><par n="abaissant__adj"/></e>
 <e lm="razzié"><i>razzié</i><par n="abaissant__adj"/></e>
 <e lm="rebandé"><i>rebandé</i><par n="abaissant__adj"/></e>
@@ -17273,7 +17174,6 @@
 <e lm="roidi"><i>roidi</i><par n="abaissant__adj"/></e>
 <e lm="rolandique"><i>rolandique</i><par n="académique__adj"/></e>
 <e lm="rom"><i>rom</i><par n="académique__adj"/></e>
-<e lm="roman"><i>roman</i><par n="abaissant__adj"/></e>
 <e lm="romancé"><i>romancé</i><par n="abaissant__adj"/></e>
 <e lm="romancier"><i>romanci</i><par n="ch/er__adj"/></e>
 <e lm="romanisant"><i>romanisant</i><par n="abaissant__adj"/></e>
@@ -17562,7 +17462,6 @@
 <e lm="réformateur"><i>réformat</i><par n="conduct/eur__adj"/></e>
 <e lm="réformé"><i>réformé</i><par n="abaissant__adj"/></e>
 <e lm="réformiste"><i>réformiste</i><par n="académique__adj"/></e>
-<e lm="réfractaire"><i>réfractaire</i><par n="académique__adj"/></e>
 <e lm="réfracté"><i>réfracté</i><par n="abaissant__adj"/></e>
 <e lm="réfracteur"><i>réfract</i><par n="conduct/eur__adj"/></e>
 <e lm="réfractométrique"><i>réfractométrique</i><par n="académique__adj"/></e>
@@ -17881,7 +17780,6 @@
 <e lm="sacrosaint"><i>sacrosaint</i><par n="abaissant__adj"/></e>
 <e lm="sadducéen"><i>sadducéen</i><par n="ancien__adj"/></e>
 <e lm="sadico-anal"><i>sadico-ana</i><par n="amica/l__adj"/></e>
-<e lm="sadique"><i>sadique</i><par n="académique__adj"/></e>
 <e lm="sado-masochiste"><i>sado-masochiste</i><par n="académique__adj"/></e>
 <e lm="sadomasochiste"><i>sadomasochiste</i><par n="académique__adj"/></e>
 <e lm="saducéen"><i>saducéen</i><par n="ancien__adj"/></e>
@@ -18734,7 +18632,6 @@
 <e lm="staté"><i>staté</i><par n="abaissant__adj"/></e>
 <e lm="statif"><i>stati</i><par n="affirmati/f__adj"/></e>
 <e lm="stationné"><i>stationné</i><par n="abaissant__adj"/></e>
-<e lm="statique"><i>statique</i><par n="académique__adj"/></e>
 <e lm="statorique"><i>statorique</i><par n="académique__adj"/></e>
 <e lm="statuaire"><i>statuaire</i><par n="académique__adj"/></e>
 <e lm="statué"><i>statué</i><par n="abaissant__adj"/></e>
@@ -18942,7 +18839,6 @@
 <e lm="sucé"><i>sucé</i><par n="abaissant__adj"/></e>
 <e lm="suceur"><i>suceu</i><par n="causeu/r__adj"/></e>
 <e lm="sucrant"><i>sucrant</i><par n="abaissant__adj"/></e>
-<e lm="sucré"><i>sucré</i><par n="abaissant__adj"/></e>
 <e lm="sucrier"><i>sucri</i><par n="ch/er__adj"/></e>
 <e lm="sud-africain"><i>sud-africain</i><par n="abaissant__adj"/></e>
 <e lm="sud-américain"><i>sud-américain</i><par n="abaissant__adj"/></e>
@@ -18996,7 +18892,6 @@
 <e lm="super-lourd"><i>super-lourd</i><par n="abaissant__adj"/></e>
 <e lm="super-léger"><i>super-lég</i><par n="ch/er__adj"/></e>
 <e lm="superattractif"><i>superattracti</i><par n="affirmati/f__adj"/></e>
-<e lm="superbe"><i>superbe</i><par n="académique__adj"/></e>
 <e lm="supercavitant"><i>supercavitant</i><par n="abaissant__adj"/></e>
 <e lm="supercentenaire"><i>supercentenaire</i><par n="académique__adj"/></e>
 <e lm="supercritique"><i>supercritique</i><par n="académique__adj"/></e>
@@ -19330,7 +19225,6 @@
 <e lm="sédimentologique"><i>sédimentologique</i><par n="académique__adj"/></e>
 <e lm="séducteur"><i>séduct</i><par n="conduct/eur__adj"/></e>
 <e lm="séduit"><i>séduit</i><par n="abaissant__adj"/></e>
-<e lm="séduisant"><i>séduisant</i><par n="abaissant__adj"/></e>
 <e lm="sédévacantiste"><i>sédévacantiste</i><par n="académique__adj"/></e>
 <e lm="ségrégatif"><i>ségrégati</i><par n="affirmati/f__adj"/></e>
 <e lm="ségrégé"><i>ségrégé</i><par n="abaissant__adj"/></e>
@@ -19354,7 +19248,6 @@
 <e lm="sémiotique"><i>sémiotique</i><par n="académique__adj"/></e>
 <e lm="sémique"><i>sémique</i><par n="académique__adj"/></e>
 <e lm="sémite"><i>sémite</i><par n="académique__adj"/></e>
-<e lm="sémitique"><i>sémitique</i><par n="académique__adj"/></e>
 <e lm="séméiologique"><i>séméiologique</i><par n="académique__adj"/></e>
 <e lm="séméiotique"><i>séméiotique</i><par n="académique__adj"/></e>
 <e lm="sénaire"><i>sénaire</i><par n="académique__adj"/></e>
@@ -19565,7 +19458,6 @@
 <e lm="tellurhydrique"><i>tellurhydrique</i><par n="académique__adj"/></e>
 <e lm="tellurien"><i>tellurien</i><par n="ancien__adj"/></e>
 <e lm="tempera"><i>tempera</i><par n="arrière__adj"/></e>
-<e lm="temporaire"><i>temporaire</i><par n="académique__adj"/></e>
 <e lm="temporal"><i>tempora</i><par n="amica/l__adj"/></e>
 <e lm="temporalisé"><i>temporalisé</i><par n="abaissant__adj"/></e>
 <e lm="temporisateur"><i>temporisat</i><par n="conduct/eur__adj"/></e>
@@ -19628,7 +19520,6 @@
 <e lm="teutonique"><i>teutonique</i><par n="académique__adj"/></e>
 <e lm="tex-mex"><i>tex-mex</i><par n="arrière__adj"/></e>
 <e lm="textualisé"><i>textualisé</i><par n="abaissant__adj"/></e>
-<e lm="textuel"><i>textuel</i><par n="annuel__adj"/></e>
 <e lm="textural"><i>textura</i><par n="amica/l__adj"/></e>
 <e lm="texturé"><i>texturé</i><par n="abaissant__adj"/></e>
 <e lm="texturisé"><i>texturisé</i><par n="abaissant__adj"/></e>
@@ -19933,7 +19824,6 @@
 <e lm="tramé"><i>tramé</i><par n="abaissant__adj"/></e>
 <e lm="tranchant"><i>tranchant</i><par n="abaissant__adj"/></e>
 <e lm="tranchefilé"><i>tranchefilé</i><par n="abaissant__adj"/></e>
-<e lm="tranché"><i>tranché</i><par n="abaissant__adj"/></e>
 <e lm="trancheur"><i>trancheu</i><par n="causeu/r__adj"/></e>
 <e lm="tranquillisant"><i>tranquillisant</i><par n="abaissant__adj"/></e>
 <e lm="tranquillisé"><i>tranquillisé</i><par n="abaissant__adj"/></e>
@@ -20439,7 +20329,6 @@
 <e lm="uliginaire"><i>uliginaire</i><par n="académique__adj"/></e>
 <e lm="uligineux"><i>uligineu</i><par n="affectueu/x__adj"/></e>
 <e lm="ulnaire"><i>ulnaire</i><par n="académique__adj"/></e>
-<e lm="ultime"><i>ultime</i><par n="académique__adj"/></e>
 <e lm="ultra"><i>ultra</i><par n="académique__adj"/></e>
 <e lm="ultra-chic"><i>ultra-chic</i><par n="académique__adj"/></e>
 <e lm="ultra-colonialiste"><i>ultra-colonialiste</i><par n="académique__adj"/></e>
@@ -20928,7 +20817,6 @@
 <e lm="vitulaire"><i>vitulaire</i><par n="académique__adj"/></e>
 <e lm="vitupéré"><i>vitupéré</i><par n="abaissant__adj"/></e>
 <e lm="vivable"><i>vivable</i><par n="académique__adj"/></e>
-<e lm="vivant"><i>vivant</i><par n="abaissant__adj"/></e>
 <e lm="viverrin"><i>viverrin</i><par n="abaissant__adj"/></e>
 <e lm="vivifiant"><i>vivifiant</i><par n="abaissant__adj"/></e>
 <e lm="vivificateur"><i>vivificat</i><par n="conduct/eur__adj"/></e>
@@ -20982,7 +20870,6 @@
 <e lm="voulu"><i>voulu</i><par n="abaissant__adj"/></e>
 <e lm="vousoyé"><i>vousoyé</i><par n="abaissant__adj"/></e>
 <e lm="voussoyé"><i>voussoyé</i><par n="abaissant__adj"/></e>
-<e lm="vouté"><i>vouté</i><par n="abaissant__adj"/></e>
 <e lm="vouvoyé"><i>vouvoyé</i><par n="abaissant__adj"/></e>
 <e lm="voyant"><i>voyant</i><par n="abaissant__adj"/></e>
 <e lm="voyeur"><i>voyeu</i><par n="causeu/r__adj"/></e>
@@ -21622,11 +21509,9 @@
 <e lm="épousable"><i>épousable</i><par n="académique__adj"/></e>
 <e lm="épousé"><i>épousé</i><par n="abaissant__adj"/></e>
 <e lm="épousseté"><i>épousseté</i><par n="abaissant__adj"/></e>
-<e lm="époustouflant"><i>époustouflant</i><par n="abaissant__adj"/></e>
 <e lm="époustouflé"><i>époustouflé</i><par n="abaissant__adj"/></e>
 <e lm="époutié"><i>époutié</i><par n="abaissant__adj"/></e>
 <e lm="épouti"><i>épouti</i><par n="abaissant__adj"/></e>
-<e lm="épouvantable"><i>épouvantable</i><par n="académique__adj"/></e>
 <e lm="épouvanté"><i>épouvanté</i><par n="abaissant__adj"/></e>
 <e lm="époxydique"><i>époxydique</i><par n="académique__adj"/></e>
 <e lm="époxydé"><i>époxydé</i><par n="abaissant__adj"/></e>
@@ -21721,7 +21606,6 @@
 <e lm="étançonné"><i>étançonné</i><par n="abaissant__adj"/></e>
 <e lm="étarqué"><i>étarqué</i><par n="abaissant__adj"/></e>
 <e lm="étasunien"><i>étasunien</i><par n="ancien__adj"/></e>
-<e lm="étatique"><i>étatique</i><par n="académique__adj"/></e>
 <e lm="étatisé"><i>étatisé</i><par n="abaissant__adj"/></e>
 <e lm="étatiste"><i>étatiste</i><par n="académique__adj"/></e>
 <e lm="états-unien"><i>états-unien</i><par n="ancien__adj"/></e>
@@ -21739,7 +21623,6 @@
 <e lm="éthérique"><i>éthérique</i><par n="académique__adj"/></e>
 <e lm="éthérisé"><i>éthérisé</i><par n="abaissant__adj"/></e>
 <e lm="éthéré"><i>éthéré</i><par n="abaissant__adj"/></e>
-<e lm="étincelant"><i>étincelant</i><par n="abaissant__adj"/></e>
 <e lm="étiolé"><i>étiolé</i><par n="abaissant__adj"/></e>
 <e lm="étiologique"><i>étiologique</i><par n="académique__adj"/></e>
 <e lm="étique"><i>étique</i><par n="académique__adj"/></e>
@@ -21750,7 +21633,6 @@
 <e lm="étoffé"><i>étoffé</i><par n="abaissant__adj"/></e>
 <e lm="étoilé"><i>étoilé</i><par n="abaissant__adj"/></e>
 <e lm="étonné"><i>étonné</i><par n="abaissant__adj"/></e>
-<e lm="étouffant"><i>étouffant</i><par n="abaissant__adj"/></e>
 <e lm="étouffé"><i>étouffé</i><par n="abaissant__adj"/></e>
 <e lm="étoupé"><i>étoupé</i><par n="abaissant__adj"/></e>
 <e lm="étoupillé"><i>étoupillé</i><par n="abaissant__adj"/></e>

@@ -7,16 +7,17 @@ dir_results="results/"
 
 lang=$1
 
-if [ $lang="fra" ]; then
+if [[ $lang = "fra" ]]; then
 	apertium_dict="/home/jaume/apertium/apertium-fra/apertium-fra.fra.metadix"
 	src_dict="src/lexique-dicollecte-fr-v6.1.txt"
 fi
-if [ $lang="cat" ]; then
+if [[ $lang = "cat" ]]; then
 	apertium_dict="/home/jaume/apertium/apertium-cat/apertium-cat.cat.dix"
 	src_dict="/home/jaume/github/catalan-dict-tools/resultats/lt/diccionari.txt"
 fi
 
-
+echo $apertium_dict
+echo $src_dict
 
 for gramcat in adj name; do 
 	perl $dir_scripts/generate-apertium.pl $lang $gramcat $src_dict $apertium_dict > $dir_results/$lang-$gramcat.txt 2>$dir_results/$lang-$gramcat-diff.txt

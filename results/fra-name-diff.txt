@@ -410,6 +410,11 @@ APERTIUM: bourgeon	PAR: livre__n	FORMS: NCMP000 bouillons NCMS000 bouillon
 DICOLLEC: bourgeon	PAR: livre__n	FORMS: NCMP000 bourgeons NCMS000 bourgeon
 DICOLLEC: bourgeon	PAR: match__n	FORMS: NCMP000 bourgeons NCMS000 bourgeon
 
+APERTIUM: boxeur	PAR: administrat/eur__n	FORMS: NCFP000 boxrices NCFS000 boxrice NCMP000 boxeurs NCMS000 boxeur
+DICOLLEC: boxeur	PAR: causeu/r__n	FORMS: NCFP000 boxeuses NCFS000 boxeuse NCMP000 boxeurs NCMS000 boxeur
+DICOLLEC: boxeur	PAR: débit/eur__n	FORMS: NCFP000 boxeuses NCFS000 boxeuse NCMP000 boxeurs NCMS000 boxeur
+DICOLLEC: boxeur	PAR: vende/ur__n	FORMS: NCFP000 boxeuses NCFS000 boxeuse NCMP000 boxeurs NCMS000 boxeur
+
 APERTIUM: brasseur	PAR: livre__n	FORMS: NCMP000 brasseurs NCMS000 brasseur
 DICOLLEC: brasseur	PAR: causeu/r__n	FORMS: NCFP000 brasseuses NCFS000 brasseuse NCMP000 brasseurs NCMS000 brasseur
 DICOLLEC: brasseur	PAR: débit/eur__n	FORMS: NCFP000 brasseuses NCFS000 brasseuse NCMP000 brasseurs NCMS000 brasseur
@@ -494,6 +499,13 @@ DICOLLEC: charpentier	PAR: bouch/er__n	FORMS: NCFP000 charpentières NCFS000 cha
 APERTIUM: chemisier	PAR: livre__n	FORMS: NCMP000 chemisiers NCMS000 chemisier
 DICOLLEC: chemisier	PAR: bouch/er__n	FORMS: NCFP000 chemisières NCFS000 chemisière NCMP000 chemisiers NCMS000 chemisier
 
+APERTIUM: chevalier	PAR: livre__n	FORMS: NCMP000 chevaliers NCMS000 chevalier
+DICOLLEC: chevalier	PAR: bouch/er__n	FORMS: NCFP000 chevalières NCFS000 chevalière NCMP000 chevaliers NCMS000 chevalier
+
+APERTIUM: choix	PAR: livre__n	FORMS: NCMP000 choixs NCMS000 choix
+DICOLLEC: choix	PAR: IRPF__n	FORMS: NCMN000 choix
+DICOLLEC: choix	PAR: mois__n	FORMS: NCMN000 choix
+
 APERTIUM: clair	PAR: livre__n	FORMS: NCMP000 clairs NCMS000 clair
 DICOLLEC: clair	PAR: affecté__n	FORMS: NCFP000 claires NCFS000 claire NCMP000 clairs NCMS000 clair
 
@@ -550,6 +562,10 @@ APERTIUM: compteur	PAR: livre__n	FORMS: NCMP000 compteurs NCMS000 compteur
 DICOLLEC: compteur	PAR: causeu/r__n	FORMS: NCFP000 compteuses NCFS000 compteuse NCMP000 compteurs NCMS000 compteur
 DICOLLEC: compteur	PAR: débit/eur__n	FORMS: NCFP000 compteuses NCFS000 compteuse NCMP000 compteurs NCMS000 compteur
 DICOLLEC: compteur	PAR: vende/ur__n	FORMS: NCFP000 compteuses NCFS000 compteuse NCMP000 compteurs NCMS000 compteur
+
+APERTIUM: comte	PAR: livre__n	FORMS: NCMP000 comtes NCMS000 comte
+DICOLLEC: comte	PAR: buffle__n	FORMS: NCFP000 comtesses NCFS000 comtesse NCMP000 comtes NCMS000 comte
+DICOLLEC: comte	PAR: maire__n	FORMS: NCFP000 comtesses NCFS000 comtesse NCMP000 comtes NCMS000 comte
 
 APERTIUM: conception	PAR: livre__n	FORMS: NCMP000 conceptions NCMS000 conception
 DICOLLEC: conception	PAR: abeille__n	FORMS: NCFP000 conceptions NCFS000 conception
@@ -636,6 +652,10 @@ DICOLLEC: décennie	PAR: abeille__n	FORMS: NCFP000 décennies NCFS000 décennie
 APERTIUM: découvert	PAR: livre__n	FORMS: NCMP000 découverts NCMS000 découvert
 DICOLLEC: découvert	PAR: affecté__n	FORMS: NCFP000 découvertes NCFS000 découverte NCMP000 découverts NCMS000 découvert
 
+APERTIUM: dédommagement	PAR: abeille__n	FORMS: NCFP000 dédommagements NCFS000 dédommagement
+DICOLLEC: dédommagement	PAR: livre__n	FORMS: NCMP000 dédommagements NCMS000 dédommagement
+DICOLLEC: dédommagement	PAR: match__n	FORMS: NCMP000 dédommagements NCMS000 dédommagement
+
 APERTIUM: défenseur	PAR: causeu/r__n	FORMS: NCFP000 défenseuses NCFS000 défenseuse NCMP000 défenseurs NCMS000 défenseur
 DICOLLEC: défenseur	PAR: affecté__n	FORMS: NCFP000 défenseures NCFS000 défenseure NCMP000 défenseurs NCMS000 défenseur
 
@@ -702,8 +722,17 @@ APERTIUM: foot	PAR: personnel__n	FORMS: NCMS000 foot
 DICOLLEC: foot	PAR: livre__n	FORMS: NCMP000 foots NCMS000 foot
 DICOLLEC: foot	PAR: match__n	FORMS: NCMP000 foots NCMS000 foot
 
+APERTIUM: football	PAR: personnel__n	FORMS: NCMS000 football
+DICOLLEC: football	PAR: cie/l__n	FORMS: NCMP000 footballs NCMS000 football
+DICOLLEC: football	PAR: livre__n	FORMS: NCMP000 footballs NCMS000 football
+DICOLLEC: football	PAR: match__n	FORMS: NCMP000 footballs NCMS000 football
+
 APERTIUM: forgeron	PAR: livre__n	FORMS: NCMP000 forgerons NCMS000 forgeron
 DICOLLEC: forgeron	PAR: ancien__n	FORMS: NCFP000 forgeronnes NCFS000 forgeronne NCMP000 forgerons NCMS000 forgeron
+
+APERTIUM: fossé	PAR: abeille__n	FORMS: NCFP000 fossés NCFS000 fossé
+DICOLLEC: fossé	PAR: livre__n	FORMS: NCMP000 fossés NCMS000 fossé
+DICOLLEC: fossé	PAR: match__n	FORMS: NCMP000 fossés NCMS000 fossé
 
 APERTIUM: froid	PAR: livre__n	FORMS: NCMP000 froids NCMS000 froid
 DICOLLEC: froid	PAR: affecté__n	FORMS: NCFP000 froides NCFS000 froide NCMP000 froids NCMS000 froid
@@ -813,6 +842,9 @@ APERTIUM: hockey	PAR: personnel__n	FORMS: NCMS000 hockey
 DICOLLEC: hockey	PAR: livre__n	FORMS: NCMP000 hockeys NCMS000 hockey
 DICOLLEC: hockey	PAR: match__n	FORMS: NCMP000 hockeys NCMS000 hockey
 
+APERTIUM: homicide	PAR: livre__n	FORMS: NCMP000 homicides NCMS000 homicide
+DICOLLEC: homicide	PAR: artiste__n	FORMS: NCCP000 homicides NCCS000 homicide
+
 APERTIUM: horloger	PAR: livre__n	FORMS: NCMP000 horlogers NCMS000 horloger
 DICOLLEC: horloger	PAR: bouch/er__n	FORMS: NCFP000 horlogères NCFS000 horlogère NCMP000 horlogers NCMS000 horloger
 
@@ -834,6 +866,9 @@ DICOLLEC: héros	PAR: mois__n	FORMS: NCMN000 héros
 
 APERTIUM: hôte	PAR: buffle__n	FORMS: NCFP000 hôtesses NCFS000 hôtesse NCMP000 hôtes NCMS000 hôte
 DICOLLEC: hôte	PAR: artiste__n	FORMS: NCCP000 hôtes NCCS000 hôte
+
+APERTIUM: impasse	PAR: livre__n	FORMS: NCMP000 impasses NCMS000 impasse
+DICOLLEC: impasse	PAR: abeille__n	FORMS: NCFP000 impasses NCFS000 impasse
 
 APERTIUM: impayé	PAR: affecté__n	FORMS: NCFP000 impayées NCFS000 impayée NCMP000 impayés NCMS000 impayé
 DICOLLEC: impayé	PAR: livre__n	FORMS: NCMP000 impayés NCMS000 impayé
@@ -879,6 +914,9 @@ DICOLLEC: intégration	PAR: abeille__n	FORMS: NCFP000 intégrations NCFS000 int�
 APERTIUM: islam	PAR: personnel__n	FORMS: NCMS000 islam
 DICOLLEC: islam	PAR: livre__n	FORMS: NCMP000 islams NCMS000 islam
 DICOLLEC: islam	PAR: match__n	FORMS: NCMP000 islams NCMS000 islam
+
+APERTIUM: isolant	PAR: livre__n	FORMS: NCMP000 isolants NCMS000 isolant
+DICOLLEC: isolant	PAR: affecté__n	FORMS: NCFP000 isolantes NCFS000 isolante NCMP000 isolants NCMS000 isolant
 
 APERTIUM: ivrogne	PAR: artiste__n	FORMS: NCCP000 ivrognes NCCS000 ivrogne
 DICOLLEC: ivrogne	PAR: buffle__n	FORMS: NCFP000 ivrognesses NCFS000 ivrognesse NCMP000 ivrognes NCMS000 ivrogne
@@ -941,6 +979,9 @@ DICOLLEC: lutin	PAR: match__n	FORMS: NCMP000 lutins NCMS000 lutin
 APERTIUM: légume	PAR: livre__n	FORMS: NCMP000 légumes NCMS000 légume
 DICOLLEC: légume	PAR: artiste__n	FORMS: NCCP000 légumes NCCS000 légume
 
+APERTIUM: lézard	PAR: livre__n	FORMS: NCMP000 lézards NCMS000 lézard
+DICOLLEC: lézard	PAR: affecté__n	FORMS: NCFP000 lézardes NCFS000 lézarde NCMP000 lézards NCMS000 lézard
+
 APERTIUM: machiste	PAR: artiste__n	FORMS: NCCP000 machistes NCCS000 machiste
 DICOLLEC: machiste	PAR: livre__n	FORMS: NCMP000 machistes NCMS000 machiste
 DICOLLEC: machiste	PAR: match__n	FORMS: NCMP000 machistes NCMS000 machiste
@@ -951,6 +992,9 @@ DICOLLEC: maghrébin	PAR: affecté__n	FORMS: NCFP000 maghrébines NCFS000 maghr�
 APERTIUM: maire	PAR: maire__n	FORMS: NCFP000 mairesses NCFS000 mairesse NCMP000 maires NCMS000 maire
 DICOLLEC: maire	PAR: artiste__n	FORMS: NCCP000 maires NCCS000 maire
 
+APERTIUM: majordome	PAR: livre__n	FORMS: NCMP000 majordomes NCMS000 majordome
+DICOLLEC: majordome	PAR: artiste__n	FORMS: NCCP000 majordomes NCCS000 majordome
+
 APERTIUM: manager	PAR: livre__n	FORMS: NCMP000 managers NCMS000 manager
 DICOLLEC: manager	PAR: artiste__n	FORMS: NCCP000 managers NCCS000 manager
 
@@ -959,6 +1003,9 @@ DICOLLEC: manche	PAR: artiste__n	FORMS: NCCP000 manches NCCS000 manche
 
 APERTIUM: mannequin	PAR: livre__n	FORMS: NCMP000 mannequins NCMS000 mannequin
 DICOLLEC: mannequin	PAR: artiste__n	FORMS: NCCP000 mannequins NCCS000 mannequin
+
+APERTIUM: manteau	PAR: livre__n	FORMS: NCMP000 manteaus NCMS000 manteau
+DICOLLEC: manteau	PAR: lieu__n	FORMS: NCMP000 manteaux NCMS000 manteau
 
 APERTIUM: marchand	PAR: livre__n	FORMS: NCMP000 marchands NCMS000 marchand
 DICOLLEC: marchand	PAR: affecté__n	FORMS: NCFP000 marchandes NCFS000 marchande NCMP000 marchands NCMS000 marchand
@@ -1115,6 +1162,9 @@ DICOLLEC: occident	PAR: match__n	FORMS: NCMP000 occidents NCMS000 occident
 
 APERTIUM: odeur	PAR: livre__n	FORMS: NCMP000 odeurs NCMS000 odeur
 DICOLLEC: odeur	PAR: abeille__n	FORMS: NCFP000 odeurs NCFS000 odeur
+
+APERTIUM: office	PAR: livre__n	FORMS: NCMP000 offices NCMS000 office
+DICOLLEC: office	PAR: artiste__n	FORMS: NCCP000 offices NCCS000 office
 
 APERTIUM: olive	PAR: livre__n	FORMS: NCMP000 olives NCMS000 olive
 DICOLLEC: olive	PAR: abeille__n	FORMS: NCFP000 olives NCFS000 olive
@@ -1386,6 +1436,9 @@ DICOLLEC: rejeton	PAR: ancien__n	FORMS: NCFP000 rejetonnes NCFS000 rejetonne NCM
 APERTIUM: renard	PAR: livre__n	FORMS: NCMP000 renards NCMS000 renard
 DICOLLEC: renard	PAR: affecté__n	FORMS: NCFP000 renardes NCFS000 renarde NCMP000 renards NCMS000 renard
 
+APERTIUM: reporter	PAR: livre__n	FORMS: NCMP000 reporters NCMS000 reporter
+DICOLLEC: reporter	PAR: artiste__n	FORMS: NCCP000 reporters NCCS000 reporter
+
 APERTIUM: retrait	PAR: livre__n	FORMS: NCMP000 retraits NCMS000 retrait
 DICOLLEC: retrait	PAR: affecté__n	FORMS: NCFP000 retraites NCFS000 retraite NCMP000 retraits NCMS000 retrait
 
@@ -1497,6 +1550,10 @@ DICOLLEC: superviseur	PAR: causeu/r__n	FORMS: NCFP000 superviseuses NCFS000 supe
 DICOLLEC: superviseur	PAR: débit/eur__n	FORMS: NCFP000 superviseuses NCFS000 superviseuse NCMP000 superviseurs NCMS000 superviseur
 DICOLLEC: superviseur	PAR: vende/ur__n	FORMS: NCFP000 superviseuses NCFS000 superviseuse NCMP000 superviseurs NCMS000 superviseur
 
+APERTIUM: sursis	PAR: livre__n	FORMS: NCMP000 sursiss NCMS000 sursis
+DICOLLEC: sursis	PAR: IRPF__n	FORMS: NCMN000 sursis
+DICOLLEC: sursis	PAR: mois__n	FORMS: NCMN000 sursis
+
 APERTIUM: suspense	PAR: livre__n	FORMS: NCMP000 suspenses NCMS000 suspense
 DICOLLEC: suspense	PAR: artiste__n	FORMS: NCCP000 suspenses NCCS000 suspense
 
@@ -1510,8 +1567,16 @@ DICOLLEC: sénateur	PAR: administrat/eur__n	FORMS: NCFP000 sénatrices NCFS000 s
 APERTIUM: tableau	PAR: livre__n	FORMS: NCMP000 tableaus NCMS000 tableau
 DICOLLEC: tableau	PAR: lieu__n	FORMS: NCMP000 tableaux NCMS000 tableau
 
+APERTIUM: tailleur	PAR: livre__n	FORMS: NCMP000 tailleurs NCMS000 tailleur
+DICOLLEC: tailleur	PAR: causeu/r__n	FORMS: NCFP000 tailleuses NCFS000 tailleuse NCMP000 tailleurs NCMS000 tailleur
+DICOLLEC: tailleur	PAR: débit/eur__n	FORMS: NCFP000 tailleuses NCFS000 tailleuse NCMP000 tailleurs NCMS000 tailleur
+DICOLLEC: tailleur	PAR: vende/ur__n	FORMS: NCFP000 tailleuses NCFS000 tailleuse NCMP000 tailleurs NCMS000 tailleur
+
 APERTIUM: taliban	PAR: ancien__n	FORMS: NCFP000 talibannes NCFS000 talibanne NCMP000 talibans NCMS000 taliban
 DICOLLEC: taliban	PAR: affecté__n	FORMS: NCFP000 talibanes NCFS000 talibane NCMP000 talibans NCMS000 taliban
+
+APERTIUM: tenancier	PAR: affecté__n	FORMS: NCFP000 tenancieres NCFS000 tenanciere NCMP000 tenanciers NCMS000 tenancier
+DICOLLEC: tenancier	PAR: bouch/er__n	FORMS: NCFP000 tenancières NCFS000 tenancière NCMP000 tenanciers NCMS000 tenancier
 
 APERTIUM: tennis	PAR: mois__n	FORMS: NCMN000 tennis
 DICOLLEC: tennis	PAR: ATS__n	FORMS: NCCN000 tennis
@@ -1588,6 +1653,10 @@ APERTIUM: veto	PAR: personnel__n	FORMS: NCMS000 veto
 DICOLLEC: veto	PAR: IRPF__n	FORMS: NCMN000 veto
 DICOLLEC: veto	PAR: mois__n	FORMS: NCMN000 veto
 
+APERTIUM: vicomte	PAR: livre__n	FORMS: NCMP000 vicomtes NCMS000 vicomte
+DICOLLEC: vicomte	PAR: buffle__n	FORMS: NCFP000 vicomtesses NCFS000 vicomtesse NCMP000 vicomtes NCMS000 vicomte
+DICOLLEC: vicomte	PAR: maire__n	FORMS: NCFP000 vicomtesses NCFS000 vicomtesse NCMP000 vicomtes NCMS000 vicomte
+
 APERTIUM: vidéo	PAR: livre__n	FORMS: NCMP000 vidéos NCMS000 vidéo
 DICOLLEC: vidéo	PAR: abeille__n	FORMS: NCFP000 vidéos NCFS000 vidéo
 
@@ -1602,6 +1671,12 @@ DICOLLEC: vigueur	PAR: abeille__n	FORMS: NCFP000 vigueurs NCFS000 vigueur
 
 APERTIUM: violet	PAR: livre__n	FORMS: NCMP000 violets NCMS000 violet
 DICOLLEC: violet	PAR: chat__n	FORMS: NCFP000 violettes NCFS000 violette NCMP000 violets NCMS000 violet
+
+APERTIUM: viticulteur	PAR: débit/eur__n	FORMS: NCFP000 viticulteuses NCFS000 viticulteuse NCMP000 viticulteurs NCMS000 viticulteur
+DICOLLEC: viticulteur	PAR: administrat/eur__n	FORMS: NCFP000 viticultrices NCFS000 viticultrice NCMP000 viticulteurs NCMS000 viticulteur
+
+APERTIUM: vitre	PAR: livre__n	FORMS: NCMP000 vitres NCMS000 vitre
+DICOLLEC: vitre	PAR: abeille__n	FORMS: NCFP000 vitres NCFS000 vitre
 
 APERTIUM: voile	PAR: livre__n	FORMS: NCMP000 voiles NCMS000 voile
 DICOLLEC: voile	PAR: artiste__n	FORMS: NCCP000 voiles NCCS000 voile
@@ -1627,6 +1702,11 @@ DICOLLEC: web	PAR: personnel__n	FORMS: NCMS000 web
 APERTIUM: zèbre	PAR: abeille__n	FORMS: NCFP000 zèbres NCFS000 zèbre
 DICOLLEC: zèbre	PAR: livre__n	FORMS: NCMP000 zèbres NCMS000 zèbre
 DICOLLEC: zèbre	PAR: match__n	FORMS: NCMP000 zèbres NCMS000 zèbre
+
+APERTIUM: éboueur	PAR: livre__n	FORMS: NCMP000 éboueurs NCMS000 éboueur
+DICOLLEC: éboueur	PAR: causeu/r__n	FORMS: NCFP000 éboueuses NCFS000 éboueuse NCMP000 éboueurs NCMS000 éboueur
+DICOLLEC: éboueur	PAR: débit/eur__n	FORMS: NCFP000 éboueuses NCFS000 éboueuse NCMP000 éboueurs NCMS000 éboueur
+DICOLLEC: éboueur	PAR: vende/ur__n	FORMS: NCFP000 éboueuses NCFS000 éboueuse NCMP000 éboueurs NCMS000 éboueur
 
 APERTIUM: écarlate	PAR: abeille__n	FORMS: NCFP000 écarlates NCFS000 écarlate
 DICOLLEC: écarlate	PAR: artiste__n	FORMS: NCCP000 écarlates NCCS000 écarlate
@@ -1659,7 +1739,7 @@ DICOLLEC: agneau	PAR: ??????????????	FORMS: NCFP000 agnelles NCFS000 agnelle NCM
 APERTIUM: amuse-gueule	PAR: livre__n	FORMS: NCMP000 amuse-gueules NCMS000 amuse-gueule
 DICOLLEC: amuse-gueule	PAR: ??????????????	FORMS: NCMN000 amuse-gueule NCMP000 amuse-gueules NCMS000 amuse-gueule
 
-APERTIUM: après-midi	PAR: livre__n	FORMS: NCMP000 après-midis NCMS000 après-midi
+APERTIUM: après-midi	PAR: mois__n	FORMS: NCMN000 après-midi
 DICOLLEC: après-midi	PAR: ??????????????	FORMS: NCCN000 après-midi NCCP000 après-midis NCCS000 après-midi
 
 APERTIUM: bar	PAR: livre__n	FORMS: NCMP000 bars NCMS000 bar
@@ -1679,6 +1759,9 @@ DICOLLEC: brandy	PAR: ??????????????	FORMS: NCMP000 brandies NCMP000 brandys NCM
 
 APERTIUM: clavier	PAR: livre__n	FORMS: NCMP000 claviers NCMS000 clavier
 DICOLLEC: clavier	PAR: ??????????????	FORMS: NCFP000 clavières NCFS000 clavière NCMP000 claviers NCMP000 claviers NCMS000 clavier NCMS000 clavier
+
+APERTIUM: coach	PAR: match__n	FORMS: NCMP000 coachs NCMS000 coach
+DICOLLEC: coach	PAR: ??????????????	FORMS: NCCP000 coaches NCCP000 coachs NCCS000 coach
 
 APERTIUM: coupe-feu	PAR: mois__n	FORMS: NCMN000 coupe-feu
 DICOLLEC: coupe-feu	PAR: ??????????????	FORMS: NCMN000 coupe-feu NCMP000 coupe-feux NCMS000 coupe-feu
@@ -1746,7 +1829,7 @@ DICOLLEC: litre	PAR: ??????????????	FORMS: NCFP000 litres NCFS000 litre NCMP000 
 APERTIUM: m	PAR: mois__n	FORMS: NCMN000 m
 DICOLLEC: m	PAR: ??????????????	FORMS: NCMN000 Em NCMN000 Gm NCMN000 Mm NCMN000 Pm NCMN000 Tm NCMN000 Ym NCMN000 Zm NCMN000 am NCMN000 cm NCMN000 dam NCMN000 dm NCMN000 fm NCMN000 hm NCMN000 km NCMN000 m NCMN000 m NCMN000 mm NCMN000 nm NCMN000 pm NCMN000 ym NCMN000 zm NCMN000 µm
 
-APERTIUM: match	PAR: match__n	FORMS: NCMP000 matchs NCMS000 match
+APERTIUM: match	PAR: livre__n	FORMS: NCMP000 matchs NCMS000 match
 DICOLLEC: match	PAR: ??????????????	FORMS: NCMP000 matches NCMP000 matchs NCMS000 match
 
 APERTIUM: mollet	PAR: livre__n	FORMS: NCMP000 mollets NCMS000 mollet
@@ -1793,6 +1876,9 @@ DICOLLEC: seconde	PAR: ??????????????	FORMS: NCFP000 attosecondes NCFP000 centis
 
 APERTIUM: secret	PAR: livre__n	FORMS: NCMP000 secrets NCMS000 secret
 DICOLLEC: secret	PAR: ??????????????	FORMS: NCFP000 secrètes NCFS000 secrète NCMP000 secrets NCMS000 secret
+
+APERTIUM: sketch	PAR: match__n	FORMS: NCMP000 sketchs NCMS000 sketch
+DICOLLEC: sketch	PAR: ??????????????	FORMS: NCMP000 sketches NCMP000 sketchs NCMS000 sketch
 
 APERTIUM: sol	PAR: livre__n	FORMS: NCMP000 sols NCMS000 sol
 DICOLLEC: sol	PAR: ??????????????	FORMS: NCMN000 sol NCMP000 sols NCMS000 sol
@@ -2003,7 +2089,6 @@ DICOLLEC: âne	PAR: ??????????????	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP0
 <e lm="clash"><i>clash</i><par n="??????????"/></e>
 <e lm="clergyman"><i>clergyman</i><par n="??????????"/></e>
 <e lm="cnidaire"><i>cnidaire</i><par n="??????????"/></e>
-<e lm="coach"><i>coach</i><par n="??????????"/></e>
 <e lm="coagulum"><i>coagulum</i><par n="??????????"/></e>
 <e lm="coccus"><i>coccus</i><par n="??????????"/></e>
 <e lm="codemandeur"><i>codemandeur</i><par n="??????????"/></e>
@@ -2531,7 +2616,6 @@ DICOLLEC: âne	PAR: ??????????????	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP0
 <e lm="siemens"><i>siemens</i><par n="??????????"/></e>
 <e lm="sievert"><i>sievert</i><par n="??????????"/></e>
 <e lm="sigma"><i>sigma</i><par n="??????????"/></e>
-<e lm="sketch"><i>sketch</i><par n="??????????"/></e>
 <e lm="slash"><i>slash</i><par n="??????????"/></e>
 <e lm="smash"><i>smash</i><par n="??????????"/></e>
 <e lm="snoreau"><i>snoreau</i><par n="??????????"/></e>

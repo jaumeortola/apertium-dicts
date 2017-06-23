@@ -1,4 +1,7 @@
 
+APERTIUM: abyssal	PAR: abaissant__adj	FORMS: AQ0FP0 abyssales AQ0FS0 abyssale AQ0MP0 abyssals AQ0MS0 abyssal
+DICOLLEC: abyssal	PAR: amica/l__adj	FORMS: AQ0FP0 abyssales AQ0FS0 abyssale AQ0MP0 abyssaux AQ0MS0 abyssal
+
 APERTIUM: angolais	PAR: bas__adj	FORMS: AQ0FP0 angolaisses AQ0FS0 angolaisse AQ0MN0 angolais
 DICOLLEC: angolais	PAR: anglais__adj	FORMS: AQ0FP0 angolaises AQ0FS0 angolaise AQ0MN0 angolais
 
@@ -23,9 +26,6 @@ DICOLLEC: barcelonais	PAR: anglais__adj	FORMS: AQ0FP0 barcelonaises AQ0FS0 barce
 
 APERTIUM: cadastral	PAR: abaissant__adj	FORMS: AQ0FP0 cadastrales AQ0FS0 cadastrale AQ0MP0 cadastrals AQ0MS0 cadastral
 DICOLLEC: cadastral	PAR: amica/l__adj	FORMS: AQ0FP0 cadastrales AQ0FS0 cadastrale AQ0MP0 cadastraux AQ0MS0 cadastral
-
-APERTIUM: caricatural	PAR: amica/l__adj	FORMS: AQ0FP0 caricaturles AQ0FS0 caricaturle AQ0MP0 caricaturux AQ0MS0 caricaturl
-DICOLLEC: caricatural	PAR: amica/l__adj	FORMS: AQ0FP0 caricaturales AQ0FS0 caricaturale AQ0MP0 caricaturaux AQ0MS0 caricatural
 
 APERTIUM: choral	PAR: amica/l__adj	FORMS: AQ0FP0 chorales AQ0FS0 chorale AQ0MP0 choraux AQ0MS0 choral
 DICOLLEC: choral	PAR: abaissant__adj	FORMS: AQ0FP0 chorales AQ0FS0 chorale AQ0MP0 chorals AQ0MS0 choral
@@ -102,6 +102,9 @@ DICOLLEC: énième	PAR: même__adj	FORMS: AQ0CP0 énièmes AQ0CS0 énième
 APERTIUM: épais	PAR: anglais__adj	FORMS: AQ0FP0 épaises AQ0FS0 épaise AQ0MN0 épais
 DICOLLEC: épais	PAR: bas__adj	FORMS: AQ0FP0 épaisses AQ0FS0 épaisse AQ0MN0 épais
 
+APERTIUM: étouffant	PAR: abaissant__adj	FORMS: AQ0FP0 étoufantes AQ0FS0 étoufante AQ0MP0 étoufants AQ0MS0 étoufant
+DICOLLEC: étouffant	PAR: abaissant__adj	FORMS: AQ0FP0 étouffantes AQ0FS0 étouffante AQ0MP0 étouffants AQ0MS0 étouffant
+
 APERTIUM: aigre-doux	PAR: dou/x__adj	FORMS: AQ0FP0 aigre-douces AQ0FS0 aigre-douce AQ0MN0 aigre-doux
 DICOLLEC: aigre-doux	PAR: ??????????????	FORMS: AQ0MS0 aigre-doux
 
@@ -156,11 +159,14 @@ DICOLLEC: letton	PAR: ??????????????	FORMS: AQ0FP0 lettones AQ0FP0 lettonnes AQ0
 APERTIUM: malin	PAR: mali/n__adj	FORMS: AQ0FP0 maliges AQ0FS0 maligne AQ0MP0 malins AQ0MS0 malin
 DICOLLEC: malin	PAR: ??????????????	FORMS: AQ0FP0 malignes AQ0FS0 maligne AQ0MP0 malins AQ0MS0 malin
 
-APERTIUM: marron	PAR: arrière__adj	FORMS: AQ0CN0 marron
+APERTIUM: marron	PAR: ancien__adj	FORMS: AQ0FP0 marronnes AQ0FS0 marronne AQ0MP0 marrons AQ0MS0 marron
 DICOLLEC: marron	PAR: ??????????????	FORMS: AQ0CN0 marron AQ0FP0 marronnes AQ0FS0 marronne AQ0MP0 marrons AQ0MS0 marron
 
 APERTIUM: mûr	PAR: abaissant__adj	FORMS: AQ0FP0 mûres AQ0FS0 mûre AQ0MP0 mûrs AQ0MS0 mûr
 DICOLLEC: mûr	PAR: ??????????????	FORMS: AQ0FP0 mûres AQ0FS0 mûre AQ0MP0 mûrs AQ0MS0 mûr AQ0MS0 mûr
+
+APERTIUM: nouveau	PAR: nouve/au__adj	FORMS: AQ0FP0 nouvelles AQ0FS0 nouvelle AQ0MP0 nouveaux AQ0MS0 nouveau
+DICOLLEC: nouveau	PAR: ??????????????	FORMS: AQ0FP0 nouvelles AQ0FS0 nouvelle AQ0MP0 nouveaux AQ0MP0 nouvels AQ0MS0 nouveau AQ0MS0 nouvel AQ0MS0 nouvel
 
 APERTIUM: open	PAR: arrière__adj	FORMS: AQ0CN0 open
 DICOLLEC: open	PAR: ??????????????	FORMS: AQ0CN0 open AQ0CP0 opens AQ0CS0 open
@@ -182,6 +188,9 @@ DICOLLEC: sexy	PAR: ??????????????	FORMS: AQ0CN0 sexy AQ0CP0 sexys AQ0CS0 sexy
 
 APERTIUM: standard	PAR: académique__adj	FORMS: AQ0CP0 standards AQ0CS0 standard
 DICOLLEC: standard	PAR: ??????????????	FORMS: AQ0CN0 standard AQ0CP0 standards AQ0CS0 standard
+
+APERTIUM: sympa	PAR: arrière__adj	FORMS: AQ0CN0 sympa
+DICOLLEC: sympa	PAR: ??????????????	FORMS: AQ0CN0 sympa AQ0CP0 sympas AQ0CS0 sympa
 
 APERTIUM: sûr	PAR: abaissant__adj	FORMS: AQ0FP0 sûres AQ0FS0 sûre AQ0MP0 sûrs AQ0MS0 sûr
 DICOLLEC: sûr	PAR: ??????????????	FORMS: AQ0FP0 sûres AQ0FS0 sûre AQ0MP0 sûrs AQ0MS0 sûr AQ0MS0 sûr
@@ -556,7 +565,6 @@ DICOLLEC: zen	PAR: ??????????????	FORMS: AQ0CN0 zen AQ0CP0 zens AQ0CS0 zen
 <e lm="neu-neu"><i>neu-neu</i><par n="??????????"/></e>
 <e lm="neux-neux"><i>neux-neux</i><par n="??????????"/></e>
 <e lm="nippon"><i>nippon</i><par n="??????????"/></e>
-<e lm="nouveau"><i>nouveau</i><par n="??????????"/></e>
 <e lm="nympho"><i>nympho</i><par n="??????????"/></e>
 <e lm="océane"><i>océane</i><par n="??????????"/></e>
 <e lm="offset"><i>offset</i><par n="??????????"/></e>
@@ -652,7 +660,6 @@ DICOLLEC: zen	PAR: ??????????????	FORMS: AQ0CN0 zen AQ0CP0 zens AQ0CS0 zen
 <e lm="surs"><i>surs</i><par n="??????????"/></e>
 <e lm="sus-dominante"><i>sus-dominante</i><par n="??????????"/></e>
 <e lm="suspens"><i>suspens</i><par n="??????????"/></e>
-<e lm="sympa"><i>sympa</i><par n="??????????"/></e>
 <e lm="sécréteuse"><i>sécréteuse</i><par n="??????????"/></e>
 <e lm="sélénieux"><i>sélénieux</i><par n="??????????"/></e>
 <e lm="talus"><i>talus</i><par n="??????????"/></e>
