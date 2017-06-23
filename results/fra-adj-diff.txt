@@ -1,208 +1,208 @@
 
 APERTIUM: abyssal	PAR: abaissant__adj	FORMS: AQ0FP0 abyssales AQ0FS0 abyssale AQ0MP0 abyssals AQ0MS0 abyssal
-DICOLLEC: abyssal	PAR: amica/l__adj	FORMS: AQ0FP0 abyssales AQ0FS0 abyssale AQ0MP0 abyssaux AQ0MS0 abyssal
+   OTHER: abyssal	PAR: amica/l__adj	FORMS: AQ0FP0 abyssales AQ0FS0 abyssale AQ0MP0 abyssaux AQ0MS0 abyssal
 
 APERTIUM: angolais	PAR: bas__adj	FORMS: AQ0FP0 angolaisses AQ0FS0 angolaisse AQ0MN0 angolais
-DICOLLEC: angolais	PAR: anglais__adj	FORMS: AQ0FP0 angolaises AQ0FS0 angolaise AQ0MN0 angolais
+   OTHER: angolais	PAR: anglais__adj	FORMS: AQ0FP0 angolaises AQ0FS0 angolaise AQ0MN0 angolais
 
 APERTIUM: animal	PAR: abaissant__adj	FORMS: AQ0FP0 animales AQ0FS0 animale AQ0MP0 animals AQ0MS0 animal
-DICOLLEC: animal	PAR: amica/l__adj	FORMS: AQ0FP0 animales AQ0FS0 animale AQ0MP0 animaux AQ0MS0 animal
+   OTHER: animal	PAR: amica/l__adj	FORMS: AQ0FP0 animales AQ0FS0 animale AQ0MP0 animaux AQ0MS0 animal
 
 APERTIUM: antillais	PAR: bas__adj	FORMS: AQ0FP0 antillaisses AQ0FS0 antillaisse AQ0MN0 antillais
-DICOLLEC: antillais	PAR: anglais__adj	FORMS: AQ0FP0 antillaises AQ0FS0 antillaise AQ0MN0 antillais
+   OTHER: antillais	PAR: anglais__adj	FORMS: AQ0FP0 antillaises AQ0FS0 antillaise AQ0MN0 antillais
 
 APERTIUM: aranais	PAR: anglais__adj	FORMS: AQ0FP0 aranaises AQ0FS0 aranaise AQ0MN0 aranais
-DICOLLEC: aranais	PAR: arrière__adj	FORMS: AQ0CN0 aranais
-DICOLLEC: aranais	PAR: à_moi__adj	FORMS: AQ0CN0 aranais
+   OTHER: aranais	PAR: arrière__adj	FORMS: AQ0CN0 aranais
+   OTHER: aranais	PAR: à_moi__adj	FORMS: AQ0CN0 aranais
 
 APERTIUM: austral	PAR: abaissant__adj	FORMS: AQ0FP0 australes AQ0FS0 australe AQ0MP0 australs AQ0MS0 austral
-DICOLLEC: austral	PAR: amica/l__adj	FORMS: AQ0FP0 australes AQ0FS0 australe AQ0MP0 austraux AQ0MS0 austral
+   OTHER: austral	PAR: amica/l__adj	FORMS: AQ0FP0 australes AQ0FS0 australe AQ0MP0 austraux AQ0MS0 austral
 
 APERTIUM: aérospatial	PAR: abaissant__adj	FORMS: AQ0FP0 aérospatiales AQ0FS0 aérospatiale AQ0MP0 aérospatials AQ0MS0 aérospatial
-DICOLLEC: aérospatial	PAR: amica/l__adj	FORMS: AQ0FP0 aérospatiales AQ0FS0 aérospatiale AQ0MP0 aérospatiaux AQ0MS0 aérospatial
+   OTHER: aérospatial	PAR: amica/l__adj	FORMS: AQ0FP0 aérospatiales AQ0FS0 aérospatiale AQ0MP0 aérospatiaux AQ0MS0 aérospatial
 
 APERTIUM: barcelonais	PAR: bas__adj	FORMS: AQ0FP0 barcelonaisses AQ0FS0 barcelonaisse AQ0MN0 barcelonais
-DICOLLEC: barcelonais	PAR: anglais__adj	FORMS: AQ0FP0 barcelonaises AQ0FS0 barcelonaise AQ0MN0 barcelonais
+   OTHER: barcelonais	PAR: anglais__adj	FORMS: AQ0FP0 barcelonaises AQ0FS0 barcelonaise AQ0MN0 barcelonais
 
 APERTIUM: cadastral	PAR: abaissant__adj	FORMS: AQ0FP0 cadastrales AQ0FS0 cadastrale AQ0MP0 cadastrals AQ0MS0 cadastral
-DICOLLEC: cadastral	PAR: amica/l__adj	FORMS: AQ0FP0 cadastrales AQ0FS0 cadastrale AQ0MP0 cadastraux AQ0MS0 cadastral
+   OTHER: cadastral	PAR: amica/l__adj	FORMS: AQ0FP0 cadastrales AQ0FS0 cadastrale AQ0MP0 cadastraux AQ0MS0 cadastral
 
 APERTIUM: choral	PAR: amica/l__adj	FORMS: AQ0FP0 chorales AQ0FS0 chorale AQ0MP0 choraux AQ0MS0 choral
-DICOLLEC: choral	PAR: abaissant__adj	FORMS: AQ0FP0 chorales AQ0FS0 chorale AQ0MP0 chorals AQ0MS0 choral
+   OTHER: choral	PAR: abaissant__adj	FORMS: AQ0FP0 chorales AQ0FS0 chorale AQ0MP0 chorals AQ0MS0 choral
 
 APERTIUM: contentieux	PAR: anglais__adj	FORMS: AQ0FP0 contentieuxes AQ0FS0 contentieuxe AQ0MN0 contentieux
-DICOLLEC: contentieux	PAR: affectueu/x__adj	FORMS: AQ0FP0 contentieuses AQ0FS0 contentieuse AQ0MN0 contentieux
+   OTHER: contentieux	PAR: affectueu/x__adj	FORMS: AQ0FP0 contentieuses AQ0FS0 contentieuse AQ0MN0 contentieux
 
 APERTIUM: coordonné	PAR: académique__adj	FORMS: AQ0CP0 coordonnés AQ0CS0 coordonné
-DICOLLEC: coordonné	PAR: abaissant__adj	FORMS: AQ0FP0 coordonnées AQ0FS0 coordonnée AQ0MP0 coordonnés AQ0MS0 coordonné
+   OTHER: coordonné	PAR: abaissant__adj	FORMS: AQ0FP0 coordonnées AQ0FS0 coordonnée AQ0MP0 coordonnés AQ0MS0 coordonné
 
 APERTIUM: déloyal	PAR: abaissant__adj	FORMS: AQ0FP0 déloyales AQ0FS0 déloyale AQ0MP0 déloyals AQ0MS0 déloyal
-DICOLLEC: déloyal	PAR: amica/l__adj	FORMS: AQ0FP0 déloyales AQ0FS0 déloyale AQ0MP0 déloyaux AQ0MS0 déloyal
+   OTHER: déloyal	PAR: amica/l__adj	FORMS: AQ0FP0 déloyales AQ0FS0 déloyale AQ0MP0 déloyaux AQ0MS0 déloyal
 
 APERTIUM: favori	PAR: favori__adj	FORMS: AQ0FP0 favorites AQ0FS0 favorite AQ0MP0 favoris AQ0MS0 favori
-DICOLLEC: favori	PAR: académique__adj	FORMS: AQ0CP0 favoris AQ0CS0 favori
-DICOLLEC: favori	PAR: même__adj	FORMS: AQ0CP0 favoris AQ0CS0 favori
+   OTHER: favori	PAR: académique__adj	FORMS: AQ0CP0 favoris AQ0CS0 favori
+   OTHER: favori	PAR: même__adj	FORMS: AQ0CP0 favoris AQ0CS0 favori
 
 APERTIUM: final	PAR: amica/l__adj	FORMS: AQ0FP0 finales AQ0FS0 finale AQ0MP0 finaux AQ0MS0 final
-DICOLLEC: final	PAR: abaissant__adj	FORMS: AQ0FP0 finales AQ0FS0 finale AQ0MP0 finals AQ0MS0 final
+   OTHER: final	PAR: abaissant__adj	FORMS: AQ0FP0 finales AQ0FS0 finale AQ0MP0 finals AQ0MS0 final
 
 APERTIUM: folk	PAR: arrière__adj	FORMS: AQ0CN0 folk
-DICOLLEC: folk	PAR: académique__adj	FORMS: AQ0CP0 folks AQ0CS0 folk
-DICOLLEC: folk	PAR: même__adj	FORMS: AQ0CP0 folks AQ0CS0 folk
+   OTHER: folk	PAR: académique__adj	FORMS: AQ0CP0 folks AQ0CS0 folk
+   OTHER: folk	PAR: même__adj	FORMS: AQ0CP0 folks AQ0CS0 folk
 
 APERTIUM: fédéral	PAR: abaissant__adj	FORMS: AQ0FP0 fédérales AQ0FS0 fédérale AQ0MP0 fédérals AQ0MS0 fédéral
-DICOLLEC: fédéral	PAR: amica/l__adj	FORMS: AQ0FP0 fédérales AQ0FS0 fédérale AQ0MP0 fédéraux AQ0MS0 fédéral
+   OTHER: fédéral	PAR: amica/l__adj	FORMS: AQ0FP0 fédérales AQ0FS0 fédérale AQ0MP0 fédéraux AQ0MS0 fédéral
 
 APERTIUM: global	PAR: abaissant__adj	FORMS: AQ0FP0 globales AQ0FS0 globale AQ0MP0 globals AQ0MS0 global
-DICOLLEC: global	PAR: amica/l__adj	FORMS: AQ0FP0 globales AQ0FS0 globale AQ0MP0 globaux AQ0MS0 global
+   OTHER: global	PAR: amica/l__adj	FORMS: AQ0FP0 globales AQ0FS0 globale AQ0MP0 globaux AQ0MS0 global
 
 APERTIUM: idéal	PAR: abaissant__adj	FORMS: AQ0FP0 idéales AQ0FS0 idéale AQ0MP0 idéals AQ0MS0 idéal
-DICOLLEC: idéal	PAR: amica/l__adj	FORMS: AQ0FP0 idéales AQ0FS0 idéale AQ0MP0 idéaux AQ0MS0 idéal
+   OTHER: idéal	PAR: amica/l__adj	FORMS: AQ0FP0 idéales AQ0FS0 idéale AQ0MP0 idéaux AQ0MS0 idéal
 
 APERTIUM: littéral	PAR: abaissant__adj	FORMS: AQ0FP0 littérales AQ0FS0 littérale AQ0MP0 littérals AQ0MS0 littéral
-DICOLLEC: littéral	PAR: amica/l__adj	FORMS: AQ0FP0 littérales AQ0FS0 littérale AQ0MP0 littéraux AQ0MS0 littéral
+   OTHER: littéral	PAR: amica/l__adj	FORMS: AQ0FP0 littérales AQ0FS0 littérale AQ0MP0 littéraux AQ0MS0 littéral
 
 APERTIUM: mondial	PAR: abaissant__adj	FORMS: AQ0FP0 mondiales AQ0FS0 mondiale AQ0MP0 mondials AQ0MS0 mondial
-DICOLLEC: mondial	PAR: amica/l__adj	FORMS: AQ0FP0 mondiales AQ0FS0 mondiale AQ0MP0 mondiaux AQ0MS0 mondial
+   OTHER: mondial	PAR: amica/l__adj	FORMS: AQ0FP0 mondiales AQ0FS0 mondiale AQ0MP0 mondiaux AQ0MS0 mondial
 
 APERTIUM: multimédia	PAR: arrière__adj	FORMS: AQ0CN0 multimédia
-DICOLLEC: multimédia	PAR: académique__adj	FORMS: AQ0CP0 multimédias AQ0CS0 multimédia
-DICOLLEC: multimédia	PAR: même__adj	FORMS: AQ0CP0 multimédias AQ0CS0 multimédia
+   OTHER: multimédia	PAR: académique__adj	FORMS: AQ0CP0 multimédias AQ0CS0 multimédia
+   OTHER: multimédia	PAR: même__adj	FORMS: AQ0CP0 multimédias AQ0CS0 multimédia
 
 APERTIUM: multirisque	PAR: arrière__adj	FORMS: AQ0CN0 multirisque
-DICOLLEC: multirisque	PAR: académique__adj	FORMS: AQ0CP0 multirisques AQ0CS0 multirisque
-DICOLLEC: multirisque	PAR: même__adj	FORMS: AQ0CP0 multirisques AQ0CS0 multirisque
+   OTHER: multirisque	PAR: académique__adj	FORMS: AQ0CP0 multirisques AQ0CS0 multirisque
+   OTHER: multirisque	PAR: même__adj	FORMS: AQ0CP0 multirisques AQ0CS0 multirisque
 
 APERTIUM: nominal	PAR: abaissant__adj	FORMS: AQ0FP0 nominales AQ0FS0 nominale AQ0MP0 nominals AQ0MS0 nominal
-DICOLLEC: nominal	PAR: amica/l__adj	FORMS: AQ0FP0 nominales AQ0FS0 nominale AQ0MP0 nominaux AQ0MS0 nominal
+   OTHER: nominal	PAR: amica/l__adj	FORMS: AQ0FP0 nominales AQ0FS0 nominale AQ0MP0 nominaux AQ0MS0 nominal
 
 APERTIUM: pire	PAR: arrière__adj	FORMS: AQ0CN0 pire
-DICOLLEC: pire	PAR: académique__adj	FORMS: AQ0CP0 pires AQ0CS0 pire
-DICOLLEC: pire	PAR: même__adj	FORMS: AQ0CP0 pires AQ0CS0 pire
+   OTHER: pire	PAR: académique__adj	FORMS: AQ0CP0 pires AQ0CS0 pire
+   OTHER: pire	PAR: même__adj	FORMS: AQ0CP0 pires AQ0CS0 pire
 
 APERTIUM: polyvalent	PAR: académique__adj	FORMS: AQ0CP0 polyvalents AQ0CS0 polyvalent
-DICOLLEC: polyvalent	PAR: abaissant__adj	FORMS: AQ0FP0 polyvalentes AQ0FS0 polyvalente AQ0MP0 polyvalents AQ0MS0 polyvalent
+   OTHER: polyvalent	PAR: abaissant__adj	FORMS: AQ0FP0 polyvalentes AQ0FS0 polyvalente AQ0MP0 polyvalents AQ0MS0 polyvalent
 
 APERTIUM: purificateur	PAR: causeu/r__adj	FORMS: AQ0FP0 purificateuses AQ0FS0 purificateuse AQ0MP0 purificateurs AQ0MS0 purificateur
-DICOLLEC: purificateur	PAR: conduct/eur__adj	FORMS: AQ0FP0 purificatrices AQ0FS0 purificatrice AQ0MP0 purificateurs AQ0MS0 purificateur
+   OTHER: purificateur	PAR: conduct/eur__adj	FORMS: AQ0FP0 purificatrices AQ0FS0 purificatrice AQ0MP0 purificateurs AQ0MS0 purificateur
 
 APERTIUM: sino-japonais	PAR: bas__adj	FORMS: AQ0FP0 sino-japonaisses AQ0FS0 sino-japonaisse AQ0MN0 sino-japonais
-DICOLLEC: sino-japonais	PAR: anglais__adj	FORMS: AQ0FP0 sino-japonaises AQ0FS0 sino-japonaise AQ0MN0 sino-japonais
+   OTHER: sino-japonais	PAR: anglais__adj	FORMS: AQ0FP0 sino-japonaises AQ0FS0 sino-japonaise AQ0MN0 sino-japonais
 
 APERTIUM: ultraviolet	PAR: académique__adj	FORMS: AQ0CP0 ultraviolets AQ0CS0 ultraviolet
-DICOLLEC: ultraviolet	PAR: favori__adj	FORMS: AQ0FP0 ultraviolettes AQ0FS0 ultraviolette AQ0MP0 ultraviolets AQ0MS0 ultraviolet
+   OTHER: ultraviolet	PAR: favori__adj	FORMS: AQ0FP0 ultraviolettes AQ0FS0 ultraviolette AQ0MP0 ultraviolets AQ0MS0 ultraviolet
 
 APERTIUM: végétal	PAR: abaissant__adj	FORMS: AQ0FP0 végétales AQ0FS0 végétale AQ0MP0 végétals AQ0MS0 végétal
-DICOLLEC: végétal	PAR: amica/l__adj	FORMS: AQ0FP0 végétales AQ0FS0 végétale AQ0MP0 végétaux AQ0MS0 végétal
+   OTHER: végétal	PAR: amica/l__adj	FORMS: AQ0FP0 végétales AQ0FS0 végétale AQ0MP0 végétaux AQ0MS0 végétal
 
 APERTIUM: énième	PAR: arrière__adj	FORMS: AQ0CN0 énième
-DICOLLEC: énième	PAR: académique__adj	FORMS: AQ0CP0 énièmes AQ0CS0 énième
-DICOLLEC: énième	PAR: même__adj	FORMS: AQ0CP0 énièmes AQ0CS0 énième
+   OTHER: énième	PAR: académique__adj	FORMS: AQ0CP0 énièmes AQ0CS0 énième
+   OTHER: énième	PAR: même__adj	FORMS: AQ0CP0 énièmes AQ0CS0 énième
 
 APERTIUM: épais	PAR: anglais__adj	FORMS: AQ0FP0 épaises AQ0FS0 épaise AQ0MN0 épais
-DICOLLEC: épais	PAR: bas__adj	FORMS: AQ0FP0 épaisses AQ0FS0 épaisse AQ0MN0 épais
+   OTHER: épais	PAR: bas__adj	FORMS: AQ0FP0 épaisses AQ0FS0 épaisse AQ0MN0 épais
 
 APERTIUM: étouffant	PAR: abaissant__adj	FORMS: AQ0FP0 étoufantes AQ0FS0 étoufante AQ0MP0 étoufants AQ0MS0 étoufant
-DICOLLEC: étouffant	PAR: abaissant__adj	FORMS: AQ0FP0 étouffantes AQ0FS0 étouffante AQ0MP0 étouffants AQ0MS0 étouffant
+   OTHER: étouffant	PAR: abaissant__adj	FORMS: AQ0FP0 étouffantes AQ0FS0 étouffante AQ0MP0 étouffants AQ0MS0 étouffant
 
 APERTIUM: aigre-doux	PAR: dou/x__adj	FORMS: AQ0FP0 aigre-douces AQ0FS0 aigre-douce AQ0MN0 aigre-doux
-DICOLLEC: aigre-doux	PAR: ??????????????	FORMS: AQ0MS0 aigre-doux
+   OTHER: aigre-doux	PAR: ??????????????	FORMS: AQ0MS0 aigre-doux
 
 APERTIUM: aigu	PAR: abaissant__adj	FORMS: AQ0FP0 aigues AQ0FS0 aigue AQ0MP0 aigus AQ0MS0 aigu
-DICOLLEC: aigu	PAR: ??????????????	FORMS: AQ0FP0 aiguës AQ0FP0 aigües AQ0FS0 aiguë AQ0FS0 aigüe AQ0MP0 aigus AQ0MP0 aigus AQ0MS0 aigu AQ0MS0 aigu
+   OTHER: aigu	PAR: ??????????????	FORMS: AQ0FP0 aiguës AQ0FP0 aigües AQ0FS0 aiguë AQ0FS0 aigüe AQ0MP0 aigus AQ0MP0 aigus AQ0MS0 aigu AQ0MS0 aigu
 
 APERTIUM: ambigu	PAR: ambigu__adj	FORMS: AQ0FP0 ambiguës AQ0FS0 ambiguë AQ0MP0 ambigus AQ0MS0 ambigu
-DICOLLEC: ambigu	PAR: ??????????????	FORMS: AQ0FP0 ambiguës AQ0FP0 ambigües AQ0FS0 ambiguë AQ0FS0 ambigüe AQ0MP0 ambigus AQ0MP0 ambigus AQ0MS0 ambigu AQ0MS0 ambigu
+   OTHER: ambigu	PAR: ??????????????	FORMS: AQ0FP0 ambiguës AQ0FP0 ambigües AQ0FS0 ambiguë AQ0FS0 ambigüe AQ0MP0 ambigus AQ0MP0 ambigus AQ0MS0 ambigu AQ0MS0 ambigu
 
 APERTIUM: andalou	PAR: andalou__adj	FORMS: AQ0FP0 andalouses AQ0FS0 andalouse AQ0MP0 andalous AQ0MS0 andalou
-DICOLLEC: andalou	PAR: ??????????????	FORMS: AQ0MP0 andalous AQ0MS0 andalou
+   OTHER: andalou	PAR: ??????????????	FORMS: AQ0MP0 andalous AQ0MS0 andalou
 
 APERTIUM: antidopage	PAR: académique__adj	FORMS: AQ0CP0 antidopages AQ0CS0 antidopage
-DICOLLEC: antidopage	PAR: ??????????????	FORMS: AQ0CN0 antidopage AQ0CP0 antidopages AQ0CS0 antidopage
+   OTHER: antidopage	PAR: ??????????????	FORMS: AQ0CN0 antidopage AQ0CP0 antidopages AQ0CS0 antidopage
 
 APERTIUM: antidrogue	PAR: arrière__adj	FORMS: AQ0CN0 antidrogue
-DICOLLEC: antidrogue	PAR: ??????????????	FORMS: AQ0CN0 antidrogue AQ0CP0 antidrogues AQ0CS0 antidrogue
+   OTHER: antidrogue	PAR: ??????????????	FORMS: AQ0CN0 antidrogue AQ0CP0 antidrogues AQ0CS0 antidrogue
 
 APERTIUM: antipersonnel	PAR: arrière__adj	FORMS: AQ0CN0 antipersonnel
-DICOLLEC: antipersonnel	PAR: ??????????????	FORMS: AQ0CN0 antipersonnel AQ0FP0 antipersonnelles AQ0FS0 antipersonnelle AQ0MP0 antipersonnels AQ0MS0 antipersonnel
+   OTHER: antipersonnel	PAR: ??????????????	FORMS: AQ0CN0 antipersonnel AQ0FP0 antipersonnelles AQ0FS0 antipersonnelle AQ0MP0 antipersonnels AQ0MS0 antipersonnel
 
 APERTIUM: audio	PAR: académique__adj	FORMS: AQ0CP0 audios AQ0CS0 audio
-DICOLLEC: audio	PAR: ??????????????	FORMS: AQ0CN0 audio AQ0CP0 audios AQ0CS0 audio
+   OTHER: audio	PAR: ??????????????	FORMS: AQ0CN0 audio AQ0CP0 audios AQ0CS0 audio
 
 APERTIUM: banal	PAR: abaissant__adj	FORMS: AQ0FP0 banales AQ0FS0 banale AQ0MP0 banals AQ0MS0 banal
-DICOLLEC: banal	PAR: ??????????????	FORMS: AQ0FP0 banales AQ0FP0 banales AQ0FS0 banale AQ0FS0 banale AQ0MP0 banals AQ0MP0 banaux AQ0MS0 banal AQ0MS0 banal
+   OTHER: banal	PAR: ??????????????	FORMS: AQ0FP0 banales AQ0FP0 banales AQ0FS0 banale AQ0FS0 banale AQ0MP0 banals AQ0MP0 banaux AQ0MS0 banal AQ0MS0 banal
 
 APERTIUM: beau	PAR: be/au__adj	FORMS: AQ0FP0 belles AQ0FS0 belle AQ0MP0 beaux AQ0MS0 beau
-DICOLLEC: beau	PAR: ??????????????	FORMS: AQ0FP0 belles AQ0FS0 belle AQ0MP0 beaux AQ0MP0 bels AQ0MS0 beau AQ0MS0 bel
+   OTHER: beau	PAR: ??????????????	FORMS: AQ0FP0 belles AQ0FS0 belle AQ0MP0 beaux AQ0MP0 bels AQ0MS0 beau AQ0MS0 bel
 
 APERTIUM: bio	PAR: arrière__adj	FORMS: AQ0CN0 bio
-DICOLLEC: bio	PAR: ??????????????	FORMS: AQ0CN0 bio AQ0CP0 bios AQ0CS0 bio
+   OTHER: bio	PAR: ??????????????	FORMS: AQ0CN0 bio AQ0CP0 bios AQ0CS0 bio
 
 APERTIUM: design	PAR: arrière__adj	FORMS: AQ0CN0 design
-DICOLLEC: design	PAR: ??????????????	FORMS: AQ0CN0 design AQ0CP0 designs AQ0CS0 design
+   OTHER: design	PAR: ??????????????	FORMS: AQ0CN0 design AQ0CP0 designs AQ0CS0 design
 
 APERTIUM: faux	PAR: affectueu/x__adj	FORMS: AQ0FP0 fauses AQ0FS0 fause AQ0MN0 faux
-DICOLLEC: faux	PAR: ??????????????	FORMS: AQ0FP0 fausses AQ0FS0 fausse AQ0MN0 faux
+   OTHER: faux	PAR: ??????????????	FORMS: AQ0FP0 fausses AQ0FS0 fausse AQ0MN0 faux
 
 APERTIUM: fier	PAR: ch/er__adj	FORMS: AQ0FP0 fières AQ0FS0 fière AQ0MP0 fiers AQ0MS0 fier
-DICOLLEC: fier	PAR: ??????????????	FORMS: AQ0FP0 fières AQ0FP0 fiées AQ0FS0 fière AQ0FS0 fiée AQ0MP0 fiers AQ0MP0 fiés AQ0MS0 fier AQ0MS0 fié
+   OTHER: fier	PAR: ??????????????	FORMS: AQ0FP0 fières AQ0FP0 fiées AQ0FS0 fière AQ0FS0 fiée AQ0MP0 fiers AQ0MP0 fiés AQ0MS0 fier AQ0MS0 fié
 
 APERTIUM: frais	PAR: fra/is__adj	FORMS: AQ0FP0 fraîches AQ0FS0 fraîche AQ0MN0 frais
-DICOLLEC: frais	PAR: ??????????????	FORMS: AQ0FP0 fraiches AQ0FP0 fraîches AQ0FS0 fraiche AQ0FS0 fraîche AQ0MN0 frais AQ0MN0 frais
+   OTHER: frais	PAR: ??????????????	FORMS: AQ0FP0 fraiches AQ0FP0 fraîches AQ0FS0 fraiche AQ0FS0 fraîche AQ0MN0 frais AQ0MN0 frais
 
 APERTIUM: franc	PAR: fran/c__adj	FORMS: AQ0FP0 franches AQ0FS0 franche AQ0MP0 francs AQ0MS0 franc
-DICOLLEC: franc	PAR: ??????????????	FORMS: AQ0MP0 francs AQ0MS0 franc
+   OTHER: franc	PAR: ??????????????	FORMS: AQ0MP0 francs AQ0MS0 franc
 
 APERTIUM: letton	PAR: ancien__adj	FORMS: AQ0FP0 lettonnes AQ0FS0 lettonne AQ0MP0 lettons AQ0MS0 letton
-DICOLLEC: letton	PAR: ??????????????	FORMS: AQ0FP0 lettones AQ0FP0 lettonnes AQ0FS0 lettone AQ0FS0 lettonne AQ0MP0 lettons AQ0MP0 lettons AQ0MS0 letton AQ0MS0 letton
+   OTHER: letton	PAR: ??????????????	FORMS: AQ0FP0 lettones AQ0FP0 lettonnes AQ0FS0 lettone AQ0FS0 lettonne AQ0MP0 lettons AQ0MP0 lettons AQ0MS0 letton AQ0MS0 letton
 
 APERTIUM: malin	PAR: mali/n__adj	FORMS: AQ0FP0 maliges AQ0FS0 maligne AQ0MP0 malins AQ0MS0 malin
-DICOLLEC: malin	PAR: ??????????????	FORMS: AQ0FP0 malignes AQ0FS0 maligne AQ0MP0 malins AQ0MS0 malin
+   OTHER: malin	PAR: ??????????????	FORMS: AQ0FP0 malignes AQ0FS0 maligne AQ0MP0 malins AQ0MS0 malin
 
 APERTIUM: marron	PAR: ancien__adj	FORMS: AQ0FP0 marronnes AQ0FS0 marronne AQ0MP0 marrons AQ0MS0 marron
-DICOLLEC: marron	PAR: ??????????????	FORMS: AQ0CN0 marron AQ0FP0 marronnes AQ0FS0 marronne AQ0MP0 marrons AQ0MS0 marron
+   OTHER: marron	PAR: ??????????????	FORMS: AQ0CN0 marron AQ0FP0 marronnes AQ0FS0 marronne AQ0MP0 marrons AQ0MS0 marron
 
 APERTIUM: mûr	PAR: abaissant__adj	FORMS: AQ0FP0 mûres AQ0FS0 mûre AQ0MP0 mûrs AQ0MS0 mûr
-DICOLLEC: mûr	PAR: ??????????????	FORMS: AQ0FP0 mûres AQ0FS0 mûre AQ0MP0 mûrs AQ0MS0 mûr AQ0MS0 mûr
+   OTHER: mûr	PAR: ??????????????	FORMS: AQ0FP0 mûres AQ0FS0 mûre AQ0MP0 mûrs AQ0MS0 mûr AQ0MS0 mûr
 
 APERTIUM: nouveau	PAR: nouve/au__adj	FORMS: AQ0FP0 nouvelles AQ0FS0 nouvelle AQ0MP0 nouveaux AQ0MS0 nouveau
-DICOLLEC: nouveau	PAR: ??????????????	FORMS: AQ0FP0 nouvelles AQ0FS0 nouvelle AQ0MP0 nouveaux AQ0MP0 nouvels AQ0MS0 nouveau AQ0MS0 nouvel AQ0MS0 nouvel
+   OTHER: nouveau	PAR: ??????????????	FORMS: AQ0FP0 nouvelles AQ0FS0 nouvelle AQ0MP0 nouveaux AQ0MP0 nouvels AQ0MS0 nouveau AQ0MS0 nouvel AQ0MS0 nouvel
 
 APERTIUM: open	PAR: arrière__adj	FORMS: AQ0CN0 open
-DICOLLEC: open	PAR: ??????????????	FORMS: AQ0CN0 open AQ0CP0 opens AQ0CS0 open
+   OTHER: open	PAR: ??????????????	FORMS: AQ0CN0 open AQ0CP0 opens AQ0CS0 open
 
 APERTIUM: pluridisciplinaire	PAR: académique__adj	FORMS: AQ0CP0 pluridisciplinaires AQ0CS0 pluridisciplinaire
-DICOLLEC: pluridisciplinaire	PAR: ??????????????	FORMS: AQ0CP0 pluridisciplinaires AQ0CP0 pluridisciplinaires AQ0CS0 pluridisciplinaire AQ0CS0 pluridisciplinaire
+   OTHER: pluridisciplinaire	PAR: ??????????????	FORMS: AQ0CP0 pluridisciplinaires AQ0CP0 pluridisciplinaires AQ0CS0 pluridisciplinaire AQ0CS0 pluridisciplinaire
 
 APERTIUM: punk	PAR: arrière__adj	FORMS: AQ0CN0 punk
-DICOLLEC: punk	PAR: ??????????????	FORMS: AQ0CN0 punk AQ0CP0 punks AQ0CS0 punk
+   OTHER: punk	PAR: ??????????????	FORMS: AQ0CN0 punk AQ0CP0 punks AQ0CS0 punk
 
 APERTIUM: sans-fil	PAR: académique__adj	FORMS: AQ0CP0 sans-fils AQ0CS0 sans-fil
-DICOLLEC: sans-fil	PAR: ??????????????	FORMS: AQ0CN0 sans-fil AQ0CP0 sans-fils AQ0CS0 sans-fil
+   OTHER: sans-fil	PAR: ??????????????	FORMS: AQ0CN0 sans-fil AQ0CP0 sans-fils AQ0CS0 sans-fil
 
 APERTIUM: saoudite	PAR: académique__adj	FORMS: AQ0CP0 saoudites AQ0CS0 saoudite
-DICOLLEC: saoudite	PAR: ??????????????	FORMS: AQ0FP0 saoudites AQ0FS0 saoudite
+   OTHER: saoudite	PAR: ??????????????	FORMS: AQ0FP0 saoudites AQ0FS0 saoudite
 
 APERTIUM: sexy	PAR: académique__adj	FORMS: AQ0CP0 sexys AQ0CS0 sexy
-DICOLLEC: sexy	PAR: ??????????????	FORMS: AQ0CN0 sexy AQ0CP0 sexys AQ0CS0 sexy
+   OTHER: sexy	PAR: ??????????????	FORMS: AQ0CN0 sexy AQ0CP0 sexys AQ0CS0 sexy
 
 APERTIUM: standard	PAR: académique__adj	FORMS: AQ0CP0 standards AQ0CS0 standard
-DICOLLEC: standard	PAR: ??????????????	FORMS: AQ0CN0 standard AQ0CP0 standards AQ0CS0 standard
+   OTHER: standard	PAR: ??????????????	FORMS: AQ0CN0 standard AQ0CP0 standards AQ0CS0 standard
 
 APERTIUM: sympa	PAR: arrière__adj	FORMS: AQ0CN0 sympa
-DICOLLEC: sympa	PAR: ??????????????	FORMS: AQ0CN0 sympa AQ0CP0 sympas AQ0CS0 sympa
+   OTHER: sympa	PAR: ??????????????	FORMS: AQ0CN0 sympa AQ0CP0 sympas AQ0CS0 sympa
 
 APERTIUM: sûr	PAR: abaissant__adj	FORMS: AQ0FP0 sûres AQ0FS0 sûre AQ0MP0 sûrs AQ0MS0 sûr
-DICOLLEC: sûr	PAR: ??????????????	FORMS: AQ0FP0 sûres AQ0FS0 sûre AQ0MP0 sûrs AQ0MS0 sûr AQ0MS0 sûr
+   OTHER: sûr	PAR: ??????????????	FORMS: AQ0FP0 sûres AQ0FS0 sûre AQ0MP0 sûrs AQ0MS0 sûr AQ0MS0 sûr
 
 APERTIUM: vainqueur	PAR: causeu/r__adj	FORMS: AQ0FP0 vainqueuses AQ0FS0 vainqueuse AQ0MP0 vainqueurs AQ0MS0 vainqueur
-DICOLLEC: vainqueur	PAR: ??????????????	FORMS: AQ0MP0 vainqueurs AQ0MS0 vainqueur
+   OTHER: vainqueur	PAR: ??????????????	FORMS: AQ0MP0 vainqueurs AQ0MS0 vainqueur
 
 APERTIUM: vieil	PAR: vie/il__adj	FORMS: AQ0FP0 vieilles AQ0FS0 vieille AQ0MP0 vieux AQ0MS0 vieil
-DICOLLEC: vieil	PAR: ??????????????	FORMS: AQ0FP0 vieilles AQ0FS0 vieille AQ0MN0 vieux AQ0MS0 vieil
+   OTHER: vieil	PAR: ??????????????	FORMS: AQ0FP0 vieilles AQ0FS0 vieille AQ0MN0 vieux AQ0MS0 vieil
 
 APERTIUM: zen	PAR: arrière__adj	FORMS: AQ0CN0 zen
-DICOLLEC: zen	PAR: ??????????????	FORMS: AQ0CN0 zen AQ0CP0 zens AQ0CS0 zen
+   OTHER: zen	PAR: ??????????????	FORMS: AQ0CN0 zen AQ0CP0 zens AQ0CS0 zen
 <e lm="1er"><i>1er</i><par n="??????????"/></e>
 <e lm="1ers"><i>1ers</i><par n="??????????"/></e>
 <e lm="1re"><i>1re</i><par n="??????????"/></e>
