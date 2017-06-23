@@ -1509,12 +1509,6 @@ APERTIUM: tortuós	PAR: afectu/ós__adj	FORMS: AQ0FP0 tortuoses AQ0FP0 tortuosí
 APERTIUM: tou	PAR: to/u__adj	FORMS: AQ0FP0 toves AQ0FP0 tovíssimes AQ0FS0 tova AQ0FS0 tovíssima AQ0MP0 tous AQ0MP0 tovíssims AQ0MS0 tou AQ0MS0 tovíssim
    OTHER: tou	PAR: abusi/u__adj	FORMS: AQ0FP0 toves AQ0FS0 tova AQ0MP0 tous AQ0MS0 tou
 
-APERTIUM: transformista	PAR: abdominal__adj	FORMS: AQ0CP0 transformistas AQ0CS0 transformista
-   OTHER: transformista	PAR: agrícol/a__adj	FORMS: AQ0CP0 transformistes AQ0CS0 transformista
-
-APERTIUM: transgènere	PAR: abdominal__adj	FORMS: AQ0CP0 transgèneres AQ0CS0 transgènere
-   OTHER: transgènere	PAR: multimèdia__adj	FORMS: AQ0CN0 transgènere
-
 APERTIUM: treballós	PAR: afectu/ós__adj	FORMS: AQ0FP0 treballoses AQ0FP0 treballosíssimes AQ0FS0 treballosa AQ0FS0 treballosíssima AQ0MP0 treballosos AQ0MP0 treballosíssims AQ0MS0 treballosíssim AQ0MS0 treballós
    OTHER: treballós	PAR: aliment/ós__adj	FORMS: AQ0FP0 treballoses AQ0FS0 treballosa AQ0MP0 treballosos AQ0MS0 treballós
 

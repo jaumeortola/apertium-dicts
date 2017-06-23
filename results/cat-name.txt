@@ -2958,7 +2958,6 @@
 <e lm="anilina"><i>anilin</i><par n="abell/a__n"/></e>
 <e lm="anilini"><i>anilini</i><par n="abric__n"/></e>
 <e lm="anilisme"><i>anilisme</i><par n="abric__n"/></e>
-<e lm="animadora"><i>animador</i><par n="abell/a__n"/></e>
 <e lm="animalada"><i>animalad</i><par n="abell/a__n"/></e>
 <e lm="animalculisme"><i>animalculisme</i><par n="abric__n"/></e>
 <e lm="animalculista"><i>animalculist</i><par n="accionist/a__n"/></e>
@@ -3057,7 +3056,6 @@
 <e lm="anosognòsia"><i>anosognòsi</i><par n="abell/a__n"/></e>
 <e lm="anostraci"><i>anostraci</i><par n="abric__n"/></e>
 <e lm="anostrament"><i>anostrament</i><par n="abric__n"/></e>
-<e lm="anotadora"><i>anotador</i><par n="abell/a__n"/></e>
 <e lm="anouer"><i>anouer</i><par n="abric__n"/></e>
 <e lm="anoueral"><i>anoueral</i><par n="abric__n"/></e>
 <e lm="anovulació"><i>anovulaci</i><par n="acci/ó__n"/></e>
@@ -32915,7 +32913,6 @@
 <e lm="mílium"><i>mílium</i><par n="abric__n"/></e>
 <e lm="mínbar"><i>mínbar</i><par n="abric__n"/></e>
 <e lm="mínimum"><i>mínimum</i><par n="abric__n"/></e>
-<e lm="mística"><i>místi</i><par n="acústi/ca__n"/></e>
 <e lm="mòbing"><i>mòbing</i><par n="abric__n"/></e>
 <e lm="mòdega"><i>mòdeg</i><par n="alg/a__n"/></e>
 <e lm="mòdol"><i>mòdol</i><par n="abric__n"/></e>
@@ -34051,7 +34048,6 @@
 <e lm="nàpia"><i>nàpi</i><par n="abell/a__n"/></e>
 <e lm="nàsion"><i>nàsion</i><par n="abric__n"/></e>
 <e lm="nàstia"><i>nàsti</i><par n="abell/a__n"/></e>
-<e lm="nàufraga"><i>nàufrag</i><par n="alg/a__n"/></e>
 <e lm="nàutica"><i>nàuti</i><par n="acústi/ca__n"/></e>
 <e lm="nàutil"><i>nàutil</i><par n="abric__n"/></e>
 <e lm="nècora"><i>nècor</i><par n="abell/a__n"/></e>
