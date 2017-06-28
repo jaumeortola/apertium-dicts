@@ -155,7 +155,7 @@ open($fh,  "<:encoding(UTF-8)", $apertium_dict );
 while (my $line = <$fh>) {
     chomp($line);
     
-    if ($line =~ /<e lm="(.*?)".*>.*<i>(.*)<\/i><par n="(.*__$apertium_gramcat)"\/><\/e>/) {
+    if ($line =~ /<e lm="(.*?)".*>.*<[il]>(.*?)<\/[il]>.*<par n="(.*__$apertium_gramcat)"\/><\/e>/) {
         my $lema=$1;
         my $paradigm_name=$3;
         my $arrel=$2;

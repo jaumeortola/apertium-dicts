@@ -90,6 +90,9 @@ APERTIUM: albedo	PAR: abric__n	FORMS: NCMP000 albedos NCMS000 albedo
 APERTIUM: alcalde	PAR: alcalde__n	FORMS: NCFP000 alcaldesses NCFS000 alcaldessa NCMP000 alcaldes NCMS000 alcalde
    OTHER: alcalde	PAR: acompanyant__n	FORMS: NCCP000 alcaldes NCCS000 alcalde
 
+APERTIUM: algepsaire	PAR: acompanyant__n	FORMS: NCCP000 algepsaires NCCS000 algepsaire
+   OTHER: algepsaire	PAR: abric__n	FORMS: NCMP000 algepsaires NCMS000 algepsaire
+
 APERTIUM: algicida	PAR: accionist/a__n	FORMS: NCCP000 algicides NCCS000 algicida
    OTHER: algicida	PAR: carism/a__n	FORMS: NCMP000 algicides NCMS000 algicida
 
@@ -181,6 +184,9 @@ APERTIUM: baró	PAR: bar/ó__n	FORMS: NCFP000 baronesses NCFS000 baronessa NCMP0
 
 APERTIUM: bateria	PAR: abell/a__n	FORMS: NCFP000 bateries NCFS000 bateria
    OTHER: bateria	PAR: accionist/a__n	FORMS: NCCP000 bateries NCCS000 bateria
+
+APERTIUM: batle	PAR: abric__n	FORMS: NCMP000 batles NCMS000 batle
+   OTHER: batle	PAR: alcalde__n	FORMS: NCFP000 batlesses NCFS000 batlessa NCMP000 batles NCMS000 batle
 
 APERTIUM: batlle	PAR: abric__n	FORMS: NCMP000 batlls NCMS000 batll
    OTHER: batlle	PAR: acompanyant__n	FORMS: NCCP000 batlles NCCS000 batlle
@@ -648,6 +654,9 @@ APERTIUM: ertzaina	PAR: carism/a__n	FORMS: NCMP000 ertzaines NCMS000 ertzaina
 APERTIUM: escalador	PAR: senyor__n	FORMS: NCFP000 escaladores NCFS000 escaladora NCMP000 escaladors NCMS000 escalador
    OTHER: escalador	PAR: abric__n	FORMS: NCMP000 escaladors NCMS000 escalador
 
+APERTIUM: escarlata	PAR: abell/a__n	FORMS: NCFP000 escarlates NCFS000 escarlata
+   OTHER: escarlata	PAR: accionist/a__n	FORMS: NCCP000 escarlates NCCS000 escarlata
+
 APERTIUM: escorpió	PAR: guardaespatlles__n	FORMS: NCCN000 escorpió
    OTHER: escorpió	PAR: aband/ó__n	FORMS: NCMP000 escorpions NCMS000 escorpió
 
@@ -898,9 +907,6 @@ APERTIUM: guarda-roba	PAR: accionist/a__n	FORMS: NCCP000 guarda-robes NCCS000 gu
 
 APERTIUM: guatemalenc	PAR: asiàti/c__n	FORMS: NCFP000 guatemalenques NCFS000 guatemalenca NCMP000 guatemalencs NCMS000 guatemalenc
    OTHER: guatemalenc	PAR: abric__n	FORMS: NCMP000 guatemalencs NCMS000 guatemalenc
-
-APERTIUM: guia	PAR: abell/a__n	FORMS: NCFP000 guies NCFS000 guia
-   OTHER: guia	PAR: accionist/a__n	FORMS: NCCP000 guies NCCS000 guia
 
 APERTIUM: guineà	PAR: americ/à__n	FORMS: NCFP000 guineanes NCFS000 guineana NCMP000 guineans NCMS000 guineà
    OTHER: guineà	PAR: bacall/à__n	FORMS: NCMP000 guineans NCMS000 guineà
@@ -1219,6 +1225,10 @@ APERTIUM: llatí	PAR: alacant/í__n	FORMS: NCFP000 llatines NCFS000 llatina NCMP
 
 APERTIUM: llaurador	PAR: senyor__n	FORMS: NCFP000 llauradores NCFS000 llauradora NCMP000 llauradors NCMS000 llaurador
    OTHER: llaurador	PAR: abric__n	FORMS: NCMP000 llauradors NCMS000 llaurador
+
+APERTIUM: llavaplats	PAR: campus__n	FORMS: NCMN000 llavaplats
+   OTHER: llavaplats	PAR: ATS__n	FORMS: NCCN000 llavaplats
+   OTHER: llavaplats	PAR: guardaespatlles__n	FORMS: NCCN000 llavaplats
 
 APERTIUM: lleidatà	PAR: americ/à__n	FORMS: NCFP000 lleidatanes NCFS000 lleidatana NCMP000 lleidatans NCMS000 lleidatà
    OTHER: lleidatà	PAR: bacall/à__n	FORMS: NCMP000 lleidatans NCMS000 lleidatà
@@ -2068,6 +2078,10 @@ APERTIUM: rellotger	PAR: senyor__n	FORMS: NCFP000 rellotgeres NCFS000 rellotgera
 APERTIUM: remeier	PAR: senyor__n	FORMS: NCFP000 remeieres NCFS000 remeiera NCMP000 remeiers NCMS000 remeier
    OTHER: remeier	PAR: abric__n	FORMS: NCMP000 remeiers NCMS000 remeier
 
+APERTIUM: rentaplats	PAR: campus__n	FORMS: NCMN000 rentaplats
+   OTHER: rentaplats	PAR: ATS__n	FORMS: NCCN000 rentaplats
+   OTHER: rentaplats	PAR: guardaespatlles__n	FORMS: NCCN000 rentaplats
+
 APERTIUM: repartidor	PAR: senyor__n	FORMS: NCFP000 repartidores NCFS000 repartidora NCMP000 repartidors NCMS000 repartidor
    OTHER: repartidor	PAR: abric__n	FORMS: NCMP000 repartidors NCMS000 repartidor
 
@@ -2785,6 +2799,9 @@ APERTIUM: babuí	PAR: boc/í__n	FORMS: NCMP000 babuins NCMS000 babuí
 APERTIUM: baixó	PAR: aband/ó__n	FORMS: NCMP000 baixons NCMS000 baixó
    OTHER: baixó	PAR: ??????????????	FORMS: NCCP000 baixons NCCS000 baixó
 
+APERTIUM: benentès	PAR: atletisme__n	FORMS: NCMS000 benentés
+   OTHER: benentès	PAR: ??????????????	FORMS: NCMS000 benentès NCMS000 benentés
+
 APERTIUM: capatàs	PAR: capat/às__n	FORMS: NCMP000 capatassos NCMS000 capatàs
    OTHER: capatàs	PAR: ??????????????	FORMS: NCFP000 capatasses NCFS000 capatassa NCMP000 capatassos NCMS000 capatàs
 
@@ -2873,10 +2890,8 @@ APERTIUM: whisky	PAR: abric__n	FORMS: NCMP000 whiskys NCMS000 whisky
 <e lm="acarnani"><i>acarnani</i><par n="??????????"/></e>
 <e lm="acin"><i>acin</i><par n="??????????"/></e>
 <e lm="acufen"><i>acufen</i><par n="??????????"/></e>
-<e lm="acumen"><i>acumen</i><par n="??????????"/></e>
 <e lm="albor1"><i>albor1</i><par n="??????????"/></e>
 <e lm="albor2"><i>albor2</i><par n="??????????"/></e>
-<e lm="albumen"><i>albumen</i><par n="??????????"/></e>
 <e lm="aldrín"><i>aldrín</i><par n="??????????"/></e>
 <e lm="al·letrín"><i>al·letrín</i><par n="??????????"/></e>
 <e lm="al·lopol·len"><i>al·lopol·len</i><par n="??????????"/></e>
@@ -2924,12 +2939,10 @@ APERTIUM: whisky	PAR: abric__n	FORMS: NCMP000 whiskys NCMS000 whisky
 <e lm="carragahen"><i>carragahen</i><par n="??????????"/></e>
 <e lm="cas1"><i>cas1</i><par n="??????????"/></e>
 <e lm="cas2"><i>cas2</i><par n="??????????"/></e>
-<e lm="catecumen"><i>catecumen</i><par n="??????????"/></e>
 <e lm="catipén"><i>catipén</i><par n="??????????"/></e>
 <e lm="catorze1"><i>catorze1</i><par n="??????????"/></e>
 <e lm="cent1"><i>cent1</i><par n="??????????"/></e>
 <e lm="cent2"><i>cent2</i><par n="??????????"/></e>
-<e lm="cerumen"><i>cerumen</i><par n="??????????"/></e>
 <e lm="cinc1"><i>cinc1</i><par n="??????????"/></e>
 <e lm="clau1"><i>clau1</i><par n="??????????"/></e>
 <e lm="clau2"><i>clau2</i><par n="??????????"/></e>
@@ -3002,7 +3015,6 @@ APERTIUM: whisky	PAR: abric__n	FORMS: NCMP000 whiskys NCMS000 whisky
 <e lm="guardallança"><i>guardallança</i><par n="??????????"/></e>
 <e lm="habilitat1"><i>habilitat1</i><par n="??????????"/></e>
 <e lm="habilitat2"><i>habilitat2</i><par n="??????????"/></e>
-<e lm="hegumen"><i>hegumen</i><par n="??????????"/></e>
 <e lm="helveci"><i>helveci</i><par n="??????????"/></e>
 <e lm="himen"><i>himen</i><par n="??????????"/></e>
 <e lm="himenoliquen"><i>himenoliquen</i><par n="??????????"/></e>
@@ -3029,7 +3041,6 @@ APERTIUM: whisky	PAR: abric__n	FORMS: NCMP000 whiskys NCMS000 whisky
 <e lm="lied"><i>lied</i><par n="??????????"/></e>
 <e lm="lleme"><i>lleme</i><par n="??????????"/></e>
 <e lm="loden"><i>loden</i><par n="??????????"/></e>
-<e lm="lumen"><i>lumen</i><par n="??????????"/></e>
 <e lm="lumpen"><i>lumpen</i><par n="??????????"/></e>
 <e lm="malvapeix"><i>malvapeix</i><par n="??????????"/></e>
 <e lm="maqui1"><i>maqui1</i><par n="??????????"/></e>
@@ -3068,7 +3079,6 @@ APERTIUM: whisky	PAR: abric__n	FORMS: NCMP000 whiskys NCMS000 whisky
 <e lm="nou2"><i>nou2</i><par n="??????????"/></e>
 <e lm="noümen"><i>noümen</i><par n="??????????"/></e>
 <e lm="nubi"><i>nubi</i><par n="??????????"/></e>
-<e lm="numen"><i>numen</i><par n="??????????"/></e>
 <e lm="obsés"><i>obsés</i><par n="??????????"/></e>
 <e lm="odrisi"><i>odrisi</i><par n="??????????"/></e>
 <e lm="onnoven"><i>onnoven</i><par n="??????????"/></e>
@@ -3130,7 +3140,6 @@ APERTIUM: whisky	PAR: abric__n	FORMS: NCMP000 whiskys NCMS000 whisky
 <e lm="ros1"><i>ros1</i><par n="??????????"/></e>
 <e lm="ros2"><i>ros2</i><par n="??????????"/></e>
 <e lm="roís"><i>roís</i><par n="??????????"/></e>
-<e lm="rumen"><i>rumen</i><par n="??????????"/></e>
 <e lm="salut1"><i>salut1</i><par n="??????????"/></e>
 <e lm="salut2"><i>salut2</i><par n="??????????"/></e>
 <e lm="saprogen"><i>saprogen</i><par n="??????????"/></e>
