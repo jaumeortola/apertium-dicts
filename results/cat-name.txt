@@ -4546,6 +4546,7 @@
 <e lm="ascogènesi"><i>ascogènesi</i><par n="accessibilitat__n"/></e>
 <e lm="ascohelmint"><i>ascohelmint</i><par n="abric__n"/></e>
 <e lm="ascohimenial"><i>ascohimenial</i><par n="abric__n"/></e>
+<e lm="ascoliquen"><i>ascol</i><par n="l/iquen__n"/></e>
 <e lm="ascoma"><i>ascom</i><par n="abell/a__n"/></e>
 <e lm="ascomicet"><i>ascomicet</i><par n="abric__n"/></e>
 <e lm="ascomicot"><i>ascomicot</i><par n="abric__n"/></e>
@@ -6139,6 +6140,7 @@
 <e lm="basicitat"><i>basicitat</i><par n="accessibilitat__n"/></e>
 <e lm="basidi"><i>basidi</i><par n="abric__n"/></e>
 <e lm="basidiocarp"><i>basidiocarp</i><par n="abric__n"/></e>
+<e lm="basidioliquen"><i>basidiol</i><par n="l/iquen__n"/></e>
 <e lm="basidioma"><i>basidiom</i><par n="carism/a__n"/></e>
 <e lm="basidiomicet"><i>basidiomicet</i><par n="abric__n"/></e>
 <e lm="basidiomicot"><i>basidiomicot</i><par n="abric__n"/></e>
@@ -15550,6 +15552,7 @@
 <e lm="deuteració"><i>deuteraci</i><par n="acci/ó__n"/></e>
 <e lm="deuteragonista"><i>deuteragonist</i><par n="carism/a__n"/></e>
 <e lm="deuteroencèfal"><i>deuteroencèfal</i><par n="abric__n"/></e>
+<e lm="deuteroliquen"><i>deuterol</i><par n="l/iquen__n"/></e>
 <e lm="deuterologia"><i>deuterologi</i><par n="abell/a__n"/></e>
 <e lm="deuteromicet"><i>deuteromicet</i><par n="abric__n"/></e>
 <e lm="deuterostomat"><i>deuterostomat</i><par n="abric__n"/></e>
@@ -15973,6 +15976,7 @@
 <e lm="discoblàstula"><i>discoblàstul</i><par n="abell/a__n"/></e>
 <e lm="discoglòs"><i>discogl</i><par n="antic/òs__n"/></e>
 <e lm="discoglòssid"><i>discoglòssid</i><par n="abric__n"/></e>
+<e lm="discoliquen"><i>discol</i><par n="l/iquen__n"/></e>
 <e lm="discomedusa"><i>discomedus</i><par n="abell/a__n"/></e>
 <e lm="discomicet"><i>discomicet</i><par n="abric__n"/></e>
 <e lm="discomicètida"><i>discomicètid</i><par n="abell/a__n"/></e>
@@ -20901,8 +20905,7 @@
 <e lm="exsocialista"><i>exsocialist</i><par n="accionist/a__n"/></e>
 <e lm="exsolució"><i>exsoluci</i><par n="acci/ó__n"/></e>
 <e lm="exsotssecretari"><i>exsotssecret</i><par n="adjudicat/ari__n"/></e>
-<e lm="exsoviètic"><i>exsoviètic</i><par n="abric__n"/></e>
-<e lm="exsoviètica"><i>exsovièti</i><par n="acústi/ca__n"/></e>
+<e lm="exsoviètic"><i>exsovièti</i><par n="asiàti/c__n"/></e>
 <e lm="exsucció"><i>exsucci</i><par n="acci/ó__n"/></e>
 <e lm="exsuflació"><i>exsuflaci</i><par n="acci/ó__n"/></e>
 <e lm="exsuperior"><i>exsuperior</i><par n="senyor__n"/></e>
@@ -24700,7 +24703,6 @@
 <e lm="grossularita"><i>grossularit</i><par n="abell/a__n"/></e>
 <e lm="grossulariàcia"><i>grossulariàci</i><par n="abell/a__n"/></e>
 <e lm="grossulària"><i>grossulàri</i><par n="abell/a__n"/></e>
-<e lm="grossària"><i>grossàri</i><par n="abell/a__n"/></e>
 <e lm="grotesc"><i>grotesc</i><par n="abast__n"/></e>
 <e lm="groutita"><i>groutit</i><par n="abell/a__n"/></e>
 <e lm="gruada"><i>gruad</i><par n="abell/a__n"/></e>
@@ -25786,6 +25788,7 @@
 <e lm="himeneu"><i>himeneu</i><par n="abric__n"/></e>
 <e lm="himeni"><i>himeni</i><par n="abric__n"/></e>
 <e lm="himenogastràcia"><i>himenogastràci</i><par n="abell/a__n"/></e>
+<e lm="himenoliquen"><i>himenol</i><par n="l/iquen__n"/></e>
 <e lm="himenomicet"><i>himenomicet</i><par n="abric__n"/></e>
 <e lm="himenoquetal"><i>himenoquetal</i><par n="accessibilitat__n"/></e>
 <e lm="himenotomia"><i>himenotomi</i><par n="abell/a__n"/></e>
@@ -34869,7 +34872,6 @@
 <e lm="ortodontista"><i>ortodontist</i><par n="accionist/a__n"/></e>
 <e lm="ortodontologia"><i>ortodontologi</i><par n="abell/a__n"/></e>
 <e lm="ortodontòleg"><i>ortodontòl</i><par n="biòl/eg__n"/></e>
-<e lm="ortodoxa"><i>ortodox</i><par n="abell/a__n"/></e>
 <e lm="ortodromia"><i>ortodromi</i><par n="abell/a__n"/></e>
 <e lm="ortoedre"><i>ortoedre</i><par n="abric__n"/></e>
 <e lm="ortoepista"><i>ortoepist</i><par n="accionist/a__n"/></e>
@@ -37516,6 +37518,7 @@
 <e lm="pirazole"><i>pirazole</i><par n="abric__n"/></e>
 <e lm="pirazolona"><i>pirazolon</i><par n="abell/a__n"/></e>
 <e lm="pirenocarpal"><i>pirenocarpal</i><par n="accessibilitat__n"/></e>
+<e lm="pirenoliquen"><i>pirenol</i><par n="l/iquen__n"/></e>
 <e lm="pirenomicet"><i>pirenomicet</i><par n="abric__n"/></e>
 <e lm="pirenomicets"><i>pirenomicets</i><par n="EUA__n"/></e>
 <e lm="pirenomicètida"><i>pirenomicètid</i><par n="abell/a__n"/></e>
@@ -39169,7 +39172,6 @@
 <e lm="presídium"><i>presídium</i><par n="abric__n"/></e>
 <e lm="presístole"><i>presístole</i><par n="accessibilitat__n"/></e>
 <e lm="pretaller"><i>pretaller</i><par n="abric__n"/></e>
-<e lm="pretendenta"><i>pretendent</i><par n="abell/a__n"/></e>
 <e lm="pretensiositat"><i>pretensiositat</i><par n="accessibilitat__n"/></e>
 <e lm="pretensor"><i>pretensor</i><par n="senyor__n"/></e>
 <e lm="preterició"><i>preterici</i><par n="acci/ó__n"/></e>
@@ -45364,7 +45366,6 @@
 <e lm="sousàfon"><i>sousàfon</i><par n="abric__n"/></e>
 <e lm="souvenir"><i>souvenir</i><par n="abric__n"/></e>
 <e lm="sovinada"><i>sovinad</i><par n="abell/a__n"/></e>
-<e lm="soviètica"><i>sovièti</i><par n="acústi/ca__n"/></e>
 <e lm="sovkhoz"><i>sovkhoz</i><par n="as__n"/></e>
 <e lm="sovnarkhoz"><i>sovnarkhoz</i><par n="IRPF__n"/></e>
 <e lm="speaker"><i>speaker</i><par n="abric__n"/></e>
