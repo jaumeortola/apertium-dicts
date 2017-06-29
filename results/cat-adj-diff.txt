@@ -94,9 +94,6 @@ APERTIUM: ansiós	PAR: afectu/ós__adj	FORMS: AQ0FP0 ansioses AQ0FP0 ansiosíssi
 APERTIUM: antic	PAR: anti/c__adj	FORMS: AQ0FP0 antigues AQ0FP0 antiquíssimes AQ0FS0 antiga AQ0FS0 antiquíssima AQ0MP0 antics AQ0MP0 antiquíssims AQ0MS0 antic AQ0MS0 antiquíssim
    OTHER: antic	PAR: ce/c__adj	FORMS: AQ0FP0 antigues AQ0FS0 antiga AQ0MP0 antics AQ0MS0 antic
 
-APERTIUM: anticancerós	PAR: afectu/ós__adj	FORMS: AQ0FP0 anticanceroses AQ0FP0 anticancerosíssimes AQ0FS0 anticancerosa AQ0FS0 anticancerosíssima AQ0MP0 anticancerosos AQ0MP0 anticancerosíssims AQ0MS0 anticancerosíssim AQ0MS0 anticancerós
-   OTHER: anticancerós	PAR: aliment/ós__adj	FORMS: AQ0FP0 anticanceroses AQ0FS0 anticancerosa AQ0MP0 anticancerosos AQ0MS0 anticancerós
-
 APERTIUM: antiquat	PAR: afortuna/t__adj	FORMS: AQ0FP0 antiquades AQ0FP0 antiquadíssimes AQ0FS0 antiquada AQ0FS0 antiquadíssima AQ0MP0 antiquadíssims AQ0MP0 antiquats AQ0MS0 antiquadíssim AQ0MS0 antiquat
    OTHER: antiquat	PAR: triparti/t__adj	FORMS: AQ0FP0 antiquades AQ0FS0 antiquada AQ0MP0 antiquats AQ0MS0 antiquat
 
@@ -231,9 +228,6 @@ APERTIUM: caldós	PAR: afectu/ós__adj	FORMS: AQ0FP0 caldoses AQ0FP0 caldosíssi
 
 APERTIUM: calorós	PAR: afectu/ós__adj	FORMS: AQ0FP0 caloroses AQ0FP0 calorosíssimes AQ0FS0 calorosa AQ0FS0 calorosíssima AQ0MP0 calorosos AQ0MP0 calorosíssims AQ0MS0 calorosíssim AQ0MS0 calorós
    OTHER: calorós	PAR: aliment/ós__adj	FORMS: AQ0FP0 caloroses AQ0FS0 calorosa AQ0MP0 calorosos AQ0MS0 calorós
-
-APERTIUM: cancerós	PAR: afectu/ós__adj	FORMS: AQ0FP0 canceroses AQ0FP0 cancerosíssimes AQ0FS0 cancerosa AQ0FS0 cancerosíssima AQ0MP0 cancerosos AQ0MP0 cancerosíssims AQ0MS0 cancerosíssim AQ0MS0 cancerós
-   OTHER: cancerós	PAR: aliment/ós__adj	FORMS: AQ0FP0 canceroses AQ0FS0 cancerosa AQ0MP0 cancerosos AQ0MS0 cancerós
 
 APERTIUM: capritxós	PAR: afectu/ós__adj	FORMS: AQ0FP0 capritxoses AQ0FP0 capritxosíssimes AQ0FS0 capritxosa AQ0FS0 capritxosíssima AQ0MP0 capritxosos AQ0MP0 capritxosíssims AQ0MS0 capritxosíssim AQ0MS0 capritxós
    OTHER: capritxós	PAR: aliment/ós__adj	FORMS: AQ0FP0 capritxoses AQ0FS0 capritxosa AQ0MP0 capritxosos AQ0MS0 capritxós
@@ -933,7 +927,7 @@ APERTIUM: llardós	PAR: afectu/ós__adj	FORMS: AQ0FP0 llardoses AQ0FP0 llardosí
 APERTIUM: llest	PAR: injust__adj	FORMS: AQ0FP0 llestes AQ0FP0 llestíssimes AQ0FS0 llesta AQ0FS0 llestíssima AQ0MP0 llestos AQ0MP0 llests AQ0MP0 llestíssims AQ0MS0 llest AQ0MS0 llestíssim
    OTHER: llest	PAR: mixt__adj	FORMS: AQ0FP0 llestes AQ0FS0 llesta AQ0MP0 llestos AQ0MP0 llests AQ0MS0 llest
 
-APERTIUM: lleu	PAR: bre/u__adj	FORMS: AQ0CP0 lleus AQ0CS0 lleu AQ0FP0 llevíssimes AQ0FS0 llevíssima AQ0MP0 llevíssims AQ0MS0 llevíssim
+APERTIUM: lleu	PAR: l/leu__adj	FORMS: AQ0CP0 lleus AQ0CS0 lleu AQ0FP0 levíssimes AQ0FS0 levíssima AQ0MP0 levíssims AQ0MS0 levíssim
    OTHER: lleu	PAR: abdominal__adj	FORMS: AQ0CP0 lleus AQ0CS0 lleu
 
 APERTIUM: lleuger	PAR: alt__adj	FORMS: AQ0FP0 lleugeres AQ0FP0 lleugeríssimes AQ0FS0 lleugera AQ0FS0 lleugeríssima AQ0MP0 lleugers AQ0MP0 lleugeríssims AQ0MS0 lleuger AQ0MS0 lleugeríssim
@@ -977,11 +971,6 @@ APERTIUM: malalt	PAR: alt__adj	FORMS: AQ0FP0 malaltes AQ0FP0 malaltíssimes AQ0F
 
 APERTIUM: malaurat	PAR: afortuna/t__adj	FORMS: AQ0FP0 malaurades AQ0FP0 malauradíssimes AQ0FS0 malaurada AQ0FS0 malauradíssima AQ0MP0 malauradíssims AQ0MP0 malaurats AQ0MS0 malauradíssim AQ0MS0 malaurat
    OTHER: malaurat	PAR: triparti/t__adj	FORMS: AQ0FP0 malaurades AQ0FS0 malaurada AQ0MP0 malaurats AQ0MS0 malaurat
-
-APERTIUM: malbaratador	PAR: alt__adj	FORMS: AQ0FP0 malbaratadores AQ0FP0 malbaratadoríssimes AQ0FS0 malbaratadora AQ0FS0 malbaratadoríssima AQ0MP0 malbaratadors AQ0MP0 malbaratadoríssims AQ0MS0 malbaratador AQ0MS0 malbaratadoríssim
-   OTHER: malbaratador	PAR: absolut__adj	FORMS: AQ0FP0 malbaratadores AQ0FS0 malbaratadora AQ0MP0 malbaratadors AQ0MS0 malbaratador
-   OTHER: malbaratador	PAR: poquet__adj	FORMS: AQ0FP0 malbaratadores AQ0FS0 malbaratadora AQ0MP0 malbaratadors AQ0MS0 malbaratador
-   OTHER: malbaratador	PAR: quant__adj	FORMS: AQ0FP0 malbaratadores AQ0FS0 malbaratadora AQ0MP0 malbaratadors AQ0MS0 malbaratador
 
 APERTIUM: maldestre	PAR: abstract/e__adj	FORMS: AQ0CP0 maldestres AQ0FP0 maldestríssimes AQ0FS0 maldestra AQ0FS0 maldestríssima AQ0MP0 maldestríssims AQ0MS0 maldestre AQ0MS0 maldestríssim
    OTHER: maldestre	PAR: adept/e__adj	FORMS: AQ0CP0 maldestres AQ0FS0 maldestra AQ0MS0 maldestre

@@ -10155,7 +10155,6 @@
 <e lm="indesmallable"><i>indesmallable</i><par n="abdominal__adj"/></e>
 <e lm="indestituïble"><i>indestituïble</i><par n="abdominal__adj"/></e>
 <e lm="indestriable"><i>indestriable</i><par n="abdominal__adj"/></e>
-<e lm="indestructible"><i>indestructible</i><par n="abdominal__adj"/></e>
 <e lm="indeterminable"><i>indeterminable</i><par n="abdominal__adj"/></e>
 <e lm="indeturable"><i>indeturable</i><par n="abdominal__adj"/></e>
 <e lm="indevot"><i>indevot</i><par n="absolut__adj"/></e>
