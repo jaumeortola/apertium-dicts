@@ -19,6 +19,9 @@ fi
 echo $apertium_dict
 echo $src_dict
 
+gramcat="adj"
+perl $dir_scripts/extract-cat-superlatius.pl $lang $gramcat $src_dict $apertium_dict > $dir_results/superlatius-$lang-$gramcat.txt 2>$dir_results/superlatius-$lang-$gramcat-diff.txt
+
 for gramcat in adj name; do 
 	perl $dir_scripts/generate-apertium.pl $lang $gramcat $src_dict $apertium_dict > $dir_results/$lang-$gramcat.txt 2>$dir_results/$lang-$gramcat-diff.txt
 done

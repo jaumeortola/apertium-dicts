@@ -545,6 +545,7 @@
 <e lm="agrassenc"><i>agrassen</i><par n="acadèmi/c__adj"/></e>
 <e lm="agrasser"><i>agrasser</i><par n="absolut__adj"/></e>
 <e lm="agraïdíssim"><i>agraïdíssim</i><par n="absolut__adj"/></e>
+<e lm="agredolç"><i>agredol</i><par n="descal/ç__adj"/></e>
 <e lm="agregable"><i>agregable</i><par n="abdominal__adj"/></e>
 <e lm="agregatiu"><i>agregati</i><par n="abusi/u__adj"/></e>
 <e lm="agrenc"><i>agren</i><par n="acadèmi/c__adj"/></e>
@@ -2517,6 +2518,7 @@
 <e lm="balanòfag"><i>balanòfag</i><par n="amarg__adj"/></e>
 <e lm="balb"><i>balb</i><par n="absolut__adj"/></e>
 <e lm="balbucient"><i>balbucient</i><par n="abdominal__adj"/></e>
+<e lm="balbuç"><i>balbu</i><par n="descal/ç__adj"/></e>
 <e lm="balbís"><i>balb</i><par n="cast/ís__adj"/></e>
 <e lm="balconer"><i>balconer</i><par n="absolut__adj"/></e>
 <e lm="balder"><i>balder</i><par n="absolut__adj"/></e>
@@ -6501,7 +6503,6 @@
 <e lm="embrunidor"><i>embrunidor</i><par n="absolut__adj"/></e>
 <e lm="embrutador"><i>embrutador</i><par n="absolut__adj"/></e>
 <e lm="embrutadís"><i>embrutad</i><par n="cast/ís__adj"/></e>
-<e lm="embrutidor"><i>embrutidor</i><par n="absolut__adj"/></e>
 <e lm="embudaire"><i>embudaire</i><par n="abdominal__adj"/></e>
 <e lm="embuder"><i>embuder</i><par n="absolut__adj"/></e>
 <e lm="embullador"><i>embullador</i><par n="absolut__adj"/></e>
@@ -17170,6 +17171,7 @@
 <e lm="semidirigit"><i>semidirigi</i><par n="triparti/t__adj"/></e>
 <e lm="semidiví"><i>semidiv</i><par n="alacant/í__adj"/></e>
 <e lm="semidiürn"><i>semidiürn</i><par n="absolut__adj"/></e>
+<e lm="semidolç"><i>semidol</i><par n="descal/ç__adj"/></e>
 <e lm="semidur"><i>semidur</i><par n="absolut__adj"/></e>
 <e lm="semielaborat"><i>semielabora</i><par n="triparti/t__adj"/></e>
 <e lm="semienterrat"><i>semienterra</i><par n="triparti/t__adj"/></e>
@@ -17396,7 +17398,6 @@
 <e lm="sifònic"><i>sifòni</i><par n="acadèmi/c__adj"/></e>
 <e lm="sigil·lar"><i>sigil·lar</i><par n="abdominal__adj"/></e>
 <e lm="sigil·logràfic"><i>sigil·logràfi</i><par n="acadèmi/c__adj"/></e>
-<e lm="sigil·lós"><i>sigil·l</i><par n="aliment/ós__adj"/></e>
 <e lm="siglat"><i>sigla</i><par n="triparti/t__adj"/></e>
 <e lm="sigmoidal"><i>sigmoidal</i><par n="abdominal__adj"/></e>
 <e lm="sigmoïdal"><i>sigmoïdal</i><par n="abdominal__adj"/></e>
@@ -18385,6 +18386,7 @@
 <e lm="ters"><i>ters</i><par n="annex__adj"/></e>
 <e lm="tertulià"><i>tertuli</i><par n="afric/à__adj"/></e>
 <e lm="tertèrida"><i>tertèrid</i><par n="agrícol/a__adj"/></e>
+<e lm="terç"><i>ter</i><par n="descal/ç__adj"/></e>
 <e lm="terçana"><i>terçan</i><par n="clariss/a__adj"/></e>
 <e lm="terçó"><i>terç</i><par n="amfitri/ó__adj"/></e>
 <e lm="teròfit"><i>teròfit</i><par n="absolut__adj"/></e>
