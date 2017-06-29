@@ -68,9 +68,6 @@ APERTIUM: alt	PAR: alt__adj	FORMS: AQ0FP0 altes AQ0FP0 altíssimes AQ0FS0 alta A
 APERTIUM: ambiciós	PAR: afectu/ós__adj	FORMS: AQ0FP0 ambicioses AQ0FP0 ambiciosíssimes AQ0FS0 ambiciosa AQ0FS0 ambiciosíssima AQ0MP0 ambiciosos AQ0MP0 ambiciosíssims AQ0MS0 ambiciosíssim AQ0MS0 ambiciós
    OTHER: ambiciós	PAR: aliment/ós__adj	FORMS: AQ0FP0 ambicioses AQ0FS0 ambiciosa AQ0MP0 ambiciosos AQ0MS0 ambiciós
 
-APERTIUM: ametlat	PAR: afortuna/t__adj	FORMS: AQ0FP0 ametlades AQ0FP0 ametladíssimes AQ0FS0 ametlada AQ0FS0 ametladíssima AQ0MP0 ametladíssims AQ0MP0 ametlats AQ0MS0 ametladíssim AQ0MS0 ametlat
-   OTHER: ametlat	PAR: triparti/t__adj	FORMS: AQ0FP0 ametlades AQ0FS0 ametlada AQ0MP0 ametlats AQ0MS0 ametlat
-
 APERTIUM: amic	PAR: ami/c__adj	FORMS: AQ0FP0 amigues AQ0FP0 amiguíssimes AQ0FS0 amiga AQ0FS0 amiguíssima AQ0MP0 amics AQ0MP0 amiguíssims AQ0MS0 amic AQ0MS0 amiguíssim
    OTHER: amic	PAR: ce/c__adj	FORMS: AQ0FP0 amigues AQ0FS0 amiga AQ0MP0 amics AQ0MS0 amic
 
@@ -733,10 +730,10 @@ APERTIUM: gruixut	PAR: afortuna/t__adj	FORMS: AQ0FP0 gruixudes AQ0FP0 gruixudís
    OTHER: gruixut	PAR: triparti/t__adj	FORMS: AQ0FP0 gruixudes AQ0FS0 gruixuda AQ0MP0 gruixuts AQ0MS0 gruixut
 
 APERTIUM: guapo	PAR: guap/o__adj	FORMS: AQ0FP0 guapes AQ0FP0 guapíssimes AQ0FS0 guapa AQ0FS0 guapíssima AQ0MP0 guapos AQ0MP0 guapíssims AQ0MS0 guapo AQ0MS0 guapíssim
-   OTHER: guapo	PAR: guarr/o__adj	FORMS: AQ0FP0 guapes AQ0FS0 guapa AQ0MP0 guapos AQ0MS0 guapo
+   OTHER: guapo	PAR: guerx/o__adj	FORMS: AQ0FP0 guapes AQ0FS0 guapa AQ0MP0 guapos AQ0MS0 guapo
 
 APERTIUM: guenyo	PAR: guap/o__adj	FORMS: AQ0FP0 guenyes AQ0FP0 guenyíssimes AQ0FS0 guenya AQ0FS0 guenyíssima AQ0MP0 guenyos AQ0MP0 guenyíssims AQ0MS0 guenyo AQ0MS0 guenyíssim
-   OTHER: guenyo	PAR: guarr/o__adj	FORMS: AQ0FP0 guenyes AQ0FS0 guenya AQ0MP0 guenyos AQ0MS0 guenyo
+   OTHER: guenyo	PAR: guerx/o__adj	FORMS: AQ0FP0 guenyes AQ0FS0 guenya AQ0MP0 guenyos AQ0MS0 guenyo
 
 APERTIUM: gustós	PAR: afectu/ós__adj	FORMS: AQ0FP0 gustoses AQ0FP0 gustosíssimes AQ0FS0 gustosa AQ0FS0 gustosíssima AQ0MP0 gustosos AQ0MP0 gustosíssims AQ0MS0 gustosíssim AQ0MS0 gustós
    OTHER: gustós	PAR: aliment/ós__adj	FORMS: AQ0FP0 gustoses AQ0FS0 gustosa AQ0MP0 gustosos AQ0MS0 gustós
@@ -753,14 +750,8 @@ APERTIUM: horrorós	PAR: afectu/ós__adj	FORMS: AQ0FP0 horroroses AQ0FP0 horroro
 APERTIUM: humit	PAR: afortuna/t__adj	FORMS: AQ0FP0 humides AQ0FP0 humidíssimes AQ0FS0 humida AQ0FS0 humidíssima AQ0MP0 humidíssims AQ0MP0 humits AQ0MS0 humidíssim AQ0MS0 humit
    OTHER: humit	PAR: triparti/t__adj	FORMS: AQ0FP0 humides AQ0FS0 humida AQ0MP0 humits AQ0MS0 humit
 
-APERTIUM: huracanat	PAR: afortuna/t__adj	FORMS: AQ0FP0 huracanades AQ0FP0 huracanadíssimes AQ0FS0 huracanada AQ0FS0 huracanadíssima AQ0MP0 huracanadíssims AQ0MP0 huracanats AQ0MS0 huracanadíssim AQ0MS0 huracanat
-   OTHER: huracanat	PAR: triparti/t__adj	FORMS: AQ0FP0 huracanades AQ0FS0 huracanada AQ0MP0 huracanats AQ0MS0 huracanat
-
 APERTIUM: ignominiós	PAR: afectu/ós__adj	FORMS: AQ0FP0 ignominioses AQ0FP0 ignominiosíssimes AQ0FS0 ignominiosa AQ0FS0 ignominiosíssima AQ0MP0 ignominiosos AQ0MP0 ignominiosíssims AQ0MS0 ignominiosíssim AQ0MS0 ignominiós
    OTHER: ignominiós	PAR: aliment/ós__adj	FORMS: AQ0FP0 ignominioses AQ0FS0 ignominiosa AQ0MP0 ignominiosos AQ0MS0 ignominiós
-
-APERTIUM: il·limitat	PAR: afortuna/t__adj	FORMS: AQ0FP0 il·limitades AQ0FP0 il·limitadíssimes AQ0FS0 il·limitada AQ0FS0 il·limitadíssima AQ0MP0 il·limitadíssims AQ0MP0 il·limitats AQ0MS0 il·limitadíssim AQ0MS0 il·limitat
-   OTHER: il·limitat	PAR: triparti/t__adj	FORMS: AQ0FP0 il·limitades AQ0FS0 il·limitada AQ0MP0 il·limitats AQ0MS0 il·limitat
 
 APERTIUM: il·lustre	PAR: alegr/e__adj	FORMS: AQ0CP0 il·lustres AQ0CS0 il·lustre AQ0FP0 il·lustríssimes AQ0FS0 il·lustríssima AQ0MP0 il·lustríssims AQ0MS0 il·lustríssim
    OTHER: il·lustre	PAR: abdominal__adj	FORMS: AQ0CP0 il·lustres AQ0CS0 il·lustre
@@ -809,9 +800,6 @@ APERTIUM: indegut	PAR: afortuna/t__adj	FORMS: AQ0FP0 indegudes AQ0FP0 indegudís
 
 APERTIUM: indesitjat	PAR: afortuna/t__adj	FORMS: AQ0FP0 indesitjades AQ0FP0 indesitjadíssimes AQ0FS0 indesitjada AQ0FS0 indesitjadíssima AQ0MP0 indesitjadíssims AQ0MP0 indesitjats AQ0MS0 indesitjadíssim AQ0MS0 indesitjat
    OTHER: indesitjat	PAR: triparti/t__adj	FORMS: AQ0FP0 indesitjades AQ0FS0 indesitjada AQ0MP0 indesitjats AQ0MS0 indesitjat
-
-APERTIUM: indeterminat	PAR: afortuna/t__adj	FORMS: AQ0FP0 indeterminades AQ0FP0 indeterminadíssimes AQ0FS0 indeterminada AQ0FS0 indeterminadíssima AQ0MP0 indeterminadíssims AQ0MP0 indeterminats AQ0MS0 indeterminadíssim AQ0MS0 indeterminat
-   OTHER: indeterminat	PAR: triparti/t__adj	FORMS: AQ0FP0 indeterminades AQ0FS0 indeterminada AQ0MP0 indeterminats AQ0MS0 indeterminat
 
 APERTIUM: indie	PAR: abdominal__adj	FORMS: AQ0CP0 indies AQ0CS0 indie
    OTHER: indie	PAR: multimèdia__adj	FORMS: AQ0CN0 indie
@@ -1507,6 +1495,9 @@ APERTIUM: vigent	PAR: important__adj	FORMS: AQ0CP0 vigents AQ0CS0 vigent AQ0FP0 
 APERTIUM: vigorós	PAR: afectu/ós__adj	FORMS: AQ0FP0 vigoroses AQ0FP0 vigorosíssimes AQ0FS0 vigorosa AQ0FS0 vigorosíssima AQ0MP0 vigorosos AQ0MP0 vigorosíssims AQ0MS0 vigorosíssim AQ0MS0 vigorós
    OTHER: vigorós	PAR: aliment/ós__adj	FORMS: AQ0FP0 vigoroses AQ0FS0 vigorosa AQ0MP0 vigorosos AQ0MS0 vigorós
 
+APERTIUM: vil	PAR: important__adj	FORMS: AQ0CP0 vils AQ0CS0 vil AQ0FP0 vilíssimes AQ0FS0 vilíssima AQ0MP0 vilíssims AQ0MS0 vilíssim
+   OTHER: vil	PAR: abdominal__adj	FORMS: AQ0CP0 vils AQ0CS0 vil
+
 APERTIUM: violent	PAR: alt__adj	FORMS: AQ0FP0 violentes AQ0FP0 violentíssimes AQ0FS0 violenta AQ0FS0 violentíssima AQ0MP0 violents AQ0MP0 violentíssims AQ0MS0 violent AQ0MS0 violentíssim
    OTHER: violent	PAR: absolut__adj	FORMS: AQ0FP0 violentes AQ0FS0 violenta AQ0MP0 violents AQ0MS0 violent
    OTHER: violent	PAR: poquet__adj	FORMS: AQ0FP0 violentes AQ0FS0 violenta AQ0MP0 violents AQ0MS0 violent
@@ -1588,7 +1579,7 @@ APERTIUM: ple	PAR: bo__adj	FORMS: AQ0FP0 plenes AQ0FP0 pleníssimes AQ0FS0 plena
 APERTIUM: psicomotor	PAR: absolut__adj	FORMS: AQ0FP0 psicomotores AQ0FS0 psicomotora AQ0MP0 psicomotors AQ0MS0 psicomotor
    OTHER: psicomotor	PAR: ??????????????	FORMS: AQ0FP0 psicomotores AQ0FP0 psicomotrius AQ0FS0 psicomotora AQ0FS0 psicomotriu AQ0MP0 psicomotors AQ0MS0 psicomotor
 
-APERTIUM: puto	PAR: guarr/o__adj	FORMS: AQ0FP0 putes AQ0FS0 puta AQ0MP0 putos AQ0MS0 puto
+APERTIUM: puto	PAR: guerx/o__adj	FORMS: AQ0FP0 putes AQ0FS0 puta AQ0MP0 putos AQ0MS0 puto
    OTHER: puto	PAR: ??????????????	FORMS: AQ0MP0 putos AQ0MS0 puto
 
 APERTIUM: pèl-roig	PAR: bo/ig__adj	FORMS: AQ0FP0 pèl-roges AQ0FP0 pèl-rogíssimes AQ0FS0 pèl-rogíssima AQ0FS0 pèl-roja AQ0MP0 pèl-rogíssims AQ0MP0 pèl-roigs AQ0MP0 pèl-rojos AQ0MS0 pèl-rogíssim AQ0MS0 pèl-roig
