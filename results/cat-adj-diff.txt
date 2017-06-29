@@ -831,12 +831,6 @@ APERTIUM: indirecte	PAR: abstract/e__adj	FORMS: AQ0CP0 indirectes AQ0FP0 indirec
 APERTIUM: indiscriminat	PAR: afortuna/t__adj	FORMS: AQ0FP0 indiscriminades AQ0FP0 indiscriminadíssimes AQ0FS0 indiscriminada AQ0FS0 indiscriminadíssima AQ0MP0 indiscriminadíssims AQ0MP0 indiscriminats AQ0MS0 indiscriminadíssim AQ0MS0 indiscriminat
    OTHER: indiscriminat	PAR: triparti/t__adj	FORMS: AQ0FP0 indiscriminades AQ0FS0 indiscriminada AQ0MP0 indiscriminats AQ0MS0 indiscriminat
 
-APERTIUM: indiscutit	PAR: afortuna/t__adj	FORMS: AQ0FP0 indiscutides AQ0FP0 indiscutidíssimes AQ0FS0 indiscutida AQ0FS0 indiscutidíssima AQ0MP0 indiscutidíssims AQ0MP0 indiscutits AQ0MS0 indiscutidíssim AQ0MS0 indiscutit
-   OTHER: indiscutit	PAR: triparti/t__adj	FORMS: AQ0FP0 indiscutides AQ0FS0 indiscutida AQ0MP0 indiscutits AQ0MS0 indiscutit
-
-APERTIUM: indocumentat	PAR: afortuna/t__adj	FORMS: AQ0FP0 indocumentades AQ0FP0 indocumentadíssimes AQ0FS0 indocumentada AQ0FS0 indocumentadíssima AQ0MP0 indocumentadíssims AQ0MP0 indocumentats AQ0MS0 indocumentadíssim AQ0MS0 indocumentat
-   OTHER: indocumentat	PAR: triparti/t__adj	FORMS: AQ0FP0 indocumentades AQ0FS0 indocumentada AQ0MP0 indocumentats AQ0MS0 indocumentat
-
 APERTIUM: inepte	PAR: abstract/e__adj	FORMS: AQ0CP0 ineptes AQ0FP0 ineptíssimes AQ0FS0 inepta AQ0FS0 ineptíssima AQ0MP0 ineptíssims AQ0MS0 inepte AQ0MS0 ineptíssim
    OTHER: inepte	PAR: adept/e__adj	FORMS: AQ0CP0 ineptes AQ0FS0 inepta AQ0MS0 inepte
    OTHER: inepte	PAR: altr/e__adj	FORMS: AQ0CP0 ineptes AQ0FS0 inepta AQ0MS0 inepte
@@ -893,10 +887,6 @@ APERTIUM: introvertit	PAR: afortuna/t__adj	FORMS: AQ0FP0 introvertides AQ0FP0 in
 
 APERTIUM: inusitat	PAR: afortuna/t__adj	FORMS: AQ0FP0 inusitades AQ0FP0 inusitadíssimes AQ0FS0 inusitada AQ0FS0 inusitadíssima AQ0MP0 inusitadíssims AQ0MP0 inusitats AQ0MS0 inusitadíssim AQ0MS0 inusitat
    OTHER: inusitat	PAR: triparti/t__adj	FORMS: AQ0FP0 inusitades AQ0FS0 inusitada AQ0MP0 inusitats AQ0MS0 inusitat
-
-APERTIUM: invers	PAR: complex__adj	FORMS: AQ0FP0 inverses AQ0FP0 inversíssimes AQ0FS0 inversa AQ0FS0 inversíssima AQ0MP0 inversos AQ0MP0 inversíssims AQ0MS0 invers AQ0MS0 inversíssim
-   OTHER: invers	PAR: annex__adj	FORMS: AQ0FP0 inverses AQ0FS0 inversa AQ0MP0 inversos AQ0MS0 invers
-   OTHER: invers	PAR: cors__adj	FORMS: AQ0FP0 inverses AQ0FS0 inversa AQ0MP0 inversos AQ0MS0 invers
 
 APERTIUM: irrespectuós	PAR: afectu/ós__adj	FORMS: AQ0FP0 irrespectuoses AQ0FP0 irrespectuosíssimes AQ0FS0 irrespectuosa AQ0FS0 irrespectuosíssima AQ0MP0 irrespectuosos AQ0MP0 irrespectuosíssims AQ0MS0 irrespectuosíssim AQ0MS0 irrespectuós
    OTHER: irrespectuós	PAR: aliment/ós__adj	FORMS: AQ0FP0 irrespectuoses AQ0FS0 irrespectuosa AQ0MP0 irrespectuosos AQ0MS0 irrespectuós
