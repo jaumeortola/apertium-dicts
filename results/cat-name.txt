@@ -14704,7 +14704,6 @@
 <e lm="demostrabilitat"><i>demostrabilitat</i><par n="accessibilitat__n"/></e>
 <e lm="demostrança"><i>demostran</i><par n="adre/ça__n"/></e>
 <e lm="demulcent"><i>demulcent</i><par n="abric__n"/></e>
-<e lm="demà"><i>demà</i><par n="BBVA__n"/></e>
 <e lm="demògrafa"><i>demògraf</i><par n="abell/a__n"/></e>
 <e lm="demòtic"><i>demòtic</i><par n="abric__n"/></e>
 <e lm="dena"><i>den</i><par n="abell/a__n"/></e>

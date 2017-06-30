@@ -475,11 +475,6 @@ APERTIUM: elegant	PAR: important__adj	FORMS: AQ0CP0 elegants AQ0CS0 elegant AQ0F
 APERTIUM: emocionant	PAR: important__adj	FORMS: AQ0CP0 emocionants AQ0CS0 emocionant AQ0FP0 emocionantíssimes AQ0FS0 emocionantíssima AQ0MP0 emocionantíssims AQ0MS0 emocionantíssim
    OTHER: emocionant	PAR: abdominal__adj	FORMS: AQ0CP0 emocionants AQ0CS0 emocionant
 
-APERTIUM: empobridor	PAR: alt__adj	FORMS: AQ0FP0 empobridores AQ0FP0 empobridoríssimes AQ0FS0 empobridora AQ0FS0 empobridoríssima AQ0MP0 empobridors AQ0MP0 empobridoríssims AQ0MS0 empobridor AQ0MS0 empobridoríssim
-   OTHER: empobridor	PAR: absolut__adj	FORMS: AQ0FP0 empobridores AQ0FS0 empobridora AQ0MP0 empobridors AQ0MS0 empobridor
-   OTHER: empobridor	PAR: poquet__adj	FORMS: AQ0FP0 empobridores AQ0FS0 empobridora AQ0MP0 empobridors AQ0MS0 empobridor
-   OTHER: empobridor	PAR: quant__adj	FORMS: AQ0FP0 empobridores AQ0FS0 empobridora AQ0MP0 empobridors AQ0MS0 empobridor
-
 APERTIUM: emèrit	PAR: alt__adj	FORMS: AQ0FP0 emèrites AQ0FP0 emèritíssimes AQ0FS0 emèrita AQ0FS0 emèritíssima AQ0MP0 emèrits AQ0MP0 emèritíssims AQ0MS0 emèrit AQ0MS0 emèritíssim
    OTHER: emèrit	PAR: absolut__adj	FORMS: AQ0FP0 emèrites AQ0FS0 emèrita AQ0MP0 emèrits AQ0MS0 emèrit
    OTHER: emèrit	PAR: poquet__adj	FORMS: AQ0FP0 emèrites AQ0FS0 emèrita AQ0MP0 emèrits AQ0MS0 emèrit
@@ -496,11 +491,6 @@ APERTIUM: enginyós	PAR: afectu/ós__adj	FORMS: AQ0FP0 enginyoses AQ0FP0 enginyo
 
 APERTIUM: enrevessat	PAR: afortuna/t__adj	FORMS: AQ0FP0 enrevessades AQ0FP0 enrevessadíssimes AQ0FS0 enrevessada AQ0FS0 enrevessadíssima AQ0MP0 enrevessadíssims AQ0MP0 enrevessats AQ0MS0 enrevessadíssim AQ0MS0 enrevessat
    OTHER: enrevessat	PAR: triparti/t__adj	FORMS: AQ0FP0 enrevessades AQ0FS0 enrevessada AQ0MP0 enrevessats AQ0MS0 enrevessat
-
-APERTIUM: ensordidor	PAR: alt__adj	FORMS: AQ0FP0 ensordidores AQ0FP0 ensordidoríssimes AQ0FS0 ensordidora AQ0FS0 ensordidoríssima AQ0MP0 ensordidors AQ0MP0 ensordidoríssims AQ0MS0 ensordidor AQ0MS0 ensordidoríssim
-   OTHER: ensordidor	PAR: absolut__adj	FORMS: AQ0FP0 ensordidores AQ0FS0 ensordidora AQ0MP0 ensordidors AQ0MS0 ensordidor
-   OTHER: ensordidor	PAR: poquet__adj	FORMS: AQ0FP0 ensordidores AQ0FS0 ensordidora AQ0MP0 ensordidors AQ0MS0 ensordidor
-   OTHER: ensordidor	PAR: quant__adj	FORMS: AQ0FP0 ensordidores AQ0FS0 ensordidora AQ0MP0 ensordidors AQ0MS0 ensordidor
 
 APERTIUM: entenimentat	PAR: afortuna/t__adj	FORMS: AQ0FP0 entenimentades AQ0FP0 entenimentadíssimes AQ0FS0 entenimentada AQ0FS0 entenimentadíssima AQ0MP0 entenimentadíssims AQ0MP0 entenimentats AQ0MS0 entenimentadíssim AQ0MS0 entenimentat
    OTHER: entenimentat	PAR: triparti/t__adj	FORMS: AQ0FP0 entenimentades AQ0FS0 entenimentada AQ0MP0 entenimentats AQ0MS0 entenimentat
@@ -731,9 +721,6 @@ APERTIUM: gruixut	PAR: afortuna/t__adj	FORMS: AQ0FP0 gruixudes AQ0FP0 gruixudís
 
 APERTIUM: guapo	PAR: guap/o__adj	FORMS: AQ0FP0 guapes AQ0FP0 guapíssimes AQ0FS0 guapa AQ0FS0 guapíssima AQ0MP0 guapos AQ0MP0 guapíssims AQ0MS0 guapo AQ0MS0 guapíssim
    OTHER: guapo	PAR: guerx/o__adj	FORMS: AQ0FP0 guapes AQ0FS0 guapa AQ0MP0 guapos AQ0MS0 guapo
-
-APERTIUM: guenyo	PAR: guap/o__adj	FORMS: AQ0FP0 guenyes AQ0FP0 guenyíssimes AQ0FS0 guenya AQ0FS0 guenyíssima AQ0MP0 guenyos AQ0MP0 guenyíssims AQ0MS0 guenyo AQ0MS0 guenyíssim
-   OTHER: guenyo	PAR: guerx/o__adj	FORMS: AQ0FP0 guenyes AQ0FS0 guenya AQ0MP0 guenyos AQ0MS0 guenyo
 
 APERTIUM: gustós	PAR: afectu/ós__adj	FORMS: AQ0FP0 gustoses AQ0FP0 gustosíssimes AQ0FS0 gustosa AQ0FS0 gustosíssima AQ0MP0 gustosos AQ0MP0 gustosíssims AQ0MS0 gustosíssim AQ0MS0 gustós
    OTHER: gustós	PAR: aliment/ós__adj	FORMS: AQ0FP0 gustoses AQ0FS0 gustosa AQ0MP0 gustosos AQ0MS0 gustós
