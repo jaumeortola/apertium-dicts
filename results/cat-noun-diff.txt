@@ -2722,9 +2722,6 @@ APERTIUM: àries	PAR: guardaespatlles__n	FORMS: NCCN000 àries
    OTHER: àries	PAR: IRPF__n	FORMS: NCMN000 àries
    OTHER: àries	PAR: campus__n	FORMS: NCMN000 àries
 
-APERTIUM: èmfasi	PAR: abric__n	FORMS: NCMP000 èmfasis NCMS000 èmfasi
-   OTHER: èmfasi	PAR: acompanyant__n	FORMS: NCCP000 èmfasis NCCS000 èmfasi
-
 APERTIUM: òptic	PAR: asiàti/c__n	FORMS: NCFP000 òptiques NCFS000 òptica NCMP000 òptics NCMS000 òptic
    OTHER: òptic	PAR: abric__n	FORMS: NCMP000 òptics NCMS000 òptic
 
