@@ -501,6 +501,9 @@ APERTIUM: cunyat	PAR: advoca/t__n	FORMS: NCFP000 cunyades NCFS000 cunyada NCMP00
 APERTIUM: cupè	PAR: abric__n	FORMS: NCMP000 cupès NCMS000 cupè
    OTHER: cupè	PAR: caf/è__n	FORMS: NCMP000 cupès NCMP000 cupés NCMS000 cupè NCMS000 cupé
 
+APERTIUM: càmera	PAR: abell/a__n	FORMS: NCFP000 càmeres NCFS000 càmera
+   OTHER: càmera	PAR: accionist/a__n	FORMS: NCCP000 càmeres NCCS000 càmera
+
 APERTIUM: càntabre	PAR: addict/e__n	FORMS: NCCP000 càntabres NCFS000 càntabra NCMS000 càntabre
    OTHER: càntabre	PAR: abric__n	FORMS: NCMP000 càntabres NCMS000 càntabre
 
@@ -517,7 +520,7 @@ APERTIUM: decasíl·lab	PAR: abric__n	FORMS: NCMP000 decasíl·labs NCMS000 deca
 APERTIUM: delimitador	PAR: abric__n	FORMS: NCMP000 delimitadors NCMS000 delimitador
    OTHER: delimitador	PAR: senyor__n	FORMS: NCFP000 delimitadores NCFS000 delimitadora NCMP000 delimitadors NCMS000 delimitador
 
-APERTIUM: delta	PAR: carism/a__n	FORMS: NCMP000 deltes NCMS000 delta
+APERTIUM: delta	PAR: abell/a__n	FORMS: NCFP000 deltes NCFS000 delta
    OTHER: delta	PAR: accionist/a__n	FORMS: NCCP000 deltes NCCS000 delta
 
 APERTIUM: deltoide	PAR: abric__n	FORMS: NCMP000 deltoides NCMS000 deltoide
@@ -1478,6 +1481,9 @@ APERTIUM: missioner	PAR: senyor__n	FORMS: NCFP000 missioneres NCFS000 missionera
 APERTIUM: mitger	PAR: senyor__n	FORMS: NCFP000 mitgeres NCFS000 mitgera NCMP000 mitgers NCMS000 mitger
    OTHER: mitger	PAR: abric__n	FORMS: NCMP000 mitgers NCMS000 mitger
 
+APERTIUM: model	PAR: abric__n	FORMS: NCMP000 models NCMS000 model
+   OTHER: model	PAR: acompanyant__n	FORMS: NCCP000 models NCCS000 model
+
 APERTIUM: moneder	PAR: abric__n	FORMS: NCMP000 moneders NCMS000 moneder
    OTHER: moneder	PAR: senyor__n	FORMS: NCFP000 monederes NCFS000 monedera NCMP000 moneders NCMS000 moneder
 
@@ -1566,6 +1572,10 @@ APERTIUM: neocaledonià	PAR: americ/à__n	FORMS: NCFP000 neocaledonianes NCFS000
 
 APERTIUM: netejador	PAR: senyor__n	FORMS: NCFP000 netejadores NCFS000 netejadora NCMP000 netejadors NCMS000 netejador
    OTHER: netejador	PAR: abric__n	FORMS: NCMP000 netejadors NCMS000 netejador
+
+APERTIUM: netejavidres	PAR: campus__n	FORMS: NCMN000 netejavidres
+   OTHER: netejavidres	PAR: ATS__n	FORMS: NCCN000 netejavidres
+   OTHER: netejavidres	PAR: guardaespatlles__n	FORMS: NCCN000 netejavidres
 
 APERTIUM: neula	PAR: abell/a__n	FORMS: NCFP000 neules NCFS000 neula
    OTHER: neula	PAR: accionist/a__n	FORMS: NCCP000 neules NCCS000 neula
@@ -1737,6 +1747,10 @@ APERTIUM: pendó	PAR: amfitri/ó__n	FORMS: NCFP000 pendones NCFS000 pendona NCMP
 APERTIUM: perceptor	PAR: senyor__n	FORMS: NCFP000 perceptores NCFS000 perceptora NCMP000 perceptors NCMS000 perceptor
    OTHER: perceptor	PAR: abric__n	FORMS: NCMP000 perceptors NCMS000 perceptor
 
+APERTIUM: perestroika	PAR: abell/a__n	FORMS: NCFP000 perestroikes NCFS000 perestroika
+   OTHER: perestroika	PAR: BBC__n	FORMS: NCFS000 perestroika
+   OTHER: perestroika	PAR: q__n	FORMS: NCFS000 perestroika
+
 APERTIUM: periquito	PAR: gitan/o__n	FORMS: NCFP000 periquites NCFS000 periquita NCMP000 periquitos NCMS000 periquito
    OTHER: periquito	PAR: abric__n	FORMS: NCMP000 periquitos NCMS000 periquito
 
@@ -1827,6 +1841,9 @@ APERTIUM: posseïdor	PAR: senyor__n	FORMS: NCFP000 posseïdores NCFS000 posseïd
 
 APERTIUM: postor	PAR: senyor__n	FORMS: NCFP000 postores NCFS000 postora NCMP000 postors NCMS000 postor
    OTHER: postor	PAR: abric__n	FORMS: NCMP000 postors NCMS000 postor
+
+APERTIUM: precedent	PAR: acompanyant__n	FORMS: NCCP000 precedents NCCS000 precedent
+   OTHER: precedent	PAR: abric__n	FORMS: NCMP000 precedents NCMS000 precedent
 
 APERTIUM: precursor	PAR: senyor__n	FORMS: NCFP000 precursores NCFS000 precursora NCMP000 precursors NCMS000 precursor
    OTHER: precursor	PAR: abric__n	FORMS: NCMP000 precursors NCMS000 precursor
@@ -2645,6 +2662,9 @@ APERTIUM: visualitzador	PAR: senyor__n	FORMS: NCFP000 visualitzadores NCFS000 vi
 APERTIUM: viticultor	PAR: senyor__n	FORMS: NCFP000 viticultores NCFS000 viticultora NCMP000 viticultors NCMS000 viticultor
    OTHER: viticultor	PAR: abric__n	FORMS: NCMP000 viticultors NCMS000 viticultor
 
+APERTIUM: vocal	PAR: accessibilitat__n	FORMS: NCFP000 vocals NCFS000 vocal
+   OTHER: vocal	PAR: acompanyant__n	FORMS: NCCP000 vocals NCCS000 vocal
+
 APERTIUM: vodka	PAR: carism/a__n	FORMS: NCMP000 vodkes NCMS000 vodka
    OTHER: vodka	PAR: accionist/a__n	FORMS: NCCP000 vodkes NCCS000 vodka
 
@@ -2701,6 +2721,9 @@ APERTIUM: zero	PAR: abric__n	FORMS: NCMP000 zeros NCMS000 zero
 APERTIUM: àries	PAR: guardaespatlles__n	FORMS: NCCN000 àries
    OTHER: àries	PAR: IRPF__n	FORMS: NCMN000 àries
    OTHER: àries	PAR: campus__n	FORMS: NCMN000 àries
+
+APERTIUM: èmfasi	PAR: accessibilitat__n	FORMS: NCFP000 èmfasis NCFS000 èmfasi
+   OTHER: èmfasi	PAR: acompanyant__n	FORMS: NCCP000 èmfasis NCCS000 èmfasi
 
 APERTIUM: òptic	PAR: asiàti/c__n	FORMS: NCFP000 òptiques NCFS000 òptica NCMP000 òptics NCMS000 òptic
    OTHER: òptic	PAR: abric__n	FORMS: NCMP000 òptics NCMS000 òptic
