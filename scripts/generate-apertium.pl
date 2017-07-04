@@ -25,7 +25,7 @@ if ($gram_cat =~ /^adj$/) {
     $lt_post = "0";
     $lt_tag_start = "A";
 } 
-if ($gram_cat =~ /^name$/) {
+if ($gram_cat =~ /^noun$/) {
     $apertium_gramcat = "n";
     $dicollecte_gramcat = "nom";
     $lt_prev = "NC";
