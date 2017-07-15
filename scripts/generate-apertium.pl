@@ -73,7 +73,7 @@ while (my $line = <$fh>) {
             my $postag= $lt_prev.$genere.$nombre.$lt_post;
             #print "$rule $postag $afig $line\n";
 
-            if ($lang !~ /^fra$/ || $direction =~ /^$/) {
+            if (($lang !~ /^fra$/ || $direction =~ /^$/) && $afig !~ /<a\/>/) {
                 push (@rules, "$rule $postag $afig");
             }
         }
