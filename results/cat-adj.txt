@@ -7276,7 +7276,6 @@
 <e lm="estaminífer"><i>estaminífer</i><par n="absolut__adj"/></e>
 <e lm="estampador"><i>estampador</i><par n="absolut__adj"/></e>
 <e lm="estampià"><i>estampi</i><par n="afric/à__adj"/></e>
-<e lm="estanc"><i>estan</i><par n="acadèmi/c__adj"/></e>
 <e lm="estandarditzable"><i>estandarditzable</i><par n="abdominal__adj"/></e>
 <e lm="estandarditzador"><i>estandarditzador</i><par n="absolut__adj"/></e>
 <e lm="estannat"><i>estanna</i><par n="triparti/t__adj"/></e>

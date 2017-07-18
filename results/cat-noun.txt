@@ -19870,7 +19870,6 @@
 <e lm="estannà"><i>estann</i><par n="bacall/à__n"/></e>
 <e lm="estanquer"><i>estanquer</i><par n="abric__n"/></e>
 <e lm="estanquera"><i>estanquer</i><par n="abell/a__n"/></e>
-<e lm="estanquitat"><i>estanquitat</i><par n="accessibilitat__n"/></e>
 <e lm="estanteria"><i>estanteri</i><par n="abell/a__n"/></e>
 <e lm="estantol"><i>estantol</i><par n="abric__n"/></e>
 <e lm="estanyada"><i>estanyad</i><par n="abell/a__n"/></e>
@@ -33944,7 +33943,6 @@
 <e lm="oblat"><i>oblat</i><par n="abric__n"/></e>
 <e lm="oblata"><i>oblat</i><par n="abell/a__n"/></e>
 <e lm="oblea"><i>oble</i><par n="abell/a__n"/></e>
-<e lm="oblia"><i>obli</i><par n="abell/a__n"/></e>
 <e lm="oblidament"><i>oblidament</i><par n="abric__n"/></e>
 <e lm="oblidança"><i>oblidan</i><par n="adre/ça__n"/></e>
 <e lm="obligador"><i>obligador</i><par n="abric__n"/></e>

@@ -342,9 +342,6 @@ APERTIUM: còmode	PAR: c/òmode__adj	FORMS: AQ0FP0 comodíssimes AQ0FP0 còmodes
    OTHER: còmode	PAR: altr/e__adj	FORMS: AQ0CP0 còmodes AQ0FS0 còmoda AQ0MS0 còmode
    OTHER: còmode	PAR: nostr/e__adj	FORMS: AQ0CP0 còmodes AQ0FS0 còmoda AQ0MS0 còmode
 
-APERTIUM: dadaista	PAR: abdominal__adj	FORMS: AQ0CP0 dadaistas AQ0CS0 dadaista
-   OTHER: dadaista	PAR: agrícol/a__adj	FORMS: AQ0CP0 dadaistes AQ0CS0 dadaista
-
 APERTIUM: defectuós	PAR: afectu/ós__adj	FORMS: AQ0FP0 defectuoses AQ0FP0 defectuosíssimes AQ0FS0 defectuosa AQ0FS0 defectuosíssima AQ0MP0 defectuosos AQ0MP0 defectuosíssims AQ0MS0 defectuosíssim AQ0MS0 defectuós
    OTHER: defectuós	PAR: aliment/ós__adj	FORMS: AQ0FP0 defectuoses AQ0FS0 defectuosa AQ0MP0 defectuosos AQ0MS0 defectuós
 
