@@ -23,7 +23,7 @@ if ($gram_cat =~ /^adj$/) {
     $dicollecte_gramcat = "adj";
     $lt_prev = "AQ0";
     $lt_post = "0";
-    $lt_tag_start = "A";
+    $lt_tag_start = "A.0";
 } 
 if ($gram_cat =~ /^noun$/) {
     $apertium_gramcat = "n";
