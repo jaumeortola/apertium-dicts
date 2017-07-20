@@ -916,7 +916,6 @@
 <e lm="amanós"><i>aman</i><par n="aliment/ós__adj"/></e>
 <e lm="amarantí"><i>amarant</i><par n="alacant/í__adj"/></e>
 <e lm="amargant"><i>amargant</i><par n="abdominal__adj"/></e>
-<e lm="amarguíssim"><i>amarguíssim</i><par n="absolut__adj"/></e>
 <e lm="amargós"><i>amarg</i><par n="aliment/ós__adj"/></e>
 <e lm="amarijós"><i>amarij</i><par n="aliment/ós__adj"/></e>
 <e lm="amarjalat"><i>amarjala</i><par n="triparti/t__adj"/></e>
@@ -1718,7 +1717,6 @@
 <e lm="apoteòsic"><i>apoteòsi</i><par n="acadèmi/c__adj"/></e>
 <e lm="apoteòtic"><i>apoteòti</i><par n="acadèmi/c__adj"/></e>
 <e lm="apreciador"><i>apreciador</i><par n="absolut__adj"/></e>
-<e lm="apreciadíssim"><i>apreciadíssim</i><par n="absolut__adj"/></e>
 <e lm="apreciat"><i>aprecia</i><par n="triparti/t__adj"/></e>
 <e lm="apreciatiu"><i>apreciati</i><par n="abusi/u__adj"/></e>
 <e lm="aprehensible"><i>aprehensible</i><par n="abdominal__adj"/></e>
@@ -7223,7 +7221,6 @@
 <e lm="estugós"><i>estug</i><par n="aliment/ós__adj"/></e>
 <e lm="estult"><i>estult</i><par n="absolut__adj"/></e>
 <e lm="estupefaent"><i>estupefaent</i><par n="abdominal__adj"/></e>
-<e lm="estupendíssim"><i>estupendíssim</i><par n="absolut__adj"/></e>
 <e lm="estànnic"><i>estànni</i><par n="acadèmi/c__adj"/></e>
 <e lm="estèlic"><i>estèli</i><par n="acadèmi/c__adj"/></e>
 <e lm="estènic"><i>estèni</i><par n="acadèmi/c__adj"/></e>
@@ -12243,7 +12240,6 @@
 <e lm="montuós"><i>montu</i><par n="aliment/ós__adj"/></e>
 <e lm="montà"><i>mont</i><par n="afric/à__adj"/></e>
 <e lm="monàdic"><i>monàdi</i><par n="acadèmi/c__adj"/></e>
-<e lm="moníssim"><i>moníssim</i><par n="absolut__adj"/></e>
 <e lm="monòdic"><i>monòdi</i><par n="acadèmi/c__adj"/></e>
 <e lm="monòdrom"><i>monòdrom</i><par n="absolut__adj"/></e>
 <e lm="monòfag"><i>monòfag</i><par n="amarg__adj"/></e>
@@ -14768,7 +14764,6 @@
 <e lm="preoperatori"><i>preoperat</i><par n="access/ori__adj"/></e>
 <e lm="prepalatal"><i>prepalatal</i><par n="abdominal__adj"/></e>
 <e lm="preparador"><i>preparador</i><par n="absolut__adj"/></e>
-<e lm="preparadíssim"><i>preparadíssim</i><par n="absolut__adj"/></e>
 <e lm="prepart"><i>prepart</i><par n="multimèdia__adj"/></e>
 <e lm="prepirenaic"><i>prepirenai</i><par n="acadèmi/c__adj"/></e>
 <e lm="prepirinenc"><i>prepirinen</i><par n="acadèmi/c__adj"/></e>
@@ -16197,7 +16192,6 @@
 <e lm="sabeu"><i>sabe</i><par n="ate/u__adj"/></e>
 <e lm="sabinià"><i>sabini</i><par n="afric/à__adj"/></e>
 <e lm="sabonós"><i>sabon</i><par n="aliment/ós__adj"/></e>
-<e lm="saborosíssim"><i>saborosíssim</i><par n="absolut__adj"/></e>
 <e lm="sabotejador"><i>sabotejador</i><par n="absolut__adj"/></e>
 <e lm="sabulícola"><i>sabulícol</i><par n="agrícol/a__adj"/></e>
 <e lm="sabulós"><i>sabul</i><par n="aliment/ós__adj"/></e>
