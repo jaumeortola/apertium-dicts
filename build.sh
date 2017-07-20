@@ -16,14 +16,24 @@ if [[ $lang = "cat" ]]; then
 	src_dict="/home/jaume/github/catalan-dict-tools/resultats/lt/diccionari.txt"
 fi
 
+if [[ $lang = "spa" ]]; then
+	apertium_dict="/home/jaume/apertium/apertium-spa/apertium-spa.spa.dix"
+	src_dict="src/spanish-dict.txt"
+fi
+
+
 echo $apertium_dict
 echo $src_dict
-
-gramcat="adj"
-perl $dir_scripts/extract-cat-superlatius.pl $lang $gramcat $src_dict $apertium_dict > $dir_results/superlatius-$lang-$gramcat.txt 2>$dir_results/superlatius-$lang-$gramcat-diff.txt
 
 for gramcat in adj noun; do 
 	perl $dir_scripts/generate-apertium.pl $lang $gramcat $src_dict $apertium_dict > $dir_results/$lang-$gramcat.txt 2>$dir_results/$lang-$gramcat-diff.txt
 done
+
+# superlatius -íssim
+if [[ $lang = "cat" ]]; then
+    gramcat="adj"
+    perl $dir_scripts/extract-cat-superlatius.pl $lang $gramcat $src_dict $apertium_dict > $dir_results/superlatius-$lang-$gramcat.txt 2>$dir_results/superlatius-$lang-$gramcat-diff.txt
+fi
+
 
 echo "Results in: $dir_results"
