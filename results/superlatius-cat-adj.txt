@@ -589,6 +589,7 @@ gelat gelada [sup. geladíssim]=categories:A; font:apertium;
 congestionat congestionada [sup. congestionadíssim]=categories:A; font:apertium;
 desencantat desencantada [sup. desencantadíssim]=categories:A; font:apertium;
 abarrotat abarrotada [sup. abarrotadíssim]=categories:A; font:apertium;
+nevat nevada [sup. nevadíssim]=categories:A; font:apertium;
 escumós escumosa [sup. escumosíssim]=categories:A; font:apertium;
 endurit endurida [sup. enduridíssim]=categories:A; font:apertium;
 estirat estirada [sup. estiradíssim]=categories:A; font:apertium;
