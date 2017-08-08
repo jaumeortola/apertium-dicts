@@ -1,0 +1,3139 @@
+
+APERTIUM: Adriatic	PAR: expensive__adj	FORMS: JJ driatic
+   OTHER: Adriatic	PAR: expensive__adj	FORMS: JJ Adriatic
+   OTHER: Adriatic	PAR: mine__adj	FORMS: JJ Adriatic
+
+APERTIUM: Afghan	PAR: expensive__adj	FORMS: JJ fghan
+   OTHER: Afghan	PAR: expensive__adj	FORMS: JJ Afghan
+   OTHER: Afghan	PAR: mine__adj	FORMS: JJ Afghan
+
+APERTIUM: African	PAR: expensive__adj	FORMS: JJ frican
+   OTHER: African	PAR: expensive__adj	FORMS: JJ African
+   OTHER: African	PAR: mine__adj	FORMS: JJ African
+
+APERTIUM: Albanian	PAR: expensive__adj	FORMS: JJ lbanian
+   OTHER: Albanian	PAR: expensive__adj	FORMS: JJ Albanian
+   OTHER: Albanian	PAR: mine__adj	FORMS: JJ Albanian
+
+APERTIUM: American	PAR: expensive__adj	FORMS: JJ merican
+   OTHER: American	PAR: expensive__adj	FORMS: JJ American
+   OTHER: American	PAR: mine__adj	FORMS: JJ American
+
+APERTIUM: Andalusian	PAR: expensive__adj	FORMS: JJ ndalusian
+   OTHER: Andalusian	PAR: expensive__adj	FORMS: JJ Andalusian
+   OTHER: Andalusian	PAR: mine__adj	FORMS: JJ Andalusian
+
+APERTIUM: Andorran	PAR: expensive__adj	FORMS: JJ ndorran
+   OTHER: Andorran	PAR: expensive__adj	FORMS: JJ Andorran
+   OTHER: Andorran	PAR: mine__adj	FORMS: JJ Andorran
+
+APERTIUM: Anglo-Saxon	PAR: expensive__adj	FORMS: JJ nglo-Saxon
+   OTHER: Anglo-Saxon	PAR: expensive__adj	FORMS: JJ Anglo-Saxon
+   OTHER: Anglo-Saxon	PAR: mine__adj	FORMS: JJ Anglo-Saxon
+
+APERTIUM: Arabic	PAR: expensive__adj	FORMS: JJ rabic
+   OTHER: Arabic	PAR: expensive__adj	FORMS: JJ Arabic
+   OTHER: Arabic	PAR: mine__adj	FORMS: JJ Arabic
+
+APERTIUM: Arctic	PAR: expensive__adj	FORMS: JJ rctic
+   OTHER: Arctic	PAR: expensive__adj	FORMS: JJ Arctic
+   OTHER: Arctic	PAR: mine__adj	FORMS: JJ Arctic
+
+APERTIUM: Argentine	PAR: expensive__adj	FORMS: JJ rgentine
+   OTHER: Argentine	PAR: expensive__adj	FORMS: JJ Argentine
+   OTHER: Argentine	PAR: mine__adj	FORMS: JJ Argentine
+
+APERTIUM: Aristotelian	PAR: expensive__adj	FORMS: JJ ristotelian
+   OTHER: Aristotelian	PAR: expensive__adj	FORMS: JJ Aristotelian
+   OTHER: Aristotelian	PAR: mine__adj	FORMS: JJ Aristotelian
+
+APERTIUM: Asian	PAR: expensive__adj	FORMS: JJ sian
+   OTHER: Asian	PAR: expensive__adj	FORMS: JJ Asian
+   OTHER: Asian	PAR: mine__adj	FORMS: JJ Asian
+
+APERTIUM: Atlantic	PAR: expensive__adj	FORMS: JJ tlantic
+   OTHER: Atlantic	PAR: expensive__adj	FORMS: JJ Atlantic
+   OTHER: Atlantic	PAR: mine__adj	FORMS: JJ Atlantic
+
+APERTIUM: Australian	PAR: expensive__adj	FORMS: JJ ustralian
+   OTHER: Australian	PAR: expensive__adj	FORMS: JJ Australian
+   OTHER: Australian	PAR: mine__adj	FORMS: JJ Australian
+
+APERTIUM: Austrian	PAR: expensive__adj	FORMS: JJ ustrian
+   OTHER: Austrian	PAR: expensive__adj	FORMS: JJ Austrian
+   OTHER: Austrian	PAR: mine__adj	FORMS: JJ Austrian
+
+APERTIUM: Babylonian	PAR: expensive__adj	FORMS: JJ abylonian
+   OTHER: Babylonian	PAR: expensive__adj	FORMS: JJ Babylonian
+   OTHER: Babylonian	PAR: mine__adj	FORMS: JJ Babylonian
+
+APERTIUM: Balearic	PAR: expensive__adj	FORMS: JJ alearic
+   OTHER: Balearic	PAR: expensive__adj	FORMS: JJ Balearic
+   OTHER: Balearic	PAR: mine__adj	FORMS: JJ Balearic
+
+APERTIUM: Balkan	PAR: expensive__adj	FORMS: JJ alkan
+   OTHER: Balkan	PAR: expensive__adj	FORMS: JJ Balkan
+   OTHER: Balkan	PAR: mine__adj	FORMS: JJ Balkan
+
+APERTIUM: Bavarian	PAR: expensive__adj	FORMS: JJ avarian
+   OTHER: Bavarian	PAR: expensive__adj	FORMS: JJ Bavarian
+   OTHER: Bavarian	PAR: mine__adj	FORMS: JJ Bavarian
+
+APERTIUM: Belgian	PAR: expensive__adj	FORMS: JJ elgian
+   OTHER: Belgian	PAR: expensive__adj	FORMS: JJ Belgian
+   OTHER: Belgian	PAR: mine__adj	FORMS: JJ Belgian
+
+APERTIUM: Brazilian	PAR: expensive__adj	FORMS: JJ razilian
+   OTHER: Brazilian	PAR: expensive__adj	FORMS: JJ Brazilian
+   OTHER: Brazilian	PAR: mine__adj	FORMS: JJ Brazilian
+
+APERTIUM: Buddhist	PAR: expensive__adj	FORMS: JJ uddhist
+   OTHER: Buddhist	PAR: expensive__adj	FORMS: JJ Buddhist
+   OTHER: Buddhist	PAR: mine__adj	FORMS: JJ Buddhist
+
+APERTIUM: Bulgarian	PAR: expensive__adj	FORMS: JJ ulgarian
+   OTHER: Bulgarian	PAR: expensive__adj	FORMS: JJ Bulgarian
+   OTHER: Bulgarian	PAR: mine__adj	FORMS: JJ Bulgarian
+
+APERTIUM: Burmese	PAR: expensive__adj	FORMS: JJ urmese
+   OTHER: Burmese	PAR: expensive__adj	FORMS: JJ Burmese
+   OTHER: Burmese	PAR: mine__adj	FORMS: JJ Burmese
+
+APERTIUM: Byelorussian	PAR: expensive__adj	FORMS: JJ yelorussian
+   OTHER: Byelorussian	PAR: expensive__adj	FORMS: JJ Byelorussian
+   OTHER: Byelorussian	PAR: mine__adj	FORMS: JJ Byelorussian
+
+APERTIUM: Byzantine	PAR: expensive__adj	FORMS: JJ yzantine
+   OTHER: Byzantine	PAR: expensive__adj	FORMS: JJ Byzantine
+   OTHER: Byzantine	PAR: mine__adj	FORMS: JJ Byzantine
+
+APERTIUM: Canadian	PAR: expensive__adj	FORMS: JJ anadian
+   OTHER: Canadian	PAR: expensive__adj	FORMS: JJ Canadian
+   OTHER: Canadian	PAR: mine__adj	FORMS: JJ Canadian
+
+APERTIUM: Canarian	PAR: expensive__adj	FORMS: JJ anarian
+   OTHER: Canarian	PAR: expensive__adj	FORMS: JJ Canarian
+   OTHER: Canarian	PAR: mine__adj	FORMS: JJ Canarian
+
+APERTIUM: Caribbean	PAR: expensive__adj	FORMS: JJ aribbean
+   OTHER: Caribbean	PAR: expensive__adj	FORMS: JJ Caribbean
+   OTHER: Caribbean	PAR: mine__adj	FORMS: JJ Caribbean
+
+APERTIUM: Catalan	PAR: expensive__adj	FORMS: JJ atalan
+   OTHER: Catalan	PAR: expensive__adj	FORMS: JJ Catalan
+   OTHER: Catalan	PAR: mine__adj	FORMS: JJ Catalan
+
+APERTIUM: Catholic	PAR: expensive__adj	FORMS: JJ atholic
+   OTHER: Catholic	PAR: expensive__adj	FORMS: JJ Catholic
+   OTHER: Catholic	PAR: mine__adj	FORMS: JJ Catholic
+
+APERTIUM: Celtic	PAR: expensive__adj	FORMS: JJ eltic
+   OTHER: Celtic	PAR: expensive__adj	FORMS: JJ Celtic
+   OTHER: Celtic	PAR: mine__adj	FORMS: JJ Celtic
+
+APERTIUM: Chilean	PAR: expensive__adj	FORMS: JJ hilean
+   OTHER: Chilean	PAR: expensive__adj	FORMS: JJ Chilean
+   OTHER: Chilean	PAR: mine__adj	FORMS: JJ Chilean
+
+APERTIUM: Chinese	PAR: expensive__adj	FORMS: JJ hinese
+   OTHER: Chinese	PAR: expensive__adj	FORMS: JJ Chinese
+   OTHER: Chinese	PAR: mine__adj	FORMS: JJ Chinese
+
+APERTIUM: Christian	PAR: expensive__adj	FORMS: JJ hristian
+   OTHER: Christian	PAR: expensive__adj	FORMS: JJ Christian
+   OTHER: Christian	PAR: mine__adj	FORMS: JJ Christian
+
+APERTIUM: Colombian	PAR: expensive__adj	FORMS: JJ olombian
+   OTHER: Colombian	PAR: expensive__adj	FORMS: JJ Colombian
+   OTHER: Colombian	PAR: mine__adj	FORMS: JJ Colombian
+
+APERTIUM: Congolese	PAR: expensive__adj	FORMS: JJ ongolese
+   OTHER: Congolese	PAR: expensive__adj	FORMS: JJ Congolese
+   OTHER: Congolese	PAR: mine__adj	FORMS: JJ Congolese
+
+APERTIUM: Cuban	PAR: expensive__adj	FORMS: JJ uban
+   OTHER: Cuban	PAR: expensive__adj	FORMS: JJ Cuban
+   OTHER: Cuban	PAR: mine__adj	FORMS: JJ Cuban
+
+APERTIUM: Cypriot	PAR: expensive__adj	FORMS: JJ ypriot
+   OTHER: Cypriot	PAR: expensive__adj	FORMS: JJ Cypriot
+   OTHER: Cypriot	PAR: mine__adj	FORMS: JJ Cypriot
+
+APERTIUM: Cyrillic	PAR: expensive__adj	FORMS: JJ yrillic
+   OTHER: Cyrillic	PAR: expensive__adj	FORMS: JJ Cyrillic
+   OTHER: Cyrillic	PAR: mine__adj	FORMS: JJ Cyrillic
+
+APERTIUM: Czech	PAR: expensive__adj	FORMS: JJ zech
+   OTHER: Czech	PAR: expensive__adj	FORMS: JJ Czech
+   OTHER: Czech	PAR: mine__adj	FORMS: JJ Czech
+
+APERTIUM: Czechoslovak	PAR: expensive__adj	FORMS: JJ zechoslovak
+   OTHER: Czechoslovak	PAR: expensive__adj	FORMS: JJ Czechoslovak
+   OTHER: Czechoslovak	PAR: mine__adj	FORMS: JJ Czechoslovak
+
+APERTIUM: Danish	PAR: expensive__adj	FORMS: JJ anish
+   OTHER: Danish	PAR: expensive__adj	FORMS: JJ Danish
+   OTHER: Danish	PAR: mine__adj	FORMS: JJ Danish
+
+APERTIUM: Dominican	PAR: expensive__adj	FORMS: JJ ominican
+   OTHER: Dominican	PAR: expensive__adj	FORMS: JJ Dominican
+   OTHER: Dominican	PAR: mine__adj	FORMS: JJ Dominican
+
+APERTIUM: Doric	PAR: expensive__adj	FORMS: JJ oric
+   OTHER: Doric	PAR: expensive__adj	FORMS: JJ Doric
+   OTHER: Doric	PAR: mine__adj	FORMS: JJ Doric
+
+APERTIUM: Dutch	PAR: expensive__adj	FORMS: JJ utch
+   OTHER: Dutch	PAR: expensive__adj	FORMS: JJ Dutch
+   OTHER: Dutch	PAR: mine__adj	FORMS: JJ Dutch
+
+APERTIUM: Egyptian	PAR: expensive__adj	FORMS: JJ gyptian
+   OTHER: Egyptian	PAR: expensive__adj	FORMS: JJ Egyptian
+   OTHER: Egyptian	PAR: mine__adj	FORMS: JJ Egyptian
+
+APERTIUM: English-speaking	PAR: expensive__adj	FORMS: JJ nglish-speaking
+   OTHER: English-speaking	PAR: expensive__adj	FORMS: JJ English-speaking
+   OTHER: English-speaking	PAR: mine__adj	FORMS: JJ English-speaking
+
+APERTIUM: Ethiopian	PAR: expensive__adj	FORMS: JJ thiopian
+   OTHER: Ethiopian	PAR: expensive__adj	FORMS: JJ Ethiopian
+   OTHER: Ethiopian	PAR: mine__adj	FORMS: JJ Ethiopian
+
+APERTIUM: European	PAR: expensive__adj	FORMS: JJ uropean
+   OTHER: European	PAR: expensive__adj	FORMS: JJ European
+   OTHER: European	PAR: mine__adj	FORMS: JJ European
+
+APERTIUM: Faroese	PAR: expensive__adj	FORMS: JJ aroese
+   OTHER: Faroese	PAR: expensive__adj	FORMS: JJ Faroese
+   OTHER: Faroese	PAR: mine__adj	FORMS: JJ Faroese
+
+APERTIUM: Finnish	PAR: expensive__adj	FORMS: JJ innish
+   OTHER: Finnish	PAR: expensive__adj	FORMS: JJ Finnish
+   OTHER: Finnish	PAR: mine__adj	FORMS: JJ Finnish
+
+APERTIUM: Flemish	PAR: expensive__adj	FORMS: JJ lemish
+   OTHER: Flemish	PAR: expensive__adj	FORMS: JJ Flemish
+   OTHER: Flemish	PAR: mine__adj	FORMS: JJ Flemish
+
+APERTIUM: French	PAR: expensive__adj	FORMS: JJ rench
+   OTHER: French	PAR: expensive__adj	FORMS: JJ French
+   OTHER: French	PAR: mine__adj	FORMS: JJ French
+
+APERTIUM: Gaelic	PAR: expensive__adj	FORMS: JJ aelic
+   OTHER: Gaelic	PAR: expensive__adj	FORMS: JJ Gaelic
+   OTHER: Gaelic	PAR: mine__adj	FORMS: JJ Gaelic
+
+APERTIUM: German	PAR: expensive__adj	FORMS: JJ erman
+   OTHER: German	PAR: expensive__adj	FORMS: JJ German
+   OTHER: German	PAR: mine__adj	FORMS: JJ German
+
+APERTIUM: Gothic	PAR: expensive__adj	FORMS: JJ othic
+   OTHER: Gothic	PAR: expensive__adj	FORMS: JJ Gothic
+   OTHER: Gothic	PAR: mine__adj	FORMS: JJ Gothic
+
+APERTIUM: Greek	PAR: expensive__adj	FORMS: JJ reek
+   OTHER: Greek	PAR: expensive__adj	FORMS: JJ Greek
+   OTHER: Greek	PAR: mine__adj	FORMS: JJ Greek
+
+APERTIUM: Guatemalan	PAR: expensive__adj	FORMS: JJ uatemalan
+   OTHER: Guatemalan	PAR: expensive__adj	FORMS: JJ Guatemalan
+   OTHER: Guatemalan	PAR: mine__adj	FORMS: JJ Guatemalan
+
+APERTIUM: Honduran	PAR: expensive__adj	FORMS: JJ onduran
+   OTHER: Honduran	PAR: expensive__adj	FORMS: JJ Honduran
+   OTHER: Honduran	PAR: mine__adj	FORMS: JJ Honduran
+
+APERTIUM: Hungarian	PAR: expensive__adj	FORMS: JJ ungarian
+   OTHER: Hungarian	PAR: expensive__adj	FORMS: JJ Hungarian
+   OTHER: Hungarian	PAR: mine__adj	FORMS: JJ Hungarian
+
+APERTIUM: Iberian	PAR: expensive__adj	FORMS: JJ berian
+   OTHER: Iberian	PAR: expensive__adj	FORMS: JJ Iberian
+   OTHER: Iberian	PAR: mine__adj	FORMS: JJ Iberian
+
+APERTIUM: Icelandic	PAR: expensive__adj	FORMS: JJ celandic
+   OTHER: Icelandic	PAR: expensive__adj	FORMS: JJ Icelandic
+   OTHER: Icelandic	PAR: mine__adj	FORMS: JJ Icelandic
+
+APERTIUM: Indian	PAR: expensive__adj	FORMS: JJ ndian
+   OTHER: Indian	PAR: expensive__adj	FORMS: JJ Indian
+   OTHER: Indian	PAR: mine__adj	FORMS: JJ Indian
+
+APERTIUM: Indonesian	PAR: expensive__adj	FORMS: JJ ndonesian
+   OTHER: Indonesian	PAR: expensive__adj	FORMS: JJ Indonesian
+   OTHER: Indonesian	PAR: mine__adj	FORMS: JJ Indonesian
+
+APERTIUM: Iranian	PAR: expensive__adj	FORMS: JJ ranian
+   OTHER: Iranian	PAR: expensive__adj	FORMS: JJ Iranian
+   OTHER: Iranian	PAR: mine__adj	FORMS: JJ Iranian
+
+APERTIUM: Islamic	PAR: expensive__adj	FORMS: JJ slamic
+   OTHER: Islamic	PAR: expensive__adj	FORMS: JJ Islamic
+   OTHER: Islamic	PAR: mine__adj	FORMS: JJ Islamic
+
+APERTIUM: Israeli	PAR: expensive__adj	FORMS: JJ sraeli
+   OTHER: Israeli	PAR: expensive__adj	FORMS: JJ Israeli
+   OTHER: Israeli	PAR: mine__adj	FORMS: JJ Israeli
+
+APERTIUM: Italian	PAR: expensive__adj	FORMS: JJ talian
+   OTHER: Italian	PAR: expensive__adj	FORMS: JJ Italian
+   OTHER: Italian	PAR: mine__adj	FORMS: JJ Italian
+
+APERTIUM: Jamaican	PAR: expensive__adj	FORMS: JJ amaican
+   OTHER: Jamaican	PAR: expensive__adj	FORMS: JJ Jamaican
+   OTHER: Jamaican	PAR: mine__adj	FORMS: JJ Jamaican
+
+APERTIUM: Japanese	PAR: expensive__adj	FORMS: JJ apanese
+   OTHER: Japanese	PAR: expensive__adj	FORMS: JJ Japanese
+   OTHER: Japanese	PAR: mine__adj	FORMS: JJ Japanese
+
+APERTIUM: Jewish	PAR: expensive__adj	FORMS: JJ ewish
+   OTHER: Jewish	PAR: expensive__adj	FORMS: JJ Jewish
+   OTHER: Jewish	PAR: mine__adj	FORMS: JJ Jewish
+
+APERTIUM: Latvian	PAR: expensive__adj	FORMS: JJ atvian
+   OTHER: Latvian	PAR: expensive__adj	FORMS: JJ Latvian
+   OTHER: Latvian	PAR: mine__adj	FORMS: JJ Latvian
+
+APERTIUM: Lithuanian	PAR: expensive__adj	FORMS: JJ ithuanian
+   OTHER: Lithuanian	PAR: expensive__adj	FORMS: JJ Lithuanian
+   OTHER: Lithuanian	PAR: mine__adj	FORMS: JJ Lithuanian
+
+APERTIUM: Majorcan	PAR: expensive__adj	FORMS: JJ ajorcan
+   OTHER: Majorcan	PAR: expensive__adj	FORMS: JJ Majorcan
+   OTHER: Majorcan	PAR: mine__adj	FORMS: JJ Majorcan
+
+APERTIUM: Maltese	PAR: expensive__adj	FORMS: JJ altese
+   OTHER: Maltese	PAR: expensive__adj	FORMS: JJ Maltese
+   OTHER: Maltese	PAR: mine__adj	FORMS: JJ Maltese
+
+APERTIUM: Marxist	PAR: expensive__adj	FORMS: JJ arxist
+   OTHER: Marxist	PAR: expensive__adj	FORMS: JJ Marxist
+   OTHER: Marxist	PAR: mine__adj	FORMS: JJ Marxist
+
+APERTIUM: Mediterranean	PAR: expensive__adj	FORMS: JJ editerranean
+   OTHER: Mediterranean	PAR: expensive__adj	FORMS: JJ Mediterranean
+   OTHER: Mediterranean	PAR: mine__adj	FORMS: JJ Mediterranean
+
+APERTIUM: Mexican	PAR: expensive__adj	FORMS: JJ exican
+   OTHER: Mexican	PAR: expensive__adj	FORMS: JJ Mexican
+   OTHER: Mexican	PAR: mine__adj	FORMS: JJ Mexican
+
+APERTIUM: Moroccan	PAR: expensive__adj	FORMS: JJ oroccan
+   OTHER: Moroccan	PAR: expensive__adj	FORMS: JJ Moroccan
+   OTHER: Moroccan	PAR: mine__adj	FORMS: JJ Moroccan
+
+APERTIUM: Muslim	PAR: expensive__adj	FORMS: JJ uslim
+   OTHER: Muslim	PAR: expensive__adj	FORMS: JJ Muslim
+   OTHER: Muslim	PAR: mine__adj	FORMS: JJ Muslim
+
+APERTIUM: Nepalese	PAR: expensive__adj	FORMS: JJ epalese
+   OTHER: Nepalese	PAR: expensive__adj	FORMS: JJ Nepalese
+   OTHER: Nepalese	PAR: mine__adj	FORMS: JJ Nepalese
+
+APERTIUM: Nordic	PAR: expensive__adj	FORMS: JJ ordic
+   OTHER: Nordic	PAR: expensive__adj	FORMS: JJ Nordic
+   OTHER: Nordic	PAR: mine__adj	FORMS: JJ Nordic
+
+APERTIUM: Norwegian	PAR: expensive__adj	FORMS: JJ orwegian
+   OTHER: Norwegian	PAR: expensive__adj	FORMS: JJ Norwegian
+   OTHER: Norwegian	PAR: mine__adj	FORMS: JJ Norwegian
+
+APERTIUM: Panamanian	PAR: expensive__adj	FORMS: JJ anamanian
+   OTHER: Panamanian	PAR: expensive__adj	FORMS: JJ Panamanian
+   OTHER: Panamanian	PAR: mine__adj	FORMS: JJ Panamanian
+
+APERTIUM: Persian	PAR: expensive__adj	FORMS: JJ ersian
+   OTHER: Persian	PAR: expensive__adj	FORMS: JJ Persian
+   OTHER: Persian	PAR: mine__adj	FORMS: JJ Persian
+
+APERTIUM: Peruvian	PAR: expensive__adj	FORMS: JJ eruvian
+   OTHER: Peruvian	PAR: expensive__adj	FORMS: JJ Peruvian
+   OTHER: Peruvian	PAR: mine__adj	FORMS: JJ Peruvian
+
+APERTIUM: Polish	PAR: expensive__adj	FORMS: JJ olish
+   OTHER: Polish	PAR: expensive__adj	FORMS: JJ Polish
+   OTHER: Polish	PAR: mine__adj	FORMS: JJ Polish
+
+APERTIUM: Portuguese	PAR: expensive__adj	FORMS: JJ ortuguese
+   OTHER: Portuguese	PAR: expensive__adj	FORMS: JJ Portuguese
+   OTHER: Portuguese	PAR: mine__adj	FORMS: JJ Portuguese
+
+APERTIUM: Roman	PAR: expensive__adj	FORMS: JJ oman
+   OTHER: Roman	PAR: expensive__adj	FORMS: JJ Roman
+   OTHER: Roman	PAR: mine__adj	FORMS: JJ Roman
+
+APERTIUM: Romance	PAR: expensive__adj	FORMS: JJ omance
+   OTHER: Romance	PAR: expensive__adj	FORMS: JJ Romance
+   OTHER: Romance	PAR: mine__adj	FORMS: JJ Romance
+
+APERTIUM: Russian	PAR: expensive__adj	FORMS: JJ ussian
+   OTHER: Russian	PAR: expensive__adj	FORMS: JJ Russian
+   OTHER: Russian	PAR: mine__adj	FORMS: JJ Russian
+
+APERTIUM: Scandinavian	PAR: expensive__adj	FORMS: JJ candinavian
+   OTHER: Scandinavian	PAR: expensive__adj	FORMS: JJ Scandinavian
+   OTHER: Scandinavian	PAR: mine__adj	FORMS: JJ Scandinavian
+
+APERTIUM: Somali	PAR: expensive__adj	FORMS: JJ omali
+   OTHER: Somali	PAR: expensive__adj	FORMS: JJ Somali
+   OTHER: Somali	PAR: mine__adj	FORMS: JJ Somali
+
+APERTIUM: Soviet	PAR: expensive__adj	FORMS: JJ oviet
+   OTHER: Soviet	PAR: expensive__adj	FORMS: JJ Soviet
+   OTHER: Soviet	PAR: mine__adj	FORMS: JJ Soviet
+
+APERTIUM: Spanish	PAR: expensive__adj	FORMS: JJ panish
+   OTHER: Spanish	PAR: expensive__adj	FORMS: JJ Spanish
+   OTHER: Spanish	PAR: mine__adj	FORMS: JJ Spanish
+
+APERTIUM: Sudanese	PAR: expensive__adj	FORMS: JJ udanese
+   OTHER: Sudanese	PAR: expensive__adj	FORMS: JJ Sudanese
+   OTHER: Sudanese	PAR: mine__adj	FORMS: JJ Sudanese
+
+APERTIUM: Sumerian	PAR: expensive__adj	FORMS: JJ umerian
+   OTHER: Sumerian	PAR: expensive__adj	FORMS: JJ Sumerian
+   OTHER: Sumerian	PAR: mine__adj	FORMS: JJ Sumerian
+
+APERTIUM: Swedish	PAR: expensive__adj	FORMS: JJ wedish
+   OTHER: Swedish	PAR: expensive__adj	FORMS: JJ Swedish
+   OTHER: Swedish	PAR: mine__adj	FORMS: JJ Swedish
+
+APERTIUM: Swiss	PAR: expensive__adj	FORMS: JJ wiss
+   OTHER: Swiss	PAR: expensive__adj	FORMS: JJ Swiss
+   OTHER: Swiss	PAR: mine__adj	FORMS: JJ Swiss
+
+APERTIUM: Syrian	PAR: expensive__adj	FORMS: JJ yrian
+   OTHER: Syrian	PAR: expensive__adj	FORMS: JJ Syrian
+   OTHER: Syrian	PAR: mine__adj	FORMS: JJ Syrian
+
+APERTIUM: Thai	PAR: expensive__adj	FORMS: JJ hai
+   OTHER: Thai	PAR: expensive__adj	FORMS: JJ Thai
+   OTHER: Thai	PAR: mine__adj	FORMS: JJ Thai
+
+APERTIUM: Turkish	PAR: expensive__adj	FORMS: JJ urkish
+   OTHER: Turkish	PAR: expensive__adj	FORMS: JJ Turkish
+   OTHER: Turkish	PAR: mine__adj	FORMS: JJ Turkish
+
+APERTIUM: Ukrainian	PAR: expensive__adj	FORMS: JJ krainian
+   OTHER: Ukrainian	PAR: expensive__adj	FORMS: JJ Ukrainian
+   OTHER: Ukrainian	PAR: mine__adj	FORMS: JJ Ukrainian
+
+APERTIUM: Uruguayan	PAR: expensive__adj	FORMS: JJ ruguayan
+   OTHER: Uruguayan	PAR: expensive__adj	FORMS: JJ Uruguayan
+   OTHER: Uruguayan	PAR: mine__adj	FORMS: JJ Uruguayan
+
+APERTIUM: Venetian	PAR: expensive__adj	FORMS: JJ enetian
+   OTHER: Venetian	PAR: expensive__adj	FORMS: JJ Venetian
+   OTHER: Venetian	PAR: mine__adj	FORMS: JJ Venetian
+
+APERTIUM: Victorian	PAR: expensive__adj	FORMS: JJ ictorian
+   OTHER: Victorian	PAR: expensive__adj	FORMS: JJ Victorian
+   OTHER: Victorian	PAR: mine__adj	FORMS: JJ Victorian
+
+APERTIUM: Yugoslav	PAR: expensive__adj	FORMS: JJ ugoslav
+   OTHER: Yugoslav	PAR: expensive__adj	FORMS: JJ Yugoslav
+   OTHER: Yugoslav	PAR: mine__adj	FORMS: JJ Yugoslav
+
+APERTIUM: abrupt	PAR: expensive__adj	FORMS: JJ abrupt
+   OTHER: abrupt	PAR: broad/__adj	FORMS: JJ abrupt JJR abrupter JJS abruptest
+   OTHER: abrupt	PAR: long/__adj	FORMS: JJ abrupt JJR abrupter JJS abruptest
+   OTHER: abrupt	PAR: sly/__adj	FORMS: JJ abrupt JJR abrupter JJS abruptest
+
+APERTIUM: absolute	PAR: expensive__adj	FORMS: JJ absolute
+   OTHER: absolute	PAR: nice/__adj	FORMS: JJ absolute JJR absoluter JJS absolutest
+
+APERTIUM: abstract	PAR: common/__adj	FORMS: JJ abstract JJ abstracter JJ abstractest
+   OTHER: abstract	PAR: broad/__adj	FORMS: JJ abstract JJR abstracter JJS abstractest
+   OTHER: abstract	PAR: long/__adj	FORMS: JJ abstract JJR abstracter JJS abstractest
+   OTHER: abstract	PAR: sly/__adj	FORMS: JJ abstract JJR abstracter JJS abstractest
+
+APERTIUM: absurd	PAR: expensive__adj	FORMS: JJ absurd
+   OTHER: absurd	PAR: broad/__adj	FORMS: JJ absurd JJR absurder JJS absurdest
+   OTHER: absurd	PAR: long/__adj	FORMS: JJ absurd JJR absurder JJS absurdest
+   OTHER: absurd	PAR: sly/__adj	FORMS: JJ absurd JJR absurder JJS absurdest
+
+APERTIUM: acute	PAR: expensive__adj	FORMS: JJ acute
+   OTHER: acute	PAR: nice/__adj	FORMS: JJ acute JJR acuter JJS acutest
+
+APERTIUM: adverse	PAR: expensive__adj	FORMS: JJ adverse
+   OTHER: adverse	PAR: nice/__adj	FORMS: JJ adverse JJR adverser JJS adversest
+
+APERTIUM: alive	PAR: handsome/__adj	FORMS: JJ alive JJ aliver JJ alivest
+   OTHER: alive	PAR: expensive__adj	FORMS: JJ alive
+   OTHER: alive	PAR: mine__adj	FORMS: JJ alive
+
+APERTIUM: ample	PAR: expensive__adj	FORMS: JJ ample
+   OTHER: ample	PAR: nice/__adj	FORMS: JJ ample JJR ampler JJS amplest
+
+APERTIUM: ancient	PAR: expensive__adj	FORMS: JJ ancient
+   OTHER: ancient	PAR: broad/__adj	FORMS: JJ ancient JJR ancienter JJS ancientest
+   OTHER: ancient	PAR: long/__adj	FORMS: JJ ancient JJR ancienter JJS ancientest
+   OTHER: ancient	PAR: sly/__adj	FORMS: JJ ancient JJR ancienter JJS ancientest
+
+APERTIUM: arid	PAR: expensive__adj	FORMS: JJ arid
+   OTHER: arid	PAR: broad/__adj	FORMS: JJ arid JJR arider JJS aridest
+   OTHER: arid	PAR: long/__adj	FORMS: JJ arid JJR arider JJS aridest
+   OTHER: arid	PAR: sly/__adj	FORMS: JJ arid JJR arider JJS aridest
+
+APERTIUM: austere	PAR: expensive__adj	FORMS: JJ austere
+   OTHER: austere	PAR: nice/__adj	FORMS: JJ austere JJR austerer JJS austerest
+
+APERTIUM: avid	PAR: expensive__adj	FORMS: JJ avid
+   OTHER: avid	PAR: broad/__adj	FORMS: JJ avid JJR avider JJS avidest
+   OTHER: avid	PAR: long/__adj	FORMS: JJ avid JJR avider JJS avidest
+   OTHER: avid	PAR: sly/__adj	FORMS: JJ avid JJR avider JJS avidest
+
+APERTIUM: aware	PAR: handsome/__adj	FORMS: JJ aware JJ awarer JJ awarest
+   OTHER: aware	PAR: nice/__adj	FORMS: JJ aware JJR awarer JJS awarest
+
+APERTIUM: awkward	PAR: expensive__adj	FORMS: JJ awkward
+   OTHER: awkward	PAR: broad/__adj	FORMS: JJ awkward JJR awkwarder JJS awkwardest
+   OTHER: awkward	PAR: long/__adj	FORMS: JJ awkward JJR awkwarder JJS awkwardest
+   OTHER: awkward	PAR: sly/__adj	FORMS: JJ awkward JJR awkwarder JJS awkwardest
+
+APERTIUM: awry	PAR: expensive__adj	FORMS: JJ awry
+   OTHER: awry	PAR: happ/y__adj	FORMS: JJ awry JJR awrier JJS awriest
+   OTHER: awry	PAR: lovel/y__adj	FORMS: JJ awry JJR awrier JJS awriest
+
+APERTIUM: bald	PAR: expensive__adj	FORMS: JJ bald
+   OTHER: bald	PAR: broad/__adj	FORMS: JJ bald JJR balder JJS baldest
+   OTHER: bald	PAR: long/__adj	FORMS: JJ bald JJR balder JJS baldest
+   OTHER: bald	PAR: sly/__adj	FORMS: JJ bald JJR balder JJS baldest
+
+APERTIUM: banal	PAR: expensive__adj	FORMS: JJ banal
+   OTHER: banal	PAR: broad/__adj	FORMS: JJ banal JJR banaler JJS banalest
+   OTHER: banal	PAR: long/__adj	FORMS: JJ banal JJR banaler JJS banalest
+   OTHER: banal	PAR: sly/__adj	FORMS: JJ banal JJR banaler JJS banalest
+
+APERTIUM: bare	PAR: expensive__adj	FORMS: JJ bare
+   OTHER: bare	PAR: nice/__adj	FORMS: JJ bare JJR barer JJS barest
+
+APERTIUM: beautiful	PAR: expensive__adj	FORMS: JJ beautiful
+   OTHER: beautiful	PAR: broad/__adj	FORMS: JJ beautiful JJR beautifuler JJS beautifulest
+   OTHER: beautiful	PAR: long/__adj	FORMS: JJ beautiful JJR beautifuler JJS beautifulest
+   OTHER: beautiful	PAR: sly/__adj	FORMS: JJ beautiful JJR beautifuler JJS beautifulest
+
+APERTIUM: beige	PAR: nice/__adj	FORMS: JJ beige JJR beiger JJS beigest
+   OTHER: beige	PAR: expensive__adj	FORMS: JJ beige
+   OTHER: beige	PAR: mine__adj	FORMS: JJ beige
+
+APERTIUM: benign	PAR: expensive__adj	FORMS: JJ benign
+   OTHER: benign	PAR: broad/__adj	FORMS: JJ benign JJR benigner JJS benignest
+   OTHER: benign	PAR: long/__adj	FORMS: JJ benign JJR benigner JJS benignest
+   OTHER: benign	PAR: sly/__adj	FORMS: JJ benign JJR benigner JJS benignest
+
+APERTIUM: bitter	PAR: common/__adj	FORMS: JJ bitter JJ bitterer JJ bitterest
+   OTHER: bitter	PAR: broad/__adj	FORMS: JJ bitter JJR bitterer JJS bitterest
+   OTHER: bitter	PAR: long/__adj	FORMS: JJ bitter JJR bitterer JJS bitterest
+   OTHER: bitter	PAR: sly/__adj	FORMS: JJ bitter JJR bitterer JJS bitterest
+
+APERTIUM: blatant	PAR: common/__adj	FORMS: JJ blatant JJ blatanter JJ blatantest
+   OTHER: blatant	PAR: expensive__adj	FORMS: JJ blatant
+   OTHER: blatant	PAR: mine__adj	FORMS: JJ blatant
+
+APERTIUM: blithe	PAR: expensive__adj	FORMS: JJ blithe
+   OTHER: blithe	PAR: nice/__adj	FORMS: JJ blithe JJR blither JJS blithest
+
+APERTIUM: blonde	PAR: expensive__adj	FORMS: JJ blonde
+   OTHER: blonde	PAR: nice/__adj	FORMS: JJ blonde JJR blonder JJS blondest
+
+APERTIUM: bluesy	PAR: expensive__adj	FORMS: JJ bluesy
+   OTHER: bluesy	PAR: happ/y__adj	FORMS: JJ bluesy JJR bluesier JJS bluesiest
+   OTHER: bluesy	PAR: lovel/y__adj	FORMS: JJ bluesy JJR bluesier JJS bluesiest
+
+APERTIUM: blunt	PAR: expensive__adj	FORMS: JJ blunt
+   OTHER: blunt	PAR: broad/__adj	FORMS: JJ blunt JJR blunter JJS bluntest
+   OTHER: blunt	PAR: long/__adj	FORMS: JJ blunt JJR blunter JJS bluntest
+   OTHER: blunt	PAR: sly/__adj	FORMS: JJ blunt JJR blunter JJS bluntest
+
+APERTIUM: blustery	PAR: expensive__adj	FORMS: JJ blustery
+   OTHER: blustery	PAR: happ/y__adj	FORMS: JJ blustery JJR blusterier JJS blusteriest
+   OTHER: blustery	PAR: lovel/y__adj	FORMS: JJ blustery JJR blusterier JJS blusteriest
+
+APERTIUM: brief	PAR: expensive__adj	FORMS: JJ brief
+   OTHER: brief	PAR: broad/__adj	FORMS: JJ brief JJR briefer JJS briefest
+   OTHER: brief	PAR: long/__adj	FORMS: JJ brief JJR briefer JJS briefest
+   OTHER: brief	PAR: sly/__adj	FORMS: JJ brief JJR briefer JJS briefest
+
+APERTIUM: brisk	PAR: expensive__adj	FORMS: JJ brisk
+   OTHER: brisk	PAR: broad/__adj	FORMS: JJ brisk JJR brisker JJS briskest
+   OTHER: brisk	PAR: long/__adj	FORMS: JJ brisk JJR brisker JJS briskest
+   OTHER: brisk	PAR: sly/__adj	FORMS: JJ brisk JJR brisker JJS briskest
+
+APERTIUM: brown	PAR: expensive__adj	FORMS: JJ brown
+   OTHER: brown	PAR: broad/__adj	FORMS: JJ brown JJR browner JJS brownest
+   OTHER: brown	PAR: long/__adj	FORMS: JJ brown JJR browner JJS brownest
+   OTHER: brown	PAR: sly/__adj	FORMS: JJ brown JJR browner JJS brownest
+
+APERTIUM: brunette	PAR: nice/__adj	FORMS: JJ brunette JJR brunetter JJS brunettest
+   OTHER: brunette	PAR: expensive__adj	FORMS: JJ brunette
+   OTHER: brunette	PAR: mine__adj	FORMS: JJ brunette
+
+APERTIUM: brusque	PAR: expensive__adj	FORMS: JJ brusque
+   OTHER: brusque	PAR: nice/__adj	FORMS: JJ brusque JJR brusquer JJS brusquest
+
+APERTIUM: canny	PAR: expensive__adj	FORMS: JJ canny
+   OTHER: canny	PAR: happ/y__adj	FORMS: JJ canny JJR cannier JJS canniest
+   OTHER: canny	PAR: lovel/y__adj	FORMS: JJ canny JJR cannier JJS canniest
+
+APERTIUM: capable	PAR: expensive__adj	FORMS: JJ capable
+   OTHER: capable	PAR: nice/__adj	FORMS: JJ capable JJR capabler JJS capablest
+
+APERTIUM: central	PAR: expensive__adj	FORMS: JJ central
+   OTHER: central	PAR: broad/__adj	FORMS: JJ central JJR centraler JJS centralest
+   OTHER: central	PAR: long/__adj	FORMS: JJ central JJR centraler JJS centralest
+   OTHER: central	PAR: sly/__adj	FORMS: JJ central JJR centraler JJS centralest
+
+APERTIUM: certain	PAR: expensive__adj	FORMS: JJ certain
+   OTHER: certain	PAR: broad/__adj	FORMS: JJ certain JJR certainer JJS certainest
+   OTHER: certain	PAR: long/__adj	FORMS: JJ certain JJR certainer JJS certainest
+   OTHER: certain	PAR: sly/__adj	FORMS: JJ certain JJR certainer JJS certainest
+
+APERTIUM: charming	PAR: expensive__adj	FORMS: JJ charming
+   OTHER: charming	PAR: broad/__adj	FORMS: JJ charming JJR charminger JJS charmingest
+   OTHER: charming	PAR: long/__adj	FORMS: JJ charming JJR charminger JJS charmingest
+   OTHER: charming	PAR: sly/__adj	FORMS: JJ charming JJR charminger JJS charmingest
+
+APERTIUM: chaste	PAR: expensive__adj	FORMS: JJ chaste
+   OTHER: chaste	PAR: nice/__adj	FORMS: JJ chaste JJR chaster JJS chastest
+
+APERTIUM: civil	PAR: common/__adj	FORMS: JJ civil JJ civiler JJ civilest
+   OTHER: civil	PAR: expensive__adj	FORMS: JJ civil
+   OTHER: civil	PAR: mine__adj	FORMS: JJ civil
+
+APERTIUM: coarse	PAR: expensive__adj	FORMS: JJ coarse
+   OTHER: coarse	PAR: nice/__adj	FORMS: JJ coarse JJR coarser JJS coarsest
+
+APERTIUM: common	PAR: common/__adj	FORMS: JJ common JJ commoner JJ commonest
+   OTHER: common	PAR: broad/__adj	FORMS: JJ common JJR commoner JJS commonest
+   OTHER: common	PAR: long/__adj	FORMS: JJ common JJR commoner JJS commonest
+   OTHER: common	PAR: sly/__adj	FORMS: JJ common JJR commoner JJS commonest
+
+APERTIUM: compact	PAR: expensive__adj	FORMS: JJ compact
+   OTHER: compact	PAR: broad/__adj	FORMS: JJ compact JJR compacter JJS compactest
+   OTHER: compact	PAR: long/__adj	FORMS: JJ compact JJR compacter JJS compactest
+   OTHER: compact	PAR: sly/__adj	FORMS: JJ compact JJR compacter JJS compactest
+
+APERTIUM: complete	PAR: expensive__adj	FORMS: JJ complete
+   OTHER: complete	PAR: nice/__adj	FORMS: JJ complete JJR completer JJS completest
+
+APERTIUM: complex	PAR: expensive__adj	FORMS: JJ complex
+   OTHER: complex	PAR: broad/__adj	FORMS: JJ complex JJR complexer JJS complexest
+   OTHER: complex	PAR: long/__adj	FORMS: JJ complex JJR complexer JJS complexest
+   OTHER: complex	PAR: sly/__adj	FORMS: JJ complex JJR complexer JJS complexest
+
+APERTIUM: concise	PAR: expensive__adj	FORMS: JJ concise
+   OTHER: concise	PAR: nice/__adj	FORMS: JJ concise JJR conciser JJS concisest
+
+APERTIUM: correct	PAR: expensive__adj	FORMS: JJ correct
+   OTHER: correct	PAR: broad/__adj	FORMS: JJ correct JJR correcter JJS correctest
+   OTHER: correct	PAR: long/__adj	FORMS: JJ correct JJR correcter JJS correctest
+   OTHER: correct	PAR: sly/__adj	FORMS: JJ correct JJR correcter JJS correctest
+
+APERTIUM: crass	PAR: expensive__adj	FORMS: JJ crass
+   OTHER: crass	PAR: broad/__adj	FORMS: JJ crass JJR crasser JJS crassest
+   OTHER: crass	PAR: long/__adj	FORMS: JJ crass JJR crasser JJS crassest
+   OTHER: crass	PAR: sly/__adj	FORMS: JJ crass JJR crasser JJS crassest
+
+APERTIUM: crisp	PAR: expensive__adj	FORMS: JJ crisp
+   OTHER: crisp	PAR: broad/__adj	FORMS: JJ crisp JJR crisper JJS crispest
+   OTHER: crisp	PAR: long/__adj	FORMS: JJ crisp JJR crisper JJS crispest
+   OTHER: crisp	PAR: sly/__adj	FORMS: JJ crisp JJR crisper JJS crispest
+
+APERTIUM: croaky	PAR: expensive__adj	FORMS: JJ croaky
+   OTHER: croaky	PAR: happ/y__adj	FORMS: JJ croaky JJR croakier JJS croakiest
+   OTHER: croaky	PAR: lovel/y__adj	FORMS: JJ croaky JJR croakier JJS croakiest
+
+APERTIUM: cunning	PAR: expensive__adj	FORMS: JJ cunning
+   OTHER: cunning	PAR: broad/__adj	FORMS: JJ cunning JJR cunninger JJS cunningest
+   OTHER: cunning	PAR: long/__adj	FORMS: JJ cunning JJR cunninger JJS cunningest
+   OTHER: cunning	PAR: sly/__adj	FORMS: JJ cunning JJR cunninger JJS cunningest
+
+APERTIUM: curious	PAR: expensive__adj	FORMS: JJ curious
+   OTHER: curious	PAR: broad/__adj	FORMS: JJ curious JJR curiouser JJS curiousest
+   OTHER: curious	PAR: long/__adj	FORMS: JJ curious JJR curiouser JJS curiousest
+   OTHER: curious	PAR: sly/__adj	FORMS: JJ curious JJR curiouser JJS curiousest
+
+APERTIUM: curt	PAR: expensive__adj	FORMS: JJ curt
+   OTHER: curt	PAR: broad/__adj	FORMS: JJ curt JJR curter JJS curtest
+   OTHER: curt	PAR: long/__adj	FORMS: JJ curt JJR curter JJS curtest
+   OTHER: curt	PAR: sly/__adj	FORMS: JJ curt JJR curter JJS curtest
+
+APERTIUM: curvy	PAR: expensive__adj	FORMS: JJ curvy
+   OTHER: curvy	PAR: happ/y__adj	FORMS: JJ curvy JJR curvier JJS curviest
+   OTHER: curvy	PAR: lovel/y__adj	FORMS: JJ curvy JJR curvier JJS curviest
+
+APERTIUM: damp	PAR: expensive__adj	FORMS: JJ damp
+   OTHER: damp	PAR: broad/__adj	FORMS: JJ damp JJR damper JJS dampest
+   OTHER: damp	PAR: long/__adj	FORMS: JJ damp JJR damper JJS dampest
+   OTHER: damp	PAR: sly/__adj	FORMS: JJ damp JJR damper JJS dampest
+
+APERTIUM: dank	PAR: expensive__adj	FORMS: JJ dank
+   OTHER: dank	PAR: broad/__adj	FORMS: JJ dank JJR danker JJS dankest
+   OTHER: dank	PAR: long/__adj	FORMS: JJ dank JJR danker JJS dankest
+   OTHER: dank	PAR: sly/__adj	FORMS: JJ dank JJR danker JJS dankest
+
+APERTIUM: dapper	PAR: expensive__adj	FORMS: JJ dapper
+   OTHER: dapper	PAR: broad/__adj	FORMS: JJ dapper JJR dapperer JJS dapperest
+   OTHER: dapper	PAR: long/__adj	FORMS: JJ dapper JJR dapperer JJS dapperest
+   OTHER: dapper	PAR: sly/__adj	FORMS: JJ dapper JJR dapperer JJS dapperest
+
+APERTIUM: dead	PAR: expensive__adj	FORMS: JJ dead
+   OTHER: dead	PAR: broad/__adj	FORMS: JJ dead JJR deader JJS deadest
+   OTHER: dead	PAR: long/__adj	FORMS: JJ dead JJR deader JJS deadest
+   OTHER: dead	PAR: sly/__adj	FORMS: JJ dead JJR deader JJS deadest
+
+APERTIUM: deadly	PAR: expensive__adj	FORMS: JJ deadly
+   OTHER: deadly	PAR: happ/y__adj	FORMS: JJ deadly JJR deadlier JJS deadliest
+   OTHER: deadly	PAR: lovel/y__adj	FORMS: JJ deadly JJR deadlier JJS deadliest
+
+APERTIUM: decent	PAR: expensive__adj	FORMS: JJ decent
+   OTHER: decent	PAR: broad/__adj	FORMS: JJ decent JJR decenter JJS decentest
+   OTHER: decent	PAR: long/__adj	FORMS: JJ decent JJR decenter JJS decentest
+   OTHER: decent	PAR: sly/__adj	FORMS: JJ decent JJR decenter JJS decentest
+
+APERTIUM: dire	PAR: expensive__adj	FORMS: JJ dire
+   OTHER: dire	PAR: nice/__adj	FORMS: JJ dire JJR direr JJS direst
+
+APERTIUM: direct	PAR: expensive__adj	FORMS: JJ direct
+   OTHER: direct	PAR: broad/__adj	FORMS: JJ direct JJR directer JJS directest
+   OTHER: direct	PAR: long/__adj	FORMS: JJ direct JJR directer JJS directest
+   OTHER: direct	PAR: sly/__adj	FORMS: JJ direct JJR directer JJS directest
+
+APERTIUM: discreet	PAR: common/__adj	FORMS: JJ discreet JJ discreeter JJ discreetest
+   OTHER: discreet	PAR: broad/__adj	FORMS: JJ discreet JJR discreeter JJS discreetest
+   OTHER: discreet	PAR: long/__adj	FORMS: JJ discreet JJR discreeter JJS discreetest
+   OTHER: discreet	PAR: sly/__adj	FORMS: JJ discreet JJR discreeter JJS discreetest
+
+APERTIUM: discrete	PAR: expensive__adj	FORMS: JJ discrete
+   OTHER: discrete	PAR: nice/__adj	FORMS: JJ discrete JJR discreter JJS discretest
+
+APERTIUM: distinct	PAR: expensive__adj	FORMS: JJ distinct
+   OTHER: distinct	PAR: broad/__adj	FORMS: JJ distinct JJR distincter JJS distinctest
+   OTHER: distinct	PAR: long/__adj	FORMS: JJ distinct JJR distincter JJS distinctest
+   OTHER: distinct	PAR: sly/__adj	FORMS: JJ distinct JJR distincter JJS distinctest
+
+APERTIUM: divine	PAR: expensive__adj	FORMS: JJ divine
+   OTHER: divine	PAR: nice/__adj	FORMS: JJ divine JJR diviner JJS divinest
+
+APERTIUM: docile	PAR: expensive__adj	FORMS: JJ docile
+   OTHER: docile	PAR: nice/__adj	FORMS: JJ docile JJR dociler JJS docilest
+
+APERTIUM: doughy	PAR: expensive__adj	FORMS: JJ doughy
+   OTHER: doughy	PAR: happ/y__adj	FORMS: JJ doughy JJR doughier JJS doughiest
+   OTHER: doughy	PAR: lovel/y__adj	FORMS: JJ doughy JJR doughier JJS doughiest
+
+APERTIUM: dowdy	PAR: expensive__adj	FORMS: JJ dowdy
+   OTHER: dowdy	PAR: happ/y__adj	FORMS: JJ dowdy JJR dowdier JJS dowdiest
+   OTHER: dowdy	PAR: lovel/y__adj	FORMS: JJ dowdy JJR dowdier JJS dowdiest
+
+APERTIUM: droll	PAR: expensive__adj	FORMS: JJ droll
+   OTHER: droll	PAR: broad/__adj	FORMS: JJ droll JJR droller JJS drollest
+   OTHER: droll	PAR: long/__adj	FORMS: JJ droll JJR droller JJS drollest
+   OTHER: droll	PAR: sly/__adj	FORMS: JJ droll JJR droller JJS drollest
+
+APERTIUM: drunk	PAR: expensive__adj	FORMS: JJ drunk
+   OTHER: drunk	PAR: broad/__adj	FORMS: JJ drunk JJR drunker JJS drunkest
+   OTHER: drunk	PAR: long/__adj	FORMS: JJ drunk JJR drunker JJS drunkest
+   OTHER: drunk	PAR: sly/__adj	FORMS: JJ drunk JJR drunker JJS drunkest
+
+APERTIUM: dry	PAR: happ/y__adj	FORMS: JJ dry JJR drier JJS driest
+   OTHER: dry	PAR: sh/y__adj	FORMS: JJ dry JJR drier JJR dryer JJS driest JJS dryest
+
+APERTIUM: eager	PAR: expensive__adj	FORMS: JJ eager
+   OTHER: eager	PAR: broad/__adj	FORMS: JJ eager JJR eagerer JJS eagerest
+   OTHER: eager	PAR: long/__adj	FORMS: JJ eager JJR eagerer JJS eagerest
+   OTHER: eager	PAR: sly/__adj	FORMS: JJ eager JJR eagerer JJS eagerest
+
+APERTIUM: eerie	PAR: expensive__adj	FORMS: JJ eerie
+   OTHER: eerie	PAR: nice/__adj	FORMS: JJ eerie JJR eerier JJS eeriest
+
+APERTIUM: eighteenth	PAR: second__adj	FORMS: JJ eighteenth JJ eighteenth
+   OTHER: eighteenth	PAR: expensive__adj	FORMS: JJ eighteenth
+   OTHER: eighteenth	PAR: mine__adj	FORMS: JJ eighteenth
+
+APERTIUM: eighth	PAR: second__adj	FORMS: JJ eighth JJ eighth
+   OTHER: eighth	PAR: expensive__adj	FORMS: JJ eighth
+   OTHER: eighth	PAR: mine__adj	FORMS: JJ eighth
+
+APERTIUM: eightieth	PAR: second__adj	FORMS: JJ eightieth JJ eightieth
+   OTHER: eightieth	PAR: expensive__adj	FORMS: JJ eightieth
+   OTHER: eightieth	PAR: mine__adj	FORMS: JJ eightieth
+
+APERTIUM: eighty-eighth	PAR: second__adj	FORMS: JJ eighty-eighth JJ eighty-eighth
+   OTHER: eighty-eighth	PAR: expensive__adj	FORMS: JJ eighty-eighth
+   OTHER: eighty-eighth	PAR: mine__adj	FORMS: JJ eighty-eighth
+
+APERTIUM: eighty-fifth	PAR: second__adj	FORMS: JJ eighty-fifth JJ eighty-fifth
+   OTHER: eighty-fifth	PAR: expensive__adj	FORMS: JJ eighty-fifth
+   OTHER: eighty-fifth	PAR: mine__adj	FORMS: JJ eighty-fifth
+
+APERTIUM: eighty-first	PAR: second__adj	FORMS: JJ eighty-first JJ eighty-first
+   OTHER: eighty-first	PAR: expensive__adj	FORMS: JJ eighty-first
+   OTHER: eighty-first	PAR: mine__adj	FORMS: JJ eighty-first
+
+APERTIUM: eighty-fourth	PAR: second__adj	FORMS: JJ eighty-fourth JJ eighty-fourth
+   OTHER: eighty-fourth	PAR: expensive__adj	FORMS: JJ eighty-fourth
+   OTHER: eighty-fourth	PAR: mine__adj	FORMS: JJ eighty-fourth
+
+APERTIUM: eighty-ninth	PAR: second__adj	FORMS: JJ eighty-ninth JJ eighty-ninth
+   OTHER: eighty-ninth	PAR: expensive__adj	FORMS: JJ eighty-ninth
+   OTHER: eighty-ninth	PAR: mine__adj	FORMS: JJ eighty-ninth
+
+APERTIUM: eighty-second	PAR: second__adj	FORMS: JJ eighty-second JJ eighty-second
+   OTHER: eighty-second	PAR: expensive__adj	FORMS: JJ eighty-second
+   OTHER: eighty-second	PAR: mine__adj	FORMS: JJ eighty-second
+
+APERTIUM: eighty-seventh	PAR: second__adj	FORMS: JJ eighty-seventh JJ eighty-seventh
+   OTHER: eighty-seventh	PAR: expensive__adj	FORMS: JJ eighty-seventh
+   OTHER: eighty-seventh	PAR: mine__adj	FORMS: JJ eighty-seventh
+
+APERTIUM: eighty-sixth	PAR: second__adj	FORMS: JJ eighty-sixth JJ eighty-sixth
+   OTHER: eighty-sixth	PAR: expensive__adj	FORMS: JJ eighty-sixth
+   OTHER: eighty-sixth	PAR: mine__adj	FORMS: JJ eighty-sixth
+
+APERTIUM: eighty-third	PAR: second__adj	FORMS: JJ eighty-third JJ eighty-third
+   OTHER: eighty-third	PAR: expensive__adj	FORMS: JJ eighty-third
+   OTHER: eighty-third	PAR: mine__adj	FORMS: JJ eighty-third
+
+APERTIUM: eleventh	PAR: second__adj	FORMS: JJ eleventh JJ eleventh
+   OTHER: eleventh	PAR: expensive__adj	FORMS: JJ eleventh
+   OTHER: eleventh	PAR: mine__adj	FORMS: JJ eleventh
+
+APERTIUM: even	PAR: expensive__adj	FORMS: JJ even
+   OTHER: even	PAR: broad/__adj	FORMS: JJ even JJR evener JJS evenest
+   OTHER: even	PAR: long/__adj	FORMS: JJ even JJR evener JJS evenest
+   OTHER: even	PAR: sly/__adj	FORMS: JJ even JJR evener JJS evenest
+
+APERTIUM: exact	PAR: common/__adj	FORMS: JJ exact JJ exacter JJ exactest
+   OTHER: exact	PAR: broad/__adj	FORMS: JJ exact JJR exacter JJS exactest
+   OTHER: exact	PAR: long/__adj	FORMS: JJ exact JJR exacter JJS exactest
+   OTHER: exact	PAR: sly/__adj	FORMS: JJ exact JJR exacter JJS exactest
+
+APERTIUM: extreme	PAR: handsome/__adj	FORMS: JJ extreme JJ extremer JJ extremest
+   OTHER: extreme	PAR: nice/__adj	FORMS: JJ extreme JJR extremer JJS extremest
+
+APERTIUM: far-right	PAR: common/__adj	FORMS: JJ far-right JJ far-righter JJ far-rightest
+   OTHER: far-right	PAR: expensive__adj	FORMS: JJ far-right
+   OTHER: far-right	PAR: mine__adj	FORMS: JJ far-right
+
+APERTIUM: ferny	PAR: expensive__adj	FORMS: JJ ferny
+   OTHER: ferny	PAR: happ/y__adj	FORMS: JJ ferny JJR fernier JJS ferniest
+   OTHER: ferny	PAR: lovel/y__adj	FORMS: JJ ferny JJR fernier JJS ferniest
+
+APERTIUM: fertile	PAR: expensive__adj	FORMS: JJ fertile
+   OTHER: fertile	PAR: nice/__adj	FORMS: JJ fertile JJR fertiler JJS fertilest
+
+APERTIUM: fervent	PAR: expensive__adj	FORMS: JJ fervent
+   OTHER: fervent	PAR: broad/__adj	FORMS: JJ fervent JJR ferventer JJS ferventest
+   OTHER: fervent	PAR: long/__adj	FORMS: JJ fervent JJR ferventer JJS ferventest
+   OTHER: fervent	PAR: sly/__adj	FORMS: JJ fervent JJR ferventer JJS ferventest
+
+APERTIUM: fervid	PAR: expensive__adj	FORMS: JJ fervid
+   OTHER: fervid	PAR: broad/__adj	FORMS: JJ fervid JJR fervider JJS fervidest
+   OTHER: fervid	PAR: long/__adj	FORMS: JJ fervid JJR fervider JJS fervidest
+   OTHER: fervid	PAR: sly/__adj	FORMS: JJ fervid JJR fervider JJS fervidest
+
+APERTIUM: fickle	PAR: expensive__adj	FORMS: JJ fickle
+   OTHER: fickle	PAR: nice/__adj	FORMS: JJ fickle JJR fickler JJS ficklest
+
+APERTIUM: fiery	PAR: expensive__adj	FORMS: JJ fiery
+   OTHER: fiery	PAR: happ/y__adj	FORMS: JJ fiery JJR fierier JJS fieriest
+   OTHER: fiery	PAR: lovel/y__adj	FORMS: JJ fiery JJR fierier JJS fieriest
+
+APERTIUM: fifteenth	PAR: second__adj	FORMS: JJ fifteenth JJ fifteenth
+   OTHER: fifteenth	PAR: expensive__adj	FORMS: JJ fifteenth
+   OTHER: fifteenth	PAR: mine__adj	FORMS: JJ fifteenth
+
+APERTIUM: fifth	PAR: second__adj	FORMS: JJ fifth JJ fifth
+   OTHER: fifth	PAR: expensive__adj	FORMS: JJ fifth
+   OTHER: fifth	PAR: mine__adj	FORMS: JJ fifth
+
+APERTIUM: fiftieth	PAR: second__adj	FORMS: JJ fiftieth JJ fiftieth
+   OTHER: fiftieth	PAR: expensive__adj	FORMS: JJ fiftieth
+   OTHER: fiftieth	PAR: mine__adj	FORMS: JJ fiftieth
+
+APERTIUM: fifty-eighth	PAR: second__adj	FORMS: JJ fifty-eighth JJ fifty-eighth
+   OTHER: fifty-eighth	PAR: expensive__adj	FORMS: JJ fifty-eighth
+   OTHER: fifty-eighth	PAR: mine__adj	FORMS: JJ fifty-eighth
+
+APERTIUM: fifty-fifth	PAR: second__adj	FORMS: JJ fifty-fifth JJ fifty-fifth
+   OTHER: fifty-fifth	PAR: expensive__adj	FORMS: JJ fifty-fifth
+   OTHER: fifty-fifth	PAR: mine__adj	FORMS: JJ fifty-fifth
+
+APERTIUM: fifty-first	PAR: second__adj	FORMS: JJ fifty-first JJ fifty-first
+   OTHER: fifty-first	PAR: expensive__adj	FORMS: JJ fifty-first
+   OTHER: fifty-first	PAR: mine__adj	FORMS: JJ fifty-first
+
+APERTIUM: fifty-fourth	PAR: second__adj	FORMS: JJ fifty-fourth JJ fifty-fourth
+   OTHER: fifty-fourth	PAR: expensive__adj	FORMS: JJ fifty-fourth
+   OTHER: fifty-fourth	PAR: mine__adj	FORMS: JJ fifty-fourth
+
+APERTIUM: fifty-ninth	PAR: second__adj	FORMS: JJ fifty-ninth JJ fifty-ninth
+   OTHER: fifty-ninth	PAR: expensive__adj	FORMS: JJ fifty-ninth
+   OTHER: fifty-ninth	PAR: mine__adj	FORMS: JJ fifty-ninth
+
+APERTIUM: fifty-second	PAR: second__adj	FORMS: JJ fifty-second JJ fifty-second
+   OTHER: fifty-second	PAR: expensive__adj	FORMS: JJ fifty-second
+   OTHER: fifty-second	PAR: mine__adj	FORMS: JJ fifty-second
+
+APERTIUM: fifty-seventh	PAR: second__adj	FORMS: JJ fifty-seventh JJ fifty-seventh
+   OTHER: fifty-seventh	PAR: expensive__adj	FORMS: JJ fifty-seventh
+   OTHER: fifty-seventh	PAR: mine__adj	FORMS: JJ fifty-seventh
+
+APERTIUM: fifty-sixth	PAR: second__adj	FORMS: JJ fifty-sixth JJ fifty-sixth
+   OTHER: fifty-sixth	PAR: expensive__adj	FORMS: JJ fifty-sixth
+   OTHER: fifty-sixth	PAR: mine__adj	FORMS: JJ fifty-sixth
+
+APERTIUM: fifty-third	PAR: second__adj	FORMS: JJ fifty-third JJ fifty-third
+   OTHER: fifty-third	PAR: expensive__adj	FORMS: JJ fifty-third
+   OTHER: fifty-third	PAR: mine__adj	FORMS: JJ fifty-third
+
+APERTIUM: first	PAR: second__adj	FORMS: JJ first JJ first
+   OTHER: first	PAR: expensive__adj	FORMS: JJ first
+   OTHER: first	PAR: mine__adj	FORMS: JJ first
+
+APERTIUM: flimsy	PAR: expensive__adj	FORMS: JJ flimsy
+   OTHER: flimsy	PAR: happ/y__adj	FORMS: JJ flimsy JJR flimsier JJS flimsiest
+   OTHER: flimsy	PAR: lovel/y__adj	FORMS: JJ flimsy JJR flimsier JJS flimsiest
+
+APERTIUM: florid	PAR: expensive__adj	FORMS: JJ florid
+   OTHER: florid	PAR: broad/__adj	FORMS: JJ florid JJR florider JJS floridest
+   OTHER: florid	PAR: long/__adj	FORMS: JJ florid JJR florider JJS floridest
+   OTHER: florid	PAR: sly/__adj	FORMS: JJ florid JJR florider JJS floridest
+
+APERTIUM: folksy	PAR: expensive__adj	FORMS: JJ folksy
+   OTHER: folksy	PAR: happ/y__adj	FORMS: JJ folksy JJR folksier JJS folksiest
+   OTHER: folksy	PAR: lovel/y__adj	FORMS: JJ folksy JJR folksier JJS folksiest
+
+APERTIUM: foolish	PAR: expensive__adj	FORMS: JJ foolish
+   OTHER: foolish	PAR: broad/__adj	FORMS: JJ foolish JJR foolisher JJS foolishest
+   OTHER: foolish	PAR: long/__adj	FORMS: JJ foolish JJR foolisher JJS foolishest
+   OTHER: foolish	PAR: sly/__adj	FORMS: JJ foolish JJR foolisher JJS foolishest
+
+APERTIUM: forlorn	PAR: expensive__adj	FORMS: JJ forlorn
+   OTHER: forlorn	PAR: broad/__adj	FORMS: JJ forlorn JJR forlorner JJS forlornest
+   OTHER: forlorn	PAR: long/__adj	FORMS: JJ forlorn JJR forlorner JJS forlornest
+   OTHER: forlorn	PAR: sly/__adj	FORMS: JJ forlorn JJR forlorner JJS forlornest
+
+APERTIUM: fortieth	PAR: second__adj	FORMS: JJ fortieth JJ fortieth
+   OTHER: fortieth	PAR: expensive__adj	FORMS: JJ fortieth
+   OTHER: fortieth	PAR: mine__adj	FORMS: JJ fortieth
+
+APERTIUM: forty-eighth	PAR: second__adj	FORMS: JJ forty-eighth JJ forty-eighth
+   OTHER: forty-eighth	PAR: expensive__adj	FORMS: JJ forty-eighth
+   OTHER: forty-eighth	PAR: mine__adj	FORMS: JJ forty-eighth
+
+APERTIUM: forty-fifth	PAR: second__adj	FORMS: JJ forty-fifth JJ forty-fifth
+   OTHER: forty-fifth	PAR: expensive__adj	FORMS: JJ forty-fifth
+   OTHER: forty-fifth	PAR: mine__adj	FORMS: JJ forty-fifth
+
+APERTIUM: forty-first	PAR: second__adj	FORMS: JJ forty-first JJ forty-first
+   OTHER: forty-first	PAR: expensive__adj	FORMS: JJ forty-first
+   OTHER: forty-first	PAR: mine__adj	FORMS: JJ forty-first
+
+APERTIUM: forty-fourth	PAR: second__adj	FORMS: JJ forty-fourth JJ forty-fourth
+   OTHER: forty-fourth	PAR: expensive__adj	FORMS: JJ forty-fourth
+   OTHER: forty-fourth	PAR: mine__adj	FORMS: JJ forty-fourth
+
+APERTIUM: forty-ninth	PAR: second__adj	FORMS: JJ forty-ninth JJ forty-ninth
+   OTHER: forty-ninth	PAR: expensive__adj	FORMS: JJ forty-ninth
+   OTHER: forty-ninth	PAR: mine__adj	FORMS: JJ forty-ninth
+
+APERTIUM: forty-second	PAR: second__adj	FORMS: JJ forty-second JJ forty-second
+   OTHER: forty-second	PAR: expensive__adj	FORMS: JJ forty-second
+   OTHER: forty-second	PAR: mine__adj	FORMS: JJ forty-second
+
+APERTIUM: forty-seventh	PAR: second__adj	FORMS: JJ forty-seventh JJ forty-seventh
+   OTHER: forty-seventh	PAR: expensive__adj	FORMS: JJ forty-seventh
+   OTHER: forty-seventh	PAR: mine__adj	FORMS: JJ forty-seventh
+
+APERTIUM: forty-sixth	PAR: second__adj	FORMS: JJ forty-sixth JJ forty-sixth
+   OTHER: forty-sixth	PAR: expensive__adj	FORMS: JJ forty-sixth
+   OTHER: forty-sixth	PAR: mine__adj	FORMS: JJ forty-sixth
+
+APERTIUM: forty-third	PAR: second__adj	FORMS: JJ forty-third JJ forty-third
+   OTHER: forty-third	PAR: expensive__adj	FORMS: JJ forty-third
+   OTHER: forty-third	PAR: mine__adj	FORMS: JJ forty-third
+
+APERTIUM: fourteenth	PAR: second__adj	FORMS: JJ fourteenth JJ fourteenth
+   OTHER: fourteenth	PAR: expensive__adj	FORMS: JJ fourteenth
+   OTHER: fourteenth	PAR: mine__adj	FORMS: JJ fourteenth
+
+APERTIUM: fourth	PAR: second__adj	FORMS: JJ fourth JJ fourth
+   OTHER: fourth	PAR: expensive__adj	FORMS: JJ fourth
+   OTHER: fourth	PAR: mine__adj	FORMS: JJ fourth
+
+APERTIUM: fragile	PAR: handsome/__adj	FORMS: JJ fragile JJ fragiler JJ fragilest
+   OTHER: fragile	PAR: nice/__adj	FORMS: JJ fragile JJR fragiler JJS fragilest
+
+APERTIUM: frank	PAR: expensive__adj	FORMS: JJ frank
+   OTHER: frank	PAR: broad/__adj	FORMS: JJ frank JJR franker JJS frankest
+   OTHER: frank	PAR: long/__adj	FORMS: JJ frank JJR franker JJS frankest
+   OTHER: frank	PAR: sly/__adj	FORMS: JJ frank JJR franker JJS frankest
+
+APERTIUM: fraught	PAR: expensive__adj	FORMS: JJ fraught
+   OTHER: fraught	PAR: broad/__adj	FORMS: JJ fraught JJR fraughter JJS fraughtest
+   OTHER: fraught	PAR: long/__adj	FORMS: JJ fraught JJR fraughter JJS fraughtest
+   OTHER: fraught	PAR: sly/__adj	FORMS: JJ fraught JJR fraughter JJS fraughtest
+
+APERTIUM: frequent	PAR: expensive__adj	FORMS: JJ frequent
+   OTHER: frequent	PAR: broad/__adj	FORMS: JJ frequent JJR frequenter JJS frequentest
+   OTHER: frequent	PAR: long/__adj	FORMS: JJ frequent JJR frequenter JJS frequentest
+   OTHER: frequent	PAR: sly/__adj	FORMS: JJ frequent JJR frequenter JJS frequentest
+
+APERTIUM: frumpy	PAR: expensive__adj	FORMS: JJ frumpy
+   OTHER: frumpy	PAR: happ/y__adj	FORMS: JJ frumpy JJR frumpier JJS frumpiest
+   OTHER: frumpy	PAR: lovel/y__adj	FORMS: JJ frumpy JJR frumpier JJS frumpiest
+
+APERTIUM: fulsome	PAR: expensive__adj	FORMS: JJ fulsome
+   OTHER: fulsome	PAR: nice/__adj	FORMS: JJ fulsome JJR fulsomer JJS fulsomest
+
+APERTIUM: fun	PAR: fun/__adj	FORMS: JJ fun JJR funer JJR funner JJS funest JJS funnest
+   OTHER: fun	PAR: thin/__adj	FORMS: JJ fun JJR funner JJS funnest
+
+APERTIUM: futile	PAR: expensive__adj	FORMS: JJ futile
+   OTHER: futile	PAR: nice/__adj	FORMS: JJ futile JJR futiler JJS futilest
+
+APERTIUM: gallant	PAR: expensive__adj	FORMS: JJ gallant
+   OTHER: gallant	PAR: broad/__adj	FORMS: JJ gallant JJR gallanter JJS gallantest
+   OTHER: gallant	PAR: long/__adj	FORMS: JJ gallant JJR gallanter JJS gallantest
+   OTHER: gallant	PAR: sly/__adj	FORMS: JJ gallant JJR gallanter JJS gallantest
+
+APERTIUM: gay	PAR: expensive__adj	FORMS: JJ gay
+   OTHER: gay	PAR: broad/__adj	FORMS: JJ gay JJR gayer JJS gayest
+   OTHER: gay	PAR: long/__adj	FORMS: JJ gay JJR gayer JJS gayest
+   OTHER: gay	PAR: sly/__adj	FORMS: JJ gay JJR gayer JJS gayest
+
+APERTIUM: ghastly	PAR: expensive__adj	FORMS: JJ ghastly
+   OTHER: ghastly	PAR: happ/y__adj	FORMS: JJ ghastly JJR ghastlier JJS ghastliest
+   OTHER: ghastly	PAR: lovel/y__adj	FORMS: JJ ghastly JJR ghastlier JJS ghastliest
+
+APERTIUM: glassy	PAR: expensive__adj	FORMS: JJ glassy
+   OTHER: glassy	PAR: happ/y__adj	FORMS: JJ glassy JJR glassier JJS glassiest
+   OTHER: glassy	PAR: lovel/y__adj	FORMS: JJ glassy JJR glassier JJS glassiest
+
+APERTIUM: golden	PAR: expensive__adj	FORMS: JJ golden
+   OTHER: golden	PAR: broad/__adj	FORMS: JJ golden JJR goldener JJS goldenest
+   OTHER: golden	PAR: long/__adj	FORMS: JJ golden JJR goldener JJS goldenest
+   OTHER: golden	PAR: sly/__adj	FORMS: JJ golden JJR goldener JJS goldenest
+
+APERTIUM: grand	PAR: expensive__adj	FORMS: JJ grand
+   OTHER: grand	PAR: broad/__adj	FORMS: JJ grand JJR grander JJS grandest
+   OTHER: grand	PAR: long/__adj	FORMS: JJ grand JJR grander JJS grandest
+   OTHER: grand	PAR: sly/__adj	FORMS: JJ grand JJR grander JJS grandest
+
+APERTIUM: grisly	PAR: expensive__adj	FORMS: JJ grisly
+   OTHER: grisly	PAR: happ/y__adj	FORMS: JJ grisly JJR grislier JJS grisliest
+   OTHER: grisly	PAR: lovel/y__adj	FORMS: JJ grisly JJR grislier JJS grisliest
+
+APERTIUM: grizzly	PAR: expensive__adj	FORMS: JJ grizzly
+   OTHER: grizzly	PAR: happ/y__adj	FORMS: JJ grizzly JJR grizzlier JJS grizzliest
+   OTHER: grizzly	PAR: lovel/y__adj	FORMS: JJ grizzly JJR grizzlier JJS grizzliest
+
+APERTIUM: grotesque	PAR: expensive__adj	FORMS: JJ grotesque
+   OTHER: grotesque	PAR: nice/__adj	FORMS: JJ grotesque JJR grotesquer JJS grotesquest
+
+APERTIUM: gruesome	PAR: expensive__adj	FORMS: JJ gruesome
+   OTHER: gruesome	PAR: nice/__adj	FORMS: JJ gruesome JJR gruesomer JJS gruesomest
+
+APERTIUM: handsome	PAR: handsome/__adj	FORMS: JJ handsome JJ handsomer JJ handsomest
+   OTHER: handsome	PAR: nice/__adj	FORMS: JJ handsome JJR handsomer JJS handsomest
+
+APERTIUM: heavenly	PAR: expensive__adj	FORMS: JJ heavenly
+   OTHER: heavenly	PAR: happ/y__adj	FORMS: JJ heavenly JJR heavenlier JJS heavenliest
+   OTHER: heavenly	PAR: lovel/y__adj	FORMS: JJ heavenly JJR heavenlier JJS heavenliest
+
+APERTIUM: hoarse	PAR: expensive__adj	FORMS: JJ hoarse
+   OTHER: hoarse	PAR: nice/__adj	FORMS: JJ hoarse JJR hoarser JJS hoarsest
+
+APERTIUM: hollow	PAR: expensive__adj	FORMS: JJ hollow
+   OTHER: hollow	PAR: broad/__adj	FORMS: JJ hollow JJR hollower JJS hollowest
+   OTHER: hollow	PAR: long/__adj	FORMS: JJ hollow JJR hollower JJS hollowest
+   OTHER: hollow	PAR: sly/__adj	FORMS: JJ hollow JJR hollower JJS hollowest
+
+APERTIUM: honest	PAR: expensive__adj	FORMS: JJ honest
+   OTHER: honest	PAR: broad/__adj	FORMS: JJ honest JJR honester JJS honestest
+   OTHER: honest	PAR: long/__adj	FORMS: JJ honest JJR honester JJS honestest
+   OTHER: honest	PAR: sly/__adj	FORMS: JJ honest JJR honester JJS honestest
+
+APERTIUM: horrid	PAR: expensive__adj	FORMS: JJ horrid
+   OTHER: horrid	PAR: broad/__adj	FORMS: JJ horrid JJR horrider JJS horridest
+   OTHER: horrid	PAR: long/__adj	FORMS: JJ horrid JJR horrider JJS horridest
+   OTHER: horrid	PAR: sly/__adj	FORMS: JJ horrid JJR horrider JJS horridest
+
+APERTIUM: huffy	PAR: expensive__adj	FORMS: JJ huffy
+   OTHER: huffy	PAR: happ/y__adj	FORMS: JJ huffy JJR huffier JJS huffiest
+   OTHER: huffy	PAR: lovel/y__adj	FORMS: JJ huffy JJR huffier JJS huffiest
+
+APERTIUM: huge	PAR: expensive__adj	FORMS: JJ huge
+   OTHER: huge	PAR: nice/__adj	FORMS: JJ huge JJR huger JJS hugest
+
+APERTIUM: human	PAR: common/__adj	FORMS: JJ human JJ humaner JJ humanest
+   OTHER: human	PAR: broad/__adj	FORMS: JJ human JJR humaner JJS humanest
+   OTHER: human	PAR: long/__adj	FORMS: JJ human JJR humaner JJS humanest
+   OTHER: human	PAR: sly/__adj	FORMS: JJ human JJR humaner JJS humanest
+
+APERTIUM: humane	PAR: expensive__adj	FORMS: JJ humane
+   OTHER: humane	PAR: nice/__adj	FORMS: JJ humane JJR humaner JJS humanest
+
+APERTIUM: humid	PAR: expensive__adj	FORMS: JJ humid
+   OTHER: humid	PAR: broad/__adj	FORMS: JJ humid JJR humider JJS humidest
+   OTHER: humid	PAR: long/__adj	FORMS: JJ humid JJR humider JJS humidest
+   OTHER: humid	PAR: sly/__adj	FORMS: JJ humid JJR humider JJS humidest
+
+APERTIUM: hundredth	PAR: second__adj	FORMS: JJ hundredth JJ hundredth
+   OTHER: hundredth	PAR: expensive__adj	FORMS: JJ hundredth
+   OTHER: hundredth	PAR: mine__adj	FORMS: JJ hundredth
+
+APERTIUM: idle	PAR: expensive__adj	FORMS: JJ idle
+   OTHER: idle	PAR: nice/__adj	FORMS: JJ idle JJR idler JJS idlest
+
+APERTIUM: ignoble	PAR: expensive__adj	FORMS: JJ ignoble
+   OTHER: ignoble	PAR: nice/__adj	FORMS: JJ ignoble JJR ignobler JJS ignoblest
+
+APERTIUM: immense	PAR: expensive__adj	FORMS: JJ immense
+   OTHER: immense	PAR: nice/__adj	FORMS: JJ immense JJR immenser JJS immensest
+
+APERTIUM: immortal	PAR: common/__adj	FORMS: JJ immortal JJ immortaler JJ immortalest
+   OTHER: immortal	PAR: expensive__adj	FORMS: JJ immortal
+   OTHER: immortal	PAR: mine__adj	FORMS: JJ immortal
+
+APERTIUM: impolite	PAR: expensive__adj	FORMS: JJ impolite
+   OTHER: impolite	PAR: nice/__adj	FORMS: JJ impolite JJR impoliter JJS impolitest
+
+APERTIUM: inane	PAR: expensive__adj	FORMS: JJ inane
+   OTHER: inane	PAR: nice/__adj	FORMS: JJ inane JJR inaner JJS inanest
+
+APERTIUM: indecent	PAR: expensive__adj	FORMS: JJ indecent
+   OTHER: indecent	PAR: broad/__adj	FORMS: JJ indecent JJR indecenter JJS indecentest
+   OTHER: indecent	PAR: long/__adj	FORMS: JJ indecent JJR indecenter JJS indecentest
+   OTHER: indecent	PAR: sly/__adj	FORMS: JJ indecent JJR indecenter JJS indecentest
+
+APERTIUM: inept	PAR: expensive__adj	FORMS: JJ inept
+   OTHER: inept	PAR: broad/__adj	FORMS: JJ inept JJR inepter JJS ineptest
+   OTHER: inept	PAR: long/__adj	FORMS: JJ inept JJR inepter JJS ineptest
+   OTHER: inept	PAR: sly/__adj	FORMS: JJ inept JJR inepter JJS ineptest
+
+APERTIUM: inert	PAR: expensive__adj	FORMS: JJ inert
+   OTHER: inert	PAR: broad/__adj	FORMS: JJ inert JJR inerter JJS inertest
+   OTHER: inert	PAR: long/__adj	FORMS: JJ inert JJR inerter JJS inertest
+   OTHER: inert	PAR: sly/__adj	FORMS: JJ inert JJR inerter JJS inertest
+
+APERTIUM: infirm	PAR: expensive__adj	FORMS: JJ infirm
+   OTHER: infirm	PAR: broad/__adj	FORMS: JJ infirm JJR infirmer JJS infirmest
+   OTHER: infirm	PAR: long/__adj	FORMS: JJ infirm JJR infirmer JJS infirmest
+   OTHER: infirm	PAR: sly/__adj	FORMS: JJ infirm JJR infirmer JJS infirmest
+
+APERTIUM: innocent	PAR: expensive__adj	FORMS: JJ innocent
+   OTHER: innocent	PAR: broad/__adj	FORMS: JJ innocent JJR innocenter JJS innocentest
+   OTHER: innocent	PAR: long/__adj	FORMS: JJ innocent JJR innocenter JJS innocentest
+   OTHER: innocent	PAR: sly/__adj	FORMS: JJ innocent JJR innocenter JJS innocentest
+
+APERTIUM: insane	PAR: expensive__adj	FORMS: JJ insane
+   OTHER: insane	PAR: nice/__adj	FORMS: JJ insane JJR insaner JJS insanest
+
+APERTIUM: intact	PAR: common/__adj	FORMS: JJ intact JJ intacter JJ intactest
+   OTHER: intact	PAR: expensive__adj	FORMS: JJ intact
+   OTHER: intact	PAR: mine__adj	FORMS: JJ intact
+
+APERTIUM: intense	PAR: expensive__adj	FORMS: JJ intense
+   OTHER: intense	PAR: nice/__adj	FORMS: JJ intense JJR intenser JJS intensest
+
+APERTIUM: irate	PAR: expensive__adj	FORMS: JJ irate
+   OTHER: irate	PAR: nice/__adj	FORMS: JJ irate JJR irater JJS iratest
+
+APERTIUM: irregular	PAR: common/__adj	FORMS: JJ irregular JJ irregularer JJ irregularest
+   OTHER: irregular	PAR: expensive__adj	FORMS: JJ irregular
+   OTHER: irregular	PAR: mine__adj	FORMS: JJ irregular
+
+APERTIUM: jittery	PAR: expensive__adj	FORMS: JJ jittery
+   OTHER: jittery	PAR: happ/y__adj	FORMS: JJ jittery JJR jitterier JJS jitteriest
+   OTHER: jittery	PAR: lovel/y__adj	FORMS: JJ jittery JJR jitterier JJS jitteriest
+
+APERTIUM: khaki	PAR: long/__adj	FORMS: JJ khaki JJR khakier JJS khakiest
+   OTHER: khaki	PAR: expensive__adj	FORMS: JJ khaki
+   OTHER: khaki	PAR: mine__adj	FORMS: JJ khaki
+
+APERTIUM: kingly	PAR: expensive__adj	FORMS: JJ kingly
+   OTHER: kingly	PAR: happ/y__adj	FORMS: JJ kingly JJR kinglier JJS kingliest
+   OTHER: kingly	PAR: lovel/y__adj	FORMS: JJ kingly JJR kinglier JJS kingliest
+
+APERTIUM: kitschy	PAR: expensive__adj	FORMS: JJ kitschy
+   OTHER: kitschy	PAR: happ/y__adj	FORMS: JJ kitschy JJR kitschier JJS kitschiest
+   OTHER: kitschy	PAR: lovel/y__adj	FORMS: JJ kitschy JJR kitschier JJS kitschiest
+
+APERTIUM: lacklustre	PAR: meag/re__adj	FORMS: JJ lackluster
+   OTHER: lacklustre	PAR: expensive__adj	FORMS: JJ lacklustre
+   OTHER: lacklustre	PAR: mine__adj	FORMS: JJ lacklustre
+
+APERTIUM: lavish	PAR: expensive__adj	FORMS: JJ lavish
+   OTHER: lavish	PAR: broad/__adj	FORMS: JJ lavish JJR lavisher JJS lavishest
+   OTHER: lavish	PAR: long/__adj	FORMS: JJ lavish JJR lavisher JJS lavishest
+   OTHER: lavish	PAR: sly/__adj	FORMS: JJ lavish JJR lavisher JJS lavishest
+
+APERTIUM: lax	PAR: expensive__adj	FORMS: JJ lax
+   OTHER: lax	PAR: broad/__adj	FORMS: JJ lax JJR laxer JJS laxest
+   OTHER: lax	PAR: long/__adj	FORMS: JJ lax JJR laxer JJS laxest
+   OTHER: lax	PAR: sly/__adj	FORMS: JJ lax JJR laxer JJS laxest
+
+APERTIUM: left	PAR: expensive__adj	FORMS: JJ left
+   OTHER: left	PAR: broad/__adj	FORMS: JJ left JJR lefter JJS leftest
+   OTHER: left	PAR: long/__adj	FORMS: JJ left JJR lefter JJS leftest
+   OTHER: left	PAR: sly/__adj	FORMS: JJ left JJR lefter JJS leftest
+
+APERTIUM: livid	PAR: expensive__adj	FORMS: JJ livid
+   OTHER: livid	PAR: broad/__adj	FORMS: JJ livid JJR livider JJS lividest
+   OTHER: livid	PAR: long/__adj	FORMS: JJ livid JJR livider JJS lividest
+   OTHER: livid	PAR: sly/__adj	FORMS: JJ livid JJR livider JJS lividest
+
+APERTIUM: loamy	PAR: expensive__adj	FORMS: JJ loamy
+   OTHER: loamy	PAR: happ/y__adj	FORMS: JJ loamy JJR loamier JJS loamiest
+   OTHER: loamy	PAR: lovel/y__adj	FORMS: JJ loamy JJR loamier JJS loamiest
+
+APERTIUM: lucid	PAR: expensive__adj	FORMS: JJ lucid
+   OTHER: lucid	PAR: broad/__adj	FORMS: JJ lucid JJR lucider JJS lucidest
+   OTHER: lucid	PAR: long/__adj	FORMS: JJ lucid JJR lucider JJS lucidest
+   OTHER: lucid	PAR: sly/__adj	FORMS: JJ lucid JJR lucider JJS lucidest
+
+APERTIUM: lumpy	PAR: expensive__adj	FORMS: JJ lumpy
+   OTHER: lumpy	PAR: happ/y__adj	FORMS: JJ lumpy JJR lumpier JJS lumpiest
+   OTHER: lumpy	PAR: lovel/y__adj	FORMS: JJ lumpy JJR lumpier JJS lumpiest
+
+APERTIUM: lush	PAR: expensive__adj	FORMS: JJ lush
+   OTHER: lush	PAR: broad/__adj	FORMS: JJ lush JJR lusher JJS lushest
+   OTHER: lush	PAR: long/__adj	FORMS: JJ lush JJR lusher JJS lushest
+   OTHER: lush	PAR: sly/__adj	FORMS: JJ lush JJR lusher JJS lushest
+
+APERTIUM: main	PAR: expensive__adj	FORMS: JJ main
+   OTHER: main	PAR: broad/__adj	FORMS: JJ main JJR mainer JJS mainest
+   OTHER: main	PAR: long/__adj	FORMS: JJ main JJR mainer JJS mainest
+   OTHER: main	PAR: sly/__adj	FORMS: JJ main JJR mainer JJS mainest
+
+APERTIUM: mature	PAR: expensive__adj	FORMS: JJ mature
+   OTHER: mature	PAR: nice/__adj	FORMS: JJ mature JJR maturer JJS maturest
+
+APERTIUM: meagre	PAR: expensive__adj	FORMS: JJ meagre
+   OTHER: meagre	PAR: nice/__adj	FORMS: JJ meagre JJR meagrer JJS meagrest
+
+APERTIUM: mellow	PAR: common/__adj	FORMS: JJ mellow JJ mellower JJ mellowest
+   OTHER: mellow	PAR: broad/__adj	FORMS: JJ mellow JJR mellower JJS mellowest
+   OTHER: mellow	PAR: long/__adj	FORMS: JJ mellow JJR mellower JJS mellowest
+   OTHER: mellow	PAR: sly/__adj	FORMS: JJ mellow JJR mellower JJS mellowest
+
+APERTIUM: mere	PAR: expensive__adj	FORMS: JJ mere
+   OTHER: mere	PAR: nice/__adj	FORMS: JJ mere JJR merer JJS merest
+
+APERTIUM: millionth	PAR: second__adj	FORMS: JJ millionth JJ millionth
+   OTHER: millionth	PAR: expensive__adj	FORMS: JJ millionth
+   OTHER: millionth	PAR: mine__adj	FORMS: JJ millionth
+
+APERTIUM: modern	PAR: common/__adj	FORMS: JJ modern JJ moderner JJ modernest
+   OTHER: modern	PAR: broad/__adj	FORMS: JJ modern JJR moderner JJS modernest
+   OTHER: modern	PAR: long/__adj	FORMS: JJ modern JJR moderner JJS modernest
+   OTHER: modern	PAR: sly/__adj	FORMS: JJ modern JJR moderner JJS modernest
+
+APERTIUM: modest	PAR: common/__adj	FORMS: JJ modest JJ modester JJ modestest
+   OTHER: modest	PAR: broad/__adj	FORMS: JJ modest JJR modester JJS modestest
+   OTHER: modest	PAR: long/__adj	FORMS: JJ modest JJR modester JJS modestest
+   OTHER: modest	PAR: sly/__adj	FORMS: JJ modest JJR modester JJS modestest
+
+APERTIUM: moist	PAR: expensive__adj	FORMS: JJ moist
+   OTHER: moist	PAR: broad/__adj	FORMS: JJ moist JJR moister JJS moistest
+   OTHER: moist	PAR: long/__adj	FORMS: JJ moist JJR moister JJS moistest
+   OTHER: moist	PAR: sly/__adj	FORMS: JJ moist JJR moister JJS moistest
+
+APERTIUM: moot	PAR: expensive__adj	FORMS: JJ moot
+   OTHER: moot	PAR: broad/__adj	FORMS: JJ moot JJR mooter JJS mootest
+   OTHER: moot	PAR: long/__adj	FORMS: JJ moot JJR mooter JJS mootest
+   OTHER: moot	PAR: sly/__adj	FORMS: JJ moot JJR mooter JJS mootest
+
+APERTIUM: mouldy	PAR: expensive__adj	FORMS: JJ mouldy
+   OTHER: mouldy	PAR: happ/y__adj	FORMS: JJ mouldy JJR mouldier JJS mouldiest
+   OTHER: mouldy	PAR: lovel/y__adj	FORMS: JJ mouldy JJR mouldier JJS mouldiest
+
+APERTIUM: mundane	PAR: expensive__adj	FORMS: JJ mundane
+   OTHER: mundane	PAR: nice/__adj	FORMS: JJ mundane JJR mundaner JJS mundanest
+
+APERTIUM: naive	PAR: expensive__adj	FORMS: JJ naive
+   OTHER: naive	PAR: nice/__adj	FORMS: JJ naive JJR naiver JJS naivest
+
+APERTIUM: naked	PAR: expensive__adj	FORMS: JJ naked
+   OTHER: naked	PAR: broad/__adj	FORMS: JJ naked JJR nakeder JJS nakedest
+   OTHER: naked	PAR: long/__adj	FORMS: JJ naked JJR nakeder JJS nakedest
+   OTHER: naked	PAR: sly/__adj	FORMS: JJ naked JJR nakeder JJS nakedest
+
+APERTIUM: navy	PAR: happ/y__adj	FORMS: JJ navy JJR navier JJS naviest
+   OTHER: navy	PAR: expensive__adj	FORMS: JJ navy
+   OTHER: navy	PAR: mine__adj	FORMS: JJ navy
+
+APERTIUM: neat	PAR: expensive__adj	FORMS: JJ neat
+   OTHER: neat	PAR: broad/__adj	FORMS: JJ neat JJR neater JJS neatest
+   OTHER: neat	PAR: long/__adj	FORMS: JJ neat JJR neater JJS neatest
+   OTHER: neat	PAR: sly/__adj	FORMS: JJ neat JJR neater JJS neatest
+
+APERTIUM: newsworthy	PAR: expensive__adj	FORMS: JJ newsworthy
+   OTHER: newsworthy	PAR: happ/y__adj	FORMS: JJ newsworthy JJR newsworthier JJS newsworthiest
+   OTHER: newsworthy	PAR: lovel/y__adj	FORMS: JJ newsworthy JJR newsworthier JJS newsworthiest
+
+APERTIUM: nineteenth	PAR: second__adj	FORMS: JJ nineteenth JJ nineteenth
+   OTHER: nineteenth	PAR: expensive__adj	FORMS: JJ nineteenth
+   OTHER: nineteenth	PAR: mine__adj	FORMS: JJ nineteenth
+
+APERTIUM: ninetieth	PAR: second__adj	FORMS: JJ ninetieth JJ ninetieth
+   OTHER: ninetieth	PAR: expensive__adj	FORMS: JJ ninetieth
+   OTHER: ninetieth	PAR: mine__adj	FORMS: JJ ninetieth
+
+APERTIUM: ninety-eighth	PAR: second__adj	FORMS: JJ ninety-eighth JJ ninety-eighth
+   OTHER: ninety-eighth	PAR: expensive__adj	FORMS: JJ ninety-eighth
+   OTHER: ninety-eighth	PAR: mine__adj	FORMS: JJ ninety-eighth
+
+APERTIUM: ninety-fourth	PAR: second__adj	FORMS: JJ ninety-fourth JJ ninety-fourth
+   OTHER: ninety-fourth	PAR: expensive__adj	FORMS: JJ ninety-fourth
+   OTHER: ninety-fourth	PAR: mine__adj	FORMS: JJ ninety-fourth
+
+APERTIUM: ninety-second	PAR: second__adj	FORMS: JJ ninety-second JJ ninety-second
+   OTHER: ninety-second	PAR: expensive__adj	FORMS: JJ ninety-second
+   OTHER: ninety-second	PAR: mine__adj	FORMS: JJ ninety-second
+
+APERTIUM: ninety-seventh	PAR: second__adj	FORMS: JJ ninety-seventh JJ ninety-seventh
+   OTHER: ninety-seventh	PAR: expensive__adj	FORMS: JJ ninety-seventh
+   OTHER: ninety-seventh	PAR: mine__adj	FORMS: JJ ninety-seventh
+
+APERTIUM: ninety-sixth	PAR: second__adj	FORMS: JJ ninety-sixth JJ ninety-sixth
+   OTHER: ninety-sixth	PAR: expensive__adj	FORMS: JJ ninety-sixth
+   OTHER: ninety-sixth	PAR: mine__adj	FORMS: JJ ninety-sixth
+
+APERTIUM: ninth	PAR: second__adj	FORMS: JJ ninth JJ ninth
+   OTHER: ninth	PAR: expensive__adj	FORMS: JJ ninth
+   OTHER: ninth	PAR: mine__adj	FORMS: JJ ninth
+
+APERTIUM: noteworthy	PAR: expensive__adj	FORMS: JJ noteworthy
+   OTHER: noteworthy	PAR: happ/y__adj	FORMS: JJ noteworthy JJR noteworthier JJS noteworthiest
+   OTHER: noteworthy	PAR: lovel/y__adj	FORMS: JJ noteworthy JJR noteworthier JJS noteworthiest
+
+APERTIUM: numb	PAR: expensive__adj	FORMS: JJ numb
+   OTHER: numb	PAR: broad/__adj	FORMS: JJ numb JJR number JJS numbest
+   OTHER: numb	PAR: long/__adj	FORMS: JJ numb JJR number JJS numbest
+   OTHER: numb	PAR: sly/__adj	FORMS: JJ numb JJR number JJS numbest
+
+APERTIUM: obese	PAR: expensive__adj	FORMS: JJ obese
+   OTHER: obese	PAR: nice/__adj	FORMS: JJ obese JJR obeser JJS obesest
+
+APERTIUM: oblique	PAR: expensive__adj	FORMS: JJ oblique
+   OTHER: oblique	PAR: nice/__adj	FORMS: JJ oblique JJR obliquer JJS obliquest
+
+APERTIUM: obscene	PAR: expensive__adj	FORMS: JJ obscene
+   OTHER: obscene	PAR: nice/__adj	FORMS: JJ obscene JJR obscener JJS obscenest
+
+APERTIUM: obscure	PAR: expensive__adj	FORMS: JJ obscure
+   OTHER: obscure	PAR: nice/__adj	FORMS: JJ obscure JJR obscurer JJS obscurest
+
+APERTIUM: obtuse	PAR: expensive__adj	FORMS: JJ obtuse
+   OTHER: obtuse	PAR: nice/__adj	FORMS: JJ obtuse JJR obtuser JJS obtusest
+
+APERTIUM: opaque	PAR: expensive__adj	FORMS: JJ opaque
+   OTHER: opaque	PAR: nice/__adj	FORMS: JJ opaque JJR opaquer JJS opaquest
+
+APERTIUM: open	PAR: expensive__adj	FORMS: JJ open
+   OTHER: open	PAR: broad/__adj	FORMS: JJ open JJR opener JJS openest
+   OTHER: open	PAR: long/__adj	FORMS: JJ open JJR opener JJS openest
+   OTHER: open	PAR: sly/__adj	FORMS: JJ open JJR opener JJS openest
+
+APERTIUM: orange	PAR: expensive__adj	FORMS: JJ orange
+   OTHER: orange	PAR: nice/__adj	FORMS: JJ orange JJR oranger JJS orangest
+
+APERTIUM: ordinary	PAR: expensive__adj	FORMS: JJ ordinary
+   OTHER: ordinary	PAR: happ/y__adj	FORMS: JJ ordinary JJR ordinarier JJS ordinariest
+   OTHER: ordinary	PAR: lovel/y__adj	FORMS: JJ ordinary JJR ordinarier JJS ordinariest
+
+APERTIUM: ornate	PAR: expensive__adj	FORMS: JJ ornate
+   OTHER: ornate	PAR: nice/__adj	FORMS: JJ ornate JJR ornater JJS ornatest
+
+APERTIUM: pale	PAR: handsome/__adj	FORMS: JJ pale JJ paler JJ palest
+   OTHER: pale	PAR: nice/__adj	FORMS: JJ pale JJR paler JJS palest
+
+APERTIUM: panicky	PAR: expensive__adj	FORMS: JJ panicky
+   OTHER: panicky	PAR: happ/y__adj	FORMS: JJ panicky JJR panickier JJS panickiest
+   OTHER: panicky	PAR: lovel/y__adj	FORMS: JJ panicky JJR panickier JJS panickiest
+
+APERTIUM: papery	PAR: expensive__adj	FORMS: JJ papery
+   OTHER: papery	PAR: happ/y__adj	FORMS: JJ papery JJR paperier JJS paperiest
+   OTHER: papery	PAR: lovel/y__adj	FORMS: JJ papery JJR paperier JJS paperiest
+
+APERTIUM: patient	PAR: expensive__adj	FORMS: JJ patient
+   OTHER: patient	PAR: broad/__adj	FORMS: JJ patient JJR patienter JJS patientest
+   OTHER: patient	PAR: long/__adj	FORMS: JJ patient JJR patienter JJS patientest
+   OTHER: patient	PAR: sly/__adj	FORMS: JJ patient JJR patienter JJS patientest
+
+APERTIUM: perfect	PAR: expensive__adj	FORMS: JJ perfect
+   OTHER: perfect	PAR: broad/__adj	FORMS: JJ perfect JJR perfecter JJS perfectest
+   OTHER: perfect	PAR: long/__adj	FORMS: JJ perfect JJR perfecter JJS perfectest
+   OTHER: perfect	PAR: sly/__adj	FORMS: JJ perfect JJR perfecter JJS perfectest
+
+APERTIUM: perverse	PAR: expensive__adj	FORMS: JJ perverse
+   OTHER: perverse	PAR: nice/__adj	FORMS: JJ perverse JJR perverser JJS perversest
+
+APERTIUM: petty	PAR: expensive__adj	FORMS: JJ petty
+   OTHER: petty	PAR: happ/y__adj	FORMS: JJ petty JJR pettier JJS pettiest
+   OTHER: petty	PAR: lovel/y__adj	FORMS: JJ petty JJR pettier JJS pettiest
+
+APERTIUM: pithy	PAR: expensive__adj	FORMS: JJ pithy
+   OTHER: pithy	PAR: happ/y__adj	FORMS: JJ pithy JJR pithier JJS pithiest
+   OTHER: pithy	PAR: lovel/y__adj	FORMS: JJ pithy JJR pithier JJS pithiest
+
+APERTIUM: pleasant	PAR: expensive__adj	FORMS: JJ pleasant
+   OTHER: pleasant	PAR: broad/__adj	FORMS: JJ pleasant JJR pleasanter JJS pleasantest
+   OTHER: pleasant	PAR: long/__adj	FORMS: JJ pleasant JJR pleasanter JJS pleasantest
+   OTHER: pleasant	PAR: sly/__adj	FORMS: JJ pleasant JJR pleasanter JJS pleasantest
+
+APERTIUM: plump	PAR: expensive__adj	FORMS: JJ plump
+   OTHER: plump	PAR: broad/__adj	FORMS: JJ plump JJR plumper JJS plumpest
+   OTHER: plump	PAR: long/__adj	FORMS: JJ plump JJR plumper JJS plumpest
+   OTHER: plump	PAR: sly/__adj	FORMS: JJ plump JJR plumper JJS plumpest
+
+APERTIUM: plush	PAR: expensive__adj	FORMS: JJ plush
+   OTHER: plush	PAR: broad/__adj	FORMS: JJ plush JJR plusher JJS plushest
+   OTHER: plush	PAR: long/__adj	FORMS: JJ plush JJR plusher JJS plushest
+   OTHER: plush	PAR: sly/__adj	FORMS: JJ plush JJR plusher JJS plushest
+
+APERTIUM: plushy	PAR: expensive__adj	FORMS: JJ plushy
+   OTHER: plushy	PAR: happ/y__adj	FORMS: JJ plushy JJR plushier JJS plushiest
+   OTHER: plushy	PAR: lovel/y__adj	FORMS: JJ plushy JJR plushier JJS plushiest
+
+APERTIUM: polite	PAR: expensive__adj	FORMS: JJ polite
+   OTHER: polite	PAR: nice/__adj	FORMS: JJ polite JJR politer JJS politest
+
+APERTIUM: positive	PAR: expensive__adj	FORMS: JJ positive
+   OTHER: positive	PAR: nice/__adj	FORMS: JJ positive JJR positiver JJS positivest
+
+APERTIUM: possible	PAR: expensive__adj	FORMS: JJ possible
+   OTHER: possible	PAR: nice/__adj	FORMS: JJ possible JJR possibler JJS possiblest
+
+APERTIUM: praiseworthy	PAR: expensive__adj	FORMS: JJ praiseworthy
+   OTHER: praiseworthy	PAR: happ/y__adj	FORMS: JJ praiseworthy JJR praiseworthier JJS praiseworthiest
+   OTHER: praiseworthy	PAR: lovel/y__adj	FORMS: JJ praiseworthy JJR praiseworthier JJS praiseworthiest
+
+APERTIUM: precise	PAR: expensive__adj	FORMS: JJ precise
+   OTHER: precise	PAR: nice/__adj	FORMS: JJ precise JJR preciser JJS precisest
+
+APERTIUM: priestly	PAR: expensive__adj	FORMS: JJ priestly
+   OTHER: priestly	PAR: happ/y__adj	FORMS: JJ priestly JJR priestlier JJS priestliest
+   OTHER: priestly	PAR: lovel/y__adj	FORMS: JJ priestly JJR priestlier JJS priestliest
+
+APERTIUM: prim	PAR: expensive__adj	FORMS: JJ prim
+   OTHER: prim	PAR: dim/__adj	FORMS: JJ prim JJR primmer JJS primmest
+   OTHER: prim	PAR: glum/__adj	FORMS: JJ prim JJR primmer JJS primmest
+
+APERTIUM: primeval	PAR: long/__adj	FORMS: JJ primeval JJR primevaler JJS primevalest
+   OTHER: primeval	PAR: expensive__adj	FORMS: JJ primeval
+   OTHER: primeval	PAR: mine__adj	FORMS: JJ primeval
+
+APERTIUM: princely	PAR: expensive__adj	FORMS: JJ princely
+   OTHER: princely	PAR: happ/y__adj	FORMS: JJ princely JJR princelier JJS princeliest
+   OTHER: princely	PAR: lovel/y__adj	FORMS: JJ princely JJR princelier JJS princeliest
+
+APERTIUM: private	PAR: expensive__adj	FORMS: JJ private
+   OTHER: private	PAR: nice/__adj	FORMS: JJ private JJR privater JJS privatest
+
+APERTIUM: profound	PAR: common/__adj	FORMS: JJ profound JJ profounder JJ profoundest
+   OTHER: profound	PAR: broad/__adj	FORMS: JJ profound JJR profounder JJS profoundest
+   OTHER: profound	PAR: long/__adj	FORMS: JJ profound JJR profounder JJS profoundest
+   OTHER: profound	PAR: sly/__adj	FORMS: JJ profound JJR profounder JJS profoundest
+
+APERTIUM: prone	PAR: expensive__adj	FORMS: JJ prone
+   OTHER: prone	PAR: nice/__adj	FORMS: JJ prone JJR proner JJS pronest
+
+APERTIUM: proper	PAR: expensive__adj	FORMS: JJ proper
+   OTHER: proper	PAR: broad/__adj	FORMS: JJ proper JJR properer JJS properest
+   OTHER: proper	PAR: long/__adj	FORMS: JJ proper JJR properer JJS properest
+   OTHER: proper	PAR: sly/__adj	FORMS: JJ proper JJR properer JJS properest
+
+APERTIUM: purple	PAR: expensive__adj	FORMS: JJ purple
+   OTHER: purple	PAR: nice/__adj	FORMS: JJ purple JJR purpler JJS purplest
+
+APERTIUM: queer	PAR: expensive__adj	FORMS: JJ queer
+   OTHER: queer	PAR: broad/__adj	FORMS: JJ queer JJR queerer JJS queerest
+   OTHER: queer	PAR: long/__adj	FORMS: JJ queer JJR queerer JJS queerest
+   OTHER: queer	PAR: sly/__adj	FORMS: JJ queer JJR queerer JJS queerest
+
+APERTIUM: rabid	PAR: expensive__adj	FORMS: JJ rabid
+   OTHER: rabid	PAR: broad/__adj	FORMS: JJ rabid JJR rabider JJS rabidest
+   OTHER: rabid	PAR: long/__adj	FORMS: JJ rabid JJR rabider JJS rabidest
+   OTHER: rabid	PAR: sly/__adj	FORMS: JJ rabid JJR rabider JJS rabidest
+
+APERTIUM: random	PAR: common/__adj	FORMS: JJ random JJ randomer JJ randomest
+   OTHER: random	PAR: expensive__adj	FORMS: JJ random
+   OTHER: random	PAR: mine__adj	FORMS: JJ random
+
+APERTIUM: rapid	PAR: common/__adj	FORMS: JJ rapid JJ rapider JJ rapidest
+   OTHER: rapid	PAR: broad/__adj	FORMS: JJ rapid JJR rapider JJS rapidest
+   OTHER: rapid	PAR: long/__adj	FORMS: JJ rapid JJR rapider JJS rapidest
+   OTHER: rapid	PAR: sly/__adj	FORMS: JJ rapid JJR rapider JJS rapidest
+
+APERTIUM: rash	PAR: expensive__adj	FORMS: JJ rash
+   OTHER: rash	PAR: broad/__adj	FORMS: JJ rash JJR rasher JJS rashest
+   OTHER: rash	PAR: long/__adj	FORMS: JJ rash JJR rasher JJS rashest
+   OTHER: rash	PAR: sly/__adj	FORMS: JJ rash JJR rasher JJS rashest
+
+APERTIUM: raunchy	PAR: expensive__adj	FORMS: JJ raunchy
+   OTHER: raunchy	PAR: happ/y__adj	FORMS: JJ raunchy JJR raunchier JJS raunchiest
+   OTHER: raunchy	PAR: lovel/y__adj	FORMS: JJ raunchy JJR raunchier JJS raunchiest
+
+APERTIUM: real	PAR: common/__adj	FORMS: JJ real JJ realer JJ realest
+   OTHER: real	PAR: broad/__adj	FORMS: JJ real JJR realer JJS realest
+   OTHER: real	PAR: long/__adj	FORMS: JJ real JJR realer JJS realest
+   OTHER: real	PAR: sly/__adj	FORMS: JJ real JJR realer JJS realest
+
+APERTIUM: recent	PAR: expensive__adj	FORMS: JJ recent
+   OTHER: recent	PAR: broad/__adj	FORMS: JJ recent JJR recenter JJS recentest
+   OTHER: recent	PAR: long/__adj	FORMS: JJ recent JJR recenter JJS recentest
+   OTHER: recent	PAR: sly/__adj	FORMS: JJ recent JJR recenter JJS recentest
+
+APERTIUM: remote	PAR: expensive__adj	FORMS: JJ remote
+   OTHER: remote	PAR: nice/__adj	FORMS: JJ remote JJR remoter JJS remotest
+
+APERTIUM: rickety	PAR: expensive__adj	FORMS: JJ rickety
+   OTHER: rickety	PAR: happ/y__adj	FORMS: JJ rickety JJR ricketier JJS ricketiest
+   OTHER: rickety	PAR: lovel/y__adj	FORMS: JJ rickety JJR ricketier JJS ricketiest
+
+APERTIUM: rife	PAR: expensive__adj	FORMS: JJ rife
+   OTHER: rife	PAR: nice/__adj	FORMS: JJ rife JJR rifer JJS rifest
+
+APERTIUM: right	PAR: common/__adj	FORMS: JJ right JJ righter JJ rightest
+   OTHER: right	PAR: broad/__adj	FORMS: JJ right JJR righter JJS rightest
+   OTHER: right	PAR: long/__adj	FORMS: JJ right JJR righter JJS rightest
+   OTHER: right	PAR: sly/__adj	FORMS: JJ right JJR righter JJS rightest
+
+APERTIUM: rigid	PAR: expensive__adj	FORMS: JJ rigid
+   OTHER: rigid	PAR: broad/__adj	FORMS: JJ rigid JJR rigider JJS rigidest
+   OTHER: rigid	PAR: long/__adj	FORMS: JJ rigid JJR rigider JJS rigidest
+   OTHER: rigid	PAR: sly/__adj	FORMS: JJ rigid JJR rigider JJS rigidest
+
+APERTIUM: ripe	PAR: handsome/__adj	FORMS: JJ ripe JJ riper JJ ripest
+   OTHER: ripe	PAR: nice/__adj	FORMS: JJ ripe JJR riper JJS ripest
+
+APERTIUM: robust	PAR: common/__adj	FORMS: JJ robust JJ robuster JJ robustest
+   OTHER: robust	PAR: broad/__adj	FORMS: JJ robust JJR robuster JJS robustest
+   OTHER: robust	PAR: long/__adj	FORMS: JJ robust JJR robuster JJS robustest
+   OTHER: robust	PAR: sly/__adj	FORMS: JJ robust JJR robuster JJS robustest
+
+APERTIUM: ropy	PAR: expensive__adj	FORMS: JJ ropy
+   OTHER: ropy	PAR: happ/y__adj	FORMS: JJ ropy JJR ropier JJS ropiest
+   OTHER: ropy	PAR: lovel/y__adj	FORMS: JJ ropy JJR ropier JJS ropiest
+
+APERTIUM: rotund	PAR: expensive__adj	FORMS: JJ rotund
+   OTHER: rotund	PAR: broad/__adj	FORMS: JJ rotund JJR rotunder JJS rotundest
+   OTHER: rotund	PAR: long/__adj	FORMS: JJ rotund JJR rotunder JJS rotundest
+   OTHER: rotund	PAR: sly/__adj	FORMS: JJ rotund JJR rotunder JJS rotundest
+
+APERTIUM: rowdy	PAR: expensive__adj	FORMS: JJ rowdy
+   OTHER: rowdy	PAR: happ/y__adj	FORMS: JJ rowdy JJR rowdier JJS rowdiest
+   OTHER: rowdy	PAR: lovel/y__adj	FORMS: JJ rowdy JJR rowdier JJS rowdiest
+
+APERTIUM: ruddy	PAR: expensive__adj	FORMS: JJ ruddy
+   OTHER: ruddy	PAR: happ/y__adj	FORMS: JJ ruddy JJR ruddier JJS ruddiest
+   OTHER: ruddy	PAR: lovel/y__adj	FORMS: JJ ruddy JJR ruddier JJS ruddiest
+
+APERTIUM: rugged	PAR: expensive__adj	FORMS: JJ rugged
+   OTHER: rugged	PAR: broad/__adj	FORMS: JJ rugged JJR ruggeder JJS ruggedest
+   OTHER: rugged	PAR: long/__adj	FORMS: JJ rugged JJR ruggeder JJS ruggedest
+   OTHER: rugged	PAR: sly/__adj	FORMS: JJ rugged JJR ruggeder JJS ruggedest
+
+APERTIUM: runty	PAR: expensive__adj	FORMS: JJ runty
+   OTHER: runty	PAR: happ/y__adj	FORMS: JJ runty JJR runtier JJS runtiest
+   OTHER: runty	PAR: lovel/y__adj	FORMS: JJ runty JJR runtier JJS runtiest
+
+APERTIUM: savory	PAR: expensive__adj	FORMS: JJ savory
+   OTHER: savory	PAR: happ/y__adj	FORMS: JJ savory JJR savorier JJS savoriest
+   OTHER: savory	PAR: lovel/y__adj	FORMS: JJ savory JJR savorier JJS savoriest
+
+APERTIUM: scant	PAR: expensive__adj	FORMS: JJ scant
+   OTHER: scant	PAR: broad/__adj	FORMS: JJ scant JJR scanter JJS scantest
+   OTHER: scant	PAR: long/__adj	FORMS: JJ scant JJR scanter JJS scantest
+   OTHER: scant	PAR: sly/__adj	FORMS: JJ scant JJR scanter JJS scantest
+
+APERTIUM: scarce	PAR: expensive__adj	FORMS: JJ scarce
+   OTHER: scarce	PAR: nice/__adj	FORMS: JJ scarce JJR scarcer JJS scarcest
+
+APERTIUM: scared	PAR: expensive__adj	FORMS: JJ scared
+   OTHER: scared	PAR: broad/__adj	FORMS: JJ scared JJR scareder JJS scaredest
+   OTHER: scared	PAR: long/__adj	FORMS: JJ scared JJR scareder JJS scaredest
+   OTHER: scared	PAR: sly/__adj	FORMS: JJ scared JJR scareder JJS scaredest
+
+APERTIUM: scratchy	PAR: expensive__adj	FORMS: JJ scratchy
+   OTHER: scratchy	PAR: happ/y__adj	FORMS: JJ scratchy JJR scratchier JJS scratchiest
+   OTHER: scratchy	PAR: lovel/y__adj	FORMS: JJ scratchy JJR scratchier JJS scratchiest
+
+APERTIUM: scrawny	PAR: expensive__adj	FORMS: JJ scrawny
+   OTHER: scrawny	PAR: happ/y__adj	FORMS: JJ scrawny JJR scrawnier JJS scrawniest
+   OTHER: scrawny	PAR: lovel/y__adj	FORMS: JJ scrawny JJR scrawnier JJS scrawniest
+
+APERTIUM: scurfy	PAR: expensive__adj	FORMS: JJ scurfy
+   OTHER: scurfy	PAR: happ/y__adj	FORMS: JJ scurfy JJR scurfier JJS scurfiest
+   OTHER: scurfy	PAR: lovel/y__adj	FORMS: JJ scurfy JJR scurfier JJS scurfiest
+
+APERTIUM: seasick	PAR: expensive__adj	FORMS: JJ seasick
+   OTHER: seasick	PAR: broad/__adj	FORMS: JJ seasick JJR seasicker JJS seasickest
+   OTHER: seasick	PAR: long/__adj	FORMS: JJ seasick JJR seasicker JJS seasickest
+   OTHER: seasick	PAR: sly/__adj	FORMS: JJ seasick JJR seasicker JJS seasickest
+
+APERTIUM: seaworthy	PAR: expensive__adj	FORMS: JJ seaworthy
+   OTHER: seaworthy	PAR: happ/y__adj	FORMS: JJ seaworthy JJR seaworthier JJS seaworthiest
+   OTHER: seaworthy	PAR: lovel/y__adj	FORMS: JJ seaworthy JJR seaworthier JJS seaworthiest
+
+APERTIUM: secret	PAR: expensive__adj	FORMS: JJ secret
+   OTHER: secret	PAR: broad/__adj	FORMS: JJ secret JJR secreter JJS secretest
+   OTHER: secret	PAR: long/__adj	FORMS: JJ secret JJR secreter JJS secretest
+   OTHER: secret	PAR: sly/__adj	FORMS: JJ secret JJR secreter JJS secretest
+
+APERTIUM: secure	PAR: expensive__adj	FORMS: JJ secure
+   OTHER: secure	PAR: nice/__adj	FORMS: JJ secure JJR securer JJS securest
+
+APERTIUM: sedate	PAR: expensive__adj	FORMS: JJ sedate
+   OTHER: sedate	PAR: nice/__adj	FORMS: JJ sedate JJR sedater JJS sedatest
+
+APERTIUM: seemly	PAR: expensive__adj	FORMS: JJ seemly
+   OTHER: seemly	PAR: happ/y__adj	FORMS: JJ seemly JJR seemlier JJS seemliest
+   OTHER: seemly	PAR: lovel/y__adj	FORMS: JJ seemly JJR seemlier JJS seemliest
+
+APERTIUM: sensible	PAR: expensive__adj	FORMS: JJ sensible
+   OTHER: sensible	PAR: nice/__adj	FORMS: JJ sensible JJR sensibler JJS sensiblest
+
+APERTIUM: serene	PAR: expensive__adj	FORMS: JJ serene
+   OTHER: serene	PAR: nice/__adj	FORMS: JJ serene JJR serener JJS serenest
+
+APERTIUM: serious	PAR: common/__adj	FORMS: JJ serious JJ seriouser JJ seriousest
+   OTHER: serious	PAR: expensive__adj	FORMS: JJ serious
+   OTHER: serious	PAR: mine__adj	FORMS: JJ serious
+
+APERTIUM: seventeenth	PAR: second__adj	FORMS: JJ seventeenth JJ seventeenth
+   OTHER: seventeenth	PAR: expensive__adj	FORMS: JJ seventeenth
+   OTHER: seventeenth	PAR: mine__adj	FORMS: JJ seventeenth
+
+APERTIUM: seventh	PAR: second__adj	FORMS: JJ seventh JJ seventh
+   OTHER: seventh	PAR: expensive__adj	FORMS: JJ seventh
+   OTHER: seventh	PAR: mine__adj	FORMS: JJ seventh
+
+APERTIUM: seventieth	PAR: second__adj	FORMS: JJ seventieth JJ seventieth
+   OTHER: seventieth	PAR: expensive__adj	FORMS: JJ seventieth
+   OTHER: seventieth	PAR: mine__adj	FORMS: JJ seventieth
+
+APERTIUM: seventy-eighth	PAR: second__adj	FORMS: JJ seventy-eighth JJ seventy-eighth
+   OTHER: seventy-eighth	PAR: expensive__adj	FORMS: JJ seventy-eighth
+   OTHER: seventy-eighth	PAR: mine__adj	FORMS: JJ seventy-eighth
+
+APERTIUM: seventy-fifth	PAR: second__adj	FORMS: JJ seventy-fifth JJ seventy-fifth
+   OTHER: seventy-fifth	PAR: expensive__adj	FORMS: JJ seventy-fifth
+   OTHER: seventy-fifth	PAR: mine__adj	FORMS: JJ seventy-fifth
+
+APERTIUM: seventy-fourth	PAR: second__adj	FORMS: JJ seventy-fourth JJ seventy-fourth
+   OTHER: seventy-fourth	PAR: expensive__adj	FORMS: JJ seventy-fourth
+   OTHER: seventy-fourth	PAR: mine__adj	FORMS: JJ seventy-fourth
+
+APERTIUM: seventy-ninth	PAR: second__adj	FORMS: JJ seventy-ninth JJ seventy-ninth
+   OTHER: seventy-ninth	PAR: expensive__adj	FORMS: JJ seventy-ninth
+   OTHER: seventy-ninth	PAR: mine__adj	FORMS: JJ seventy-ninth
+
+APERTIUM: seventy-seventh	PAR: second__adj	FORMS: JJ seventy-seventh JJ seventy-seventh
+   OTHER: seventy-seventh	PAR: expensive__adj	FORMS: JJ seventy-seventh
+   OTHER: seventy-seventh	PAR: mine__adj	FORMS: JJ seventy-seventh
+
+APERTIUM: seventy-sixth	PAR: second__adj	FORMS: JJ seventy-sixth JJ seventy-sixth
+   OTHER: seventy-sixth	PAR: expensive__adj	FORMS: JJ seventy-sixth
+   OTHER: seventy-sixth	PAR: mine__adj	FORMS: JJ seventy-sixth
+
+APERTIUM: severe	PAR: handsome/__adj	FORMS: JJ severe JJ severer JJ severest
+   OTHER: severe	PAR: nice/__adj	FORMS: JJ severe JJR severer JJS severest
+
+APERTIUM: shadowy	PAR: expensive__adj	FORMS: JJ shadowy
+   OTHER: shadowy	PAR: happ/y__adj	FORMS: JJ shadowy JJR shadowier JJS shadowiest
+   OTHER: shadowy	PAR: lovel/y__adj	FORMS: JJ shadowy JJR shadowier JJS shadowiest
+
+APERTIUM: sheer	PAR: expensive__adj	FORMS: JJ sheer
+   OTHER: sheer	PAR: broad/__adj	FORMS: JJ sheer JJR sheerer JJS sheerest
+   OTHER: sheer	PAR: long/__adj	FORMS: JJ sheer JJR sheerer JJS sheerest
+   OTHER: sheer	PAR: sly/__adj	FORMS: JJ sheer JJR sheerer JJS sheerest
+
+APERTIUM: shrewd	PAR: expensive__adj	FORMS: JJ shrewd
+   OTHER: shrewd	PAR: broad/__adj	FORMS: JJ shrewd JJR shrewder JJS shrewdest
+   OTHER: shrewd	PAR: long/__adj	FORMS: JJ shrewd JJR shrewder JJS shrewdest
+   OTHER: shrewd	PAR: sly/__adj	FORMS: JJ shrewd JJR shrewder JJS shrewdest
+
+APERTIUM: sickly	PAR: expensive__adj	FORMS: JJ sickly
+   OTHER: sickly	PAR: happ/y__adj	FORMS: JJ sickly JJR sicklier JJS sickliest
+   OTHER: sickly	PAR: lovel/y__adj	FORMS: JJ sickly JJR sicklier JJS sickliest
+
+APERTIUM: silent	PAR: common/__adj	FORMS: JJ silent JJ silenter JJ silentest
+   OTHER: silent	PAR: broad/__adj	FORMS: JJ silent JJR silenter JJS silentest
+   OTHER: silent	PAR: long/__adj	FORMS: JJ silent JJR silenter JJS silentest
+   OTHER: silent	PAR: sly/__adj	FORMS: JJ silent JJR silenter JJS silentest
+
+APERTIUM: silvery	PAR: expensive__adj	FORMS: JJ silvery
+   OTHER: silvery	PAR: happ/y__adj	FORMS: JJ silvery JJR silverier JJS silveriest
+   OTHER: silvery	PAR: lovel/y__adj	FORMS: JJ silvery JJR silverier JJS silveriest
+
+APERTIUM: sinewy	PAR: expensive__adj	FORMS: JJ sinewy
+   OTHER: sinewy	PAR: happ/y__adj	FORMS: JJ sinewy JJR sinewier JJS sinewiest
+   OTHER: sinewy	PAR: lovel/y__adj	FORMS: JJ sinewy JJR sinewier JJS sinewiest
+
+APERTIUM: sixteenth	PAR: second__adj	FORMS: JJ sixteenth JJ sixteenth
+   OTHER: sixteenth	PAR: expensive__adj	FORMS: JJ sixteenth
+   OTHER: sixteenth	PAR: mine__adj	FORMS: JJ sixteenth
+
+APERTIUM: sixth	PAR: second__adj	FORMS: JJ sixth JJ sixth
+   OTHER: sixth	PAR: expensive__adj	FORMS: JJ sixth
+   OTHER: sixth	PAR: mine__adj	FORMS: JJ sixth
+
+APERTIUM: sixtieth	PAR: second__adj	FORMS: JJ sixtieth JJ sixtieth
+   OTHER: sixtieth	PAR: expensive__adj	FORMS: JJ sixtieth
+   OTHER: sixtieth	PAR: mine__adj	FORMS: JJ sixtieth
+
+APERTIUM: sixty-first	PAR: second__adj	FORMS: JJ sixty-first JJ sixty-first
+   OTHER: sixty-first	PAR: expensive__adj	FORMS: JJ sixty-first
+   OTHER: sixty-first	PAR: mine__adj	FORMS: JJ sixty-first
+
+APERTIUM: sixty-ninth	PAR: second__adj	FORMS: JJ sixty-ninth JJ sixty-ninth
+   OTHER: sixty-ninth	PAR: expensive__adj	FORMS: JJ sixty-ninth
+   OTHER: sixty-ninth	PAR: mine__adj	FORMS: JJ sixty-ninth
+
+APERTIUM: sixty-second	PAR: second__adj	FORMS: JJ sixty-second JJ sixty-second
+   OTHER: sixty-second	PAR: expensive__adj	FORMS: JJ sixty-second
+   OTHER: sixty-second	PAR: mine__adj	FORMS: JJ sixty-second
+
+APERTIUM: sixty-seventh	PAR: second__adj	FORMS: JJ sixty-seventh JJ sixty-seventh
+   OTHER: sixty-seventh	PAR: expensive__adj	FORMS: JJ sixty-seventh
+   OTHER: sixty-seventh	PAR: mine__adj	FORMS: JJ sixty-seventh
+
+APERTIUM: sixty-sixth	PAR: second__adj	FORMS: JJ sixty-sixth JJ sixty-sixth
+   OTHER: sixty-sixth	PAR: expensive__adj	FORMS: JJ sixty-sixth
+   OTHER: sixty-sixth	PAR: mine__adj	FORMS: JJ sixty-sixth
+
+APERTIUM: sixty-third	PAR: second__adj	FORMS: JJ sixty-third JJ sixty-third
+   OTHER: sixty-third	PAR: expensive__adj	FORMS: JJ sixty-third
+   OTHER: sixty-third	PAR: mine__adj	FORMS: JJ sixty-third
+
+APERTIUM: slick	PAR: expensive__adj	FORMS: JJ slick
+   OTHER: slick	PAR: broad/__adj	FORMS: JJ slick JJR slicker JJS slickest
+   OTHER: slick	PAR: long/__adj	FORMS: JJ slick JJR slicker JJS slickest
+   OTHER: slick	PAR: sly/__adj	FORMS: JJ slick JJR slicker JJS slickest
+
+APERTIUM: slight	PAR: expensive__adj	FORMS: JJ slight
+   OTHER: slight	PAR: broad/__adj	FORMS: JJ slight JJR slighter JJS slightest
+   OTHER: slight	PAR: long/__adj	FORMS: JJ slight JJR slighter JJS slightest
+   OTHER: slight	PAR: sly/__adj	FORMS: JJ slight JJR slighter JJS slightest
+
+APERTIUM: slippery	PAR: expensive__adj	FORMS: JJ slippery
+   OTHER: slippery	PAR: happ/y__adj	FORMS: JJ slippery JJR slipperier JJS slipperiest
+   OTHER: slippery	PAR: lovel/y__adj	FORMS: JJ slippery JJR slipperier JJS slipperiest
+
+APERTIUM: slovenly	PAR: expensive__adj	FORMS: JJ slovenly
+   OTHER: slovenly	PAR: happ/y__adj	FORMS: JJ slovenly JJR slovenlier JJS slovenliest
+   OTHER: slovenly	PAR: lovel/y__adj	FORMS: JJ slovenly JJR slovenlier JJS slovenliest
+
+APERTIUM: snide	PAR: expensive__adj	FORMS: JJ snide
+   OTHER: snide	PAR: nice/__adj	FORMS: JJ snide JJR snider JJS snidest
+
+APERTIUM: solemn	PAR: expensive__adj	FORMS: JJ solemn
+   OTHER: solemn	PAR: broad/__adj	FORMS: JJ solemn JJR solemner JJS solemnest
+   OTHER: solemn	PAR: long/__adj	FORMS: JJ solemn JJR solemner JJS solemnest
+   OTHER: solemn	PAR: sly/__adj	FORMS: JJ solemn JJR solemner JJS solemnest
+
+APERTIUM: sombre	PAR: expensive__adj	FORMS: JJ sombre
+   OTHER: sombre	PAR: nice/__adj	FORMS: JJ sombre JJR sombrer JJS sombrest
+
+APERTIUM: sordid	PAR: expensive__adj	FORMS: JJ sordid
+   OTHER: sordid	PAR: broad/__adj	FORMS: JJ sordid JJR sordider JJS sordidest
+   OTHER: sordid	PAR: long/__adj	FORMS: JJ sordid JJR sordider JJS sordidest
+   OTHER: sordid	PAR: sly/__adj	FORMS: JJ sordid JJR sordider JJS sordidest
+
+APERTIUM: spare	PAR: handsome/__adj	FORMS: JJ spare JJ sparer JJ sparest
+   OTHER: spare	PAR: nice/__adj	FORMS: JJ spare JJR sparer JJS sparest
+
+APERTIUM: splendid	PAR: expensive__adj	FORMS: JJ splendid
+   OTHER: splendid	PAR: broad/__adj	FORMS: JJ splendid JJR splendider JJS splendidest
+   OTHER: splendid	PAR: long/__adj	FORMS: JJ splendid JJR splendider JJS splendidest
+   OTHER: splendid	PAR: sly/__adj	FORMS: JJ splendid JJR splendider JJS splendidest
+
+APERTIUM: sprightly	PAR: expensive__adj	FORMS: JJ sprightly
+   OTHER: sprightly	PAR: happ/y__adj	FORMS: JJ sprightly JJR sprightlier JJS sprightliest
+   OTHER: sprightly	PAR: lovel/y__adj	FORMS: JJ sprightly JJR sprightlier JJS sprightliest
+
+APERTIUM: square	PAR: expensive__adj	FORMS: JJ square
+   OTHER: square	PAR: nice/__adj	FORMS: JJ square JJR squarer JJS squarest
+
+APERTIUM: squat	PAR: expensive__adj	FORMS: JJ squat
+   OTHER: squat	PAR: flat/__adj	FORMS: JJ squat JJR squatter JJS squattest
+   OTHER: squat	PAR: hot/__adj	FORMS: JJ squat JJR squatter JJS squattest
+
+APERTIUM: squeaky	PAR: expensive__adj	FORMS: JJ squeaky
+   OTHER: squeaky	PAR: happ/y__adj	FORMS: JJ squeaky JJR squeakier JJS squeakiest
+   OTHER: squeaky	PAR: lovel/y__adj	FORMS: JJ squeaky JJR squeakier JJS squeakiest
+
+APERTIUM: stable	PAR: expensive__adj	FORMS: JJ stable
+   OTHER: stable	PAR: nice/__adj	FORMS: JJ stable JJR stabler JJS stablest
+
+APERTIUM: staid	PAR: expensive__adj	FORMS: JJ staid
+   OTHER: staid	PAR: broad/__adj	FORMS: JJ staid JJR staider JJS staidest
+   OTHER: staid	PAR: long/__adj	FORMS: JJ staid JJR staider JJS staidest
+   OTHER: staid	PAR: sly/__adj	FORMS: JJ staid JJR staider JJS staidest
+
+APERTIUM: stale	PAR: expensive__adj	FORMS: JJ stale
+   OTHER: stale	PAR: nice/__adj	FORMS: JJ stale JJR staler JJS stalest
+
+APERTIUM: stately	PAR: expensive__adj	FORMS: JJ stately
+   OTHER: stately	PAR: happ/y__adj	FORMS: JJ stately JJR statelier JJS stateliest
+   OTHER: stately	PAR: lovel/y__adj	FORMS: JJ stately JJR statelier JJS stateliest
+
+APERTIUM: staunch	PAR: expensive__adj	FORMS: JJ staunch
+   OTHER: staunch	PAR: broad/__adj	FORMS: JJ staunch JJR stauncher JJS staunchest
+   OTHER: staunch	PAR: long/__adj	FORMS: JJ staunch JJR stauncher JJS staunchest
+   OTHER: staunch	PAR: sly/__adj	FORMS: JJ staunch JJR stauncher JJS staunchest
+
+APERTIUM: stealthy	PAR: expensive__adj	FORMS: JJ stealthy
+   OTHER: stealthy	PAR: happ/y__adj	FORMS: JJ stealthy JJR stealthier JJS stealthiest
+   OTHER: stealthy	PAR: lovel/y__adj	FORMS: JJ stealthy JJR stealthier JJS stealthiest
+
+APERTIUM: steely	PAR: expensive__adj	FORMS: JJ steely
+   OTHER: steely	PAR: happ/y__adj	FORMS: JJ steely JJR steelier JJS steeliest
+   OTHER: steely	PAR: lovel/y__adj	FORMS: JJ steely JJR steelier JJS steeliest
+
+APERTIUM: steep	PAR: expensive__adj	FORMS: JJ steep
+   OTHER: steep	PAR: broad/__adj	FORMS: JJ steep JJR steeper JJS steepest
+   OTHER: steep	PAR: long/__adj	FORMS: JJ steep JJR steeper JJS steepest
+   OTHER: steep	PAR: sly/__adj	FORMS: JJ steep JJR steeper JJS steepest
+
+APERTIUM: stiff	PAR: expensive__adj	FORMS: JJ stiff
+   OTHER: stiff	PAR: broad/__adj	FORMS: JJ stiff JJR stiffer JJS stiffest
+   OTHER: stiff	PAR: long/__adj	FORMS: JJ stiff JJR stiffer JJS stiffest
+   OTHER: stiff	PAR: sly/__adj	FORMS: JJ stiff JJR stiffer JJS stiffest
+
+APERTIUM: stolid	PAR: expensive__adj	FORMS: JJ stolid
+   OTHER: stolid	PAR: broad/__adj	FORMS: JJ stolid JJR stolider JJS stolidest
+   OTHER: stolid	PAR: long/__adj	FORMS: JJ stolid JJR stolider JJS stolidest
+   OTHER: stolid	PAR: sly/__adj	FORMS: JJ stolid JJR stolider JJS stolidest
+
+APERTIUM: straight	PAR: common/__adj	FORMS: JJ straight JJ straighter JJ straightest
+   OTHER: straight	PAR: broad/__adj	FORMS: JJ straight JJR straighter JJS straightest
+   OTHER: straight	PAR: long/__adj	FORMS: JJ straight JJR straighter JJS straightest
+   OTHER: straight	PAR: sly/__adj	FORMS: JJ straight JJR straighter JJS straightest
+
+APERTIUM: strict	PAR: common/__adj	FORMS: JJ strict JJ stricter JJ strictest
+   OTHER: strict	PAR: broad/__adj	FORMS: JJ strict JJR stricter JJS strictest
+   OTHER: strict	PAR: long/__adj	FORMS: JJ strict JJR stricter JJS strictest
+   OTHER: strict	PAR: sly/__adj	FORMS: JJ strict JJR stricter JJS strictest
+
+APERTIUM: stubborn	PAR: expensive__adj	FORMS: JJ stubborn
+   OTHER: stubborn	PAR: broad/__adj	FORMS: JJ stubborn JJR stubborner JJS stubbornest
+   OTHER: stubborn	PAR: long/__adj	FORMS: JJ stubborn JJR stubborner JJS stubbornest
+   OTHER: stubborn	PAR: sly/__adj	FORMS: JJ stubborn JJR stubborner JJS stubbornest
+
+APERTIUM: stupid	PAR: expensive__adj	FORMS: JJ stupid
+   OTHER: stupid	PAR: broad/__adj	FORMS: JJ stupid JJR stupider JJS stupidest
+   OTHER: stupid	PAR: long/__adj	FORMS: JJ stupid JJR stupider JJS stupidest
+   OTHER: stupid	PAR: sly/__adj	FORMS: JJ stupid JJR stupider JJS stupidest
+
+APERTIUM: sublime	PAR: expensive__adj	FORMS: JJ sublime
+   OTHER: sublime	PAR: nice/__adj	FORMS: JJ sublime JJR sublimer JJS sublimest
+
+APERTIUM: sullen	PAR: expensive__adj	FORMS: JJ sullen
+   OTHER: sullen	PAR: broad/__adj	FORMS: JJ sullen JJR sullener JJS sullenest
+   OTHER: sullen	PAR: long/__adj	FORMS: JJ sullen JJR sullener JJS sullenest
+   OTHER: sullen	PAR: sly/__adj	FORMS: JJ sullen JJR sullener JJS sullenest
+
+APERTIUM: superb	PAR: expensive__adj	FORMS: JJ superb
+   OTHER: superb	PAR: broad/__adj	FORMS: JJ superb JJR superber JJS superbest
+   OTHER: superb	PAR: long/__adj	FORMS: JJ superb JJR superber JJS superbest
+   OTHER: superb	PAR: sly/__adj	FORMS: JJ superb JJR superber JJS superbest
+
+APERTIUM: supreme	PAR: expensive__adj	FORMS: JJ supreme
+   OTHER: supreme	PAR: nice/__adj	FORMS: JJ supreme JJR supremer JJS supremest
+
+APERTIUM: svelte	PAR: expensive__adj	FORMS: JJ svelte
+   OTHER: svelte	PAR: nice/__adj	FORMS: JJ svelte JJR svelter JJS sveltest
+
+APERTIUM: swarthy	PAR: expensive__adj	FORMS: JJ swarthy
+   OTHER: swarthy	PAR: happ/y__adj	FORMS: JJ swarthy JJR swarthier JJS swarthiest
+   OTHER: swarthy	PAR: lovel/y__adj	FORMS: JJ swarthy JJR swarthier JJS swarthiest
+
+APERTIUM: swift	PAR: expensive__adj	FORMS: JJ swift
+   OTHER: swift	PAR: broad/__adj	FORMS: JJ swift JJR swifter JJS swiftest
+   OTHER: swift	PAR: long/__adj	FORMS: JJ swift JJR swifter JJS swiftest
+   OTHER: swift	PAR: sly/__adj	FORMS: JJ swift JJR swifter JJS swiftest
+
+APERTIUM: syrupy	PAR: happ/y__adj	FORMS: JJ syrupy JJR syrupier JJS syrupiest
+   OTHER: syrupy	PAR: expensive__adj	FORMS: JJ syrupy
+   OTHER: syrupy	PAR: mine__adj	FORMS: JJ syrupy
+
+APERTIUM: taut	PAR: expensive__adj	FORMS: JJ taut
+   OTHER: taut	PAR: broad/__adj	FORMS: JJ taut JJR tauter JJS tautest
+   OTHER: taut	PAR: long/__adj	FORMS: JJ taut JJR tauter JJS tautest
+   OTHER: taut	PAR: sly/__adj	FORMS: JJ taut JJR tauter JJS tautest
+
+APERTIUM: tender	PAR: nice/__adj	FORMS: JJ tender JJR tenderr JJS tenderst
+   OTHER: tender	PAR: broad/__adj	FORMS: JJ tender JJR tenderer JJS tenderest
+   OTHER: tender	PAR: long/__adj	FORMS: JJ tender JJR tenderer JJS tenderest
+   OTHER: tender	PAR: sly/__adj	FORMS: JJ tender JJR tenderer JJS tenderest
+
+APERTIUM: tenth	PAR: second__adj	FORMS: JJ tenth JJ tenth
+   OTHER: tenth	PAR: expensive__adj	FORMS: JJ tenth
+   OTHER: tenth	PAR: mine__adj	FORMS: JJ tenth
+
+APERTIUM: tepid	PAR: expensive__adj	FORMS: JJ tepid
+   OTHER: tepid	PAR: broad/__adj	FORMS: JJ tepid JJR tepider JJS tepidest
+   OTHER: tepid	PAR: long/__adj	FORMS: JJ tepid JJR tepider JJS tepidest
+   OTHER: tepid	PAR: sly/__adj	FORMS: JJ tepid JJR tepider JJS tepidest
+
+APERTIUM: third	PAR: second__adj	FORMS: JJ third JJ third
+   OTHER: third	PAR: expensive__adj	FORMS: JJ third
+   OTHER: third	PAR: mine__adj	FORMS: JJ third
+
+APERTIUM: thirteenth	PAR: second__adj	FORMS: JJ thirteenth JJ thirteenth
+   OTHER: thirteenth	PAR: expensive__adj	FORMS: JJ thirteenth
+   OTHER: thirteenth	PAR: mine__adj	FORMS: JJ thirteenth
+
+APERTIUM: thirtieth	PAR: second__adj	FORMS: JJ thirtieth JJ thirtieth
+   OTHER: thirtieth	PAR: expensive__adj	FORMS: JJ thirtieth
+   OTHER: thirtieth	PAR: mine__adj	FORMS: JJ thirtieth
+
+APERTIUM: thirty-eight	PAR: second__adj	FORMS: JJ thirty-eight JJ thirty-eight
+   OTHER: thirty-eight	PAR: expensive__adj	FORMS: JJ thirty-eight
+   OTHER: thirty-eight	PAR: mine__adj	FORMS: JJ thirty-eight
+
+APERTIUM: thirty-eighth	PAR: second__adj	FORMS: JJ thirty-eighth JJ thirty-eighth
+   OTHER: thirty-eighth	PAR: expensive__adj	FORMS: JJ thirty-eighth
+   OTHER: thirty-eighth	PAR: mine__adj	FORMS: JJ thirty-eighth
+
+APERTIUM: thirty-fifth	PAR: second__adj	FORMS: JJ thirty-fifth JJ thirty-fifth
+   OTHER: thirty-fifth	PAR: expensive__adj	FORMS: JJ thirty-fifth
+   OTHER: thirty-fifth	PAR: mine__adj	FORMS: JJ thirty-fifth
+
+APERTIUM: thirty-first	PAR: second__adj	FORMS: JJ thirty-first JJ thirty-first
+   OTHER: thirty-first	PAR: expensive__adj	FORMS: JJ thirty-first
+   OTHER: thirty-first	PAR: mine__adj	FORMS: JJ thirty-first
+
+APERTIUM: thirty-four	PAR: second__adj	FORMS: JJ thirty-four JJ thirty-four
+   OTHER: thirty-four	PAR: expensive__adj	FORMS: JJ thirty-four
+   OTHER: thirty-four	PAR: mine__adj	FORMS: JJ thirty-four
+
+APERTIUM: thirty-fourth	PAR: second__adj	FORMS: JJ thirty-fourth JJ thirty-fourth
+   OTHER: thirty-fourth	PAR: expensive__adj	FORMS: JJ thirty-fourth
+   OTHER: thirty-fourth	PAR: mine__adj	FORMS: JJ thirty-fourth
+
+APERTIUM: thirty-nine	PAR: second__adj	FORMS: JJ thirty-nine JJ thirty-nine
+   OTHER: thirty-nine	PAR: expensive__adj	FORMS: JJ thirty-nine
+   OTHER: thirty-nine	PAR: mine__adj	FORMS: JJ thirty-nine
+
+APERTIUM: thirty-ninth	PAR: second__adj	FORMS: JJ thirty-ninth JJ thirty-ninth
+   OTHER: thirty-ninth	PAR: expensive__adj	FORMS: JJ thirty-ninth
+   OTHER: thirty-ninth	PAR: mine__adj	FORMS: JJ thirty-ninth
+
+APERTIUM: thirty-second	PAR: second__adj	FORMS: JJ thirty-second JJ thirty-second
+   OTHER: thirty-second	PAR: expensive__adj	FORMS: JJ thirty-second
+   OTHER: thirty-second	PAR: mine__adj	FORMS: JJ thirty-second
+
+APERTIUM: thirty-seven	PAR: second__adj	FORMS: JJ thirty-seven JJ thirty-seven
+   OTHER: thirty-seven	PAR: expensive__adj	FORMS: JJ thirty-seven
+   OTHER: thirty-seven	PAR: mine__adj	FORMS: JJ thirty-seven
+
+APERTIUM: thirty-seventh	PAR: second__adj	FORMS: JJ thirty-seventh JJ thirty-seventh
+   OTHER: thirty-seventh	PAR: expensive__adj	FORMS: JJ thirty-seventh
+   OTHER: thirty-seventh	PAR: mine__adj	FORMS: JJ thirty-seventh
+
+APERTIUM: thirty-sixth	PAR: second__adj	FORMS: JJ thirty-sixth JJ thirty-sixth
+   OTHER: thirty-sixth	PAR: expensive__adj	FORMS: JJ thirty-sixth
+   OTHER: thirty-sixth	PAR: mine__adj	FORMS: JJ thirty-sixth
+
+APERTIUM: thirty-third	PAR: second__adj	FORMS: JJ thirty-third JJ thirty-third
+   OTHER: thirty-third	PAR: expensive__adj	FORMS: JJ thirty-third
+   OTHER: thirty-third	PAR: mine__adj	FORMS: JJ thirty-third
+
+APERTIUM: thirty-two	PAR: second__adj	FORMS: JJ thirty-two JJ thirty-two
+   OTHER: thirty-two	PAR: expensive__adj	FORMS: JJ thirty-two
+   OTHER: thirty-two	PAR: mine__adj	FORMS: JJ thirty-two
+
+APERTIUM: thorough	PAR: expensive__adj	FORMS: JJ thorough
+   OTHER: thorough	PAR: broad/__adj	FORMS: JJ thorough JJR thorougher JJS thoroughest
+   OTHER: thorough	PAR: long/__adj	FORMS: JJ thorough JJR thorougher JJS thoroughest
+   OTHER: thorough	PAR: sly/__adj	FORMS: JJ thorough JJR thorougher JJS thoroughest
+
+APERTIUM: thousandth	PAR: second__adj	FORMS: JJ thousandth JJ thousandth
+   OTHER: thousandth	PAR: expensive__adj	FORMS: JJ thousandth
+   OTHER: thousandth	PAR: mine__adj	FORMS: JJ thousandth
+
+APERTIUM: timid	PAR: expensive__adj	FORMS: JJ timid
+   OTHER: timid	PAR: broad/__adj	FORMS: JJ timid JJR timider JJS timidest
+   OTHER: timid	PAR: long/__adj	FORMS: JJ timid JJR timider JJS timidest
+   OTHER: timid	PAR: sly/__adj	FORMS: JJ timid JJR timider JJS timidest
+
+APERTIUM: tired	PAR: expensive__adj	FORMS: JJ tired
+   OTHER: tired	PAR: broad/__adj	FORMS: JJ tired JJR tireder JJS tiredest
+   OTHER: tired	PAR: long/__adj	FORMS: JJ tired JJR tireder JJS tiredest
+   OTHER: tired	PAR: sly/__adj	FORMS: JJ tired JJR tireder JJS tiredest
+
+APERTIUM: torrid	PAR: expensive__adj	FORMS: JJ torrid
+   OTHER: torrid	PAR: broad/__adj	FORMS: JJ torrid JJR torrider JJS torridest
+   OTHER: torrid	PAR: long/__adj	FORMS: JJ torrid JJR torrider JJS torridest
+   OTHER: torrid	PAR: sly/__adj	FORMS: JJ torrid JJR torrider JJS torridest
+
+APERTIUM: trashy	PAR: expensive__adj	FORMS: JJ trashy
+   OTHER: trashy	PAR: happ/y__adj	FORMS: JJ trashy JJR trashier JJS trashiest
+   OTHER: trashy	PAR: lovel/y__adj	FORMS: JJ trashy JJR trashier JJS trashiest
+
+APERTIUM: trustworthy	PAR: expensive__adj	FORMS: JJ trustworthy
+   OTHER: trustworthy	PAR: happ/y__adj	FORMS: JJ trustworthy JJR trustworthier JJS trustworthiest
+   OTHER: trustworthy	PAR: lovel/y__adj	FORMS: JJ trustworthy JJR trustworthier JJS trustworthiest
+
+APERTIUM: truthful	PAR: common/__adj	FORMS: JJ truthful JJ truthfuler JJ truthfulest
+   OTHER: truthful	PAR: expensive__adj	FORMS: JJ truthful
+   OTHER: truthful	PAR: mine__adj	FORMS: JJ truthful
+
+APERTIUM: twelfth	PAR: second__adj	FORMS: JJ twelfth JJ twelfth
+   OTHER: twelfth	PAR: expensive__adj	FORMS: JJ twelfth
+   OTHER: twelfth	PAR: mine__adj	FORMS: JJ twelfth
+
+APERTIUM: twentieth	PAR: second__adj	FORMS: JJ twentieth JJ twentieth
+   OTHER: twentieth	PAR: expensive__adj	FORMS: JJ twentieth
+   OTHER: twentieth	PAR: mine__adj	FORMS: JJ twentieth
+
+APERTIUM: twenty-eighth	PAR: second__adj	FORMS: JJ twenty-eighth JJ twenty-eighth
+   OTHER: twenty-eighth	PAR: expensive__adj	FORMS: JJ twenty-eighth
+   OTHER: twenty-eighth	PAR: mine__adj	FORMS: JJ twenty-eighth
+
+APERTIUM: twenty-fifth	PAR: second__adj	FORMS: JJ twenty-fifth JJ twenty-fifth
+   OTHER: twenty-fifth	PAR: expensive__adj	FORMS: JJ twenty-fifth
+   OTHER: twenty-fifth	PAR: mine__adj	FORMS: JJ twenty-fifth
+
+APERTIUM: twenty-first	PAR: second__adj	FORMS: JJ twenty-first JJ twenty-first
+   OTHER: twenty-first	PAR: expensive__adj	FORMS: JJ twenty-first
+   OTHER: twenty-first	PAR: mine__adj	FORMS: JJ twenty-first
+
+APERTIUM: twenty-fourth	PAR: second__adj	FORMS: JJ twenty-fourth JJ twenty-fourth
+   OTHER: twenty-fourth	PAR: expensive__adj	FORMS: JJ twenty-fourth
+   OTHER: twenty-fourth	PAR: mine__adj	FORMS: JJ twenty-fourth
+
+APERTIUM: twenty-ninth	PAR: second__adj	FORMS: JJ twenty-ninth JJ twenty-ninth
+   OTHER: twenty-ninth	PAR: expensive__adj	FORMS: JJ twenty-ninth
+   OTHER: twenty-ninth	PAR: mine__adj	FORMS: JJ twenty-ninth
+
+APERTIUM: twenty-second	PAR: second__adj	FORMS: JJ twenty-second JJ twenty-second
+   OTHER: twenty-second	PAR: expensive__adj	FORMS: JJ twenty-second
+   OTHER: twenty-second	PAR: mine__adj	FORMS: JJ twenty-second
+
+APERTIUM: twenty-seventh	PAR: second__adj	FORMS: JJ twenty-seventh JJ twenty-seventh
+   OTHER: twenty-seventh	PAR: expensive__adj	FORMS: JJ twenty-seventh
+   OTHER: twenty-seventh	PAR: mine__adj	FORMS: JJ twenty-seventh
+
+APERTIUM: twenty-sixth	PAR: second__adj	FORMS: JJ twenty-sixth JJ twenty-sixth
+   OTHER: twenty-sixth	PAR: expensive__adj	FORMS: JJ twenty-sixth
+   OTHER: twenty-sixth	PAR: mine__adj	FORMS: JJ twenty-sixth
+
+APERTIUM: twenty-third	PAR: second__adj	FORMS: JJ twenty-third JJ twenty-third
+   OTHER: twenty-third	PAR: expensive__adj	FORMS: JJ twenty-third
+   OTHER: twenty-third	PAR: mine__adj	FORMS: JJ twenty-third
+
+APERTIUM: uncanny	PAR: expensive__adj	FORMS: JJ uncanny
+   OTHER: uncanny	PAR: happ/y__adj	FORMS: JJ uncanny JJR uncannier JJS uncanniest
+   OTHER: uncanny	PAR: lovel/y__adj	FORMS: JJ uncanny JJR uncannier JJS uncanniest
+
+APERTIUM: unclean	PAR: expensive__adj	FORMS: JJ unclean
+   OTHER: unclean	PAR: broad/__adj	FORMS: JJ unclean JJR uncleaner JJS uncleanest
+   OTHER: unclean	PAR: long/__adj	FORMS: JJ unclean JJR uncleaner JJS uncleanest
+   OTHER: unclean	PAR: sly/__adj	FORMS: JJ unclean JJR uncleaner JJS uncleanest
+
+APERTIUM: unclear	PAR: expensive__adj	FORMS: JJ unclear
+   OTHER: unclear	PAR: broad/__adj	FORMS: JJ unclear JJR unclearer JJS unclearest
+   OTHER: unclear	PAR: long/__adj	FORMS: JJ unclear JJR unclearer JJS unclearest
+   OTHER: unclear	PAR: sly/__adj	FORMS: JJ unclear JJR unclearer JJS unclearest
+
+APERTIUM: uncommon	PAR: expensive__adj	FORMS: JJ uncommon
+   OTHER: uncommon	PAR: broad/__adj	FORMS: JJ uncommon JJR uncommoner JJS uncommonest
+   OTHER: uncommon	PAR: long/__adj	FORMS: JJ uncommon JJR uncommoner JJS uncommonest
+   OTHER: uncommon	PAR: sly/__adj	FORMS: JJ uncommon JJR uncommoner JJS uncommonest
+
+APERTIUM: uneven	PAR: expensive__adj	FORMS: JJ uneven
+   OTHER: uneven	PAR: broad/__adj	FORMS: JJ uneven JJR unevener JJS unevenest
+   OTHER: uneven	PAR: long/__adj	FORMS: JJ uneven JJR unevener JJS unevenest
+   OTHER: uneven	PAR: sly/__adj	FORMS: JJ uneven JJR unevener JJS unevenest
+
+APERTIUM: unfair	PAR: expensive__adj	FORMS: JJ unfair
+   OTHER: unfair	PAR: broad/__adj	FORMS: JJ unfair JJR unfairer JJS unfairest
+   OTHER: unfair	PAR: long/__adj	FORMS: JJ unfair JJR unfairer JJS unfairest
+   OTHER: unfair	PAR: sly/__adj	FORMS: JJ unfair JJR unfairer JJS unfairest
+
+APERTIUM: ungainly	PAR: expensive__adj	FORMS: JJ ungainly
+   OTHER: ungainly	PAR: happ/y__adj	FORMS: JJ ungainly JJR ungainlier JJS ungainliest
+   OTHER: ungainly	PAR: lovel/y__adj	FORMS: JJ ungainly JJR ungainlier JJS ungainliest
+
+APERTIUM: unhealthy	PAR: expensive__adj	FORMS: JJ unhealthy
+   OTHER: unhealthy	PAR: happ/y__adj	FORMS: JJ unhealthy JJR unhealthier JJS unhealthiest
+   OTHER: unhealthy	PAR: lovel/y__adj	FORMS: JJ unhealthy JJR unhealthier JJS unhealthiest
+
+APERTIUM: unholy	PAR: expensive__adj	FORMS: JJ unholy
+   OTHER: unholy	PAR: happ/y__adj	FORMS: JJ unholy JJR unholier JJS unholiest
+   OTHER: unholy	PAR: lovel/y__adj	FORMS: JJ unholy JJR unholier JJS unholiest
+
+APERTIUM: uniform	PAR: expensive__adj	FORMS: JJ uniform
+   OTHER: uniform	PAR: broad/__adj	FORMS: JJ uniform JJR uniformer JJS uniformest
+   OTHER: uniform	PAR: long/__adj	FORMS: JJ uniform JJR uniformer JJS uniformest
+   OTHER: uniform	PAR: sly/__adj	FORMS: JJ uniform JJR uniformer JJS uniformest
+
+APERTIUM: unique	PAR: expensive__adj	FORMS: JJ unique
+   OTHER: unique	PAR: nice/__adj	FORMS: JJ unique JJR uniquer JJS uniquest
+
+APERTIUM: unjust	PAR: expensive__adj	FORMS: JJ unjust
+   OTHER: unjust	PAR: broad/__adj	FORMS: JJ unjust JJR unjuster JJS unjustest
+   OTHER: unjust	PAR: long/__adj	FORMS: JJ unjust JJR unjuster JJS unjustest
+   OTHER: unjust	PAR: sly/__adj	FORMS: JJ unjust JJR unjuster JJS unjustest
+
+APERTIUM: unkind	PAR: expensive__adj	FORMS: JJ unkind
+   OTHER: unkind	PAR: broad/__adj	FORMS: JJ unkind JJR unkinder JJS unkindest
+   OTHER: unkind	PAR: long/__adj	FORMS: JJ unkind JJR unkinder JJS unkindest
+   OTHER: unkind	PAR: sly/__adj	FORMS: JJ unkind JJR unkinder JJS unkindest
+
+APERTIUM: unripe	PAR: handsome/__adj	FORMS: JJ unripe JJ unriper JJ unripest
+   OTHER: unripe	PAR: nice/__adj	FORMS: JJ unripe JJR unriper JJS unripest
+
+APERTIUM: unruly	PAR: expensive__adj	FORMS: JJ unruly
+   OTHER: unruly	PAR: happ/y__adj	FORMS: JJ unruly JJR unrulier JJS unruliest
+   OTHER: unruly	PAR: lovel/y__adj	FORMS: JJ unruly JJR unrulier JJS unruliest
+
+APERTIUM: unseemly	PAR: expensive__adj	FORMS: JJ unseemly
+   OTHER: unseemly	PAR: happ/y__adj	FORMS: JJ unseemly JJR unseemlier JJS unseemliest
+   OTHER: unseemly	PAR: lovel/y__adj	FORMS: JJ unseemly JJR unseemlier JJS unseemliest
+
+APERTIUM: unsound	PAR: expensive__adj	FORMS: JJ unsound
+   OTHER: unsound	PAR: broad/__adj	FORMS: JJ unsound JJR unsounder JJS unsoundest
+   OTHER: unsound	PAR: long/__adj	FORMS: JJ unsound JJR unsounder JJS unsoundest
+   OTHER: unsound	PAR: sly/__adj	FORMS: JJ unsound JJR unsounder JJS unsoundest
+
+APERTIUM: unstable	PAR: expensive__adj	FORMS: JJ unstable
+   OTHER: unstable	PAR: nice/__adj	FORMS: JJ unstable JJR unstabler JJS unstablest
+
+APERTIUM: unsure	PAR: expensive__adj	FORMS: JJ unsure
+   OTHER: unsure	PAR: nice/__adj	FORMS: JJ unsure JJR unsurer JJS unsurest
+
+APERTIUM: untidy	PAR: expensive__adj	FORMS: JJ untidy
+   OTHER: untidy	PAR: happ/y__adj	FORMS: JJ untidy JJR untidier JJS untidiest
+   OTHER: untidy	PAR: lovel/y__adj	FORMS: JJ untidy JJR untidier JJS untidiest
+
+APERTIUM: untimely	PAR: expensive__adj	FORMS: JJ untimely
+   OTHER: untimely	PAR: happ/y__adj	FORMS: JJ untimely JJR untimelier JJS untimeliest
+   OTHER: untimely	PAR: lovel/y__adj	FORMS: JJ untimely JJR untimelier JJS untimeliest
+
+APERTIUM: untrue	PAR: expensive__adj	FORMS: JJ untrue
+   OTHER: untrue	PAR: nice/__adj	FORMS: JJ untrue JJR untruer JJS untruest
+
+APERTIUM: unwieldy	PAR: expensive__adj	FORMS: JJ unwieldy
+   OTHER: unwieldy	PAR: happ/y__adj	FORMS: JJ unwieldy JJR unwieldier JJS unwieldiest
+   OTHER: unwieldy	PAR: lovel/y__adj	FORMS: JJ unwieldy JJR unwieldier JJS unwieldiest
+
+APERTIUM: unworthy	PAR: expensive__adj	FORMS: JJ unworthy
+   OTHER: unworthy	PAR: happ/y__adj	FORMS: JJ unworthy JJR unworthier JJS unworthiest
+   OTHER: unworthy	PAR: lovel/y__adj	FORMS: JJ unworthy JJR unworthier JJS unworthiest
+
+APERTIUM: upward	PAR: common/__adj	FORMS: JJ upward JJ upwarder JJ upwardest
+   OTHER: upward	PAR: expensive__adj	FORMS: JJ upward
+   OTHER: upward	PAR: mine__adj	FORMS: JJ upward
+
+APERTIUM: urban	PAR: expensive__adj	FORMS: JJ urban
+   OTHER: urban	PAR: broad/__adj	FORMS: JJ urban JJR urbaner JJS urbanest
+   OTHER: urban	PAR: long/__adj	FORMS: JJ urban JJR urbaner JJS urbanest
+   OTHER: urban	PAR: sly/__adj	FORMS: JJ urban JJR urbaner JJS urbanest
+
+APERTIUM: utter	PAR: expensive__adj	FORMS: JJ utter
+   OTHER: utter	PAR: broad/__adj	FORMS: JJ utter JJR utterer JJS utterest
+   OTHER: utter	PAR: long/__adj	FORMS: JJ utter JJR utterer JJS utterest
+   OTHER: utter	PAR: sly/__adj	FORMS: JJ utter JJR utterer JJS utterest
+
+APERTIUM: vague	PAR: expensive__adj	FORMS: JJ vague
+   OTHER: vague	PAR: nice/__adj	FORMS: JJ vague JJR vaguer JJS vaguest
+
+APERTIUM: vain	PAR: expensive__adj	FORMS: JJ vain
+   OTHER: vain	PAR: broad/__adj	FORMS: JJ vain JJR vainer JJS vainest
+   OTHER: vain	PAR: long/__adj	FORMS: JJ vain JJR vainer JJS vainest
+   OTHER: vain	PAR: sly/__adj	FORMS: JJ vain JJR vainer JJS vainest
+
+APERTIUM: valid	PAR: expensive__adj	FORMS: JJ valid
+   OTHER: valid	PAR: broad/__adj	FORMS: JJ valid JJR valider JJS validest
+   OTHER: valid	PAR: long/__adj	FORMS: JJ valid JJR valider JJS validest
+   OTHER: valid	PAR: sly/__adj	FORMS: JJ valid JJR valider JJS validest
+
+APERTIUM: velvety	PAR: expensive__adj	FORMS: JJ velvety
+   OTHER: velvety	PAR: happ/y__adj	FORMS: JJ velvety JJR velvetier JJS velvetiest
+   OTHER: velvety	PAR: lovel/y__adj	FORMS: JJ velvety JJR velvetier JJS velvetiest
+
+APERTIUM: vile	PAR: expensive__adj	FORMS: JJ vile
+   OTHER: vile	PAR: nice/__adj	FORMS: JJ vile JJR viler JJS vilest
+
+APERTIUM: violet	PAR: nice/__adj	FORMS: JJ violet JJR violetr JJS violetst
+   OTHER: violet	PAR: expensive__adj	FORMS: JJ violet
+   OTHER: violet	PAR: mine__adj	FORMS: JJ violet
+
+APERTIUM: vivid	PAR: expensive__adj	FORMS: JJ vivid
+   OTHER: vivid	PAR: broad/__adj	FORMS: JJ vivid JJR vivider JJS vividest
+   OTHER: vivid	PAR: long/__adj	FORMS: JJ vivid JJR vivider JJS vividest
+   OTHER: vivid	PAR: sly/__adj	FORMS: JJ vivid JJR vivider JJS vividest
+
+APERTIUM: vulgar	PAR: expensive__adj	FORMS: JJ vulgar
+   OTHER: vulgar	PAR: broad/__adj	FORMS: JJ vulgar JJR vulgarer JJS vulgarest
+   OTHER: vulgar	PAR: long/__adj	FORMS: JJ vulgar JJR vulgarer JJS vulgarest
+   OTHER: vulgar	PAR: sly/__adj	FORMS: JJ vulgar JJR vulgarer JJS vulgarest
+
+APERTIUM: wanton	PAR: expensive__adj	FORMS: JJ wanton
+   OTHER: wanton	PAR: broad/__adj	FORMS: JJ wanton JJR wantoner JJS wantonest
+   OTHER: wanton	PAR: long/__adj	FORMS: JJ wanton JJR wantoner JJS wantonest
+   OTHER: wanton	PAR: sly/__adj	FORMS: JJ wanton JJR wantoner JJS wantonest
+
+APERTIUM: warty	PAR: sly/__adj	FORMS: JJ warty JJR wartyer JJS wartyest
+   OTHER: warty	PAR: happ/y__adj	FORMS: JJ warty JJR wartier JJS wartiest
+   OTHER: warty	PAR: lovel/y__adj	FORMS: JJ warty JJR wartier JJS wartiest
+
+APERTIUM: watery	PAR: expensive__adj	FORMS: JJ watery
+   OTHER: watery	PAR: happ/y__adj	FORMS: JJ watery JJR waterier JJS wateriest
+   OTHER: watery	PAR: lovel/y__adj	FORMS: JJ watery JJR waterier JJS wateriest
+
+APERTIUM: wet	PAR: expensive__adj	FORMS: JJ wet
+   OTHER: wet	PAR: flat/__adj	FORMS: JJ wet JJR wetter JJS wettest
+   OTHER: wet	PAR: hot/__adj	FORMS: JJ wet JJR wetter JJS wettest
+
+APERTIUM: wholesome	PAR: expensive__adj	FORMS: JJ wholesome
+   OTHER: wholesome	PAR: nice/__adj	FORMS: JJ wholesome JJR wholesomer JJS wholesomest
+
+APERTIUM: wicked	PAR: expensive__adj	FORMS: JJ wicked
+   OTHER: wicked	PAR: broad/__adj	FORMS: JJ wicked JJR wickeder JJS wickedest
+   OTHER: wicked	PAR: long/__adj	FORMS: JJ wicked JJR wickeder JJS wickedest
+   OTHER: wicked	PAR: sly/__adj	FORMS: JJ wicked JJR wickeder JJS wickedest
+
+APERTIUM: wooden	PAR: expensive__adj	FORMS: JJ wooden
+   OTHER: wooden	PAR: broad/__adj	FORMS: JJ wooden JJR woodener JJS woodenest
+   OTHER: wooden	PAR: long/__adj	FORMS: JJ wooden JJR woodener JJS woodenest
+   OTHER: wooden	PAR: sly/__adj	FORMS: JJ wooden JJR woodener JJS woodenest
+
+APERTIUM: woolly	PAR: expensive__adj	FORMS: JJ woolly
+   OTHER: woolly	PAR: happ/y__adj	FORMS: JJ woolly JJR woollier JJS woolliest
+   OTHER: woolly	PAR: lovel/y__adj	FORMS: JJ woolly JJR woollier JJS woolliest
+
+APERTIUM: wretched	PAR: expensive__adj	FORMS: JJ wretched
+   OTHER: wretched	PAR: broad/__adj	FORMS: JJ wretched JJR wretcheder JJS wretchedest
+   OTHER: wretched	PAR: long/__adj	FORMS: JJ wretched JJR wretcheder JJS wretchedest
+   OTHER: wretched	PAR: sly/__adj	FORMS: JJ wretched JJR wretcheder JJS wretchedest
+
+APERTIUM: wrong	PAR: common/__adj	FORMS: JJ wrong JJ wronger JJ wrongest
+   OTHER: wrong	PAR: broad/__adj	FORMS: JJ wrong JJR wronger JJS wrongest
+   OTHER: wrong	PAR: long/__adj	FORMS: JJ wrong JJR wronger JJS wrongest
+   OTHER: wrong	PAR: sly/__adj	FORMS: JJ wrong JJR wronger JJS wrongest
+
+APERTIUM: zesty	PAR: expensive__adj	FORMS: JJ zesty
+   OTHER: zesty	PAR: happ/y__adj	FORMS: JJ zesty JJR zestier JJS zestiest
+   OTHER: zesty	PAR: lovel/y__adj	FORMS: JJ zesty JJR zestier JJS zestiest
+
+APERTIUM: British	PAR: expensive__adj	FORMS: JJ ritish
+   OTHER: British	PAR: ??????????????	FORMS: JJ British JJR Britisher
+
+APERTIUM: English	PAR: expensive__adj	FORMS: JJ nglish
+   OTHER: English	PAR: ??????????????	FORMS: JJ English JJR Englisher
+
+APERTIUM: Irish	PAR: expensive__adj	FORMS: JJ rish
+   OTHER: Irish	PAR: ??????????????	FORMS: JJ Irish JJR Irisher
+
+APERTIUM: Latin	PAR: expensive__adj	FORMS: JJ atin
+   OTHER: Latin	PAR: ??????????????	FORMS: JJ Latin JJR Latiner
+
+APERTIUM: absent	PAR: expensive__adj	FORMS: JJ absent
+   OTHER: absent	PAR: ??????????????	FORMS: JJ absent JJR absenter
+
+APERTIUM: awful	PAR: common/__adj	FORMS: JJ awful JJ awfuler JJ awfulest
+   OTHER: awful	PAR: ??????????????	FORMS: JJ awful JJR awfuller JJS awfullest
+
+APERTIUM: back	PAR: expensive__adj	FORMS: JJ back
+   OTHER: back	PAR: ??????????????	FORMS: JJ back JJR backer
+
+APERTIUM: bad	PAR: /bad__adj	FORMS: JJ bad JJR worse JJS worst
+   OTHER: bad	PAR: ??????????????	FORMS: JJ bad JJR badder JJR worse JJS baddest JJS worst
+
+APERTIUM: baleful	PAR: expensive__adj	FORMS: JJ baleful
+   OTHER: baleful	PAR: ??????????????	FORMS: JJ baleful JJR balefuller JJS balefullest
+
+APERTIUM: baneful	PAR: expensive__adj	FORMS: JJ baneful
+   OTHER: baneful	PAR: ??????????????	FORMS: JJ baneful JJR banefuller JJS banefullest
+
+APERTIUM: berserk	PAR: expensive__adj	FORMS: JJ berserk
+   OTHER: berserk	PAR: ??????????????	FORMS: JJ berserk JJR berserker
+
+APERTIUM: bottom	PAR: expensive__adj	FORMS: JJ bottom
+   OTHER: bottom	PAR: ??????????????	FORMS: JJ bottom JJR bottomer
+
+APERTIUM: bristly	PAR: happ/y__adj	FORMS: JJ bristly JJR bristlier JJS bristliest
+   OTHER: bristly	PAR: ??????????????	FORMS: JJR bristlier JJS bristliest
+
+APERTIUM: careful	PAR: expensive__adj	FORMS: JJ careful
+   OTHER: careful	PAR: ??????????????	FORMS: JJ careful JJR carefuller JJS carefullest
+
+APERTIUM: cheerful	PAR: expensive__adj	FORMS: JJ cheerful
+   OTHER: cheerful	PAR: ??????????????	FORMS: JJ cheerful JJR cheerfuller JJS cheerfullest
+
+APERTIUM: chronological	PAR: expensive__adj	FORMS: JJ chronological
+   OTHER: chronological	PAR: ??????????????	FORMS: JJ chronologic JJ chronological
+
+APERTIUM: clayey	PAR: happ/y__adj	FORMS: JJ clayey JJR clayeier JJS clayeiest
+   OTHER: clayey	PAR: ??????????????	FORMS: JJ clayey JJR clayier JJS clayiest
+
+APERTIUM: compound	PAR: expensive__adj	FORMS: JJ compound
+   OTHER: compound	PAR: ??????????????	FORMS: JJ compound JJR compounder
+
+APERTIUM: concave	PAR: expensive__adj	FORMS: JJ concave
+   OTHER: concave	PAR: ??????????????	FORMS: JJ concave JJR concaver
+
+APERTIUM: concrete	PAR: expensive__adj	FORMS: JJ concrete
+   OTHER: concrete	PAR: ??????????????	FORMS: JJ concrete JJR concreter
+
+APERTIUM: converse	PAR: expensive__adj	FORMS: JJ converse
+   OTHER: converse	PAR: ??????????????	FORMS: JJ converse JJR converser
+
+APERTIUM: courtly	PAR: expensive__adj	FORMS: JJ courtly
+   OTHER: courtly	PAR: ??????????????	FORMS: JJR courtlier JJS courtliest
+
+APERTIUM: cruel	PAR: expensive__adj	FORMS: JJ cruel
+   OTHER: cruel	PAR: ??????????????	FORMS: JJ cruel JJR crueler JJR crueller JJS cruelest JJS cruellest
+
+APERTIUM: curly	PAR: happ/y__adj	FORMS: JJ curly JJR curlier JJS curliest
+   OTHER: curly	PAR: ??????????????	FORMS: JJR curlier JJS curliest
+
+APERTIUM: cut	PAR: expensive__adj	FORMS: JJ cut
+   OTHER: cut	PAR: ??????????????	FORMS: JJ cut JJR cutter JJS cutest
+
+APERTIUM: damned	PAR: expensive__adj	FORMS: JJ damned
+   OTHER: damned	PAR: ??????????????	FORMS: JJ damned JJR damneder JJS damndest JJS damnedest
+
+APERTIUM: democratic	PAR: expensive__adj	FORMS: JJ democratic
+   OTHER: democratic	PAR: ??????????????	FORMS: JJ democratic JJ democratical
+
+APERTIUM: dismal	PAR: expensive__adj	FORMS: JJ dismal
+   OTHER: dismal	PAR: ??????????????	FORMS: JJ dismal JJR dismaler JJR dismaller JJS dismalest JJS dismallest
+
+APERTIUM: double	PAR: expensive__adj	FORMS: JJ double
+   OTHER: double	PAR: ??????????????	FORMS: JJ double JJR doubler
+
+APERTIUM: doubtful	PAR: expensive__adj	FORMS: JJ doubtful
+   OTHER: doubtful	PAR: ??????????????	FORMS: JJ doubtful JJR doubtfuller JJS doubtfullest
+
+APERTIUM: downtown	PAR: expensive__adj	FORMS: JJ downtown
+   OTHER: downtown	PAR: ??????????????	FORMS: JJ downtown JJR downtowner
+
+APERTIUM: east	PAR: expensive__adj	FORMS: JJ east
+   OTHER: east	PAR: ??????????????	FORMS: JJ east JJR easter
+
+APERTIUM: eastern	PAR: expensive__adj	FORMS: JJ eastern
+   OTHER: eastern	PAR: ??????????????	FORMS: JJ eastern JJR easterner
+
+APERTIUM: evil	PAR: expensive__adj	FORMS: JJ evil
+   OTHER: evil	PAR: ??????????????	FORMS: JJ evil JJR eviler JJR eviller JJS evilest JJS evillest
+
+APERTIUM: fearful	PAR: expensive__adj	FORMS: JJ fearful
+   OTHER: fearful	PAR: ??????????????	FORMS: JJ fearful JJR fearfuller JJS fearfullest
+
+APERTIUM: foreign	PAR: expensive__adj	FORMS: JJ foreign
+   OTHER: foreign	PAR: ??????????????	FORMS: JJ foreign JJR foreigner
+
+APERTIUM: foster	PAR: expensive__adj	FORMS: JJ foster
+   OTHER: foster	PAR: ??????????????	FORMS: JJ foster JJR fosterer
+
+APERTIUM: freelance	PAR: expensive__adj	FORMS: JJ freelance
+   OTHER: freelance	PAR: ??????????????	FORMS: JJ freelance JJR freelancer
+
+APERTIUM: fruitful	PAR: expensive__adj	FORMS: JJ fruitful
+   OTHER: fruitful	PAR: ??????????????	FORMS: JJ fruitful JJR fruitfuller JJS fruitfullest
+
+APERTIUM: gangly	PAR: happ/y__adj	FORMS: JJ gangly JJR ganglier JJS gangliest
+   OTHER: gangly	PAR: ??????????????	FORMS: JJR ganglier JJS gangliest
+
+APERTIUM: ghostly	PAR: expensive__adj	FORMS: JJ ghostly
+   OTHER: ghostly	PAR: ??????????????	FORMS: JJR ghostlier JJS ghostliest
+
+APERTIUM: graceful	PAR: expensive__adj	FORMS: JJ graceful
+   OTHER: graceful	PAR: ??????????????	FORMS: JJ graceful JJR gracefuller JJS gracefullest
+
+APERTIUM: grateful	PAR: expensive__adj	FORMS: JJ grateful
+   OTHER: grateful	PAR: ??????????????	FORMS: JJ grateful JJR gratefuller JJS gratefullest
+
+APERTIUM: hilly	PAR: expensive__adj	FORMS: JJ hilly
+   OTHER: hilly	PAR: ??????????????	FORMS: JJR hillier JJS hilliest
+
+APERTIUM: ill	PAR: long/__adj	FORMS: JJ ill JJR iller JJS illest
+   OTHER: ill	PAR: ??????????????	FORMS: JJ ill JJR iller JJR worse JJS illest JJS worst
+
+APERTIUM: inside	PAR: expensive__adj	FORMS: JJ inside
+   OTHER: inside	PAR: ??????????????	FORMS: JJ inside JJR insider
+
+APERTIUM: joint	PAR: expensive__adj	FORMS: JJ joint
+   OTHER: joint	PAR: ??????????????	FORMS: JJ joint JJR jointer
+
+APERTIUM: key	PAR: expensive__adj	FORMS: JJ key
+   OTHER: key	PAR: ??????????????	FORMS: JJ key JJR kier
+
+APERTIUM: knightly	PAR: expensive__adj	FORMS: JJ knightly
+   OTHER: knightly	PAR: ??????????????	FORMS: JJR knightlier JJS knightliest
+
+APERTIUM: last	PAR: second__adj	FORMS: JJ last JJ last
+   OTHER: last	PAR: ??????????????	FORMS: JJ last JJR laster
+
+APERTIUM: left-hand	PAR: expensive__adj	FORMS: JJ left-hand
+   OTHER: left-hand	PAR: ??????????????	FORMS: JJ left-hand JJ lefthand
+
+APERTIUM: left-handed	PAR: expensive__adj	FORMS: JJ left-handed
+   OTHER: left-handed	PAR: ??????????????	FORMS: JJ left-handed JJ lefthanded
+
+APERTIUM: little	PAR: expensive__adj	FORMS: JJ little
+   OTHER: little	PAR: ??????????????	FORMS: JJ little JJR less JJR lesser JJR littler JJS least JJS littlest
+
+APERTIUM: lone	PAR: nice/__adj	FORMS: JJ lone JJR loner JJS lonest
+   OTHER: lone	PAR: ??????????????	FORMS: JJ lone JJR loner
+
+APERTIUM: loyal	PAR: expensive__adj	FORMS: JJ loyal
+   OTHER: loyal	PAR: ??????????????	FORMS: JJ loyal JJR loyaler JJR loyaller JJS loyalest JJS loyallest
+
+APERTIUM: malign	PAR: expensive__adj	FORMS: JJ malign
+   OTHER: malign	PAR: ??????????????	FORMS: JJ malign JJR maligner
+
+APERTIUM: marine	PAR: expensive__adj	FORMS: JJ marine
+   OTHER: marine	PAR: ??????????????	FORMS: JJ marine JJR mariner
+
+APERTIUM: middle	PAR: expensive__adj	FORMS: JJ middle
+   OTHER: middle	PAR: ??????????????	FORMS: JJ middle JJR middler
+
+APERTIUM: moral	PAR: common/__adj	FORMS: JJ moral JJ moraler JJ moralest
+   OTHER: moral	PAR: ??????????????	FORMS: JJ moral JJR moraller
+
+APERTIUM: motley	PAR: expensive__adj	FORMS: JJ motley
+   OTHER: motley	PAR: ??????????????	FORMS: JJ motley JJR motlier JJS motliest
+
+APERTIUM: net	PAR: hot/__adj	FORMS: JJ net JJR netter JJS nettest
+   OTHER: net	PAR: ??????????????	FORMS: JJ net JJR netter
+
+APERTIUM: north	PAR: long/__adj	FORMS: JJ north JJR norther JJS northest
+   OTHER: north	PAR: ??????????????	FORMS: JJ north JJR norther
+
+APERTIUM: northern	PAR: expensive__adj	FORMS: JJ northern
+   OTHER: northern	PAR: ??????????????	FORMS: JJ northern JJR northerner
+
+APERTIUM: occult	PAR: expensive__adj	FORMS: JJ occult
+   OTHER: occult	PAR: ??????????????	FORMS: JJ occult JJR occulter
+
+APERTIUM: old	PAR: long/__adj	FORMS: JJ old JJR older JJS oldest
+   OTHER: old	PAR: ??????????????	FORMS: JJ old JJR elder JJR older JJS eldest JJS oldest
+
+APERTIUM: online	PAR: expensive__adj	FORMS: JJ online
+   OTHER: online	PAR: ??????????????	FORMS: JJ online JJR onliner
+
+APERTIUM: only	PAR: expensive__adj	FORMS: JJ only
+   OTHER: only	PAR: ??????????????	FORMS: JJ only JJR onliest
+
+APERTIUM: outside	PAR: expensive__adj	FORMS: JJ outside
+   OTHER: outside	PAR: ??????????????	FORMS: JJ outside JJR outsider
+
+APERTIUM: own	PAR: expensive__adj	FORMS: JJ own
+   OTHER: own	PAR: ??????????????	FORMS: JJ own JJR owner
+
+APERTIUM: painful	PAR: expensive__adj	FORMS: JJ painful
+   OTHER: painful	PAR: ??????????????	FORMS: JJ painful JJR painfuller JJS painfullest
+
+APERTIUM: past	PAR: expensive__adj	FORMS: JJ past
+   OTHER: past	PAR: ??????????????	FORMS: JJ past JJR paster
+
+APERTIUM: peaceful	PAR: expensive__adj	FORMS: JJ peaceful
+   OTHER: peaceful	PAR: ??????????????	FORMS: JJ peaceful JJR peacefuller JJS peacefullest
+
+APERTIUM: preschool	PAR: expensive__adj	FORMS: JJ preschool
+   OTHER: preschool	PAR: ??????????????	FORMS: JJ preschool JJR preschooler
+
+APERTIUM: present	PAR: expensive__adj	FORMS: JJ present
+   OTHER: present	PAR: ??????????????	FORMS: JJ present JJR presenter
+
+APERTIUM: pricey	PAR: expensive__adj	FORMS: JJ pricey
+   OTHER: pricey	PAR: ??????????????	FORMS: JJ pricey JJR pricier JJS priciest
+
+APERTIUM: prickly	PAR: happ/y__adj	FORMS: JJ prickly JJR pricklier JJS prickliest
+   OTHER: prickly	PAR: ??????????????	FORMS: JJR pricklier JJS prickliest
+
+APERTIUM: prime	PAR: expensive__adj	FORMS: JJ prime
+   OTHER: prime	PAR: ??????????????	FORMS: JJ prime JJR primer
+
+APERTIUM: profane	PAR: expensive__adj	FORMS: JJ profane
+   OTHER: profane	PAR: ??????????????	FORMS: JJ profane JJR profaner
+
+APERTIUM: quantitative	PAR: expensive__adj	FORMS: JJ quantitative
+   OTHER: quantitative	PAR: ??????????????	FORMS: JJ quantitative JJ quantitive
+
+APERTIUM: regal	PAR: common/__adj	FORMS: JJ regal JJ regaler JJ regalest
+   OTHER: regal	PAR: ??????????????	FORMS: JJ regal JJR regaler
+
+APERTIUM: restful	PAR: expensive__adj	FORMS: JJ restful
+   OTHER: restful	PAR: ??????????????	FORMS: JJ restful JJR restfuller JJS restfullest
+
+APERTIUM: reverse	PAR: expensive__adj	FORMS: JJ reverse
+   OTHER: reverse	PAR: ??????????????	FORMS: JJ reverse JJR reverser
+
+APERTIUM: right-hand	PAR: expensive__adj	FORMS: JJ right-hand
+   OTHER: right-hand	PAR: ??????????????	FORMS: JJ right-hand JJ righthand
+
+APERTIUM: right-handed	PAR: expensive__adj	FORMS: JJ right-handed
+   OTHER: right-handed	PAR: ??????????????	FORMS: JJ right-handed JJ righthanded
+
+APERTIUM: royal	PAR: expensive__adj	FORMS: JJ royal
+   OTHER: royal	PAR: ??????????????	FORMS: JJ royal JJR royaller JJS royallest
+
+APERTIUM: rudimentary	PAR: expensive__adj	FORMS: JJ rudimentary
+   OTHER: rudimentary	PAR: ??????????????	FORMS: JJ rudimental JJ rudimentary
+
+APERTIUM: saintly	PAR: expensive__adj	FORMS: JJ saintly
+   OTHER: saintly	PAR: ??????????????	FORMS: JJR saintlier JJS saintliest
+
+APERTIUM: scaly	PAR: happ/y__adj	FORMS: JJ scaly JJR scalier JJS scaliest
+   OTHER: scaly	PAR: ??????????????	FORMS: JJR scalier JJS scaliest
+
+APERTIUM: second	PAR: second__adj	FORMS: JJ second JJ second
+   OTHER: second	PAR: ??????????????	FORMS: JJ second JJR seconder
+
+APERTIUM: shapely	PAR: happ/y__adj	FORMS: JJ shapely JJR shapelier JJS shapeliest
+   OTHER: shapely	PAR: ??????????????	FORMS: JJR shapelier JJS shapeliest
+
+APERTIUM: snow-white	PAR: expensive__adj	FORMS: JJ snow-white
+   OTHER: snow-white	PAR: ??????????????	FORMS: JJ snow-white JJ snowwhite
+
+APERTIUM: sole	PAR: expensive__adj	FORMS: JJ sole
+   OTHER: sole	PAR: ??????????????	FORMS: JJ sole JJR soler
+
+APERTIUM: south	PAR: long/__adj	FORMS: JJ south JJR souther JJS southest
+   OTHER: south	PAR: ??????????????	FORMS: JJ south JJR souther
+
+APERTIUM: space	PAR: expensive__adj	FORMS: JJ space
+   OTHER: space	PAR: ??????????????	FORMS: JJ space JJR spacer
+
+APERTIUM: spiteful	PAR: expensive__adj	FORMS: JJ spiteful
+   OTHER: spiteful	PAR: ??????????????	FORMS: JJ spiteful JJR spitefuller JJS spitefullest
+
+APERTIUM: state	PAR: expensive__adj	FORMS: JJ state
+   OTHER: state	PAR: ??????????????	FORMS: JJ state JJR stater
+
+APERTIUM: stubbly	PAR: happ/y__adj	FORMS: JJ stubbly JJR stubblier JJS stubbliest
+   OTHER: stubbly	PAR: ??????????????	FORMS: JJR stubblier JJS stubbliest
+
+APERTIUM: surly	PAR: expensive__adj	FORMS: JJ surly
+   OTHER: surly	PAR: ??????????????	FORMS: JJR surlier JJS surliest
+
+APERTIUM: teenage	PAR: expensive__adj	FORMS: JJ teenage
+   OTHER: teenage	PAR: ??????????????	FORMS: JJ teenage JJR teenager
+
+APERTIUM: top	PAR: expensive__adj	FORMS: JJ top
+   OTHER: top	PAR: ??????????????	FORMS: JJ top JJR topper
+
+APERTIUM: tranquil	PAR: expensive__adj	FORMS: JJ tranquil
+   OTHER: tranquil	PAR: ??????????????	FORMS: JJ tranquil JJR tranquiler JJR tranquiller JJS tranquilest JJS tranquillest
+
+APERTIUM: unsightly	PAR: expensive__adj	FORMS: JJ unsightly
+   OTHER: unsightly	PAR: ??????????????	FORMS: JJR unsightlier JJS unsightliest
+
+APERTIUM: void	PAR: expensive__adj	FORMS: JJ void
+   OTHER: void	PAR: ??????????????	FORMS: JJ void JJR voider
+
+APERTIUM: welcome	PAR: expensive__adj	FORMS: JJ welcome
+   OTHER: welcome	PAR: ??????????????	FORMS: JJ welcome JJR welcomer
+
+APERTIUM: west	PAR: expensive__adj	FORMS: JJ west
+   OTHER: west	PAR: ??????????????	FORMS: JJ west JJR wester
+
+APERTIUM: western	PAR: expensive__adj	FORMS: JJ western
+   OTHER: western	PAR: ??????????????	FORMS: JJ western JJR westerner
+
+APERTIUM: woeful	PAR: expensive__adj	FORMS: JJ woeful
+   OTHER: woeful	PAR: ??????????????	FORMS: JJ woeful JJR woefuller JJS woefullest
+<e lm="ace"><i>ace</i><par n="??????????"/></e>
+<e lm="advance"><i>advance</i><par n="??????????"/></e>
+<e lm="airline"><i>airline</i><par n="??????????"/></e>
+<e lm="aleatory"><i>aleatory</i><par n="??????????"/></e>
+<e lm="alien"><i>alien</i><par n="??????????"/></e>
+<e lm="all-American"><i>all-American</i><par n="??????????"/></e>
+<e lm="analogical"><i>analogical</i><par n="??????????"/></e>
+<e lm="assault"><i>assault</i><par n="??????????"/></e>
+<e lm="attack"><i>attack</i><par n="??????????"/></e>
+<e lm="auntly"><i>auntly</i><par n="??????????"/></e>
+<e lm="babbly"><i>babbly</i><par n="??????????"/></e>
+<e lm="background"><i>background</i><par n="??????????"/></e>
+<e lm="backhand"><i>backhand</i><par n="??????????"/></e>
+<e lm="bagpipe"><i>bagpipe</i><par n="??????????"/></e>
+<e lm="bairnly"><i>bairnly</i><par n="??????????"/></e>
+<e lm="bang"><i>bang</i><par n="??????????"/></e>
+<e lm="bargain"><i>bargain</i><par n="??????????"/></e>
+<e lm="barney"><i>barney</i><par n="??????????"/></e>
+<e lm="bas"><i>bas</i><par n="??????????"/></e>
+<e lm="beastly"><i>beastly</i><par n="??????????"/></e>
+<e lm="beetle"><i>beetle</i><par n="??????????"/></e>
+<e lm="bevel"><i>bevel</i><par n="??????????"/></e>
+<e lm="bi"><i>bi</i><par n="??????????"/></e>
+<e lm="blame"><i>blame</i><par n="??????????"/></e>
+<e lm="blush"><i>blush</i><par n="??????????"/></e>
+<e lm="boney"><i>boney</i><par n="??????????"/></e>
+<e lm="bootleg"><i>bootleg</i><par n="??????????"/></e>
+<e lm="boozey"><i>boozey</i><par n="??????????"/></e>
+<e lm="border"><i>border</i><par n="??????????"/></e>
+<e lm="bos"><i>bos</i><par n="??????????"/></e>
+<e lm="bow"><i>bow</i><par n="??????????"/></e>
+<e lm="brambly"><i>brambly</i><par n="??????????"/></e>
+<e lm="brassbound"><i>brassbound</i><par n="??????????"/></e>
+<e lm="brawly"><i>brawly</i><par n="??????????"/></e>
+<e lm="broad-leaved"><i>broad-leaved</i><par n="??????????"/></e>
+<e lm="bronze"><i>bronze</i><par n="??????????"/></e>
+<e lm="brood"><i>brood</i><par n="??????????"/></e>
+<e lm="brut"><i>brut</i><par n="??????????"/></e>
+<e lm="brute"><i>brute</i><par n="??????????"/></e>
+<e lm="buck"><i>buck</i><par n="??????????"/></e>
+<e lm="budget"><i>budget</i><par n="??????????"/></e>
+<e lm="buff"><i>buff</i><par n="??????????"/></e>
+<e lm="bulk"><i>bulk</i><par n="??????????"/></e>
+<e lm="bulldog"><i>bulldog</i><par n="??????????"/></e>
+<e lm="bully"><i>bully</i><par n="??????????"/></e>
+<e lm="burley"><i>burley</i><par n="??????????"/></e>
+<e lm="bust"><i>bust</i><par n="??????????"/></e>
+<e lm="by"><i>by</i><par n="??????????"/></e>
+<e lm="cagey"><i>cagey</i><par n="??????????"/></e>
+<e lm="cakey"><i>cakey</i><par n="??????????"/></e>
+<e lm="career"><i>career</i><par n="??????????"/></e>
+<e lm="carney"><i>carney</i><par n="??????????"/></e>
+<e lm="chamber"><i>chamber</i><par n="??????????"/></e>
+<e lm="chance"><i>chance</i><par n="??????????"/></e>
+<e lm="chancey"><i>chancey</i><par n="??????????"/></e>
+<e lm="charter"><i>charter</i><par n="??????????"/></e>
+<e lm="check"><i>check</i><par n="??????????"/></e>
+<e lm="childly"><i>childly</i><par n="??????????"/></e>
+<e lm="chock"><i>chock</i><par n="??????????"/></e>
+<e lm="chokey"><i>chokey</i><par n="??????????"/></e>
+<e lm="choosey"><i>choosey</i><par n="??????????"/></e>
+<e lm="class"><i>class</i><par n="??????????"/></e>
+<e lm="cliquey"><i>cliquey</i><par n="??????????"/></e>
+<e lm="coach"><i>coach</i><par n="??????????"/></e>
+<e lm="coaly"><i>coaly</i><par n="??????????"/></e>
+<e lm="coat"><i>coat</i><par n="??????????"/></e>
+<e lm="color"><i>color</i><par n="??????????"/></e>
+<e lm="color-blind"><i>color-blind</i><par n="??????????"/></e>
+<e lm="colour"><i>colour</i><par n="??????????"/></e>
+<e lm="come-hither"><i>come-hither</i><par n="??????????"/></e>
+<e lm="comely"><i>comely</i><par n="??????????"/></e>
+<e lm="con"><i>con</i><par n="??????????"/></e>
+<e lm="confer"><i>confer</i><par n="??????????"/></e>
+<e lm="cooperative"><i>cooperative</i><par n="??????????"/></e>
+<e lm="copyright"><i>copyright</i><par n="??????????"/></e>
+<e lm="cosey"><i>cosey</i><par n="??????????"/></e>
+<e lm="cosher"><i>cosher</i><par n="??????????"/></e>
+<e lm="costume"><i>costume</i><par n="??????????"/></e>
+<e lm="course"><i>course</i><par n="??????????"/></e>
+<e lm="cozey"><i>cozey</i><par n="??????????"/></e>
+<e lm="crack"><i>crack</i><par n="??????????"/></e>
+<e lm="cracker-barrel"><i>cracker-barrel</i><par n="??????????"/></e>
+<e lm="crackly"><i>crackly</i><par n="??????????"/></e>
+<e lm="crash"><i>crash</i><par n="??????????"/></e>
+<e lm="crawly"><i>crawly</i><par n="??????????"/></e>
+<e lm="cream"><i>cream</i><par n="??????????"/></e>
+<e lm="crepey"><i>crepey</i><par n="??????????"/></e>
+<e lm="crinkly"><i>crinkly</i><par n="??????????"/></e>
+<e lm="crumbly"><i>crumbly</i><par n="??????????"/></e>
+<e lm="crumply"><i>crumply</i><par n="??????????"/></e>
+<e lm="cuddly"><i>cuddly</i><par n="??????????"/></e>
+<e lm="cur"><i>cur</i><par n="??????????"/></e>
+<e lm="curvey"><i>curvey</i><par n="??????????"/></e>
+<e lm="damn"><i>damn</i><par n="??????????"/></e>
+<e lm="dancey"><i>dancey</i><par n="??????????"/></e>
+<e lm="darkly"><i>darkly</i><par n="??????????"/></e>
+<e lm="darn"><i>darn</i><par n="??????????"/></e>
+<e lm="deadpan"><i>deadpan</i><par n="??????????"/></e>
+<e lm="def"><i>def</i><par n="??????????"/></e>
+<e lm="demur"><i>demur</i><par n="??????????"/></e>
+<e lm="desert"><i>desert</i><par n="??????????"/></e>
+<e lm="dicey"><i>dicey</i><par n="??????????"/></e>
+<e lm="diet"><i>diet</i><par n="??????????"/></e>
+<e lm="diffuse"><i>diffuse</i><par n="??????????"/></e>
+<e lm="dikey"><i>dikey</i><par n="??????????"/></e>
+<e lm="dilute"><i>dilute</i><par n="??????????"/></e>
+<e lm="dim-witted"><i>dim-witted</i><par n="??????????"/></e>
+<e lm="dime"><i>dime</i><par n="??????????"/></e>
+<e lm="dimply"><i>dimply</i><par n="??????????"/></e>
+<e lm="dingey"><i>dingey</i><par n="??????????"/></e>
+<e lm="dinkey"><i>dinkey</i><par n="??????????"/></e>
+<e lm="discount"><i>discount</i><par n="??????????"/></e>
+<e lm="doleful"><i>doleful</i><par n="??????????"/></e>
+<e lm="dopey"><i>dopey</i><par n="??????????"/></e>
+<e lm="down"><i>down</i><par n="??????????"/></e>
+<e lm="downhill"><i>downhill</i><par n="??????????"/></e>
+<e lm="downstate"><i>downstate</i><par n="??????????"/></e>
+<e lm="drawly"><i>drawly</i><par n="??????????"/></e>
+<e lm="dread"><i>dread</i><par n="??????????"/></e>
+<e lm="dress"><i>dress</i><par n="??????????"/></e>
+<e lm="drey"><i>drey</i><par n="??????????"/></e>
+<e lm="drooly"><i>drooly</i><par n="??????????"/></e>
+<e lm="drumly"><i>drumly</i><par n="??????????"/></e>
+<e lm="dud"><i>dud</i><par n="??????????"/></e>
+<e lm="duplex"><i>duplex</i><par n="??????????"/></e>
+<e lm="dykey"><i>dykey</i><par n="??????????"/></e>
+<e lm="dynamite"><i>dynamite</i><par n="??????????"/></e>
+<e lm="edge"><i>edge</i><par n="??????????"/></e>
+<e lm="eely"><i>eely</i><par n="??????????"/></e>
+<e lm="eight"><i>eight</i><par n="??????????"/></e>
+<e lm="erect"><i>erect</i><par n="??????????"/></e>
+<e lm="express"><i>express</i><par n="??????????"/></e>
+<e lm="fail-safe"><i>fail-safe</i><par n="??????????"/></e>
+<e lm="fake"><i>fake</i><par n="??????????"/></e>
+<e lm="farm"><i>farm</i><par n="??????????"/></e>
+<e lm="featly"><i>featly</i><par n="??????????"/></e>
+<e lm="fiddley"><i>fiddley</i><par n="??????????"/></e>
+<e lm="fiddly"><i>fiddly</i><par n="??????????"/></e>
+<e lm="fifteen"><i>fifteen</i><par n="??????????"/></e>
+<e lm="fin"><i>fin</i><par n="??????????"/></e>
+<e lm="fitly"><i>fitly</i><par n="??????????"/></e>
+<e lm="five"><i>five</i><par n="??????????"/></e>
+<e lm="flakey"><i>flakey</i><par n="??????????"/></e>
+<e lm="fleshly"><i>fleshly</i><par n="??????????"/></e>
+<e lm="fley"><i>fley</i><par n="??????????"/></e>
+<e lm="flood"><i>flood</i><par n="??????????"/></e>
+<e lm="flop"><i>flop</i><par n="??????????"/></e>
+<e lm="flukey"><i>flukey</i><par n="??????????"/></e>
+<e lm="flutey"><i>flutey</i><par n="??????????"/></e>
+<e lm="fold"><i>fold</i><par n="??????????"/></e>
+<e lm="forfeit"><i>forfeit</i><par n="??????????"/></e>
+<e lm="forrad"><i>forrad</i><par n="??????????"/></e>
+<e lm="forrard"><i>forrard</i><par n="??????????"/></e>
+<e lm="fourteen"><i>fourteen</i><par n="??????????"/></e>
+<e lm="freckly"><i>freckly</i><par n="??????????"/></e>
+<e lm="frilly"><i>frilly</i><par n="??????????"/></e>
+<e lm="frizzly"><i>frizzly</i><par n="??????????"/></e>
+<e lm="front"><i>front</i><par n="??????????"/></e>
+<e lm="gam"><i>gam</i><par n="??????????"/></e>
+<e lm="gamey"><i>gamey</i><par n="??????????"/></e>
+<e lm="giggly"><i>giggly</i><par n="??????????"/></e>
+<e lm="gladly"><i>gladly</i><par n="??????????"/></e>
+<e lm="gluey"><i>gluey</i><par n="??????????"/></e>
+<e lm="gnarly"><i>gnarly</i><par n="??????????"/></e>
+<e lm="goggly"><i>goggly</i><par n="??????????"/></e>
+<e lm="gooey"><i>gooey</i><par n="??????????"/></e>
+<e lm="gooney"><i>gooney</i><par n="??????????"/></e>
+<e lm="goosey"><i>goosey</i><par n="??????????"/></e>
+<e lm="gospel"><i>gospel</i><par n="??????????"/></e>
+<e lm="grab"><i>grab</i><par n="??????????"/></e>
+<e lm="grade"><i>grade</i><par n="??????????"/></e>
+<e lm="grapey"><i>grapey</i><par n="??????????"/></e>
+<e lm="gripey"><i>gripey</i><par n="??????????"/></e>
+<e lm="gristly"><i>gristly</i><par n="??????????"/></e>
+<e lm="group"><i>group</i><par n="??????????"/></e>
+<e lm="growly"><i>growly</i><par n="??????????"/></e>
+<e lm="hack"><i>hack</i><par n="??????????"/></e>
+<e lm="hackly"><i>hackly</i><par n="??????????"/></e>
+<e lm="halt"><i>halt</i><par n="??????????"/></e>
+<e lm="ham"><i>ham</i><par n="??????????"/></e>
+<e lm="hardline"><i>hardline</i><par n="??????????"/></e>
+<e lm="head"><i>head</i><par n="??????????"/></e>
+<e lm="hermeneutic"><i>hermeneutic</i><par n="??????????"/></e>
+<e lm="hex"><i>hex</i><par n="??????????"/></e>
+<e lm="high-flown"><i>high-flown</i><par n="??????????"/></e>
+<e lm="highland"><i>highland</i><par n="??????????"/></e>
+<e lm="hind"><i>hind</i><par n="??????????"/></e>
+<e lm="hokey"><i>hokey</i><par n="??????????"/></e>
+<e lm="holey"><i>holey</i><par n="??????????"/></e>
+<e lm="home"><i>home</i><par n="??????????"/></e>
+<e lm="homey"><i>homey</i><par n="??????????"/></e>
+<e lm="hookey"><i>hookey</i><par n="??????????"/></e>
+<e lm="horn"><i>horn</i><par n="??????????"/></e>
+<e lm="horsey"><i>horsey</i><par n="??????????"/></e>
+<e lm="hug"><i>hug</i><par n="??????????"/></e>
+<e lm="hundred"><i>hundred</i><par n="??????????"/></e>
+<e lm="hunkey"><i>hunkey</i><par n="??????????"/></e>
+<e lm="inland"><i>inland</i><par n="??????????"/></e>
+<e lm="instant"><i>instant</i><par n="??????????"/></e>
+<e lm="iron"><i>iron</i><par n="??????????"/></e>
+<e lm="jangly"><i>jangly</i><par n="??????????"/></e>
+<e lm="jiggly"><i>jiggly</i><par n="??????????"/></e>
+<e lm="jingly"><i>jingly</i><par n="??????????"/></e>
+<e lm="jivey"><i>jivey</i><par n="??????????"/></e>
+<e lm="jokey"><i>jokey</i><par n="??????????"/></e>
+<e lm="jowly"><i>jowly</i><par n="??????????"/></e>
+<e lm="joyful"><i>joyful</i><par n="??????????"/></e>
+<e lm="jungly"><i>jungly</i><par n="??????????"/></e>
+<e lm="king-size"><i>king-size</i><par n="??????????"/></e>
+<e lm="knee-high"><i>knee-high</i><par n="??????????"/></e>
+<e lm="knobbly"><i>knobbly</i><par n="??????????"/></e>
+<e lm="knuckly"><i>knuckly</i><par n="??????????"/></e>
+<e lm="knurly"><i>knurly</i><par n="??????????"/></e>
+<e lm="lacey"><i>lacey</i><par n="??????????"/></e>
+<e lm="lam"><i>lam</i><par n="??????????"/></e>
+<e lm="land"><i>land</i><par n="??????????"/></e>
+<e lm="lat"><i>lat</i><par n="??????????"/></e>
+<e lm="lateen"><i>lateen</i><par n="??????????"/></e>
+<e lm="lay"><i>lay</i><par n="??????????"/></e>
+<e lm="lee"><i>lee</i><par n="??????????"/></e>
+<e lm="left-wing"><i>left-wing</i><par n="??????????"/></e>
+<e lm="less"><i>less</i><par n="??????????"/></e>
+<e lm="level"><i>level</i><par n="??????????"/></e>
+<e lm="liege"><i>liege</i><par n="??????????"/></e>
+<e lm="life-size"><i>life-size</i><par n="??????????"/></e>
+<e lm="light-footed"><i>light-footed</i><par n="??????????"/></e>
+<e lm="lily-white"><i>lily-white</i><par n="??????????"/></e>
+<e lm="limey"><i>limey</i><par n="??????????"/></e>
+<e lm="limpsey"><i>limpsey</i><par n="??????????"/></e>
+<e lm="liney"><i>liney</i><par n="??????????"/></e>
+<e lm="lip"><i>lip</i><par n="??????????"/></e>
+<e lm="lit"><i>lit</i><par n="??????????"/></e>
+<e lm="lite"><i>lite</i><par n="??????????"/></e>
+<e lm="log"><i>log</i><par n="??????????"/></e>
+<e lm="long-lived"><i>long-lived</i><par n="??????????"/></e>
+<e lm="looney"><i>looney</i><par n="??????????"/></e>
+<e lm="loudly"><i>loudly</i><par n="??????????"/></e>
+<e lm="lowland"><i>lowland</i><par n="??????????"/></e>
+<e lm="lowly"><i>lowly</i><par n="??????????"/></e>
+<e lm="ly"><i>ly</i><par n="??????????"/></e>
+<e lm="mainline"><i>mainline</i><par n="??????????"/></e>
+<e lm="mainstream"><i>mainstream</i><par n="??????????"/></e>
+<e lm="man-made"><i>man-made</i><par n="??????????"/></e>
+<e lm="mangey"><i>mangey</i><par n="??????????"/></e>
+<e lm="many"><i>many</i><par n="??????????"/></e>
+<e lm="marble"><i>marble</i><par n="??????????"/></e>
+<e lm="marbly"><i>marbly</i><par n="??????????"/></e>
+<e lm="marly"><i>marly</i><par n="??????????"/></e>
+<e lm="maroon"><i>maroon</i><par n="??????????"/></e>
+<e lm="mass-produced"><i>mass-produced</i><par n="??????????"/></e>
+<e lm="matey"><i>matey</i><par n="??????????"/></e>
+<e lm="mealy"><i>mealy</i><par n="??????????"/></e>
+<e lm="metabolizable"><i>metabolizable</i><par n="??????????"/></e>
+<e lm="mid"><i>mid</i><par n="??????????"/></e>
+<e lm="milch"><i>milch</i><par n="??????????"/></e>
+<e lm="milk"><i>milk</i><par n="??????????"/></e>
+<e lm="mim"><i>mim</i><par n="??????????"/></e>
+<e lm="mind-boggling"><i>mind-boggling</i><par n="??????????"/></e>
+<e lm="mint"><i>mint</i><par n="??????????"/></e>
+<e lm="mob"><i>mob</i><par n="??????????"/></e>
+<e lm="mock"><i>mock</i><par n="??????????"/></e>
+<e lm="model"><i>model</i><par n="??????????"/></e>
+<e lm="modulative"><i>modulative</i><par n="??????????"/></e>
+<e lm="mopey"><i>mopey</i><par n="??????????"/></e>
+<e lm="mothproof"><i>mothproof</i><par n="??????????"/></e>
+<e lm="mournful"><i>mournful</i><par n="??????????"/></e>
+<e lm="mousey"><i>mousey</i><par n="??????????"/></e>
+<e lm="much"><i>much</i><par n="??????????"/></e>
+<e lm="mum"><i>mum</i><par n="??????????"/></e>
+<e lm="must"><i>must</i><par n="??????????"/></e>
+<e lm="mut"><i>mut</i><par n="??????????"/></e>
+<e lm="narrow-minded"><i>narrow-minded</i><par n="??????????"/></e>
+<e lm="native-born"><i>native-born</i><par n="??????????"/></e>
+<e lm="nearly"><i>nearly</i><par n="??????????"/></e>
+<e lm="nett"><i>nett</i><par n="??????????"/></e>
+<e lm="nettly"><i>nettly</i><par n="??????????"/></e>
+<e lm="nine"><i>nine</i><par n="??????????"/></e>
+<e lm="nirly"><i>nirly</i><par n="??????????"/></e>
+<e lm="northeast"><i>northeast</i><par n="??????????"/></e>
+<e lm="northwest"><i>northwest</i><par n="??????????"/></e>
+<e lm="nosey"><i>nosey</i><par n="??????????"/></e>
+<e lm="nubbly"><i>nubbly</i><par n="??????????"/></e>
+<e lm="off-color"><i>off-color</i><par n="??????????"/></e>
+<e lm="off-putting"><i>off-putting</i><par n="??????????"/></e>
+<e lm="offside"><i>offside</i><par n="??????????"/></e>
+<e lm="old-time"><i>old-time</i><par n="??????????"/></e>
+<e lm="olive"><i>olive</i><par n="??????????"/></e>
+<e lm="on"><i>on</i><par n="??????????"/></e>
+<e lm="one"><i>one</i><par n="??????????"/></e>
+<e lm="orangey"><i>orangey</i><par n="??????????"/></e>
+<e lm="orient"><i>orient</i><par n="??????????"/></e>
+<e lm="outback"><i>outback</i><par n="??????????"/></e>
+<e lm="overly"><i>overly</i><par n="??????????"/></e>
+<e lm="pacey"><i>pacey</i><par n="??????????"/></e>
+<e lm="package"><i>package</i><par n="??????????"/></e>
+<e lm="pally"><i>pally</i><par n="??????????"/></e>
+<e lm="paly"><i>paly</i><par n="??????????"/></e>
+<e lm="paper"><i>paper</i><par n="??????????"/></e>
+<e lm="par"><i>par</i><par n="??????????"/></e>
+<e lm="part"><i>part</i><par n="??????????"/></e>
+<e lm="party"><i>party</i><par n="??????????"/></e>
+<e lm="pass"><i>pass</i><par n="??????????"/></e>
+<e lm="passe"><i>passe</i><par n="??????????"/></e>
+<e lm="pat"><i>pat</i><par n="??????????"/></e>
+<e lm="pay"><i>pay</i><par n="??????????"/></e>
+<e lm="pearl"><i>pearl</i><par n="??????????"/></e>
+<e lm="pearlized"><i>pearlized</i><par n="??????????"/></e>
+<e lm="pebbly"><i>pebbly</i><par n="??????????"/></e>
+<e lm="pedal"><i>pedal</i><par n="??????????"/></e>
+<e lm="pedunculate"><i>pedunculate</i><par n="??????????"/></e>
+<e lm="persecutive"><i>persecutive</i><par n="??????????"/></e>
+<e lm="pet"><i>pet</i><par n="??????????"/></e>
+<e lm="pewter"><i>pewter</i><par n="??????????"/></e>
+<e lm="phoney"><i>phoney</i><par n="??????????"/></e>
+<e lm="piney"><i>piney</i><par n="??????????"/></e>
+<e lm="pint-size"><i>pint-size</i><par n="??????????"/></e>
+<e lm="pitiful"><i>pitiful</i><par n="??????????"/></e>
+<e lm="plaguey"><i>plaguey</i><par n="??????????"/></e>
+<e lm="plane"><i>plane</i><par n="??????????"/></e>
+<e lm="please"><i>please</i><par n="??????????"/></e>
+<e lm="plumb"><i>plumb</i><par n="??????????"/></e>
+<e lm="plunk"><i>plunk</i><par n="??????????"/></e>
+<e lm="pocket"><i>pocket</i><par n="??????????"/></e>
+<e lm="poison"><i>poison</i><par n="??????????"/></e>
+<e lm="pokey"><i>pokey</i><par n="??????????"/></e>
+<e lm="pop"><i>pop</i><par n="??????????"/></e>
+<e lm="port"><i>port</i><par n="??????????"/></e>
+<e lm="pre"><i>pre</i><par n="??????????"/></e>
+<e lm="pretend"><i>pretend</i><par n="??????????"/></e>
+<e lm="print"><i>print</i><par n="??????????"/></e>
+<e lm="prize"><i>prize</i><par n="??????????"/></e>
+<e lm="proof"><i>proof</i><par n="??????????"/></e>
+<e lm="prose"><i>prose</i><par n="??????????"/></e>
+<e lm="puddly"><i>puddly</i><par n="??????????"/></e>
+<e lm="pudsey"><i>pudsey</i><par n="??????????"/></e>
+<e lm="puff"><i>puff</i><par n="??????????"/></e>
+<e lm="pulp"><i>pulp</i><par n="??????????"/></e>
+<e lm="punch-drunk"><i>punch-drunk</i><par n="??????????"/></e>
+<e lm="punkey"><i>punkey</i><par n="??????????"/></e>
+<e lm="quick-witted"><i>quick-witted</i><par n="??????????"/></e>
+<e lm="race"><i>race</i><par n="??????????"/></e>
+<e lm="rapid-fire"><i>rapid-fire</i><par n="??????????"/></e>
+<e lm="rattly"><i>rattly</i><par n="??????????"/></e>
+<e lm="rave"><i>rave</i><par n="??????????"/></e>
+<e lm="raven"><i>raven</i><par n="??????????"/></e>
+<e lm="rear"><i>rear</i><par n="??????????"/></e>
+<e lm="rebel"><i>rebel</i><par n="??????????"/></e>
+<e lm="record"><i>record</i><par n="??????????"/></e>
+<e lm="red-hot"><i>red-hot</i><par n="??????????"/></e>
+<e lm="refuse"><i>refuse</i><par n="??????????"/></e>
+<e lm="rental"><i>rental</i><par n="??????????"/></e>
+<e lm="reserve"><i>reserve</i><par n="??????????"/></e>
+<e lm="retail"><i>retail</i><par n="??????????"/></e>
+<e lm="return"><i>return</i><par n="??????????"/></e>
+<e lm="review"><i>review</i><par n="??????????"/></e>
+<e lm="rickly"><i>rickly</i><par n="??????????"/></e>
+<e lm="ringside"><i>ringside</i><par n="??????????"/></e>
+<e lm="rip"><i>rip</i><par n="??????????"/></e>
+<e lm="rip-roaring"><i>rip-roaring</i><par n="??????????"/></e>
+<e lm="ripply"><i>ripply</i><par n="??????????"/></e>
+<e lm="roast"><i>roast</i><par n="??????????"/></e>
+<e lm="rock"><i>rock</i><par n="??????????"/></e>
+<e lm="roily"><i>roily</i><par n="??????????"/></e>
+<e lm="root"><i>root</i><par n="??????????"/></e>
+<e lm="ropey"><i>ropey</i><par n="??????????"/></e>
+<e lm="rubbly"><i>rubbly</i><par n="??????????"/></e>
+<e lm="rud"><i>rud</i><par n="??????????"/></e>
+<e lm="ruffly"><i>ruffly</i><par n="??????????"/></e>
+<e lm="ruly"><i>ruly</i><par n="??????????"/></e>
+<e lm="rumply"><i>rumply</i><par n="??????????"/></e>
+<e lm="rush"><i>rush</i><par n="??????????"/></e>
+<e lm="sag"><i>sag</i><par n="??????????"/></e>
+<e lm="sample"><i>sample</i><par n="??????????"/></e>
+<e lm="sandlot"><i>sandlot</i><par n="??????????"/></e>
+<e lm="scaley"><i>scaley</i><par n="??????????"/></e>
+<e lm="scarey"><i>scarey</i><par n="??????????"/></e>
+<e lm="scat"><i>scat</i><par n="??????????"/></e>
+<e lm="score"><i>score</i><par n="??????????"/></e>
+<e lm="scrabbly"><i>scrabbly</i><par n="??????????"/></e>
+<e lm="scraggly"><i>scraggly</i><par n="??????????"/></e>
+<e lm="scrap"><i>scrap</i><par n="??????????"/></e>
+<e lm="scratch"><i>scratch</i><par n="??????????"/></e>
+<e lm="scrawly"><i>scrawly</i><par n="??????????"/></e>
+<e lm="scrub"><i>scrub</i><par n="??????????"/></e>
+<e lm="seed"><i>seed</i><par n="??????????"/></e>
+<e lm="select"><i>select</i><par n="??????????"/></e>
+<e lm="service"><i>service</i><par n="??????????"/></e>
+<e lm="seven"><i>seven</i><par n="??????????"/></e>
+<e lm="shadow"><i>shadow</i><par n="??????????"/></e>
+<e lm="shaley"><i>shaley</i><par n="??????????"/></e>
+<e lm="shaly"><i>shaly</i><par n="??????????"/></e>
+<e lm="sham"><i>sham</i><par n="??????????"/></e>
+<e lm="sheeney"><i>sheeney</i><par n="??????????"/></e>
+<e lm="shell"><i>shell</i><par n="??????????"/></e>
+<e lm="shelly"><i>shelly</i><par n="??????????"/></e>
+<e lm="shingly"><i>shingly</i><par n="??????????"/></e>
+<e lm="shoaly"><i>shoaly</i><par n="??????????"/></e>
+<e lm="shock"><i>shock</i><par n="??????????"/></e>
+<e lm="short-handed"><i>short-handed</i><par n="??????????"/></e>
+<e lm="shotgun"><i>shotgun</i><par n="??????????"/></e>
+<e lm="shrilly"><i>shrilly</i><par n="??????????"/></e>
+<e lm="side"><i>side</i><par n="??????????"/></e>
+<e lm="sightly"><i>sightly</i><par n="??????????"/></e>
+<e lm="sign"><i>sign</i><par n="??????????"/></e>
+<e lm="signal"><i>signal</i><par n="??????????"/></e>
+<e lm="silver"><i>silver</i><par n="??????????"/></e>
+<e lm="simple-minded"><i>simple-minded</i><par n="??????????"/></e>
+<e lm="single-track"><i>single-track</i><par n="??????????"/></e>
+<e lm="six"><i>six</i><par n="??????????"/></e>
+<e lm="sixteen"><i>sixteen</i><par n="??????????"/></e>
+<e lm="size"><i>size</i><par n="??????????"/></e>
+<e lm="skew"><i>skew</i><par n="??????????"/></e>
+<e lm="skim"><i>skim</i><par n="??????????"/></e>
+<e lm="skin"><i>skin</i><par n="??????????"/></e>
+<e lm="skint"><i>skint</i><par n="??????????"/></e>
+<e lm="sky-high"><i>sky-high</i><par n="??????????"/></e>
+<e lm="slap"><i>slap</i><par n="??????????"/></e>
+<e lm="slatey"><i>slatey</i><par n="??????????"/></e>
+<e lm="slave"><i>slave</i><par n="??????????"/></e>
+<e lm="sley"><i>sley</i><par n="??????????"/></e>
+<e lm="slit"><i>slit</i><par n="??????????"/></e>
+<e lm="slum"><i>slum</i><par n="??????????"/></e>
+<e lm="smack"><i>smack</i><par n="??????????"/></e>
+<e lm="small-minded"><i>small-minded</i><par n="??????????"/></e>
+<e lm="small-time"><i>small-time</i><par n="??????????"/></e>
+<e lm="smash"><i>smash</i><par n="??????????"/></e>
+<e lm="smiley"><i>smiley</i><par n="??????????"/></e>
+<e lm="smily"><i>smily</i><par n="??????????"/></e>
+<e lm="smokey"><i>smokey</i><par n="??????????"/></e>
+<e lm="snakey"><i>snakey</i><par n="??????????"/></e>
+<e lm="snap"><i>snap</i><par n="??????????"/></e>
+<e lm="snarly"><i>snarly</i><par n="??????????"/></e>
+<e lm="sneak"><i>sneak</i><par n="??????????"/></e>
+<e lm="snub"><i>snub</i><par n="??????????"/></e>
+<e lm="snub-nosed"><i>snub-nosed</i><par n="??????????"/></e>
+<e lm="snuff"><i>snuff</i><par n="??????????"/></e>
+<e lm="snuffly"><i>snuffly</i><par n="??????????"/></e>
+<e lm="southeast"><i>southeast</i><par n="??????????"/></e>
+<e lm="southern"><i>southern</i><par n="??????????"/></e>
+<e lm="southwest"><i>southwest</i><par n="??????????"/></e>
+<e lm="spacey"><i>spacey</i><par n="??????????"/></e>
+<e lm="spar"><i>spar</i><par n="??????????"/></e>
+<e lm="spic"><i>spic</i><par n="??????????"/></e>
+<e lm="spicey"><i>spicey</i><par n="??????????"/></e>
+<e lm="spikey"><i>spikey</i><par n="??????????"/></e>
+<e lm="spindly"><i>spindly</i><par n="??????????"/></e>
+<e lm="spooney"><i>spooney</i><par n="??????????"/></e>
+<e lm="sport"><i>sport</i><par n="??????????"/></e>
+<e lm="spot"><i>spot</i><par n="??????????"/></e>
+<e lm="sprawly"><i>sprawly</i><par n="??????????"/></e>
+<e lm="spring"><i>spring</i><par n="??????????"/></e>
+<e lm="squally"><i>squally</i><par n="??????????"/></e>
+<e lm="squiggly"><i>squiggly</i><par n="??????????"/></e>
+<e lm="staff"><i>staff</i><par n="??????????"/></e>
+<e lm="stag"><i>stag</i><par n="??????????"/></e>
+<e lm="stage-struck"><i>stage-struck</i><par n="??????????"/></e>
+<e lm="stagey"><i>stagey</i><par n="??????????"/></e>
+<e lm="stand-alone"><i>stand-alone</i><par n="??????????"/></e>
+<e lm="standpat"><i>standpat</i><par n="??????????"/></e>
+<e lm="staple"><i>staple</i><par n="??????????"/></e>
+<e lm="star"><i>star</i><par n="??????????"/></e>
+<e lm="steam"><i>steam</i><par n="??????????"/></e>
+<e lm="stiff-necked"><i>stiff-necked</i><par n="??????????"/></e>
+<e lm="stock"><i>stock</i><par n="??????????"/></e>
+<e lm="stone"><i>stone</i><par n="??????????"/></e>
+<e lm="stoney"><i>stoney</i><par n="??????????"/></e>
+<e lm="store"><i>store</i><par n="??????????"/></e>
+<e lm="straggly"><i>straggly</i><par n="??????????"/></e>
+<e lm="straight-faced"><i>straight-faced</i><par n="??????????"/></e>
+<e lm="straight-out"><i>straight-out</i><par n="??????????"/></e>
+<e lm="stray"><i>stray</i><par n="??????????"/></e>
+<e lm="streamline"><i>streamline</i><par n="??????????"/></e>
+<e lm="stretch"><i>stretch</i><par n="??????????"/></e>
+<e lm="strip"><i>strip</i><par n="??????????"/></e>
+<e lm="studly"><i>studly</i><par n="??????????"/></e>
+<e lm="super-duper"><i>super-duper</i><par n="??????????"/></e>
+<e lm="supply"><i>supply</i><par n="??????????"/></e>
+<e lm="sure-fire"><i>sure-fire</i><par n="??????????"/></e>
+<e lm="surface"><i>surface</i><par n="??????????"/></e>
+<e lm="swagger"><i>swagger</i><par n="??????????"/></e>
+<e lm="swamp"><i>swamp</i><par n="??????????"/></e>
+<e lm="swiftly"><i>swiftly</i><par n="??????????"/></e>
+<e lm="swing"><i>swing</i><par n="??????????"/></e>
+<e lm="swirly"><i>swirly</i><par n="??????????"/></e>
+<e lm="switch"><i>switch</i><par n="??????????"/></e>
+<e lm="syncopic"><i>syncopic</i><par n="??????????"/></e>
+<e lm="tackey"><i>tackey</i><par n="??????????"/></e>
+<e lm="tail"><i>tail</i><par n="??????????"/></e>
+<e lm="tailor-made"><i>tailor-made</i><par n="??????????"/></e>
+<e lm="tangly"><i>tangly</i><par n="??????????"/></e>
+<e lm="tape"><i>tape</i><par n="??????????"/></e>
+<e lm="tautologic"><i>tautologic</i><par n="??????????"/></e>
+<e lm="tawney"><i>tawney</i><par n="??????????"/></e>
+<e lm="team"><i>team</i><par n="??????????"/></e>
+<e lm="tee"><i>tee</i><par n="??????????"/></e>
+<e lm="teen"><i>teen</i><par n="??????????"/></e>
+<e lm="ten"><i>ten</i><par n="??????????"/></e>
+<e lm="terry"><i>terry</i><par n="??????????"/></e>
+<e lm="test"><i>test</i><par n="??????????"/></e>
+<e lm="thankful"><i>thankful</i><par n="??????????"/></e>
+<e lm="thistly"><i>thistly</i><par n="??????????"/></e>
+<e lm="three-quarter"><i>three-quarter</i><par n="??????????"/></e>
+<e lm="thwart"><i>thwart</i><par n="??????????"/></e>
+<e lm="thymey"><i>thymey</i><par n="??????????"/></e>
+<e lm="tiddley"><i>tiddley</i><par n="??????????"/></e>
+<e lm="tiddly"><i>tiddly</i><par n="??????????"/></e>
+<e lm="time"><i>time</i><par n="??????????"/></e>
+<e lm="tin"><i>tin</i><par n="??????????"/></e>
+<e lm="tingly"><i>tingly</i><par n="??????????"/></e>
+<e lm="tinkly"><i>tinkly</i><par n="??????????"/></e>
+<e lm="title"><i>title</i><par n="??????????"/></e>
+<e lm="toney"><i>toney</i><par n="??????????"/></e>
+<e lm="topnotch"><i>topnotch</i><par n="??????????"/></e>
+<e lm="topside"><i>topside</i><par n="??????????"/></e>
+<e lm="town"><i>town</i><par n="??????????"/></e>
+<e lm="toy"><i>toy</i><par n="??????????"/></e>
+<e lm="tradable"><i>tradable</i><par n="??????????"/></e>
+<e lm="trade"><i>trade</i><par n="??????????"/></e>
+<e lm="travel"><i>travel</i><par n="??????????"/></e>
+<e lm="traverse"><i>traverse</i><par n="??????????"/></e>
+<e lm="treacly"><i>treacly</i><par n="??????????"/></e>
+<e lm="trembly"><i>trembly</i><par n="??????????"/></e>
+<e lm="trick"><i>trick</i><par n="??????????"/></e>
+<e lm="tumble-down"><i>tumble-down</i><par n="??????????"/></e>
+<e lm="twiddly"><i>twiddly</i><par n="??????????"/></e>
+<e lm="twin"><i>twin</i><par n="??????????"/></e>
+<e lm="twinight"><i>twinight</i><par n="??????????"/></e>
+<e lm="twirly"><i>twirly</i><par n="??????????"/></e>
+<e lm="typey"><i>typey</i><par n="??????????"/></e>
+<e lm="unearthly"><i>unearthly</i><par n="??????????"/></e>
+<e lm="unit"><i>unit</i><par n="??????????"/></e>
+<e lm="unkindly"><i>unkindly</i><par n="??????????"/></e>
+<e lm="unlovely"><i>unlovely</i><par n="??????????"/></e>
+<e lm="unshapely"><i>unshapely</i><par n="??????????"/></e>
+<e lm="unworldly"><i>unworldly</i><par n="??????????"/></e>
+<e lm="up"><i>up</i><par n="??????????"/></e>
+<e lm="upland"><i>upland</i><par n="??????????"/></e>
+<e lm="upper-class"><i>upper-class</i><par n="??????????"/></e>
+<e lm="upstage"><i>upstage</i><par n="??????????"/></e>
+<e lm="upstate"><i>upstate</i><par n="??????????"/></e>
+<e lm="uptown"><i>uptown</i><par n="??????????"/></e>
+<e lm="ureal"><i>ureal</i><par n="??????????"/></e>
+<e lm="urologic"><i>urologic</i><par n="??????????"/></e>
+<e lm="utilizable"><i>utilizable</i><par n="??????????"/></e>
+<e lm="vealy"><i>vealy</i><par n="??????????"/></e>
+<e lm="vi"><i>vi</i><par n="??????????"/></e>
+<e lm="village"><i>village</i><par n="??????????"/></e>
+<e lm="vintage"><i>vintage</i><par n="??????????"/></e>
+<e lm="vogue"><i>vogue</i><par n="??????????"/></e>
+<e lm="wabbly"><i>wabbly</i><par n="??????????"/></e>
+<e lm="waggly"><i>waggly</i><par n="??????????"/></e>
+<e lm="wambly"><i>wambly</i><par n="??????????"/></e>
+<e lm="waney"><i>waney</i><par n="??????????"/></e>
+<e lm="wasp-waisted"><i>wasp-waisted</i><par n="??????????"/></e>
+<e lm="waste"><i>waste</i><par n="??????????"/></e>
+<e lm="water-cooled"><i>water-cooled</i><par n="??????????"/></e>
+<e lm="wavey"><i>wavey</i><par n="??????????"/></e>
+<e lm="wax"><i>wax</i><par n="??????????"/></e>
+<e lm="weather"><i>weather</i><par n="??????????"/></e>
+<e lm="weather-beaten"><i>weather-beaten</i><par n="??????????"/></e>
+<e lm="weather-wise"><i>weather-wise</i><par n="??????????"/></e>
+<e lm="wed"><i>wed</i><par n="??????????"/></e>
+<e lm="whimsey"><i>whimsey</i><par n="??????????"/></e>
+<e lm="whiney"><i>whiney</i><par n="??????????"/></e>
+<e lm="whirly"><i>whirly</i><par n="??????????"/></e>
+<e lm="whit"><i>whit</i><par n="??????????"/></e>
+<e lm="whitey"><i>whitey</i><par n="??????????"/></e>
+<e lm="whole-wheat"><i>whole-wheat</i><par n="??????????"/></e>
+<e lm="wifely"><i>wifely</i><par n="??????????"/></e>
+<e lm="wiggly"><i>wiggly</i><par n="??????????"/></e>
+<e lm="wind-borne"><i>wind-borne</i><par n="??????????"/></e>
+<e lm="winey"><i>winey</i><par n="??????????"/></e>
+<e lm="winter"><i>winter</i><par n="??????????"/></e>
+<e lm="wire"><i>wire</i><par n="??????????"/></e>
+<e lm="wire-haired"><i>wire-haired</i><par n="??????????"/></e>
+<e lm="wisely"><i>wisely</i><par n="??????????"/></e>
+<e lm="wobbly"><i>wobbly</i><par n="??????????"/></e>
+<e lm="womanly"><i>womanly</i><par n="??????????"/></e>
+<e lm="wooly"><i>wooly</i><par n="??????????"/></e>
+<e lm="work"><i>work</i><par n="??????????"/></e>
+<e lm="wound"><i>wound</i><par n="??????????"/></e>
+<e lm="wrap"><i>wrap</i><par n="??????????"/></e>
+<e lm="wriggly"><i>wriggly</i><par n="??????????"/></e>
+<e lm="wrinkly"><i>wrinkly</i><par n="??????????"/></e>
+<e lm="ye"><i>ye</i><par n="??????????"/></e>
+<e lm="yellow-bellied"><i>yellow-bellied</i><par n="??????????"/></e>
+<e lm="zigzag"><i>zigzag</i><par n="??????????"/></e>
+<e lm="zooey"><i>zooey</i><par n="??????????"/></e>
