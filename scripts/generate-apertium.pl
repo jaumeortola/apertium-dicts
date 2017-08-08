@@ -32,6 +32,13 @@ if ($gram_cat =~ /^noun$/) {
     $lt_post = "000";
     $lt_tag_start = "NC";
 } 
+if ($lang =~ /^eng$/) {
+    if ($gram_cat =~ /^adj$/) {
+        $lt_tag_start = "J";
+        } elsif ($gram_cat =~ /^noun$/) {
+        $lt_tag_start = "N";
+    }
+}
 
 
 open( my $fh,  "<:encoding(UTF-8)", $apertium_dict );
@@ -63,16 +70,25 @@ while (my $line = <$fh>) {
             my $lleva=$4;
             my $afig=$2;
             $afig =~ s/<l>(.*)/$1/;
-            my $nombre = "S";
-            if ($etiquetes =~ /"pl"/) { $nombre= "P";}
-            if ($etiquetes =~ /"sp"/) { $nombre= "N";}
-            my $genere = "M";
-            if ($etiquetes =~ /"mf"/) { $genere= "C";}
-            if ($etiquetes =~ /"f"/) { $genere= "F";}
-            #if ($etiquetes =~ /"sup"/) { $categoria= "AQA";}
-            my $postag= $lt_prev.$genere.$nombre.$lt_post;
-            #print "$rule $postag $afig $line\n";
-
+            my $postag="UNDEFINED";
+            if ($lang =~ /^eng$/) {
+                if ($etiquetes =~ /<s n="adj"\/><s n="sint"\/><s n="sup"\/>/) {$postag="JJS";}
+                elsif ($etiquetes =~ /<s n="adj"\/><s n="sint"\/><s n="comp"\/>/) {$postag="JJR";}
+                elsif ($etiquetes =~ /<s n="adj"\/><s n="sint"\/>/) {$postag="JJ";}
+                elsif ($etiquetes =~ /<s n="adj"\/>/) {$postag="JJ";}
+                elsif ($etiquetes =~ /<s n="n"\/>.*<s n="sg"\/>/) {$postag="NN";}
+                elsif ($etiquetes =~ /<s n="n"\/>.*<s n="pl"\/>/) {$postag="NNS";}
+            } else {
+                my $nombre = "S";
+                if ($etiquetes =~ /"pl"/) { $nombre= "P";}
+                if ($etiquetes =~ /"sp"/) { $nombre= "N";}
+                my $genere = "M";
+                if ($etiquetes =~ /"mf"/) { $genere= "C";}
+                if ($etiquetes =~ /"f"/) { $genere= "F";}
+                #if ($etiquetes =~ /"sup"/) { $categoria= "AQA";}
+                $postag= $lt_prev.$genere.$nombre.$lt_post;   
+            }
+            #print "$rule $postag $afig $line\n"; 
             if (($lang !~ /^fra$/ || $direction =~ /^$/) && $afig !~ /<a\/>/) {
                 push (@rules, "$rule $postag $afig");
             }
@@ -96,6 +112,7 @@ for my $line_rule (@rules) {
         #print "$prev_rule_name $rule_name $1 $2 $3\n";
         if ($rule_name !~ /^$prev_rule_name$/) {
             $rules_in_oneline{$prev_rule_name} = $line;
+            #print "**** $prev_rule_name $line\n";
             # Comença nou adjectiu
             $line = "$postag <r>$afig";
         } else {
@@ -138,7 +155,8 @@ if ($lang =~ /^fra$/) {
 } else {
     while (my $line = <$fh>) {
         chomp($line);
-        if ($line =~ /(.*) (.*) ($lt_tag_start.*)/) {
+        if ($line =~ /(.*)[ \t](.*)[ \t]($lt_tag_start.*)/) {
+            #print "$2 $3 $1\n";
             push (@adjs_lt, "$2 $3 $1")
         }
     }
@@ -235,9 +253,10 @@ sub check_adjective {
                 $flexio_ap = $rules_in_oneline{$rule_name};
                 $flexio_ap =~ s/<r>/$arrel/g;
             } else {
-                print STDERR "Doesn't exist: $rule_name Lemma: $lema\n";
+                print STDERR "Doesn't exist paradigm: $rule_name Lemma: $lema\n";
             }
             $flexio_lt =~ s/(AQA|AO0)/AQ0/g;
+            $flexio_lt =~ s/NN:UN?/NN/g;
             #if ($lema =~ /abatible/) {
             #    print "***** $rule_name $lema $arrel*$flexio_ap*$flexio_lt\n\n";
             #}
