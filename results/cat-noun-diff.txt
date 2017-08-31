@@ -3,6 +3,10 @@ APERTIUM: ADN	PAR: BBVA__n	FORMS: NCMS000 ADN
    OTHER: ADN	PAR: IRPF__n	FORMS: NCMN000 ADN
    OTHER: ADN	PAR: campus__n	FORMS: NCMN000 ADN
 
+APERTIUM: ADSL	PAR: BBVA__n	FORMS: NCMS000 ADSL
+   OTHER: ADSL	PAR: ATS__n	FORMS: NCCN000 ADSL
+   OTHER: ADSL	PAR: guardaespatlles__n	FORMS: NCCN000 ADSL
+
 APERTIUM: CD	PAR: BBVA__n	FORMS: NCMS000 CD
    OTHER: CD	PAR: IRPF__n	FORMS: NCMN000 CD
    OTHER: CD	PAR: campus__n	FORMS: NCMN000 CD
@@ -488,6 +492,9 @@ APERTIUM: copilot	PAR: abric__n	FORMS: NCMP000 copilots NCMS000 copilot
 APERTIUM: copropietari	PAR: adjudicat/ari__n	FORMS: NCFP000 copropietàries NCFS000 copropietària NCMP000 copropietaris NCMS000 copropietari
    OTHER: copropietari	PAR: abric__n	FORMS: NCMP000 copropietaris NCMS000 copropietari
 
+APERTIUM: copríncep	PAR: pr/íncep__n	FORMS: NCFP000 coprinceses NCFS000 coprincesa NCMP000 coprínceps NCMS000 copríncep
+   OTHER: copríncep	PAR: abric__n	FORMS: NCMP000 coprínceps NCMS000 copríncep
+
 APERTIUM: coral	PAR: accessibilitat__n	FORMS: NCFP000 corals NCFS000 coral
    OTHER: coral	PAR: acompanyant__n	FORMS: NCCP000 corals NCCS000 coral
 
@@ -805,7 +812,7 @@ APERTIUM: fillastre	PAR: addict/e__n	FORMS: NCCP000 fillastres NCFS000 fillastra
 APERTIUM: fillol	PAR: senyor__n	FORMS: NCFP000 filloles NCFS000 fillola NCMP000 fillols NCMS000 fillol
    OTHER: fillol	PAR: abric__n	FORMS: NCMP000 fillols NCMS000 fillol
 
-APERTIUM: final	PAR: abric__n	FORMS: NCMP000 finals NCMS000 final
+APERTIUM: final	PAR: accessibilitat__n	FORMS: NCFP000 finals NCFS000 final
    OTHER: final	PAR: acompanyant__n	FORMS: NCCP000 finals NCCS000 final
 
 APERTIUM: flauta	PAR: abell/a__n	FORMS: NCFP000 flautes NCFS000 flauta
@@ -891,9 +898,6 @@ APERTIUM: gorrer	PAR: senyor__n	FORMS: NCFP000 gorreres NCFS000 gorrera NCMP000 
 
 APERTIUM: gospel	PAR: atletisme__n	FORMS: NCMS000 gospel
    OTHER: gospel	PAR: abric__n	FORMS: NCMP000 gospels NCMS000 gospel
-
-APERTIUM: got	PAR: abric__n	FORMS: NCMP000 gots NCMS000 got
-   OTHER: got	PAR: advoca/t__n	FORMS: NCFP000 godes NCFS000 goda NCMP000 gots NCMS000 got
 
 APERTIUM: governador	PAR: senyor__n	FORMS: NCFP000 governadores NCFS000 governadora NCMP000 governadors NCMS000 governador
    OTHER: governador	PAR: abric__n	FORMS: NCMP000 governadors NCMS000 governador
@@ -1182,6 +1186,9 @@ APERTIUM: kurd	PAR: senyor__n	FORMS: NCFP000 kurdes NCFS000 kurda NCMP000 kurds 
 
 APERTIUM: kuwaitià	PAR: americ/à__n	FORMS: NCFP000 kuwaitianes NCFS000 kuwaitiana NCMP000 kuwaitians NCMS000 kuwaitià
    OTHER: kuwaitià	PAR: bacall/à__n	FORMS: NCMP000 kuwaitians NCMS000 kuwaitià
+
+APERTIUM: ladí	PAR: alacant/í__n	FORMS: NCFP000 ladines NCFS000 ladina NCMP000 ladins NCMS000 ladí
+   OTHER: ladí	PAR: boc/í__n	FORMS: NCMP000 ladins NCMS000 ladí
 
 APERTIUM: laminador	PAR: senyor__n	FORMS: NCFP000 laminadores NCFS000 laminadora NCMP000 laminadors NCMS000 laminador
    OTHER: laminador	PAR: abric__n	FORMS: NCMP000 laminadors NCMS000 laminador
@@ -2255,7 +2262,7 @@ APERTIUM: silvicultor	PAR: senyor__n	FORMS: NCFP000 silvicultores NCFS000 silvic
 APERTIUM: simulador	PAR: senyor__n	FORMS: NCFP000 simuladores NCFS000 simuladora NCMP000 simuladors NCMS000 simulador
    OTHER: simulador	PAR: abric__n	FORMS: NCMP000 simuladors NCMS000 simulador
 
-APERTIUM: sinusoide	PAR: abric__n	FORMS: NCMP000 sinusoides NCMS000 sinusoide
+APERTIUM: sinusoide	PAR: accessibilitat__n	FORMS: NCFP000 sinusoides NCFS000 sinusoide
    OTHER: sinusoide	PAR: acompanyant__n	FORMS: NCCP000 sinusoides NCCS000 sinusoide
 
 APERTIUM: sirià	PAR: americ/à__n	FORMS: NCFP000 sirianes NCFS000 siriana NCMP000 sirians NCMS000 sirià
@@ -2678,6 +2685,9 @@ APERTIUM: violoncel	PAR: abric__n	FORMS: NCMP000 violoncels NCMS000 violoncel
 
 APERTIUM: virgo	PAR: guardaespatlles__n	FORMS: NCCN000 virgo
    OTHER: virgo	PAR: abric__n	FORMS: NCMP000 virgos NCMS000 virgo
+
+APERTIUM: virrei	PAR: rei__n	FORMS: NCFP000 virreines NCFS000 virreina NCMP000 virreis NCMS000 virrei
+   OTHER: virrei	PAR: abric__n	FORMS: NCMP000 virreis NCMS000 virrei
 
 APERTIUM: visigot	PAR: advoca/t__n	FORMS: NCFP000 visigodes NCFS000 visigoda NCMP000 visigots NCMS000 visigot
    OTHER: visigot	PAR: abric__n	FORMS: NCMP000 visigots NCMS000 visigot
