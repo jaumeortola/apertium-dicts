@@ -94,9 +94,6 @@ APERTIUM: albedo	PAR: abric__n	FORMS: NCMP000 albedos NCMS000 albedo
 APERTIUM: alcalde	PAR: alcalde__n	FORMS: NCFP000 alcaldesses NCFS000 alcaldessa NCMP000 alcaldes NCMS000 alcalde
    OTHER: alcalde	PAR: acompanyant__n	FORMS: NCCP000 alcaldes NCCS000 alcalde
 
-APERTIUM: aleteig	PAR: rebu/ig__n	FORMS: NCMP000 aleteigs NCMP000 aletetjos NCMS000 aleteig
-   OTHER: aleteig	PAR: assa/ig__n	FORMS: NCMP000 aleteigs NCMP000 aletejos NCMS000 aleteig
-
 APERTIUM: algicida	PAR: accionist/a__n	FORMS: NCCP000 algicides NCCS000 algicida
    OTHER: algicida	PAR: carism/a__n	FORMS: NCMP000 algicides NCMS000 algicida
 
