@@ -172,9 +172,6 @@ APERTIUM: benvingut	PAR: afortuna/t__adj	FORMS: AQ0FP0 benvingudes AQ0FP0 benvin
 APERTIUM: benvolgut	PAR: afortuna/t__adj	FORMS: AQ0FP0 benvolgudes AQ0FP0 benvolgudíssimes AQ0FS0 benvolguda AQ0FS0 benvolgudíssima AQ0MP0 benvolgudíssims AQ0MP0 benvolguts AQ0MS0 benvolgudíssim AQ0MS0 benvolgut
    OTHER: benvolgut	PAR: triparti/t__adj	FORMS: AQ0FP0 benvolgudes AQ0FS0 benvolguda AQ0MP0 benvolguts AQ0MS0 benvolgut
 
-APERTIUM: bilbaí	PAR: alacant/í__adj	FORMS: AQ0FP0 bilbaines AQ0FS0 bilbaina AQ0MP0 bilbains AQ0MS0 bilbaí
-   OTHER: bilbaí	PAR: genu/í__adj	FORMS: AQ0FP0 bilbaïnes AQ0FS0 bilbaïna AQ0MP0 bilbaïns AQ0MS0 bilbaí
-
 APERTIUM: biscaí	PAR: alacant/í__adj	FORMS: AQ0FP0 biscaines AQ0FS0 biscaina AQ0MP0 biscains AQ0MS0 biscaí
    OTHER: biscaí	PAR: genu/í__adj	FORMS: AQ0FP0 biscaïnes AQ0FS0 biscaïna AQ0MP0 biscaïns AQ0MS0 biscaí
 
@@ -271,6 +268,9 @@ APERTIUM: concret	PAR: alt__adj	FORMS: AQ0FP0 concretes AQ0FP0 concretíssimes A
 
 APERTIUM: confés	PAR: conf/és__adj	FORMS: AQ0FP0 confeses AQ0FS0 confesa AQ0MP0 confesos AQ0MS0 confés
    OTHER: confés	PAR: expr/és__adj	FORMS: AQ0FP0 confesses AQ0FS0 confessa AQ0MP0 confessos AQ0MS0 confés
+
+APERTIUM: conscienciós	PAR: afectu/ós__adj	FORMS: AQ0FP0 consciencioses AQ0FP0 conscienciosíssimes AQ0FS0 conscienciosa AQ0FS0 conscienciosíssima AQ0MP0 conscienciosos AQ0MP0 conscienciosíssims AQ0MS0 conscienciosíssim AQ0MS0 conscienciós
+   OTHER: conscienciós	PAR: aliment/ós__adj	FORMS: AQ0FP0 consciencioses AQ0FS0 conscienciosa AQ0MP0 conscienciosos AQ0MS0 conscienciós
 
 APERTIUM: contenciós	PAR: afectu/ós__adj	FORMS: AQ0FP0 contencioses AQ0FP0 contenciosíssimes AQ0FS0 contenciosa AQ0FS0 contenciosíssima AQ0MP0 contenciosos AQ0MP0 contenciosíssims AQ0MS0 contenciosíssim AQ0MS0 contenciós
    OTHER: contenciós	PAR: aliment/ós__adj	FORMS: AQ0FP0 contencioses AQ0FS0 contenciosa AQ0MP0 contenciosos AQ0MS0 contenciós
@@ -517,10 +517,6 @@ APERTIUM: espanyol	PAR: alt__adj	FORMS: AQ0FP0 espanyoles AQ0FP0 espanyolíssime
 
 APERTIUM: esplendorós	PAR: afectu/ós__adj	FORMS: AQ0FP0 esplendoroses AQ0FP0 esplendorosíssimes AQ0FS0 esplendorosa AQ0FS0 esplendorosíssima AQ0MP0 esplendorosos AQ0MP0 esplendorosíssims AQ0MS0 esplendorosíssim AQ0MS0 esplendorós
    OTHER: esplendorós	PAR: aliment/ós__adj	FORMS: AQ0FP0 esplendoroses AQ0FS0 esplendorosa AQ0MP0 esplendorosos AQ0MS0 esplendorós
-
-APERTIUM: estatunidenc	PAR: absolut__adj	FORMS: AQ0FP0 estatunidences AQ0FS0 estatunidenca AQ0MP0 estatunidencs AQ0MS0 estatunidenc
-   OTHER: estatunidenc	PAR: acadèmi/c__adj	FORMS: AQ0FP0 estatunidenques AQ0FS0 estatunidenca AQ0MP0 estatunidencs AQ0MS0 estatunidenc
-   OTHER: estatunidenc	PAR: po/c__adj	FORMS: AQ0FP0 estatunidenques AQ0FS0 estatunidenca AQ0MP0 estatunidencs AQ0MS0 estatunidenc
 
 APERTIUM: estrafolari	PAR: absolut__adj	FORMS: AQ0FP0 estrafolaries AQ0FS0 estrafolaria AQ0MP0 estrafolaris AQ0MS0 estrafolari
    OTHER: estrafolari	PAR: adjudicat/ari__adj	FORMS: AQ0FP0 estrafolàries AQ0FS0 estrafolària AQ0MP0 estrafolaris AQ0MS0 estrafolari
@@ -1765,8 +1761,6 @@ APERTIUM: verge	PAR: abdominal__adj	FORMS: AQ0CP0 verges AQ0CS0 verge
 <e lm="perlé"><i>perlé</i><par n="??????????"/></e>
 <e lm="petrolanco"><i>petrolanco</i><par n="??????????"/></e>
 <e lm="peugròs"><i>peugròs</i><par n="??????????"/></e>
-<e lm="pillet"><i>pillet</i><par n="??????????"/></e>
-<e lm="pillo"><i>pillo</i><par n="??????????"/></e>
 <e lm="pinnatinervi"><i>pinnatinervi</i><par n="??????????"/></e>
 <e lm="pit-roig"><i>pit-roig</i><par n="??????????"/></e>
 <e lm="pitiús"><i>pitiús</i><par n="??????????"/></e>
@@ -1839,6 +1833,7 @@ APERTIUM: verge	PAR: abdominal__adj	FORMS: AQ0CP0 verges AQ0CS0 verge
 <e lm="ultraroig"><i>ultraroig</i><par n="??????????"/></e>
 <e lm="uninervi"><i>uninervi</i><par n="??????????"/></e>
 <e lm="vacu"><i>vacu</i><par n="??????????"/></e>
+<e lm="vasomotor"><i>vasomotor</i><par n="??????????"/></e>
 <e lm="viatitxi"><i>viatitxi</i><par n="??????????"/></e>
 <e lm="visuomotor"><i>visuomotor</i><par n="??????????"/></e>
 <e lm="vèliger"><i>vèliger</i><par n="??????????"/></e>

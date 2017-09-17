@@ -79,18 +79,25 @@ while (my $line = <$fh>) {
                 elsif ($etiquetes =~ /<s n="n"\/>.*<s n="sg"\/>/) {$postag="NN";}
                 elsif ($etiquetes =~ /<s n="n"\/>.*<s n="pl"\/>/) {$postag="NNS";}
             } else {
-                my $nombre = "S";
-                if ($etiquetes =~ /"pl"/) { $nombre= "P";}
-                if ($etiquetes =~ /"sp"/) { $nombre= "N";}
-                my $genere = "M";
-                if ($etiquetes =~ /"mf"/) { $genere= "C";}
-                if ($etiquetes =~ /"f"/) { $genere= "F";}
-                #if ($etiquetes =~ /"sup"/) { $categoria= "AQA";}
-                $postag= $lt_prev.$genere.$nombre.$lt_post;   
+                    my $nombre = "S";
+                    if ($etiquetes =~ /"pl"/) { $nombre= "P";}
+                    if ($etiquetes =~ /"sp"/) { $nombre= "N";}
+                    my $genere = "M";
+                    if ($etiquetes =~ /"mf"/) { $genere= "C";}
+                    if ($etiquetes =~ /"f"/) { $genere= "F";}
+                    #if ($etiquetes =~ /"sup"/) { $categoria= "AQA";}
+                    $postag= $lt_prev.$genere.$nombre.$lt_post;   
             }
             #print "$rule $postag $afig $line\n"; 
-            if (($lang !~ /^fra$/ || $direction =~ /^$/) && $afig !~ /<a\/>/) {
-                push (@rules, "$rule $postag $afig");
+            if ($afig !~ /<a\/>/) {
+                if ($lang =~ /cat/) {
+                    if ($direction !~ /RL/) {
+                        push (@rules, "$rule $postag $afig");
+                    }
+                }
+                elsif ($lang !~ /^fra$/ || $direction =~ /^$/) {
+                    push (@rules, "$rule $postag $afig");
+                }
             }
         }
     }

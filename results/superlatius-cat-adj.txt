@@ -100,6 +100,7 @@ complet completa [sup. completíssim]=categories:A; font:apertium;
 complex complexa [sup. complexíssim]=categories:A; font:apertium;
 complicat complicada [sup. complicadíssim]=categories:A; font:apertium;
 concret concreta [sup. concretíssim]=categories:A; font:apertium;
+conscienciós conscienciosa [sup. conscienciosíssim]=categories:A; font:apertium;
 contenciós contenciosa [sup. contenciosíssim]=categories:A; font:apertium;
 content contenta [sup. contentíssim]=categories:A; font:apertium;
 controlat controlada [sup. controladíssim]=categories:A; font:apertium;
