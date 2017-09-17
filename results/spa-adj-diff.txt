@@ -1663,6 +1663,12 @@ APERTIUM: malintencionado	PAR: abstract/o__adj	FORMS: AQ0FP0 malintencionadas AQ
    OTHER: malintencionado	PAR: mí/o__adj	FORMS: AQ0FP0 malintencionadas AQ0FS0 malintencionada AQ0MP0 malintencionados AQ0MS0 malintencionado
    OTHER: malintencionado	PAR: otr/o__adj	FORMS: AQ0FP0 malintencionadas AQ0FS0 malintencionada AQ0MP0 malintencionados AQ0MS0 malintencionado
 
+APERTIUM: malo	PAR: abstract/o__adj	FORMS: AQ0FP0 malas AQ0FP0 malísimas AQ0FS0 mala AQ0FS0 malísima AQ0MP0 malos AQ0MP0 malísimos AQ0MS0 malo AQ0MS0 malísimo
+   OTHER: malo	PAR: absolut/o__adj	FORMS: AQ0FP0 malas AQ0FS0 mala AQ0MP0 malos AQ0MS0 malo
+   OTHER: malo	PAR: cuánt/o__adj	FORMS: AQ0FP0 malas AQ0FS0 mala AQ0MP0 malos AQ0MS0 malo
+   OTHER: malo	PAR: mí/o__adj	FORMS: AQ0FP0 malas AQ0FS0 mala AQ0MP0 malos AQ0MS0 malo
+   OTHER: malo	PAR: otr/o__adj	FORMS: AQ0FP0 malas AQ0FS0 mala AQ0MP0 malos AQ0MS0 malo
+
 APERTIUM: malvado	PAR: abstract/o__adj	FORMS: AQ0FP0 malvadas AQ0FP0 malvadísimas AQ0FS0 malvada AQ0FS0 malvadísima AQ0MP0 malvados AQ0MP0 malvadísimos AQ0MS0 malvado AQ0MS0 malvadísimo
    OTHER: malvado	PAR: absolut/o__adj	FORMS: AQ0FP0 malvadas AQ0FS0 malvada AQ0MP0 malvados AQ0MS0 malvado
    OTHER: malvado	PAR: cuánt/o__adj	FORMS: AQ0FP0 malvadas AQ0FS0 malvada AQ0MP0 malvados AQ0MS0 malvado
@@ -2608,7 +2614,7 @@ APERTIUM: automotriz	PAR: atro/z__adj	FORMS: AQ0CP0 automotrices AQ0CS0 automotr
    OTHER: automotriz	PAR: ??????????????	FORMS: AQ0FP0 automotrices AQ0FS0 automotriz
 
 APERTIUM: bueno	PAR: abstract/o__adj	FORMS: AQ0FP0 buenas AQ0FP0 buenísimas AQ0FS0 buena AQ0FS0 buenísima AQ0MP0 buenos AQ0MP0 buenísimos AQ0MS0 bueno AQ0MS0 buenísimo
-   OTHER: bueno	PAR: ??????????????	FORMS: AQ0FP0 buenas AQ0FS0 buena AQ0MP0 buenos AQ0MS0 buen AQ0MS0 bueno AQSFP0 óptimas AQSFS0 óptima AQSMP0 óptimos AQSMS0 óptimo
+   OTHER: bueno	PAR: ??????????????	FORMS: AQ0FP0 buenas AQ0FS0 buena AQ0MP0 buenos AQ0MS0 buen AQ0MS0 bueno
 
 APERTIUM: burgalés	PAR: aragon/és__adj	FORMS: AQ0FP0 burgalesas AQ0FS0 burgalesa AQ0MP0 burgaleses AQ0MS0 burgalés
    OTHER: burgalés	PAR: ??????????????	FORMS: AQ0CP0 burgaleses AQ0CS0 burgalés AQ0FP0 burgalesas AQ0FS0 burgalesa
@@ -2702,9 +2708,6 @@ APERTIUM: magnetomotriz	PAR: atro/z__adj	FORMS: AQ0CP0 magnetomotrices AQ0CS0 ma
 
 APERTIUM: magrebí	PAR: abdominal__adj	FORMS: AQ0CP0 magrebíes AQ0CS0 magrebí
    OTHER: magrebí	PAR: ??????????????	FORMS: AQ0CP0 magrebíes AQ0CP0 magrebís AQ0CS0 magrebí
-
-APERTIUM: malo	PAR: abstract/o__adj	FORMS: AQ0FP0 malas AQ0FP0 malísimas AQ0FS0 mala AQ0FS0 malísima AQ0MP0 malos AQ0MP0 malísimos AQ0MS0 malo AQ0MS0 malísimo
-   OTHER: malo	PAR: ??????????????	FORMS: AQ0FP0 malas AQ0FS0 mala AQ0MP0 malos AQ0MS0 malo AQSFP0 pésimas AQSFS0 pésima AQSMP0 pésimos AQSMS0 pésimo
 
 APERTIUM: maníaco	PAR: absolut/o__adj	FORMS: AQ0FP0 maníacas AQ0FS0 maníaca AQ0MP0 maníacos AQ0MS0 maníaco
    OTHER: maníaco	PAR: ??????????????	FORMS: AQ0FP0 maniacas AQ0FP0 maníacas AQ0FS0 maniaca AQ0FS0 maníaca AQ0MP0 maniacos AQ0MP0 maníacos AQ0MS0 maníaco

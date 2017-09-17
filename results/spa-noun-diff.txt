@@ -118,6 +118,9 @@ APERTIUM: analizador	PAR: abril__n	FORMS: NCMP000 analizadores NCMS000 analizado
 APERTIUM: antiguo	PAR: abogad/o__n	FORMS: NCFP000 antiguas NCFS000 antigua NCMP000 antiguos NCMS000 antiguo
    OTHER: antiguo	PAR: abismo__n	FORMS: NCMP000 antiguos NCMS000 antiguo
 
+APERTIUM: antihéroe	PAR: h/éroe__n	FORMS: NCFP000 antiheroínas NCFS000 antiheroína NCMP000 antihéroes NCMS000 antihéroe
+   OTHER: antihéroe	PAR: abismo__n	FORMS: NCMP000 antihéroes NCMS000 antihéroe
+
 APERTIUM: anónimo	PAR: abogad/o__n	FORMS: NCFP000 anónimas NCFS000 anónima NCMP000 anónimos NCMS000 anónimo
    OTHER: anónimo	PAR: abismo__n	FORMS: NCMP000 anónimos NCMS000 anónimo
 
@@ -139,6 +142,9 @@ APERTIUM: apócope	PAR: abismo__n	FORMS: NCMP000 apócopes NCMS000 apócope
 
 APERTIUM: apóstrofe	PAR: accionista__n	FORMS: NCCP000 apóstrofes NCCS000 apóstrofe
    OTHER: apóstrofe	PAR: abismo__n	FORMS: NCMP000 apóstrofes NCMS000 apóstrofe
+
+APERTIUM: archiduque	PAR: alcalde__n	FORMS: NCFP000 archiduquesas NCFS000 archiduquesa NCMP000 archiduques NCMS000 archiduque
+   OTHER: archiduque	PAR: abismo__n	FORMS: NCMP000 archiduques NCMS000 archiduque
 
 APERTIUM: archivador	PAR: abril__n	FORMS: NCMP000 archivadores NCMS000 archivador
    OTHER: archivador	PAR: señor__n	FORMS: NCFP000 archivadoras NCFS000 archivadora NCMP000 archivadores NCMS000 archivador
@@ -203,9 +209,6 @@ APERTIUM: aventurero	PAR: abismo__n	FORMS: NCMP000 aventureros NCMS000 aventurer
 
 APERTIUM: avestruz	PAR: actri/z__n	FORMS: NCFP000 avestruces NCFS000 avestruz
    OTHER: avestruz	PAR: ajedre/z__n	FORMS: NCMP000 avestruces NCMS000 avestruz
-
-APERTIUM: ayatolá	PAR: atletismo__n	FORMS: NCMS000 ayatolá
-   OTHER: ayatolá	PAR: abismo__n	FORMS: NCMP000 ayatolás NCMS000 ayatolá
 
 APERTIUM: azúcar	PAR: abril__n	FORMS: NCMP000 azúcares NCMS000 azúcar
    OTHER: azúcar	PAR: albañil__n	FORMS: NCCP000 azúcares NCCS000 azúcar
@@ -302,6 +305,9 @@ APERTIUM: bestiario	PAR: abogad/o__n	FORMS: NCFP000 bestiarias NCFS000 bestiaria
 APERTIUM: betún	PAR: abril__n	FORMS: NCMP000 betúnes NCMS000 betún
    OTHER: betún	PAR: at/ún__n	FORMS: NCMP000 betunes NCMS000 betún
 
+APERTIUM: biocida	PAR: abismo__n	FORMS: NCMP000 biocidas NCMS000 biocida
+   OTHER: biocida	PAR: abeja__n	FORMS: NCFP000 biocidas NCFS000 biocida
+
 APERTIUM: bioma	PAR: abismo__n	FORMS: NCMP000 biomas NCMS000 bioma
    OTHER: bioma	PAR: abeja__n	FORMS: NCFP000 biomas NCFS000 bioma
 
@@ -316,9 +322,6 @@ APERTIUM: bisturí	PAR: abismo__n	FORMS: NCMP000 bisturís NCMS000 bisturí
 
 APERTIUM: bit	PAR: abismo__n	FORMS: NCMP000 bits NCMS000 bit
    OTHER: bit	PAR: club__n	FORMS: NCMP000 bites NCMP000 bits NCMS000 bit
-
-APERTIUM: blanco	PAR: abismo__n	FORMS: NCMP000 blancos NCMS000 blanco
-   OTHER: blanco	PAR: abogad/o__n	FORMS: NCFP000 blancas NCFS000 blanca NCMP000 blancos NCMS000 blanco
 
 APERTIUM: bobinado	PAR: abismo__n	FORMS: NCMP000 bobinados NCMS000 bobinado
    OTHER: bobinado	PAR: abogad/o__n	FORMS: NCFP000 bobinadas NCFS000 bobinada NCMP000 bobinados NCMS000 bobinado
@@ -384,9 +387,6 @@ APERTIUM: cadete	PAR: accionista__n	FORMS: NCCP000 cadetes NCCS000 cadete
 
 APERTIUM: calderilla	PAR: cuaresma__n	FORMS: NCFS000 calderilla
    OTHER: calderilla	PAR: abeja__n	FORMS: NCFP000 calderillas NCFS000 calderilla
-
-APERTIUM: califa	PAR: abeja__n	FORMS: NCFP000 califas NCFS000 califa
-   OTHER: califa	PAR: abismo__n	FORMS: NCMP000 califas NCMS000 califa
 
 APERTIUM: camaleón	PAR: aluvi/ón__n	FORMS: NCMP000 camaleones NCMS000 camaleón
    OTHER: camaleón	PAR: anfitri/ón__n	FORMS: NCFP000 camaleonas NCFS000 camaleona NCMP000 camaleones NCMS000 camaleón
@@ -858,9 +858,6 @@ APERTIUM: encimera	PAR: abeja__n	FORMS: NCFP000 cimeras NCFS000 cimera
 
 APERTIUM: encomendero	PAR: abogad/o__n	FORMS: NCFP000 encomenderas NCFS000 encomendera NCMP000 encomenderos NCMS000 encomendero
    OTHER: encomendero	PAR: abismo__n	FORMS: NCMP000 encomenderos NCMS000 encomendero
-
-APERTIUM: endecasílabo	PAR: abismo__n	FORMS: NCMP000 endecasílabs NCMS000 endecasílab
-   OTHER: endecasílabo	PAR: abismo__n	FORMS: NCMP000 endecasílabos NCMS000 endecasílabo
 
 APERTIUM: ensamblador	PAR: abril__n	FORMS: NCMP000 ensambladores NCMS000 ensamblador
    OTHER: ensamblador	PAR: señor__n	FORMS: NCFP000 ensambladoras NCFS000 ensambladora NCMP000 ensambladores NCMS000 ensamblador
@@ -1442,11 +1439,18 @@ APERTIUM: microonda	PAR: abeja__n	FORMS: NCFP000 microondas NCFS000 microonda
 APERTIUM: miembro	PAR: accionista__n	FORMS: NCCP000 miembros NCCS000 miembro
    OTHER: miembro	PAR: abismo__n	FORMS: NCMP000 miembros NCMS000 miembro
 
+APERTIUM: milhojas	PAR: campus__n	FORMS: NCMN000 milhojas
+   OTHER: milhojas	PAR: ETS__n	FORMS: NCFN000 milhojas
+   OTHER: milhojas	PAR: dosis__n	FORMS: NCFN000 milhojas
+
 APERTIUM: mimbre	PAR: abismo__n	FORMS: NCMP000 mimbres NCMS000 mimbre
    OTHER: mimbre	PAR: abeja__n	FORMS: NCFP000 mimbres NCFS000 mimbre
 
 APERTIUM: minorista	PAR: accionista__n	FORMS: NCCP000 minoristas NCCS000 minorista
    OTHER: minorista	PAR: abismo__n	FORMS: NCMP000 minoristas NCMS000 minorista
+
+APERTIUM: modelo	PAR: abismo__n	FORMS: NCMP000 modelos NCMS000 modelo
+   OTHER: modelo	PAR: accionista__n	FORMS: NCCP000 modelos NCCS000 modelo
 
 APERTIUM: modisto	PAR: abogad/o__n	FORMS: NCFP000 modistas NCFS000 modista NCMP000 modistos NCMS000 modisto
    OTHER: modisto	PAR: abismo__n	FORMS: NCMP000 modistos NCMS000 modisto
@@ -1519,9 +1523,6 @@ APERTIUM: napalm	PAR: abismo__n	FORMS: NCMP000 napalms NCMS000 napalm
 APERTIUM: naranja	PAR: abeja__n	FORMS: NCFP000 naranjas NCFS000 naranja
    OTHER: naranja	PAR: accionista__n	FORMS: NCCP000 naranjas NCCS000 naranja
 
-APERTIUM: natación	PAR: acci/ón__n	FORMS: NCFP000 nataci/ón__nones NCFS000 nataci/ón__nón
-   OTHER: natación	PAR: acci/ón__n	FORMS: NCFP000 nataciones NCFS000 natación
-
 APERTIUM: neandertal	PAR: albañil__n	FORMS: NCCP000 neandertales NCCS000 neandertal
    OTHER: neandertal	PAR: abril__n	FORMS: NCMP000 neandertales NCMS000 neandertal
 
@@ -1554,6 +1555,9 @@ APERTIUM: norte	PAR: atletismo__n	FORMS: NCMS000 norte
 
 APERTIUM: notable	PAR: abismo__n	FORMS: NCMP000 notables NCMS000 notable
    OTHER: notable	PAR: accionista__n	FORMS: NCCP000 notables NCCS000 notable
+
+APERTIUM: novillo	PAR: abismo__n	FORMS: NCMP000 novillos NCMS000 novillo
+   OTHER: novillo	PAR: abogad/o__n	FORMS: NCFP000 novillas NCFS000 novilla NCMP000 novillos NCMS000 novillo
 
 APERTIUM: numerador	PAR: abril__n	FORMS: NCMP000 numeradores NCMS000 numerador
    OTHER: numerador	PAR: señor__n	FORMS: NCFP000 numeradoras NCFS000 numeradora NCMP000 numeradores NCMS000 numerador
@@ -1909,6 +1913,9 @@ APERTIUM: rubéola	PAR: abeja__n	FORMS: NCFP000 rubéolas NCFS000 rubéola
 APERTIUM: ruptor	PAR: abismo__n	FORMS: NCMP000 ruptors NCMS000 ruptor
    OTHER: ruptor	PAR: abril__n	FORMS: NCMP000 ruptores NCMS000 ruptor
 
+APERTIUM: rápel	PAR: abismo__n	FORMS: NCMP000 rápels NCMS000 rápel
+   OTHER: rápel	PAR: club__n	FORMS: NCMP000 rápeles NCMP000 rápels NCMS000 rápel
+
 APERTIUM: sabbath	PAR: abismo__n	FORMS: NCMP000 sabbaths NCMS000 sabbath
    OTHER: sabbath	PAR: abril__n	FORMS: NCMP000 sabbathes NCMS000 sabbath
 
@@ -1965,6 +1972,9 @@ APERTIUM: simulador	PAR: señor__n	FORMS: NCFP000 simuladoras NCFS000 simuladora
 
 APERTIUM: single	PAR: accionista__n	FORMS: NCCP000 singles NCCS000 single
    OTHER: single	PAR: abismo__n	FORMS: NCMP000 singles NCMS000 single
+
+APERTIUM: sinusoide	PAR: abeja__n	FORMS: NCFP000 sinusoides NCFS000 sinusoide
+   OTHER: sinusoide	PAR: abismo__n	FORMS: NCMP000 sinusoides NCMS000 sinusoide
 
 APERTIUM: sinécdoque	PAR: abeja__n	FORMS: NCFP000 sinécdoques NCFS000 sinécdoque
    OTHER: sinécdoque	PAR: abismo__n	FORMS: NCMP000 sinécdoques NCMS000 sinécdoque
@@ -2246,6 +2256,9 @@ APERTIUM: voladizo	PAR: abogad/o__n	FORMS: NCFP000 voladizas NCFS000 voladiza NC
 APERTIUM: voleibol	PAR: atletismo__n	FORMS: NCMS000 voleibol
    OTHER: voleibol	PAR: abril__n	FORMS: NCMP000 voleiboles NCMS000 voleibol
 
+APERTIUM: voyeurismo	PAR: atletismo__n	FORMS: NCMS000 voyeurismo
+   OTHER: voyeurismo	PAR: abismo__n	FORMS: NCMP000 voyeurismos NCMS000 voyeurismo
+
 APERTIUM: vudú	PAR: abismo__n	FORMS: NCMP000 vudús NCMS000 vudú
    OTHER: vudú	PAR: club__n	FORMS: NCMP000 vudúes NCMP000 vudús NCMS000 vudú
 
@@ -2373,6 +2386,9 @@ APERTIUM: broker	PAR: gilipollas__n	FORMS: NCCN000 broker
 APERTIUM: bunker	PAR: abismo__n	FORMS: NCMP000 bunkers NCMS000 bunker
    OTHER: bunker	PAR: ??????????????	FORMS: NCMP000 bunkerses NCMS000 bunker
 
+APERTIUM: cabritilla	PAR: abeja__n	FORMS: NCFP000 cabritillas NCFS000 cabritilla
+   OTHER: cabritilla	PAR: ??????????????	FORMS: NCFP000 cabritillas NCFS000 cabritilla NCMP000 cabritillos NCMS000 cabritillo
+
 APERTIUM: caimán	PAR: adem/án__n	FORMS: NCMP000 caimanes NCMS000 caimán
    OTHER: caimán	PAR: ??????????????	FORMS: NCMP000 caimanes NCMP000 caimánes NCMS000 caimán
 
@@ -2472,6 +2488,9 @@ APERTIUM: cruz	PAR: actri/z__n	FORMS: NCFP000 cruces NCFS000 cruz
 APERTIUM: cuenta	PAR: abeja__n	FORMS: NCFP000 cuentas NCFS000 cuenta
    OTHER: cuenta	PAR: ??????????????	FORMS: NCFP000 ctas NCFP000 cuentas NCFS000 cta NCFS000 cuenta
 
+APERTIUM: culé	PAR: abismo__n	FORMS: NCMP000 culés NCMS000 culé
+   OTHER: culé	PAR: ??????????????	FORMS: NCCP000 cules NCCS000 culé
+
 APERTIUM: cura	PAR: abismo__n	FORMS: NCMP000 curas NCMS000 cura
    OTHER: cura	PAR: ??????????????	FORMS: NCFP000 curas NCFS000 cura NCMP000 curas NCMS000 cura
 
@@ -2525,6 +2544,9 @@ APERTIUM: don	PAR: abril__n	FORMS: NCMP000 dones NCMS000 don
 
 APERTIUM: drogadicción	PAR: acci/ón__n	FORMS: NCFP000 drogadicciones NCFS000 drogadicción
    OTHER: drogadicción	PAR: ??????????????	FORMS: NCFP000 drogadicciones NCFP000 drogoadiccoónes NCFS000 drogadicción NCFS000 drogoadicción
+
+APERTIUM: dumper	PAR: abismo__n	FORMS: NCMP000 dumpers NCMS000 dumper
+   OTHER: dumper	PAR: ??????????????	FORMS: NCMP000 dumperes NCMP000 dumpers NCMP000 dúmpereses NCMS000 dumper
 
 APERTIUM: duramen	PAR: abril__n	FORMS: NCMP000 duramenes NCMS000 duramen
    OTHER: duramen	PAR: ??????????????	FORMS: NCMP000 duramenes NCMP000 durámenes NCMP000 durámeneses NCMS000 duramen
@@ -2583,7 +2605,7 @@ APERTIUM: ferry	PAR: abismo__n	FORMS: NCMP000 ferrys NCMS000 ferry
 APERTIUM: figura	PAR: abeja__n	FORMS: NCFP000 figuras NCFS000 figura
    OTHER: figura	PAR: ??????????????	FORMS: NCFP000 figs NCFP000 figuras NCFS000 fig NCFS000 figura
 
-APERTIUM: final	PAR: abril__n	FORMS: NCMP000 finales NCMS000 final
+APERTIUM: final	PAR: accesibilidad__n	FORMS: NCFP000 finales NCFS000 final
    OTHER: final	PAR: ??????????????	FORMS: NCFP000 finales NCFS000 final NCMP000 finales NCMS000 final
 
 APERTIUM: finlandés	PAR: aragon/és__n	FORMS: NCFP000 finlandesas NCFS000 finlandesa NCMP000 finlandeses NCMS000 finlandés
@@ -3168,7 +3190,6 @@ APERTIUM: íleon	PAR: abismo__n	FORMS: NCMP000 íleons NCMS000 íleon
 <e lm="busolfan"><i>busolfan</i><par n="??????????"/></e>
 <e lm="búnker"><i>búnker</i><par n="??????????"/></e>
 <e lm="ca"><i>ca</i><par n="??????????"/></e>
-<e lm="cabritilla"><i>cabritilla</i><par n="??????????"/></e>
 <e lm="calomelanos"><i>calomelanos</i><par n="??????????"/></e>
 <e lm="cameraman"><i>cameraman</i><par n="??????????"/></e>
 <e lm="candy"><i>candy</i><par n="??????????"/></e>
@@ -3207,7 +3228,6 @@ APERTIUM: íleon	PAR: abismo__n	FORMS: NCMP000 íleons NCMS000 íleon
 <e lm="cuadrumano"><i>cuadrumano</i><par n="??????????"/></e>
 <e lm="cuadrúmano"><i>cuadrúmano</i><par n="??????????"/></e>
 <e lm="cuarentaiochoavo"><i>cuarentaiochoavo</i><par n="??????????"/></e>
-<e lm="culé"><i>culé</i><par n="??????????"/></e>
 <e lm="dahir"><i>dahir</i><par n="??????????"/></e>
 <e lm="dahír"><i>dahír</i><par n="??????????"/></e>
 <e lm="debó"><i>debó</i><par n="??????????"/></e>
@@ -3226,7 +3246,6 @@ APERTIUM: íleon	PAR: abismo__n	FORMS: NCMP000 íleons NCMS000 íleon
 <e lm="dos"><i>dos</i><par n="??????????"/></e>
 <e lm="druida"><i>druida</i><par n="??????????"/></e>
 <e lm="drumlin"><i>drumlin</i><par n="??????????"/></e>
-<e lm="dumper"><i>dumper</i><par n="??????????"/></e>
 <e lm="dúmper"><i>dúmper</i><par n="??????????"/></e>
 <e lm="egipciaco"><i>egipciaco</i><par n="??????????"/></e>
 <e lm="egipcíaco"><i>egipcíaco</i><par n="??????????"/></e>
