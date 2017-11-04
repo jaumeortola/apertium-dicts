@@ -372,9 +372,6 @@ APERTIUM: carcamal	PAR: abric__n	FORMS: NCMP000 carcamals NCMS000 carcamal
 APERTIUM: cardioide	PAR: abric__n	FORMS: NCMP000 cardioides NCMS000 cardioide
    OTHER: cardioide	PAR: accessibilitat__n	FORMS: NCFP000 cardioides NCFS000 cardioide
 
-APERTIUM: carlí	PAR: alacant/í__n	FORMS: NCFP000 carlines NCFS000 carlina NCMP000 carlins NCMS000 carlí
-   OTHER: carlí	PAR: boc/í__n	FORMS: NCMP000 carlins NCMS000 carlí
-
 APERTIUM: carnívor	PAR: senyor__n	FORMS: NCFP000 carnívores NCFS000 carnívora NCMP000 carnívors NCMS000 carnívor
    OTHER: carnívor	PAR: abric__n	FORMS: NCMP000 carnívors NCMS000 carnívor
 
@@ -565,6 +562,9 @@ APERTIUM: demògraf	PAR: senyor__n	FORMS: NCFP000 demògrafes NCFS000 demògrafa
 
 APERTIUM: denominador	PAR: senyor__n	FORMS: NCFP000 denominadores NCFS000 denominadora NCMP000 denominadors NCMS000 denominador
    OTHER: denominador	PAR: abric__n	FORMS: NCMP000 denominadors NCMS000 denominador
+
+APERTIUM: depredador	PAR: abric__n	FORMS: NCMP000 depredadors NCMS000 depredador
+   OTHER: depredador	PAR: senyor__n	FORMS: NCFP000 depredadores NCFS000 depredadora NCMP000 depredadors NCMS000 depredador
 
 APERTIUM: depurador	PAR: senyor__n	FORMS: NCFP000 depuradores NCFS000 depuradora NCMP000 depuradors NCMS000 depurador
    OTHER: depurador	PAR: abric__n	FORMS: NCMP000 depuradors NCMS000 depurador
@@ -1863,6 +1863,9 @@ APERTIUM: precedent	PAR: acompanyant__n	FORMS: NCCP000 precedents NCCS000 preced
 
 APERTIUM: precursor	PAR: senyor__n	FORMS: NCFP000 precursores NCFS000 precursora NCMP000 precursors NCMS000 precursor
    OTHER: precursor	PAR: abric__n	FORMS: NCMP000 precursors NCMS000 precursor
+
+APERTIUM: predador	PAR: abric__n	FORMS: NCMP000 predadors NCMS000 predador
+   OTHER: predador	PAR: senyor__n	FORMS: NCFP000 predadores NCFS000 predadora NCMP000 predadors NCMS000 predador
 
 APERTIUM: predecessor	PAR: senyor__n	FORMS: NCFP000 predecessores NCFS000 predecessora NCMP000 predecessors NCMS000 predecessor
    OTHER: predecessor	PAR: abric__n	FORMS: NCMP000 predecessors NCMS000 predecessor

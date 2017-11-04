@@ -43,6 +43,7 @@
 <e lm="Pentecosta"><i>Pentecost</i><par n="abell/a__n"/></e>
 <e lm="RH"><i>RH</i><par n="EUA__n"/></e>
 <e lm="RP"><i>RP</i><par n="FARC__n"/></e>
+<e lm="SOCIMI"><i>SOCIMI</i><par n="MTS__n"/></e>
 <e lm="Sir"><i>Sir</i><par n="BBVA__n"/></e>
 <e lm="Supercopa"><i>Supercop</i><par n="abell/a__n"/></e>
 <e lm="TAE"><i>TAE</i><par n="MTS__n"/></e>
@@ -269,6 +270,7 @@
 <e lm="acabdillament"><i>acabdillament</i><par n="abric__n"/></e>
 <e lm="acacià"><i>acaci</i><par n="bacall/à__n"/></e>
 <e lm="academicista"><i>academicist</i><par n="accionist/a__n"/></e>
+<e lm="academització"><i>academitzaci</i><par n="acci/ó__n"/></e>
 <e lm="acagallonament"><i>acagallonament</i><par n="abric__n"/></e>
 <e lm="acalcúlia"><i>acalcúli</i><par n="abell/a__n"/></e>
 <e lm="acalorada"><i>acalorad</i><par n="abell/a__n"/></e>
@@ -1241,7 +1243,6 @@
 <e lm="agrostis"><i>agrostis</i><par n="MTS__n"/></e>
 <e lm="agrostologia"><i>agrostologi</i><par n="abell/a__n"/></e>
 <e lm="agrostòleg"><i>agrostòl</i><par n="biòl/eg__n"/></e>
-<e lm="agroturisme"><i>agroturisme</i><par n="abric__n"/></e>
 <e lm="agrotècnia"><i>agrotècni</i><par n="abell/a__n"/></e>
 <e lm="agrotèxtil"><i>agrotèxtil</i><par n="abric__n"/></e>
 <e lm="agrumollament"><i>agrumollament</i><par n="abric__n"/></e>
@@ -1756,9 +1757,7 @@
 <e lm="alforrament"><i>alforrament</i><par n="abric__n"/></e>
 <e lm="alforria"><i>alforri</i><par n="abell/a__n"/></e>
 <e lm="alforí"><i>alfor</i><par n="boc/í__n"/></e>
-<e lm="alfàbega"><i>alfàbeg</i><par n="alg/a__n"/></e>
 <e lm="alfàbia"><i>alfàbi</i><par n="abell/a__n"/></e>
-<e lm="alfàbrega"><i>alfàbreg</i><par n="alg/a__n"/></e>
 <e lm="alfènid"><i>alfènid</i><par n="abric__n"/></e>
 <e lm="alfòndec"><i>alfòndec</i><par n="abric__n"/></e>
 <e lm="algara"><i>algar</i><par n="abell/a__n"/></e>
@@ -8470,7 +8469,6 @@
 <e lm="cadiraire"><i>cadiraire</i><par n="acompanyant__n"/></e>
 <e lm="cadiral"><i>cadiral</i><par n="abric__n"/></e>
 <e lm="cadiram"><i>cadiram</i><par n="abric__n"/></e>
-<e lm="cadiratge"><i>cadiratge</i><par n="abric__n"/></e>
 <e lm="cadirer"><i>cadirer</i><par n="abric__n"/></e>
 <e lm="cadirera"><i>cadirer</i><par n="abell/a__n"/></e>
 <e lm="cadireta"><i>cadiret</i><par n="abell/a__n"/></e>
@@ -8492,7 +8490,6 @@
 <e lm="cafeol"><i>cafeol</i><par n="abric__n"/></e>
 <e lm="cafetar"><i>cafetar</i><par n="abric__n"/></e>
 <e lm="cafeter"><i>cafeter</i><par n="abric__n"/></e>
-<e lm="cafetera"><i>cafeter</i><par n="abell/a__n"/></e>
 <e lm="cafetí"><i>cafet</i><par n="boc/í__n"/></e>
 <e lm="cafetó"><i>cafet</i><par n="aband/ó__n"/></e>
 <e lm="cafeïcultura"><i>cafeïcultur</i><par n="abell/a__n"/></e>
@@ -8691,7 +8688,6 @@
 <e lm="calcògraf"><i>calcògraf</i><par n="senyor__n"/></e>
 <e lm="calda"><i>cald</i><par n="abell/a__n"/></e>
 <e lm="caldari"><i>caldari</i><par n="abric__n"/></e>
-<e lm="caldea"><i>calde</i><par n="abell/a__n"/></e>
 <e lm="caldeguès"><i>caldegu</i><par n="angl/ès__n"/></e>
 <e lm="caldejament"><i>caldejament</i><par n="abric__n"/></e>
 <e lm="caldenc"><i>calden</i><par n="asiàti/c__n"/></e>
@@ -8707,7 +8703,6 @@
 <e lm="calderís"><i>calder</i><par n="passad/ís__n"/></e>
 <e lm="calderó"><i>calder</i><par n="aband/ó__n"/></e>
 <e lm="caldetenc"><i>caldeten</i><par n="asiàti/c__n"/></e>
-<e lm="caldeu"><i>caldeu</i><par n="abric__n"/></e>
 <e lm="caldo"><i>caldo</i><par n="abric__n"/></e>
 <e lm="caledoniana"><i>caledonian</i><par n="abell/a__n"/></e>
 <e lm="caledonita"><i>caledonit</i><par n="abell/a__n"/></e>
@@ -9707,7 +9702,6 @@
 <e lm="carlania"><i>carlani</i><par n="abell/a__n"/></e>
 <e lm="carlet"><i>carlet</i><par n="abric__n"/></e>
 <e lm="carleta"><i>carlet</i><par n="abell/a__n"/></e>
-<e lm="carlina"><i>carlin</i><par n="abell/a__n"/></e>
 <e lm="carlinalla"><i>carlinall</i><par n="abell/a__n"/></e>
 <e lm="carlinga"><i>carling</i><par n="alg/a__n"/></e>
 <e lm="carlà"><i>carl</i><par n="bacall/à__n"/></e>
@@ -13045,7 +13039,6 @@
 <e lm="cosoneria"><i>cosoneri</i><par n="abell/a__n"/></e>
 <e lm="cospell"><i>cospell</i><par n="abric__n"/></e>
 <e lm="cospí"><i>cosp</i><par n="boc/í__n"/></e>
-<e lm="cosquerelles"><i>cosquerelles</i><par n="FARC__n"/></e>
 <e lm="cossa"><i>coss</i><par n="abell/a__n"/></e>
 <e lm="cossatge"><i>cossatge</i><par n="abric__n"/></e>
 <e lm="cosseguelles"><i>cosseguelles</i><par n="FARC__n"/></e>
@@ -14399,7 +14392,6 @@
 <e lm="deprecació"><i>deprecaci</i><par n="acci/ó__n"/></e>
 <e lm="depreciador"><i>depreciador</i><par n="abric__n"/></e>
 <e lm="depreciadora"><i>depreciador</i><par n="abell/a__n"/></e>
-<e lm="depredador"><i>depredador</i><par n="senyor__n"/></e>
 <e lm="deprenent"><i>deprenent</i><par n="senyor__n"/></e>
 <e lm="depressiu"><i>depressiu</i><par n="abric__n"/></e>
 <e lm="depressiva"><i>depressiv</i><par n="abell/a__n"/></e>
@@ -14764,6 +14756,7 @@
 <e lm="desenrajolament"><i>desenrajolament</i><par n="abric__n"/></e>
 <e lm="desenrotlladora"><i>desenrotllador</i><par n="abell/a__n"/></e>
 <e lm="desenrotllament"><i>desenrotllament</i><par n="abric__n"/></e>
+<e lm="desenrotllisme"><i>desenrotllisme</i><par n="abric__n"/></e>
 <e lm="desensonyament"><i>desensonyament</i><par n="abric__n"/></e>
 <e lm="desensopiment"><i>desensopiment</i><par n="abric__n"/></e>
 <e lm="desenterrament"><i>desenterrament</i><par n="abric__n"/></e>
@@ -17526,7 +17519,6 @@
 <e lm="enselladura"><i>enselladur</i><par n="abell/a__n"/></e>
 <e lm="ensellament"><i>ensellament</i><par n="abric__n"/></e>
 <e lm="ensemble"><i>ensemble</i><par n="abric__n"/></e>
-<e lm="ensenyança"><i>ensenyan</i><par n="adre/ça__n"/></e>
 <e lm="ensenyoriment"><i>ensenyoriment</i><par n="abric__n"/></e>
 <e lm="ensetinat"><i>ensetinat</i><par n="abric__n"/></e>
 <e lm="ensetinatge"><i>ensetinatge</i><par n="abric__n"/></e>
@@ -20897,7 +20889,6 @@
 <e lm="fautor"><i>fautor</i><par n="abric__n"/></e>
 <e lm="fautora"><i>fautor</i><par n="abell/a__n"/></e>
 <e lm="fautoria"><i>fautori</i><par n="abell/a__n"/></e>
-<e lm="fauvista"><i>fauvist</i><par n="accionist/a__n"/></e>
 <e lm="favar"><i>favar</i><par n="abric__n"/></e>
 <e lm="favarol"><i>favarol</i><par n="senyor__n"/></e>
 <e lm="favassa"><i>favass</i><par n="abell/a__n"/></e>
@@ -21675,8 +21666,6 @@
 <e lm="floravia"><i>floravi</i><par n="abell/a__n"/></e>
 <e lm="floreal"><i>floreal</i><par n="abric__n"/></e>
 <e lm="floreig"><i>flore</i><par n="assa/ig__n"/></e>
-<e lm="florentina"><i>florentin</i><par n="abell/a__n"/></e>
-<e lm="florentí"><i>florent</i><par n="boc/í__n"/></e>
 <e lm="florera"><i>florer</i><par n="abell/a__n"/></e>
 <e lm="florescència"><i>florescènci</i><par n="abell/a__n"/></e>
 <e lm="florestí"><i>florest</i><par n="alacant/í__n"/></e>
@@ -23246,6 +23235,7 @@
 <e lm="genitoplàstia"><i>genitoplàsti</i><par n="abell/a__n"/></e>
 <e lm="genitor"><i>genitor</i><par n="senyor__n"/></e>
 <e lm="genitura"><i>genitur</i><par n="abell/a__n"/></e>
+<e lm="genitàlia"><i>genitàlia</i><par n="BBC__n"/></e>
 <e lm="genival"><i>genival</i><par n="accessibilitat__n"/></e>
 <e lm="genivell"><i>genivell</i><par n="abric__n"/></e>
 <e lm="genivó"><i>geniv</i><par n="aband/ó__n"/></e>
@@ -23311,7 +23301,6 @@
 <e lm="geometrització"><i>geometritzaci</i><par n="acci/ó__n"/></e>
 <e lm="geometrografia"><i>geometrografi</i><par n="abell/a__n"/></e>
 <e lm="geomorfogènia"><i>geomorfogèni</i><par n="abell/a__n"/></e>
-<e lm="geomorfologia"><i>geomorfologi</i><par n="abell/a__n"/></e>
 <e lm="geomorfòleg"><i>geomorfòl</i><par n="biòl/eg__n"/></e>
 <e lm="geomància"><i>geomànci</i><par n="abell/a__n"/></e>
 <e lm="geomàntic"><i>geomàntic</i><par n="abric__n"/></e>
@@ -23365,7 +23354,6 @@
 <e lm="gerla"><i>gerl</i><par n="abell/a__n"/></e>
 <e lm="germanat"><i>germanat</i><par n="abric__n"/></e>
 <e lm="germandat"><i>germandat</i><par n="accessibilitat__n"/></e>
-<e lm="germanet"><i>germanet</i><par n="senyor__n"/></e>
 <e lm="germania"><i>germani</i><par n="abell/a__n"/></e>
 <e lm="germanista"><i>germanist</i><par n="accionist/a__n"/></e>
 <e lm="germanització"><i>germanitzaci</i><par n="acci/ó__n"/></e>
@@ -24530,7 +24518,6 @@
 <e lm="hadit"><i>hadit</i><par n="abric__n"/></e>
 <e lm="hadroma"><i>hadrom</i><par n="carism/a__n"/></e>
 <e lm="hadromerina"><i>hadromerin</i><par n="abell/a__n"/></e>
-<e lm="hadrosaure"><i>hadrosaure</i><par n="abric__n"/></e>
 <e lm="hagadà"><i>hagadà</i><par n="accessibilitat__n"/></e>
 <e lm="hagiologia"><i>hagiologi</i><par n="abell/a__n"/></e>
 <e lm="hagionomàstica"><i>hagionomàsti</i><par n="acústi/ca__n"/></e>
@@ -25488,6 +25475,7 @@
 <e lm="hiporquema"><i>hiporquem</i><par n="carism/a__n"/></e>
 <e lm="hiposistòlia"><i>hiposistòli</i><par n="abell/a__n"/></e>
 <e lm="hipospàdies"><i>hipospàdies</i><par n="IRPF__n"/></e>
+<e lm="hipostatització"><i>hipostatitzaci</i><par n="acci/ó__n"/></e>
 <e lm="hipostènia"><i>hipostèni</i><par n="abell/a__n"/></e>
 <e lm="hiposulfit"><i>hiposulfit</i><par n="abric__n"/></e>
 <e lm="hipotalàssica"><i>hipotalàssi</i><par n="acústi/ca__n"/></e>
@@ -26328,7 +26316,6 @@
 <e lm="indigeta"><i>indiget</i><par n="abell/a__n"/></e>
 <e lm="indigotina"><i>indigotin</i><par n="abell/a__n"/></e>
 <e lm="indiligència"><i>indiligènci</i><par n="abell/a__n"/></e>
-<e lm="indiot"><i>indiot</i><par n="abric__n"/></e>
 <e lm="indiota"><i>indiot</i><par n="abell/a__n"/></e>
 <e lm="indiotaire"><i>indiotaire</i><par n="acompanyant__n"/></e>
 <e lm="indiscernibilitat"><i>indiscernibilitat</i><par n="accessibilitat__n"/></e>
@@ -27432,6 +27419,7 @@
 <e lm="kosovar"><i>kosovar</i><par n="acompanyant__n"/></e>
 <e lm="kotibé"><i>kotibé</i><par n="abric__n"/></e>
 <e lm="krarupització"><i>krarupitzaci</i><par n="acci/ó__n"/></e>
+<e lm="kriptonita"><i>kriptonit</i><par n="abell/a__n"/></e>
 <e lm="krivitx"><i>krivitx</i><par n="pres__n"/></e>
 <e lm="ksi"><i>ksi</i><par n="accessibilitat__n"/></e>
 <e lm="kufia"><i>kufi</i><par n="abell/a__n"/></e>
@@ -30846,7 +30834,6 @@
 <e lm="microbicida"><i>microbicid</i><par n="carism/a__n"/></e>
 <e lm="microbiota"><i>microbiot</i><par n="abell/a__n"/></e>
 <e lm="microbisme"><i>microbisme</i><par n="abric__n"/></e>
-<e lm="microbiòleg"><i>microbiòl</i><par n="biòl/eg__n"/></e>
 <e lm="microblast"><i>microblast</i><par n="abast__n"/></e>
 <e lm="microbràquia"><i>microbràqui</i><par n="abell/a__n"/></e>
 <e lm="microbús"><i>microb</i><par n="ab/ús__n"/></e>
@@ -31727,8 +31714,6 @@
 <e lm="montellanenc"><i>montellanen</i><par n="asiàti/c__n"/></e>
 <e lm="montellanès"><i>montellan</i><par n="angl/ès__n"/></e>
 <e lm="montemolinista"><i>montemolinist</i><par n="accionist/a__n"/></e>
-<e lm="montenegrina"><i>montenegrin</i><par n="abell/a__n"/></e>
-<e lm="montenegrí"><i>montenegr</i><par n="boc/í__n"/></e>
 <e lm="montescotí"><i>montescot</i><par n="alacant/í__n"/></e>
 <e lm="montesquiuenc"><i>montesquiuen</i><par n="asiàti/c__n"/></e>
 <e lm="montferrienc"><i>montferrien</i><par n="asiàti/c__n"/></e>
@@ -32396,8 +32381,6 @@
 <e lm="napoleònic"><i>napoleònic</i><par n="abric__n"/></e>
 <e lm="napoleònica"><i>napoleòni</i><par n="acústi/ca__n"/></e>
 <e lm="napoleó"><i>napole</i><par n="aband/ó__n"/></e>
-<e lm="napolitana"><i>napolitan</i><par n="abell/a__n"/></e>
-<e lm="napolità"><i>napolit</i><par n="bacall/à__n"/></e>
 <e lm="napís"><i>nap</i><par n="passad/ís__n"/></e>
 <e lm="naquera"><i>naquer</i><par n="abell/a__n"/></e>
 <e lm="narbonès"><i>narbon</i><par n="angl/ès__n"/></e>
@@ -32730,7 +32713,6 @@
 <e lm="neopositivisme"><i>neopositivisme</i><par n="abric__n"/></e>
 <e lm="neoprotozoic"><i>neoprotozoic</i><par n="abric__n"/></e>
 <e lm="neorama"><i>neoram</i><par n="carism/a__n"/></e>
-<e lm="neorealista"><i>neorealist</i><par n="accionist/a__n"/></e>
 <e lm="neornita"><i>neornit</i><par n="carism/a__n"/></e>
 <e lm="neornítida"><i>neornítid</i><par n="carism/a__n"/></e>
 <e lm="neorococó"><i>neorococó</i><par n="abric__n"/></e>
@@ -33566,7 +33548,6 @@
 <e lm="occamisme"><i>occamisme</i><par n="abric__n"/></e>
 <e lm="occamista"><i>occamist</i><par n="accionist/a__n"/></e>
 <e lm="occidentalisme"><i>occidentalisme</i><par n="abric__n"/></e>
-<e lm="occidentalització"><i>occidentalitzaci</i><par n="acci/ó__n"/></e>
 <e lm="occidor"><i>occidor</i><par n="abric__n"/></e>
 <e lm="occidora"><i>occidor</i><par n="abell/a__n"/></e>
 <e lm="occiment"><i>occiment</i><par n="abric__n"/></e>
@@ -33956,7 +33937,6 @@
 <e lm="ontina"><i>ontin</i><par n="abell/a__n"/></e>
 <e lm="ontinyentina"><i>ontinyentin</i><par n="abell/a__n"/></e>
 <e lm="ontinyentí"><i>ontinyent</i><par n="boc/í__n"/></e>
-<e lm="ontogènesi"><i>ontogènesi</i><par n="accessibilitat__n"/></e>
 <e lm="ontologisme"><i>ontologisme</i><par n="abric__n"/></e>
 <e lm="ontòleg"><i>ontòl</i><par n="biòl/eg__n"/></e>
 <e lm="onzabili"><i>onzabili</i><par n="abric__n"/></e>
@@ -38351,7 +38331,6 @@
 <e lm="precàncer"><i>precàncer</i><par n="abric__n"/></e>
 <e lm="precàrrega"><i>precàrreg</i><par n="alg/a__n"/></e>
 <e lm="predació"><i>predaci</i><par n="acci/ó__n"/></e>
-<e lm="predador"><i>predador</i><par n="senyor__n"/></e>
 <e lm="predecessora"><i>predecessor</i><par n="abell/a__n"/></e>
 <e lm="predefinició"><i>predefinici</i><par n="acci/ó__n"/></e>
 <e lm="predelinqüent"><i>predelinqüent</i><par n="acompanyant__n"/></e>
@@ -40433,7 +40412,6 @@
 <e lm="realgar"><i>realgar</i><par n="abric__n"/></e>
 <e lm="realimentació"><i>realimentaci</i><par n="acci/ó__n"/></e>
 <e lm="realineament"><i>realineament</i><par n="abric__n"/></e>
-<e lm="realista"><i>realist</i><par n="accionist/a__n"/></e>
 <e lm="realitzable"><i>realitzable</i><par n="abric__n"/></e>
 <e lm="realitzadora"><i>realitzador</i><par n="abell/a__n"/></e>
 <e lm="realpolitik"><i>realpolitik</i><par n="BBC__n"/></e>
@@ -40601,7 +40579,6 @@
 <e lm="recolleta"><i>recollet</i><par n="abell/a__n"/></e>
 <e lm="recollidora"><i>recollidor</i><par n="abell/a__n"/></e>
 <e lm="recollita"><i>recollit</i><par n="abell/a__n"/></e>
-<e lm="recolonització"><i>recolonitzaci</i><par n="acci/ó__n"/></e>
 <e lm="recolp"><i>recolp</i><par n="abric__n"/></e>
 <e lm="recolzada"><i>recolzad</i><par n="abell/a__n"/></e>
 <e lm="recolzador"><i>recolzador</i><par n="abric__n"/></e>
@@ -41306,7 +41283,6 @@
 <e lm="rerebotiga"><i>rerebotig</i><par n="alg/a__n"/></e>
 <e lm="rerecambra"><i>rerecambr</i><par n="abell/a__n"/></e>
 <e lm="rereclam"><i>rereclam</i><par n="abric__n"/></e>
-<e lm="rerecor"><i>rerecor</i><par n="abric__n"/></e>
 <e lm="rereduna"><i>reredun</i><par n="abell/a__n"/></e>
 <e lm="rerefossa"><i>rerefoss</i><par n="abell/a__n"/></e>
 <e lm="reremost"><i>reremost</i><par n="abast__n"/></e>
@@ -44308,6 +44284,7 @@
 <e lm="sociació"><i>sociaci</i><par n="acci/ó__n"/></e>
 <e lm="socialcristianisme"><i>socialcristianisme</i><par n="abric__n"/></e>
 <e lm="socialdemocràcia"><i>socialdemocràci</i><par n="abell/a__n"/></e>
+<e lm="socimi"><i>socimi</i><par n="accessibilitat__n"/></e>
 <e lm="socinianisme"><i>socinianisme</i><par n="abric__n"/></e>
 <e lm="socinià"><i>socini</i><par n="americ/à__n"/></e>
 <e lm="socioaddicció"><i>socioaddicci</i><par n="acci/ó__n"/></e>
@@ -44480,7 +44457,6 @@
 <e lm="somerer"><i>somerer</i><par n="abric__n"/></e>
 <e lm="somerera"><i>somerer</i><par n="abell/a__n"/></e>
 <e lm="somereta"><i>someret</i><par n="abell/a__n"/></e>
-<e lm="sometent"><i>sometent</i><par n="abric__n"/></e>
 <e lm="somiador"><i>somiador</i><par n="abric__n"/></e>
 <e lm="somiadora"><i>somiador</i><par n="abell/a__n"/></e>
 <e lm="somiatruites"><i>somiatruites</i><par n="ATS__n"/></e>
@@ -46218,6 +46194,7 @@
 <e lm="teomàquia"><i>teomàqui</i><par n="abell/a__n"/></e>
 <e lm="teopasquisme"><i>teopasquisme</i><par n="abric__n"/></e>
 <e lm="teopasquita"><i>teopasquit</i><par n="accionist/a__n"/></e>
+<e lm="teoricisme"><i>teoricisme</i><par n="abric__n"/></e>
 <e lm="teoritzador"><i>teoritzador</i><par n="abric__n"/></e>
 <e lm="teoritzadora"><i>teoritzador</i><par n="abell/a__n"/></e>
 <e lm="tepaneca"><i>tepane</i><par n="monar/ca__n"/></e>
@@ -46611,6 +46588,7 @@
 <e lm="teürga"><i>teürg</i><par n="alg/a__n"/></e>
 <e lm="thai"><i>thai</i><par n="acompanyant__n"/></e>
 <e lm="thanetià"><i>thaneti</i><par n="bacall/à__n"/></e>
+<e lm="thatcherisme"><i>thatcherisme</i><par n="BBVA__n"/></e>
 <e lm="thenardita"><i>thenardit</i><par n="abell/a__n"/></e>
 <e lm="thesaurus"><i>thesaurus</i><par n="IRPF__n"/></e>
 <e lm="theta"><i>thet</i><par n="abell/a__n"/></e>
@@ -46801,7 +46779,6 @@
 <e lm="tiranicidi"><i>tiranicidi</i><par n="abric__n"/></e>
 <e lm="tiranisme"><i>tiranisme</i><par n="abric__n"/></e>
 <e lm="tiranització"><i>tiranitzaci</i><par n="acci/ó__n"/></e>
-<e lm="tiranosaure"><i>tiranosaure</i><par n="abric__n"/></e>
 <e lm="tirany"><i>tirany</i><par n="abric__n"/></e>
 <e lm="tirapalles"><i>tirapalles</i><par n="IRPF__n"/></e>
 <e lm="tirapeu"><i>tirapeu</i><par n="abric__n"/></e>
@@ -47062,7 +47039,6 @@
 <e lm="topometria"><i>topometri</i><par n="abell/a__n"/></e>
 <e lm="toponema"><i>toponem</i><par n="carism/a__n"/></e>
 <e lm="toponimista"><i>toponimist</i><par n="accionist/a__n"/></e>
-<e lm="toponomàstica"><i>toponomàsti</i><par n="acústi/ca__n"/></e>
 <e lm="topspin"><i>topspin</i><par n="abric__n"/></e>
 <e lm="topàlgia"><i>topàlgi</i><par n="abell/a__n"/></e>
 <e lm="topí"><i>top</i><par n="boc/í__n"/></e>
@@ -48086,10 +48062,8 @@
 <e lm="troglodítid"><i>troglodítid</i><par n="abric__n"/></e>
 <e lm="trogoniforme"><i>trogoniforme</i><par n="abric__n"/></e>
 <e lm="trogònid"><i>trogònid</i><par n="abric__n"/></e>
-<e lm="troiana"><i>troian</i><par n="abell/a__n"/></e>
 <e lm="troilita"><i>troilit</i><par n="abell/a__n"/></e>
 <e lm="troina"><i>troin</i><par n="abell/a__n"/></e>
-<e lm="troià"><i>troi</i><par n="bacall/à__n"/></e>
 <e lm="trol"><i>trol</i><par n="abric__n"/></e>
 <e lm="troleibús"><i>troleib</i><par n="ab/ús__n"/></e>
 <e lm="trombastènia"><i>trombastèni</i><par n="abell/a__n"/></e>
@@ -48198,7 +48172,6 @@
 <e lm="trullaire"><i>trullaire</i><par n="acompanyant__n"/></e>
 <e lm="trullanenc"><i>trullanen</i><par n="asiàti/c__n"/></e>
 <e lm="trullola"><i>trullol</i><par n="abell/a__n"/></e>
-<e lm="trumfa"><i>trumf</i><par n="abell/a__n"/></e>
 <e lm="trumfada"><i>trumfad</i><par n="abell/a__n"/></e>
 <e lm="trumfau"><i>trumfau</i><par n="abric__n"/></e>
 <e lm="trumfera"><i>trumfer</i><par n="abell/a__n"/></e>
@@ -48315,7 +48288,6 @@
 <e lm="tumorectomia"><i>tumorectomi</i><par n="abell/a__n"/></e>
 <e lm="tumèric"><i>tumèric</i><par n="abric__n"/></e>
 <e lm="tunda"><i>tund</i><par n="abell/a__n"/></e>
-<e lm="tuneladora"><i>tunelador</i><par n="abell/a__n"/></e>
 <e lm="tunelització"><i>tunelitzaci</i><par n="acci/ó__n"/></e>
 <e lm="tungstat"><i>tungstat</i><par n="abric__n"/></e>
 <e lm="tungstita"><i>tungstit</i><par n="abell/a__n"/></e>
@@ -50378,7 +50350,6 @@
 <e lm="xindri"><i>xindri</i><par n="abric__n"/></e>
 <e lm="xinel·la"><i>xinel·l</i><par n="abell/a__n"/></e>
 <e lm="xinet"><i>xinet</i><par n="senyor__n"/></e>
-<e lm="xintoisme"><i>xintoisme</i><par n="abric__n"/></e>
 <e lm="xintz"><i>xintz</i><par n="abric__n"/></e>
 <e lm="xinxa"><i>xinx</i><par n="abell/a__n"/></e>
 <e lm="xinxam"><i>xinxam</i><par n="abric__n"/></e>

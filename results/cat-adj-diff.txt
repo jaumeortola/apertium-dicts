@@ -223,6 +223,9 @@ APERTIUM: calorós	PAR: afectu/ós__adj	FORMS: AQ0FP0 caloroses AQ0FP0 calorosí
 APERTIUM: capritxós	PAR: afectu/ós__adj	FORMS: AQ0FP0 capritxoses AQ0FP0 capritxosíssimes AQ0FS0 capritxosa AQ0FS0 capritxosíssima AQ0MP0 capritxosos AQ0MP0 capritxosíssims AQ0MS0 capritxosíssim AQ0MS0 capritxós
    OTHER: capritxós	PAR: aliment/ós__adj	FORMS: AQ0FP0 capritxoses AQ0FS0 capritxosa AQ0MP0 capritxosos AQ0MS0 capritxós
 
+APERTIUM: caqui	PAR: abdominal__adj	FORMS: AQ0CP0 caquis AQ0CS0 caqui
+   OTHER: caqui	PAR: multimèdia__adj	FORMS: AQ0CN0 caqui
+
 APERTIUM: car	PAR: alt__adj	FORMS: AQ0FP0 cares AQ0FP0 caríssimes AQ0FS0 cara AQ0FS0 caríssima AQ0MP0 cars AQ0MP0 caríssims AQ0MS0 car AQ0MS0 caríssim
    OTHER: car	PAR: absolut__adj	FORMS: AQ0FP0 cares AQ0FS0 cara AQ0MP0 cars AQ0MS0 car
    OTHER: car	PAR: poquet__adj	FORMS: AQ0FP0 cares AQ0FS0 cara AQ0MP0 cars AQ0MS0 car
@@ -342,6 +345,9 @@ APERTIUM: còmode	PAR: c/òmode__adj	FORMS: AQ0FP0 comodíssimes AQ0FP0 còmodes
 APERTIUM: defectuós	PAR: afectu/ós__adj	FORMS: AQ0FP0 defectuoses AQ0FP0 defectuosíssimes AQ0FS0 defectuosa AQ0FS0 defectuosíssima AQ0MP0 defectuosos AQ0MP0 defectuosíssims AQ0MS0 defectuosíssim AQ0MS0 defectuós
    OTHER: defectuós	PAR: aliment/ós__adj	FORMS: AQ0FP0 defectuoses AQ0FS0 defectuosa AQ0MP0 defectuosos AQ0MS0 defectuós
 
+APERTIUM: delerós	PAR: afectu/ós__adj	FORMS: AQ0FP0 deleroses AQ0FP0 delerosíssimes AQ0FS0 delerosa AQ0FS0 delerosíssima AQ0MP0 delerosos AQ0MP0 delerosíssims AQ0MS0 delerosíssim AQ0MS0 delerós
+   OTHER: delerós	PAR: aliment/ós__adj	FORMS: AQ0FP0 deleroses AQ0FS0 delerosa AQ0MP0 delerosos AQ0MS0 delerós
+
 APERTIUM: delicat	PAR: afortuna/t__adj	FORMS: AQ0FP0 delicades AQ0FP0 delicadíssimes AQ0FS0 delicada AQ0FS0 delicadíssima AQ0MP0 delicadíssims AQ0MP0 delicats AQ0MS0 delicadíssim AQ0MS0 delicat
    OTHER: delicat	PAR: triparti/t__adj	FORMS: AQ0FP0 delicades AQ0FS0 delicada AQ0MP0 delicats AQ0MS0 delicat
 
@@ -365,6 +371,9 @@ APERTIUM: desassenyat	PAR: afortuna/t__adj	FORMS: AQ0FP0 desassenyades AQ0FP0 de
 
 APERTIUM: desastrós	PAR: afectu/ós__adj	FORMS: AQ0FP0 desastroses AQ0FP0 desastrosíssimes AQ0FS0 desastrosa AQ0FS0 desastrosíssima AQ0MP0 desastrosos AQ0MP0 desastrosíssims AQ0MS0 desastrosíssim AQ0MS0 desastrós
    OTHER: desastrós	PAR: aliment/ós__adj	FORMS: AQ0FP0 desastroses AQ0FS0 desastrosa AQ0MP0 desastrosos AQ0MS0 desastrós
+
+APERTIUM: desdentegat	PAR: afortuna/t__adj	FORMS: AQ0FP0 desdentegades AQ0FP0 desdentegadíssimes AQ0FS0 desdentegada AQ0FS0 desdentegadíssima AQ0MP0 desdentegadíssims AQ0MP0 desdentegats AQ0MS0 desdentegadíssim AQ0MS0 desdentegat
+   OTHER: desdentegat	PAR: triparti/t__adj	FORMS: AQ0FP0 desdentegades AQ0FS0 desdentegada AQ0MP0 desdentegats AQ0MS0 desdentegat
 
 APERTIUM: desitjós	PAR: afectu/ós__adj	FORMS: AQ0FP0 desitjoses AQ0FP0 desitjosíssimes AQ0FS0 desitjosa AQ0FS0 desitjosíssima AQ0MP0 desitjosos AQ0MP0 desitjosíssims AQ0MS0 desitjosíssim AQ0MS0 desitjós
    OTHER: desitjós	PAR: aliment/ós__adj	FORMS: AQ0FP0 desitjoses AQ0FS0 desitjosa AQ0MP0 desitjosos AQ0MS0 desitjós
@@ -471,6 +480,9 @@ APERTIUM: emèrit	PAR: alt__adj	FORMS: AQ0FP0 emèrites AQ0FP0 emèritíssimes A
 APERTIUM: enemic	PAR: ami/c__adj	FORMS: AQ0FP0 enemigues AQ0FP0 enemiguíssimes AQ0FS0 enemiga AQ0FS0 enemiguíssima AQ0MP0 enemics AQ0MP0 enemiguíssims AQ0MS0 enemic AQ0MS0 enemiguíssim
    OTHER: enemic	PAR: ce/c__adj	FORMS: AQ0FP0 enemigues AQ0FS0 enemiga AQ0MP0 enemics AQ0MS0 enemic
 
+APERTIUM: enganxós	PAR: afectu/ós__adj	FORMS: AQ0FP0 enganxoses AQ0FP0 enganxosíssimes AQ0FS0 enganxosa AQ0FS0 enganxosíssima AQ0MP0 enganxosos AQ0MP0 enganxosíssims AQ0MS0 enganxosíssim AQ0MS0 enganxós
+   OTHER: enganxós	PAR: aliment/ós__adj	FORMS: AQ0FP0 enganxoses AQ0FS0 enganxosa AQ0MP0 enganxosos AQ0MS0 enganxós
+
 APERTIUM: enganyós	PAR: afectu/ós__adj	FORMS: AQ0FP0 enganyoses AQ0FP0 enganyosíssimes AQ0FS0 enganyosa AQ0FS0 enganyosíssima AQ0MP0 enganyosos AQ0MP0 enganyosíssims AQ0MS0 enganyosíssim AQ0MS0 enganyós
    OTHER: enganyós	PAR: aliment/ós__adj	FORMS: AQ0FP0 enganyoses AQ0FS0 enganyosa AQ0MP0 enganyosos AQ0MS0 enganyós
 
@@ -547,9 +559,6 @@ APERTIUM: estupefacte	PAR: abstract/e__adj	FORMS: AQ0CP0 estupefactes AQ0FP0 est
    OTHER: estupefacte	PAR: altr/e__adj	FORMS: AQ0CP0 estupefactes AQ0FS0 estupefacta AQ0MS0 estupefacte
    OTHER: estupefacte	PAR: nostr/e__adj	FORMS: AQ0CP0 estupefactes AQ0FS0 estupefacta AQ0MS0 estupefacte
 
-APERTIUM: estàndard	PAR: abdominal__adj	FORMS: AQ0CP0 estàndards AQ0CS0 estàndard
-   OTHER: estàndard	PAR: multimèdia__adj	FORMS: AQ0CN0 estàndard
-
 APERTIUM: esvelt	PAR: alt__adj	FORMS: AQ0FP0 esveltes AQ0FP0 esveltíssimes AQ0FS0 esvelta AQ0FS0 esveltíssima AQ0MP0 esvelts AQ0MP0 esveltíssims AQ0MS0 esvelt AQ0MS0 esveltíssim
    OTHER: esvelt	PAR: absolut__adj	FORMS: AQ0FP0 esveltes AQ0FS0 esvelta AQ0MP0 esvelts AQ0MS0 esvelt
    OTHER: esvelt	PAR: poquet__adj	FORMS: AQ0FP0 esveltes AQ0FS0 esvelta AQ0MP0 esvelts AQ0MS0 esvelt
@@ -575,9 +584,6 @@ APERTIUM: exquisit	PAR: afortuna/t__adj	FORMS: AQ0FP0 exquisides AQ0FP0 exquisid
 APERTIUM: extens	PAR: complex__adj	FORMS: AQ0FP0 extenses AQ0FP0 extensíssimes AQ0FS0 extensa AQ0FS0 extensíssima AQ0MP0 extensos AQ0MP0 extensíssims AQ0MS0 extens AQ0MS0 extensíssim
    OTHER: extens	PAR: annex__adj	FORMS: AQ0FP0 extenses AQ0FS0 extensa AQ0MP0 extensos AQ0MS0 extens
 
-APERTIUM: extra	PAR: multimèdia__adj	FORMS: AQ0CN0 extra
-   OTHER: extra	PAR: agrícol/a__adj	FORMS: AQ0CP0 extres AQ0CS0 extra
-
 APERTIUM: fabulós	PAR: afectu/ós__adj	FORMS: AQ0FP0 fabuloses AQ0FP0 fabulosíssimes AQ0FS0 fabulosa AQ0FS0 fabulosíssima AQ0MP0 fabulosos AQ0MP0 fabulosíssims AQ0MS0 fabulosíssim AQ0MS0 fabulós
    OTHER: fabulós	PAR: aliment/ós__adj	FORMS: AQ0FP0 fabuloses AQ0FS0 fabulosa AQ0MP0 fabulosos AQ0MS0 fabulós
 
@@ -586,6 +592,9 @@ APERTIUM: fals	PAR: complex__adj	FORMS: AQ0FP0 falses AQ0FP0 falsíssimes AQ0FS0
 
 APERTIUM: famós	PAR: afectu/ós__adj	FORMS: AQ0FP0 famoses AQ0FP0 famosíssimes AQ0FS0 famosa AQ0FS0 famosíssima AQ0MP0 famosos AQ0MP0 famosíssims AQ0MS0 famosíssim AQ0MS0 famós
    OTHER: famós	PAR: aliment/ós__adj	FORMS: AQ0FP0 famoses AQ0FS0 famosa AQ0MP0 famosos AQ0MS0 famós
+
+APERTIUM: fangós	PAR: afectu/ós__adj	FORMS: AQ0FP0 fangoses AQ0FP0 fangosíssimes AQ0FS0 fangosa AQ0FS0 fangosíssima AQ0MP0 fangosos AQ0MP0 fangosíssims AQ0MS0 fangosíssim AQ0MS0 fangós
+   OTHER: fangós	PAR: aliment/ós__adj	FORMS: AQ0FP0 fangoses AQ0FS0 fangosa AQ0MP0 fangosos AQ0MS0 fangós
 
 APERTIUM: fart	PAR: alt__adj	FORMS: AQ0FP0 fartes AQ0FP0 fartíssimes AQ0FS0 farta AQ0FS0 fartíssima AQ0MP0 farts AQ0MP0 fartíssims AQ0MS0 fart AQ0MS0 fartíssim
    OTHER: fart	PAR: absolut__adj	FORMS: AQ0FP0 fartes AQ0FS0 farta AQ0MP0 farts AQ0MS0 fart
@@ -703,9 +712,6 @@ APERTIUM: gustós	PAR: afectu/ós__adj	FORMS: AQ0FP0 gustoses AQ0FP0 gustosíssi
 
 APERTIUM: harmoniós	PAR: afectu/ós__adj	FORMS: AQ0FP0 harmonioses AQ0FP0 harmoniosíssimes AQ0FS0 harmoniosa AQ0FS0 harmoniosíssima AQ0MP0 harmoniosos AQ0MP0 harmoniosíssims AQ0MS0 harmoniosíssim AQ0MS0 harmoniós
    OTHER: harmoniós	PAR: aliment/ós__adj	FORMS: AQ0FP0 harmonioses AQ0FS0 harmoniosa AQ0MP0 harmoniosos AQ0MS0 harmoniós
-
-APERTIUM: homicida	PAR: abdominal__adj	FORMS: AQ0CP0 homicidas AQ0CS0 homicida
-   OTHER: homicida	PAR: agrícol/a__adj	FORMS: AQ0CP0 homicides AQ0CS0 homicida
 
 APERTIUM: horrorós	PAR: afectu/ós__adj	FORMS: AQ0FP0 horroroses AQ0FP0 horrorosíssimes AQ0FS0 horrorosa AQ0FS0 horrorosíssima AQ0MP0 horrorosos AQ0MP0 horrorosíssims AQ0MS0 horrorosíssim AQ0MS0 horrorós
    OTHER: horrorós	PAR: aliment/ós__adj	FORMS: AQ0FP0 horroroses AQ0FS0 horrorosa AQ0MP0 horrorosos AQ0MS0 horrorós
@@ -828,6 +834,9 @@ APERTIUM: introvertit	PAR: afortuna/t__adj	FORMS: AQ0FP0 introvertides AQ0FP0 in
 
 APERTIUM: inusitat	PAR: afortuna/t__adj	FORMS: AQ0FP0 inusitades AQ0FP0 inusitadíssimes AQ0FS0 inusitada AQ0FS0 inusitadíssima AQ0MP0 inusitadíssims AQ0MP0 inusitats AQ0MS0 inusitadíssim AQ0MS0 inusitat
    OTHER: inusitat	PAR: triparti/t__adj	FORMS: AQ0FP0 inusitades AQ0FS0 inusitada AQ0MP0 inusitats AQ0MS0 inusitat
+
+APERTIUM: irresolut	PAR: afortuna/t__adj	FORMS: AQ0FP0 irresoludes AQ0FP0 irresoludíssimes AQ0FS0 irresoluda AQ0FS0 irresoludíssima AQ0MP0 irresoludíssims AQ0MP0 irresoluts AQ0MS0 irresoludíssim AQ0MS0 irresolut
+   OTHER: irresolut	PAR: triparti/t__adj	FORMS: AQ0FP0 irresoludes AQ0FS0 irresoluda AQ0MP0 irresoluts AQ0MS0 irresolut
 
 APERTIUM: irrespectuós	PAR: afectu/ós__adj	FORMS: AQ0FP0 irrespectuoses AQ0FP0 irrespectuosíssimes AQ0FS0 irrespectuosa AQ0FS0 irrespectuosíssima AQ0MP0 irrespectuosos AQ0MP0 irrespectuosíssims AQ0MS0 irrespectuosíssim AQ0MS0 irrespectuós
    OTHER: irrespectuós	PAR: aliment/ós__adj	FORMS: AQ0FP0 irrespectuoses AQ0FS0 irrespectuosa AQ0MP0 irrespectuosos AQ0MS0 irrespectuós
@@ -958,6 +967,9 @@ APERTIUM: mesquí	PAR: mesqu/í__adj	FORMS: AQ0FP0 mesquines AQ0FP0 mesquiníssi
 APERTIUM: meticulós	PAR: afectu/ós__adj	FORMS: AQ0FP0 meticuloses AQ0FP0 meticulosíssimes AQ0FS0 meticulosa AQ0FS0 meticulosíssima AQ0MP0 meticulosos AQ0MP0 meticulosíssims AQ0MS0 meticulosíssim AQ0MS0 meticulós
    OTHER: meticulós	PAR: aliment/ós__adj	FORMS: AQ0FP0 meticuloses AQ0FS0 meticulosa AQ0MP0 meticulosos AQ0MS0 meticulós
 
+APERTIUM: metzinós	PAR: afectu/ós__adj	FORMS: AQ0FP0 metzinoses AQ0FP0 metzinosíssimes AQ0FS0 metzinosa AQ0FS0 metzinosíssima AQ0MP0 metzinosos AQ0MP0 metzinosíssims AQ0MS0 metzinosíssim AQ0MS0 metzinós
+   OTHER: metzinós	PAR: aliment/ós__adj	FORMS: AQ0FP0 metzinoses AQ0FS0 metzinosa AQ0MP0 metzinosos AQ0MS0 metzinós
+
 APERTIUM: minuciós	PAR: afectu/ós__adj	FORMS: AQ0FP0 minucioses AQ0FP0 minuciosíssimes AQ0FS0 minuciosa AQ0FS0 minuciosíssima AQ0MP0 minuciosos AQ0MP0 minuciosíssims AQ0MS0 minuciosíssim AQ0MS0 minuciós
    OTHER: minuciós	PAR: aliment/ós__adj	FORMS: AQ0FP0 minucioses AQ0FS0 minuciosa AQ0MP0 minuciosos AQ0MS0 minuciós
 
@@ -996,6 +1008,9 @@ APERTIUM: morós	PAR: afectu/ós__adj	FORMS: AQ0FP0 moroses AQ0FP0 morosíssimes
 APERTIUM: multiús	PAR: multi/ús__adj	FORMS: AQ0CP0 multiusos AQ0CS0 multiús
    OTHER: multiús	PAR: multimèdia__adj	FORMS: AQ0CN0 multiús
 
+APERTIUM: musculós	PAR: afectu/ós__adj	FORMS: AQ0FP0 musculoses AQ0FP0 musculosíssimes AQ0FS0 musculosa AQ0FS0 musculosíssima AQ0MP0 musculosos AQ0MP0 musculosíssims AQ0MS0 musculosíssim AQ0MS0 musculós
+   OTHER: musculós	PAR: aliment/ós__adj	FORMS: AQ0FP0 musculoses AQ0FS0 musculosa AQ0MP0 musculosos AQ0MS0 musculós
+
 APERTIUM: mut	PAR: afortuna/t__adj	FORMS: AQ0FP0 mudes AQ0FP0 mudíssimes AQ0FS0 muda AQ0FS0 mudíssima AQ0MP0 mudíssims AQ0MP0 muts AQ0MS0 mudíssim AQ0MS0 mut
    OTHER: mut	PAR: triparti/t__adj	FORMS: AQ0FP0 mudes AQ0FS0 muda AQ0MP0 muts AQ0MS0 mut
 
@@ -1026,6 +1041,9 @@ APERTIUM: ociós	PAR: afectu/ós__adj	FORMS: AQ0FP0 ocioses AQ0FP0 ociosíssimes
 APERTIUM: oficiós	PAR: afectu/ós__adj	FORMS: AQ0FP0 oficioses AQ0FP0 oficiosíssimes AQ0FS0 oficiosa AQ0FS0 oficiosíssima AQ0MP0 oficiosos AQ0MP0 oficiosíssims AQ0MS0 oficiosíssim AQ0MS0 oficiós
    OTHER: oficiós	PAR: aliment/ós__adj	FORMS: AQ0FP0 oficioses AQ0FS0 oficiosa AQ0MP0 oficiosos AQ0MS0 oficiós
 
+APERTIUM: ominós	PAR: afectu/ós__adj	FORMS: AQ0FP0 ominoses AQ0FP0 ominosíssimes AQ0FS0 ominosa AQ0FS0 ominosíssima AQ0MP0 ominosos AQ0MP0 ominosíssims AQ0MS0 ominosíssim AQ0MS0 ominós
+   OTHER: ominós	PAR: aliment/ós__adj	FORMS: AQ0FP0 ominoses AQ0FS0 ominosa AQ0MP0 ominosos AQ0MS0 ominós
+
 APERTIUM: onerós	PAR: afectu/ós__adj	FORMS: AQ0FP0 oneroses AQ0FP0 onerosíssimes AQ0FS0 onerosa AQ0FS0 onerosíssima AQ0MP0 onerosos AQ0MP0 onerosíssims AQ0MS0 onerosíssim AQ0MS0 onerós
    OTHER: onerós	PAR: aliment/ós__adj	FORMS: AQ0FP0 oneroses AQ0FS0 onerosa AQ0MP0 onerosos AQ0MS0 onerós
 
@@ -1040,6 +1058,9 @@ APERTIUM: pacient	PAR: important__adj	FORMS: AQ0CP0 pacients AQ0CS0 pacient AQ0F
 
 APERTIUM: paorós	PAR: afectu/ós__adj	FORMS: AQ0FP0 paoroses AQ0FP0 paorosíssimes AQ0FS0 paorosa AQ0FS0 paorosíssima AQ0MP0 paorosos AQ0MP0 paorosíssims AQ0MS0 paorosíssim AQ0MS0 paorós
    OTHER: paorós	PAR: aliment/ós__adj	FORMS: AQ0FP0 paoroses AQ0FS0 paorosa AQ0MP0 paorosos AQ0MS0 paorós
+
+APERTIUM: pastós	PAR: afectu/ós__adj	FORMS: AQ0FP0 pastoses AQ0FP0 pastosíssimes AQ0FS0 pastosa AQ0FS0 pastosíssima AQ0MP0 pastosos AQ0MP0 pastosíssims AQ0MS0 pastosíssim AQ0MS0 pastós
+   OTHER: pastós	PAR: aliment/ós__adj	FORMS: AQ0FP0 pastoses AQ0FS0 pastosa AQ0MP0 pastosos AQ0MS0 pastós
 
 APERTIUM: pautat	PAR: afortuna/t__adj	FORMS: AQ0FP0 pautades AQ0FP0 pautadíssimes AQ0FS0 pautada AQ0FS0 pautadíssima AQ0MP0 pautadíssims AQ0MP0 pautats AQ0MS0 pautadíssim AQ0MS0 pautat
    OTHER: pautat	PAR: triparti/t__adj	FORMS: AQ0FP0 pautades AQ0FS0 pautada AQ0MP0 pautats AQ0MS0 pautat
@@ -1074,6 +1095,9 @@ APERTIUM: petit	PAR: alt__adj	FORMS: AQ0FP0 petites AQ0FP0 petitíssimes AQ0FS0 
 
 APERTIUM: piadós	PAR: afectu/ós__adj	FORMS: AQ0FP0 piadoses AQ0FP0 piadosíssimes AQ0FS0 piadosa AQ0FS0 piadosíssima AQ0MP0 piadosos AQ0MP0 piadosíssims AQ0MS0 piadosíssim AQ0MS0 piadós
    OTHER: piadós	PAR: aliment/ós__adj	FORMS: AQ0FP0 piadoses AQ0FS0 piadosa AQ0MP0 piadosos AQ0MS0 piadós
+
+APERTIUM: pietós	PAR: afectu/ós__adj	FORMS: AQ0FP0 pietoses AQ0FP0 pietosíssimes AQ0FS0 pietosa AQ0FS0 pietosíssima AQ0MP0 pietosos AQ0MP0 pietosíssims AQ0MS0 pietosíssim AQ0MS0 pietós
+   OTHER: pietós	PAR: aliment/ós__adj	FORMS: AQ0FP0 pietoses AQ0FS0 pietosa AQ0MP0 pietosos AQ0MS0 pietós
 
 APERTIUM: pigós	PAR: afectu/ós__adj	FORMS: AQ0FP0 pigoses AQ0FP0 pigosíssimes AQ0FS0 pigosa AQ0FS0 pigosíssima AQ0MP0 pigosos AQ0MP0 pigosíssims AQ0MS0 pigosíssim AQ0MS0 pigós
    OTHER: pigós	PAR: aliment/ós__adj	FORMS: AQ0FP0 pigoses AQ0FS0 pigosa AQ0MP0 pigosos AQ0MS0 pigós
@@ -1249,6 +1273,9 @@ APERTIUM: ràpid	PAR: r/àpid__adj	FORMS: AQ0FP0 rapidíssimes AQ0FP0 ràpides A
    OTHER: ràpid	PAR: poquet__adj	FORMS: AQ0FP0 ràpides AQ0FS0 ràpida AQ0MP0 ràpids AQ0MS0 ràpid
    OTHER: ràpid	PAR: quant__adj	FORMS: AQ0FP0 ràpides AQ0FS0 ràpida AQ0MP0 ràpids AQ0MS0 ràpid
 
+APERTIUM: sabonós	PAR: afectu/ós__adj	FORMS: AQ0FP0 sabonoses AQ0FP0 sabonosíssimes AQ0FS0 sabonosa AQ0FS0 sabonosíssima AQ0MP0 sabonosos AQ0MP0 sabonosíssims AQ0MS0 sabonosíssim AQ0MS0 sabonós
+   OTHER: sabonós	PAR: aliment/ós__adj	FORMS: AQ0FP0 sabonoses AQ0FS0 sabonosa AQ0MP0 sabonosos AQ0MS0 sabonós
+
 APERTIUM: saborós	PAR: afectu/ós__adj	FORMS: AQ0FP0 saboroses AQ0FP0 saborosíssimes AQ0FS0 saborosa AQ0FS0 saborosíssima AQ0MP0 saborosos AQ0MP0 saborosíssims AQ0MS0 saborosíssim AQ0MS0 saborós
    OTHER: saborós	PAR: aliment/ós__adj	FORMS: AQ0FP0 saboroses AQ0FS0 saborosa AQ0MP0 saborosos AQ0MS0 saborós
 
@@ -1309,9 +1336,6 @@ APERTIUM: sigil·lós	PAR: afectu/ós__adj	FORMS: AQ0FP0 sigil·loses AQ0FP0 sig
 APERTIUM: silenciós	PAR: afectu/ós__adj	FORMS: AQ0FP0 silencioses AQ0FP0 silenciosíssimes AQ0FS0 silenciosa AQ0FS0 silenciosíssima AQ0MP0 silenciosos AQ0MP0 silenciosíssims AQ0MS0 silenciosíssim AQ0MS0 silenciós
    OTHER: silenciós	PAR: aliment/ós__adj	FORMS: AQ0FP0 silencioses AQ0FS0 silenciosa AQ0MP0 silenciosos AQ0MS0 silenciós
 
-APERTIUM: simple	PAR: alegr/e__adj	FORMS: AQ0CP0 simples AQ0CS0 simple AQ0FP0 simplíssimes AQ0FS0 simplíssima AQ0MP0 simplíssims AQ0MS0 simplíssim
-   OTHER: simple	PAR: abdominal__adj	FORMS: AQ0CP0 simples AQ0CS0 simple
-
 APERTIUM: sincer	PAR: alt__adj	FORMS: AQ0FP0 sinceres AQ0FP0 sinceríssimes AQ0FS0 sincera AQ0FS0 sinceríssima AQ0MP0 sincers AQ0MP0 sinceríssims AQ0MS0 sincer AQ0MS0 sinceríssim
    OTHER: sincer	PAR: absolut__adj	FORMS: AQ0FP0 sinceres AQ0FS0 sincera AQ0MP0 sincers AQ0MS0 sincer
    OTHER: sincer	PAR: poquet__adj	FORMS: AQ0FP0 sinceres AQ0FS0 sincera AQ0MP0 sincers AQ0MS0 sincer
@@ -1360,6 +1384,9 @@ APERTIUM: suós	PAR: afectu/ós__adj	FORMS: AQ0FP0 suoses AQ0FP0 suosíssimes AQ
 APERTIUM: taronja	PAR: taron/ja__adj	FORMS: AQ0CP0 taronges AQ0CS0 taronja
    OTHER: taronja	PAR: multimèdia__adj	FORMS: AQ0CN0 taronja
 
+APERTIUM: tecnòcrata	PAR: abdominal__adj	FORMS: AQ0CP0 tecnòcratas AQ0CS0 tecnòcrata
+   OTHER: tecnòcrata	PAR: agrícol/a__adj	FORMS: AQ0CP0 tecnòcrates AQ0CS0 tecnòcrata
+
 APERTIUM: tediós	PAR: afectu/ós__adj	FORMS: AQ0FP0 tedioses AQ0FP0 tediosíssimes AQ0FS0 tediosa AQ0FS0 tediosíssima AQ0MP0 tediosos AQ0MP0 tediosíssims AQ0MS0 tediosíssim AQ0MS0 tediós
    OTHER: tediós	PAR: aliment/ós__adj	FORMS: AQ0FP0 tedioses AQ0FS0 tediosa AQ0MP0 tediosos AQ0MS0 tediós
 
@@ -1403,6 +1430,9 @@ APERTIUM: valerós	PAR: afectu/ós__adj	FORMS: AQ0FP0 valeroses AQ0FP0 valerosí
 
 APERTIUM: valuós	PAR: afectu/ós__adj	FORMS: AQ0FP0 valuoses AQ0FP0 valuosíssimes AQ0FS0 valuosa AQ0FS0 valuosíssima AQ0MP0 valuosos AQ0MP0 valuosíssims AQ0MS0 valuosíssim AQ0MS0 valuós
    OTHER: valuós	PAR: aliment/ós__adj	FORMS: AQ0FP0 valuoses AQ0FS0 valuosa AQ0MP0 valuosos AQ0MS0 valuós
+
+APERTIUM: vanitós	PAR: afectu/ós__adj	FORMS: AQ0FP0 vanitoses AQ0FP0 vanitosíssimes AQ0FS0 vanitosa AQ0FS0 vanitosíssima AQ0MP0 vanitosos AQ0MP0 vanitosíssims AQ0MS0 vanitosíssim AQ0MS0 vanitós
+   OTHER: vanitós	PAR: aliment/ós__adj	FORMS: AQ0FP0 vanitoses AQ0FS0 vanitosa AQ0MP0 vanitosos AQ0MS0 vanitós
 
 APERTIUM: vast	PAR: injust__adj	FORMS: AQ0FP0 vastes AQ0FP0 vastíssimes AQ0FS0 vasta AQ0FS0 vastíssima AQ0MP0 vastos AQ0MP0 vasts AQ0MP0 vastíssims AQ0MS0 vast AQ0MS0 vastíssim
    OTHER: vast	PAR: mixt__adj	FORMS: AQ0FP0 vastes AQ0FS0 vasta AQ0MP0 vastos AQ0MP0 vasts AQ0MS0 vast
