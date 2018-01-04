@@ -231,6 +231,9 @@ APERTIUM: car	PAR: alt__adj	FORMS: AQ0FP0 cares AQ0FP0 caríssimes AQ0FS0 cara A
    OTHER: car	PAR: poquet__adj	FORMS: AQ0FP0 cares AQ0FS0 cara AQ0MP0 cars AQ0MS0 car
    OTHER: car	PAR: quant__adj	FORMS: AQ0FP0 cares AQ0FS0 cara AQ0MP0 cars AQ0MS0 car
 
+APERTIUM: cautelós	PAR: afectu/ós__adj	FORMS: AQ0FP0 cauteloses AQ0FP0 cautelosíssimes AQ0FS0 cautelosa AQ0FS0 cautelosíssima AQ0MP0 cautelosos AQ0MP0 cautelosíssims AQ0MS0 cautelosíssim AQ0MS0 cautelós
+   OTHER: cautelós	PAR: aliment/ós__adj	FORMS: AQ0FP0 cauteloses AQ0FS0 cautelosa AQ0MP0 cautelosos AQ0MS0 cautelós
+
 APERTIUM: cavernós	PAR: afectu/ós__adj	FORMS: AQ0FP0 cavernoses AQ0FP0 cavernosíssimes AQ0FS0 cavernosa AQ0FS0 cavernosíssima AQ0MP0 cavernosos AQ0MP0 cavernosíssims AQ0MS0 cavernosíssim AQ0MS0 cavernós
    OTHER: cavernós	PAR: aliment/ós__adj	FORMS: AQ0FP0 cavernoses AQ0FS0 cavernosa AQ0MP0 cavernosos AQ0MS0 cavernós
 
@@ -740,6 +743,12 @@ APERTIUM: inacabat	PAR: afortuna/t__adj	FORMS: AQ0FP0 inacabades AQ0FP0 inacabad
 APERTIUM: inadequat	PAR: afortuna/t__adj	FORMS: AQ0FP0 inadequades AQ0FP0 inadequadíssimes AQ0FS0 inadequada AQ0FS0 inadequadíssima AQ0MP0 inadequadíssims AQ0MP0 inadequats AQ0MS0 inadequadíssim AQ0MS0 inadequat
    OTHER: inadequat	PAR: triparti/t__adj	FORMS: AQ0FP0 inadequades AQ0FS0 inadequada AQ0MP0 inadequats AQ0MS0 inadequat
 
+APERTIUM: inalterat	PAR: afortuna/t__adj	FORMS: AQ0FP0 inalterades AQ0FP0 inalteradíssimes AQ0FS0 inalterada AQ0FS0 inalteradíssima AQ0MP0 inalteradíssims AQ0MP0 inalterats AQ0MS0 inalteradíssim AQ0MS0 inalterat
+   OTHER: inalterat	PAR: triparti/t__adj	FORMS: AQ0FP0 inalterades AQ0FS0 inalterada AQ0MP0 inalterats AQ0MS0 inalterat
+
+APERTIUM: inarticulat	PAR: afortuna/t__adj	FORMS: AQ0FP0 inarticulades AQ0FP0 inarticuladíssimes AQ0FS0 inarticulada AQ0FS0 inarticuladíssima AQ0MP0 inarticuladíssims AQ0MP0 inarticulats AQ0MS0 inarticuladíssim AQ0MS0 inarticulat
+   OTHER: inarticulat	PAR: triparti/t__adj	FORMS: AQ0FP0 inarticulades AQ0FS0 inarticulada AQ0MP0 inarticulats AQ0MS0 inarticulat
+
 APERTIUM: inconnex	PAR: complex__adj	FORMS: AQ0FP0 inconnexes AQ0FP0 inconnexíssimes AQ0FS0 inconnexa AQ0FS0 inconnexíssima AQ0MP0 inconnexos AQ0MP0 inconnexíssims AQ0MS0 inconnex AQ0MS0 inconnexíssim
    OTHER: inconnex	PAR: annex__adj	FORMS: AQ0FP0 inconnexes AQ0FS0 inconnexa AQ0MP0 inconnexos AQ0MS0 inconnex
 
@@ -828,6 +837,9 @@ APERTIUM: intens	PAR: complex__adj	FORMS: AQ0FP0 intenses AQ0FP0 intensíssimes 
 
 APERTIUM: interessant	PAR: important__adj	FORMS: AQ0CP0 interessants AQ0CS0 interessant AQ0FP0 interessantíssimes AQ0FS0 interessantíssima AQ0MP0 interessantíssims AQ0MS0 interessantíssim
    OTHER: interessant	PAR: abdominal__adj	FORMS: AQ0CP0 interessants AQ0CS0 interessant
+
+APERTIUM: intestat	PAR: afortuna/t__adj	FORMS: AQ0FP0 intestades AQ0FP0 intestadíssimes AQ0FS0 intestada AQ0FS0 intestadíssima AQ0MP0 intestadíssims AQ0MP0 intestats AQ0MS0 intestadíssim AQ0MS0 intestat
+   OTHER: intestat	PAR: triparti/t__adj	FORMS: AQ0FP0 intestades AQ0FS0 intestada AQ0MP0 intestats AQ0MS0 intestat
 
 APERTIUM: introvertit	PAR: afortuna/t__adj	FORMS: AQ0FP0 introvertides AQ0FP0 introvertidíssimes AQ0FS0 introvertida AQ0FS0 introvertidíssima AQ0MP0 introvertidíssims AQ0MP0 introvertits AQ0MS0 introvertidíssim AQ0MS0 introvertit
    OTHER: introvertit	PAR: triparti/t__adj	FORMS: AQ0FP0 introvertides AQ0FS0 introvertida AQ0MP0 introvertits AQ0MS0 introvertit
@@ -1336,6 +1348,9 @@ APERTIUM: sigil·lós	PAR: afectu/ós__adj	FORMS: AQ0FP0 sigil·loses AQ0FP0 sig
 APERTIUM: silenciós	PAR: afectu/ós__adj	FORMS: AQ0FP0 silencioses AQ0FP0 silenciosíssimes AQ0FS0 silenciosa AQ0FS0 silenciosíssima AQ0MP0 silenciosos AQ0MP0 silenciosíssims AQ0MS0 silenciosíssim AQ0MS0 silenciós
    OTHER: silenciós	PAR: aliment/ós__adj	FORMS: AQ0FP0 silencioses AQ0FS0 silenciosa AQ0MP0 silenciosos AQ0MS0 silenciós
 
+APERTIUM: simple	PAR: alegr/e__adj	FORMS: AQ0CP0 simples AQ0CS0 simple AQ0FP0 simplíssimes AQ0FS0 simplíssima AQ0MP0 simplíssims AQ0MS0 simplíssim
+   OTHER: simple	PAR: abdominal__adj	FORMS: AQ0CP0 simples AQ0CS0 simple
+
 APERTIUM: sincer	PAR: alt__adj	FORMS: AQ0FP0 sinceres AQ0FP0 sinceríssimes AQ0FS0 sincera AQ0FS0 sinceríssima AQ0MP0 sincers AQ0MP0 sinceríssims AQ0MS0 sincer AQ0MS0 sinceríssim
    OTHER: sincer	PAR: absolut__adj	FORMS: AQ0FP0 sinceres AQ0FS0 sincera AQ0MP0 sincers AQ0MS0 sincer
    OTHER: sincer	PAR: poquet__adj	FORMS: AQ0FP0 sinceres AQ0FS0 sincera AQ0MP0 sincers AQ0MS0 sincer
@@ -1383,9 +1398,6 @@ APERTIUM: suós	PAR: afectu/ós__adj	FORMS: AQ0FP0 suoses AQ0FP0 suosíssimes AQ
 
 APERTIUM: taronja	PAR: taron/ja__adj	FORMS: AQ0CP0 taronges AQ0CS0 taronja
    OTHER: taronja	PAR: multimèdia__adj	FORMS: AQ0CN0 taronja
-
-APERTIUM: tecnòcrata	PAR: abdominal__adj	FORMS: AQ0CP0 tecnòcratas AQ0CS0 tecnòcrata
-   OTHER: tecnòcrata	PAR: agrícol/a__adj	FORMS: AQ0CP0 tecnòcrates AQ0CS0 tecnòcrata
 
 APERTIUM: tediós	PAR: afectu/ós__adj	FORMS: AQ0FP0 tedioses AQ0FP0 tediosíssimes AQ0FS0 tediosa AQ0FS0 tediosíssima AQ0MP0 tediosos AQ0MP0 tediosíssims AQ0MS0 tediosíssim AQ0MS0 tediós
    OTHER: tediós	PAR: aliment/ós__adj	FORMS: AQ0FP0 tedioses AQ0FS0 tediosa AQ0MP0 tediosos AQ0MS0 tediós
@@ -1730,7 +1742,6 @@ APERTIUM: verge	PAR: abdominal__adj	FORMS: AQ0CP0 verges AQ0CS0 verge
 <e lm="isogin"><i>isogin</i><par n="??????????"/></e>
 <e lm="isoquimen"><i>isoquimen</i><par n="??????????"/></e>
 <e lm="jóc"><i>jóc</i><par n="??????????"/></e>
-<e lm="lacti"><i>lacti</i><par n="??????????"/></e>
 <e lm="lent2"><i>lent2</i><par n="??????????"/></e>
 <e lm="leponci"><i>leponci</i><par n="??????????"/></e>
 <e lm="libicoberber"><i>libicoberber</i><par n="??????????"/></e>
@@ -1829,6 +1840,7 @@ APERTIUM: verge	PAR: abdominal__adj	FORMS: AQ0CP0 verges AQ0CS0 verge
 <e lm="saturni"><i>saturni</i><par n="??????????"/></e>
 <e lm="sauri"><i>sauri</i><par n="??????????"/></e>
 <e lm="semidisminuït"><i>semidisminuït</i><par n="??????????"/></e>
+<e lm="semirecte"><i>semirecte</i><par n="??????????"/></e>
 <e lm="sensomotor"><i>sensomotor</i><par n="??????????"/></e>
 <e lm="sensoriomotor"><i>sensoriomotor</i><par n="??????????"/></e>
 <e lm="serotin"><i>serotin</i><par n="??????????"/></e>

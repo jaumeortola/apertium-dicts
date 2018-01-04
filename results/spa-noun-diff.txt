@@ -1114,9 +1114,6 @@ APERTIUM: herbicida	PAR: abeja__n	FORMS: NCFP000 herbicidas NCFS000 herbicida
 APERTIUM: herbívoro	PAR: abismo__n	FORMS: NCMP000 herbívoros NCMS000 herbívoro
    OTHER: herbívoro	PAR: abogad/o__n	FORMS: NCFP000 herbívoras NCFS000 herbívora NCMP000 herbívoros NCMS000 herbívoro
 
-APERTIUM: heroína	PAR: dosis__n	FORMS: NCFN000 heroína
-   OTHER: heroína	PAR: abeja__n	FORMS: NCFP000 heroínas NCFS000 heroína
-
 APERTIUM: heterosexual	PAR: albañil__n	FORMS: NCCP000 heterosexuales NCCS000 heterosexual
    OTHER: heterosexual	PAR: abril__n	FORMS: NCMP000 heterosexuales NCMS000 heterosexual
 
@@ -1592,9 +1589,6 @@ APERTIUM: oligarca	PAR: abismo__n	FORMS: NCMP000 oligarcas NCMS000 oligarca
 
 APERTIUM: opa	PAR: abeja__n	FORMS: NCFP000 opas NCFS000 opa
    OTHER: opa	PAR: accionista__n	FORMS: NCCP000 opas NCCS000 opa
-
-APERTIUM: orangután	PAR: abril__n	FORMS: NCMP000 orangutánes NCMS000 orangután
-   OTHER: orangután	PAR: alem/án__n	FORMS: NCFP000 orangutanas NCFS000 orangutana NCMP000 orangutanes NCMS000 orangután
 
 APERTIUM: orfebre	PAR: abismo__n	FORMS: NCMP000 orfebres NCMS000 orfebre
    OTHER: orfebre	PAR: accionista__n	FORMS: NCCP000 orfebres NCCS000 orfebre

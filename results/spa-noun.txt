@@ -16314,6 +16314,7 @@
 <e lm="herniado"><i>herniad</i><par n="abogad/o__n"/></e>
 <e lm="hernioso"><i>hernios</i><par n="abogad/o__n"/></e>
 <e lm="hernista"><i>hernista</i><par n="accionista__n"/></e>
+<e lm="heroína"><i>heroína</i><par n="abeja__n"/></e>
 <e lm="heroïnómano"><i>heroïnóman</i><par n="abogad/o__n"/></e>
 <e lm="herpangina"><i>herpangina</i><par n="abeja__n"/></e>
 <e lm="herpe"><i>herpe</i><par n="Il.__n"/></e>

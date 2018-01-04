@@ -436,7 +436,6 @@
 <e lm="alílico"><i>alílic</i><par n="absolut/o__adj"/></e>
 <e lm="alítico"><i>alític</i><par n="absolut/o__adj"/></e>
 <e lm="alóctono"><i>alócton</i><par n="absolut/o__adj"/></e>
-<e lm="alógeno"><i>alógen</i><par n="absolut/o__adj"/></e>
 <e lm="alópata"><i>alópata</i><par n="abundante__adj"/></e>
 <e lm="amadinga"><i>amadinga</i><par n="abundante__adj"/></e>
 <e lm="amagnético"><i>amagnétic</i><par n="absolut/o__adj"/></e>

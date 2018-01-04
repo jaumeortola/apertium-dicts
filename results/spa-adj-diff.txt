@@ -101,12 +101,6 @@ APERTIUM: alicaído	PAR: abstract/o__adj	FORMS: AQ0FP0 alicaídas AQ0FP0 alicaí
    OTHER: alicaído	PAR: mí/o__adj	FORMS: AQ0FP0 alicaídas AQ0FS0 alicaída AQ0MP0 alicaídos AQ0MS0 alicaído
    OTHER: alicaído	PAR: otr/o__adj	FORMS: AQ0FP0 alicaídas AQ0FS0 alicaída AQ0MP0 alicaídos AQ0MS0 alicaído
 
-APERTIUM: almendrado	PAR: abstract/o__adj	FORMS: AQ0FP0 almendradas AQ0FP0 almendradísimas AQ0FS0 almendrada AQ0FS0 almendradísima AQ0MP0 almendrados AQ0MP0 almendradísimos AQ0MS0 almendrado AQ0MS0 almendradísimo
-   OTHER: almendrado	PAR: absolut/o__adj	FORMS: AQ0FP0 almendradas AQ0FS0 almendrada AQ0MP0 almendrados AQ0MS0 almendrado
-   OTHER: almendrado	PAR: cuánt/o__adj	FORMS: AQ0FP0 almendradas AQ0FS0 almendrada AQ0MP0 almendrados AQ0MS0 almendrado
-   OTHER: almendrado	PAR: mí/o__adj	FORMS: AQ0FP0 almendradas AQ0FS0 almendrada AQ0MP0 almendrados AQ0MS0 almendrado
-   OTHER: almendrado	PAR: otr/o__adj	FORMS: AQ0FP0 almendradas AQ0FS0 almendrada AQ0MP0 almendrados AQ0MS0 almendrado
-
 APERTIUM: alocado	PAR: abstract/o__adj	FORMS: AQ0FP0 alocadas AQ0FP0 alocadísimas AQ0FS0 alocada AQ0FS0 alocadísima AQ0MP0 alocados AQ0MP0 alocadísimos AQ0MS0 alocado AQ0MS0 alocadísimo
    OTHER: alocado	PAR: absolut/o__adj	FORMS: AQ0FP0 alocadas AQ0FS0 alocada AQ0MP0 alocados AQ0MS0 alocado
    OTHER: alocado	PAR: cuánt/o__adj	FORMS: AQ0FP0 alocadas AQ0FS0 alocada AQ0MP0 alocados AQ0MS0 alocado
@@ -193,12 +187,6 @@ APERTIUM: armonioso	PAR: abstract/o__adj	FORMS: AQ0FP0 armoniosas AQ0FP0 armonio
    OTHER: armonioso	PAR: cuánt/o__adj	FORMS: AQ0FP0 armoniosas AQ0FS0 armoniosa AQ0MP0 armoniosos AQ0MS0 armonioso
    OTHER: armonioso	PAR: mí/o__adj	FORMS: AQ0FP0 armoniosas AQ0FS0 armoniosa AQ0MP0 armoniosos AQ0MS0 armonioso
    OTHER: armonioso	PAR: otr/o__adj	FORMS: AQ0FP0 armoniosas AQ0FS0 armoniosa AQ0MP0 armoniosos AQ0MS0 armonioso
-
-APERTIUM: arábigo	PAR: abstract/o__adj	FORMS: AQ0FP0 arábigas AQ0FP0 arábigísimas AQ0FS0 arábiga AQ0FS0 arábigísima AQ0MP0 arábigos AQ0MP0 arábigísimos AQ0MS0 arábigo AQ0MS0 arábigísimo
-   OTHER: arábigo	PAR: absolut/o__adj	FORMS: AQ0FP0 arábigas AQ0FS0 arábiga AQ0MP0 arábigos AQ0MS0 arábigo
-   OTHER: arábigo	PAR: cuánt/o__adj	FORMS: AQ0FP0 arábigas AQ0FS0 arábiga AQ0MP0 arábigos AQ0MS0 arábigo
-   OTHER: arábigo	PAR: mí/o__adj	FORMS: AQ0FP0 arábigas AQ0FS0 arábiga AQ0MP0 arábigos AQ0MS0 arábigo
-   OTHER: arábigo	PAR: otr/o__adj	FORMS: AQ0FP0 arábigas AQ0FS0 arábiga AQ0MP0 arábigos AQ0MS0 arábigo
 
 APERTIUM: asqueroso	PAR: abstract/o__adj	FORMS: AQ0FP0 asquerosas AQ0FP0 asquerosísimas AQ0FS0 asquerosa AQ0FS0 asquerosísima AQ0MP0 asquerosos AQ0MP0 asquerosísimos AQ0MS0 asqueroso AQ0MS0 asquerosísimo
    OTHER: asqueroso	PAR: absolut/o__adj	FORMS: AQ0FP0 asquerosas AQ0FS0 asquerosa AQ0MP0 asquerosos AQ0MS0 asqueroso
@@ -354,12 +342,6 @@ APERTIUM: campechano	PAR: abstract/o__adj	FORMS: AQ0FP0 campechanas AQ0FP0 campe
    OTHER: campechano	PAR: mí/o__adj	FORMS: AQ0FP0 campechanas AQ0FS0 campechana AQ0MP0 campechanos AQ0MS0 campechano
    OTHER: campechano	PAR: otr/o__adj	FORMS: AQ0FP0 campechanas AQ0FS0 campechana AQ0MP0 campechanos AQ0MS0 campechano
 
-APERTIUM: canceroso	PAR: abstract/o__adj	FORMS: AQ0FP0 cancerosas AQ0FP0 cancerosísimas AQ0FS0 cancerosa AQ0FS0 cancerosísima AQ0MP0 cancerosos AQ0MP0 cancerosísimos AQ0MS0 canceroso AQ0MS0 cancerosísimo
-   OTHER: canceroso	PAR: absolut/o__adj	FORMS: AQ0FP0 cancerosas AQ0FS0 cancerosa AQ0MP0 cancerosos AQ0MS0 canceroso
-   OTHER: canceroso	PAR: cuánt/o__adj	FORMS: AQ0FP0 cancerosas AQ0FS0 cancerosa AQ0MP0 cancerosos AQ0MS0 canceroso
-   OTHER: canceroso	PAR: mí/o__adj	FORMS: AQ0FP0 cancerosas AQ0FS0 cancerosa AQ0MP0 cancerosos AQ0MS0 canceroso
-   OTHER: canceroso	PAR: otr/o__adj	FORMS: AQ0FP0 cancerosas AQ0FS0 cancerosa AQ0MP0 cancerosos AQ0MS0 canceroso
-
 APERTIUM: caprichoso	PAR: abstract/o__adj	FORMS: AQ0FP0 caprichosas AQ0FP0 caprichosísimas AQ0FS0 caprichosa AQ0FS0 caprichosísima AQ0MP0 caprichosos AQ0MP0 caprichosísimos AQ0MS0 caprichoso AQ0MS0 caprichosísimo
    OTHER: caprichoso	PAR: absolut/o__adj	FORMS: AQ0FP0 caprichosas AQ0FS0 caprichosa AQ0MP0 caprichosos AQ0MS0 caprichoso
    OTHER: caprichoso	PAR: cuánt/o__adj	FORMS: AQ0FP0 caprichosas AQ0FS0 caprichosa AQ0MP0 caprichosos AQ0MS0 caprichoso
@@ -402,23 +384,11 @@ APERTIUM: celoso	PAR: abstract/o__adj	FORMS: AQ0FP0 celosas AQ0FP0 celosísimas 
    OTHER: celoso	PAR: mí/o__adj	FORMS: AQ0FP0 celosas AQ0FS0 celosa AQ0MP0 celosos AQ0MS0 celoso
    OTHER: celoso	PAR: otr/o__adj	FORMS: AQ0FP0 celosas AQ0FS0 celosa AQ0MP0 celosos AQ0MS0 celoso
 
-APERTIUM: cerebeloso	PAR: abstract/o__adj	FORMS: AQ0FP0 cerebelosas AQ0FP0 cerebelosísimas AQ0FS0 cerebelosa AQ0FS0 cerebelosísima AQ0MP0 cerebelosos AQ0MP0 cerebelosísimos AQ0MS0 cerebeloso AQ0MS0 cerebelosísimo
-   OTHER: cerebeloso	PAR: absolut/o__adj	FORMS: AQ0FP0 cerebelosas AQ0FS0 cerebelosa AQ0MP0 cerebelosos AQ0MS0 cerebeloso
-   OTHER: cerebeloso	PAR: cuánt/o__adj	FORMS: AQ0FP0 cerebelosas AQ0FS0 cerebelosa AQ0MP0 cerebelosos AQ0MS0 cerebeloso
-   OTHER: cerebeloso	PAR: mí/o__adj	FORMS: AQ0FP0 cerebelosas AQ0FS0 cerebelosa AQ0MP0 cerebelosos AQ0MS0 cerebeloso
-   OTHER: cerebeloso	PAR: otr/o__adj	FORMS: AQ0FP0 cerebelosas AQ0FS0 cerebelosa AQ0MP0 cerebelosos AQ0MS0 cerebeloso
-
 APERTIUM: ceremonioso	PAR: abstract/o__adj	FORMS: AQ0FP0 ceremoniosas AQ0FP0 ceremoniosísimas AQ0FS0 ceremoniosa AQ0FS0 ceremoniosísima AQ0MP0 ceremoniosos AQ0MP0 ceremoniosísimos AQ0MS0 ceremonioso AQ0MS0 ceremoniosísimo
    OTHER: ceremonioso	PAR: absolut/o__adj	FORMS: AQ0FP0 ceremoniosas AQ0FS0 ceremoniosa AQ0MP0 ceremoniosos AQ0MS0 ceremonioso
    OTHER: ceremonioso	PAR: cuánt/o__adj	FORMS: AQ0FP0 ceremoniosas AQ0FS0 ceremoniosa AQ0MP0 ceremoniosos AQ0MS0 ceremonioso
    OTHER: ceremonioso	PAR: mí/o__adj	FORMS: AQ0FP0 ceremoniosas AQ0FS0 ceremoniosa AQ0MP0 ceremoniosos AQ0MS0 ceremonioso
    OTHER: ceremonioso	PAR: otr/o__adj	FORMS: AQ0FP0 ceremoniosas AQ0FS0 ceremoniosa AQ0MP0 ceremoniosos AQ0MS0 ceremonioso
-
-APERTIUM: circunflejo	PAR: abstract/o__adj	FORMS: AQ0FP0 circunflejas AQ0FP0 circunflejísimas AQ0FS0 circunfleja AQ0FS0 circunflejísima AQ0MP0 circunflejos AQ0MP0 circunflejísimos AQ0MS0 circunflejo AQ0MS0 circunflejísimo
-   OTHER: circunflejo	PAR: absolut/o__adj	FORMS: AQ0FP0 circunflejas AQ0FS0 circunfleja AQ0MP0 circunflejos AQ0MS0 circunflejo
-   OTHER: circunflejo	PAR: cuánt/o__adj	FORMS: AQ0FP0 circunflejas AQ0FS0 circunfleja AQ0MP0 circunflejos AQ0MS0 circunflejo
-   OTHER: circunflejo	PAR: mí/o__adj	FORMS: AQ0FP0 circunflejas AQ0FS0 circunfleja AQ0MP0 circunflejos AQ0MS0 circunflejo
-   OTHER: circunflejo	PAR: otr/o__adj	FORMS: AQ0FP0 circunflejas AQ0FS0 circunfleja AQ0MP0 circunflejos AQ0MS0 circunflejo
 
 APERTIUM: clarisa	PAR: clarisa__adj	FORMS: AQ0FP0 clarisas AQ0FS0 clarisa
    OTHER: clarisa	PAR: abundante__adj	FORMS: AQ0CP0 clarisas AQ0CS0 clarisa
@@ -701,12 +671,6 @@ APERTIUM: directo	PAR: abstract/o__adj	FORMS: AQ0FP0 directas AQ0FP0 directísim
    OTHER: directo	PAR: mí/o__adj	FORMS: AQ0FP0 directas AQ0FS0 directa AQ0MP0 directos AQ0MS0 directo
    OTHER: directo	PAR: otr/o__adj	FORMS: AQ0FP0 directas AQ0FS0 directa AQ0MP0 directos AQ0MS0 directo
 
-APERTIUM: discapacitado	PAR: abstract/o__adj	FORMS: AQ0FP0 discapacitadas AQ0FP0 discapacitadísimas AQ0FS0 discapacitada AQ0FS0 discapacitadísima AQ0MP0 discapacitados AQ0MP0 discapacitadísimos AQ0MS0 discapacitado AQ0MS0 discapacitadísimo
-   OTHER: discapacitado	PAR: absolut/o__adj	FORMS: AQ0FP0 discapacitadas AQ0FS0 discapacitada AQ0MP0 discapacitados AQ0MS0 discapacitado
-   OTHER: discapacitado	PAR: cuánt/o__adj	FORMS: AQ0FP0 discapacitadas AQ0FS0 discapacitada AQ0MP0 discapacitados AQ0MS0 discapacitado
-   OTHER: discapacitado	PAR: mí/o__adj	FORMS: AQ0FP0 discapacitadas AQ0FS0 discapacitada AQ0MP0 discapacitados AQ0MS0 discapacitado
-   OTHER: discapacitado	PAR: otr/o__adj	FORMS: AQ0FP0 discapacitadas AQ0FS0 discapacitada AQ0MP0 discapacitados AQ0MS0 discapacitado
-
 APERTIUM: discreto	PAR: abstract/o__adj	FORMS: AQ0FP0 discretas AQ0FP0 discretísimas AQ0FS0 discreta AQ0FS0 discretísima AQ0MP0 discretos AQ0MP0 discretísimos AQ0MS0 discreto AQ0MS0 discretísimo
    OTHER: discreto	PAR: absolut/o__adj	FORMS: AQ0FP0 discretas AQ0FS0 discreta AQ0MP0 discretos AQ0MS0 discreto
    OTHER: discreto	PAR: cuánt/o__adj	FORMS: AQ0FP0 discretas AQ0FS0 discreta AQ0MP0 discretos AQ0MS0 discreto
@@ -760,12 +724,6 @@ APERTIUM: duro	PAR: abstract/o__adj	FORMS: AQ0FP0 duras AQ0FP0 durísimas AQ0FS0
    OTHER: duro	PAR: cuánt/o__adj	FORMS: AQ0FP0 duras AQ0FS0 dura AQ0MP0 duros AQ0MS0 duro
    OTHER: duro	PAR: mí/o__adj	FORMS: AQ0FP0 duras AQ0FS0 dura AQ0MP0 duros AQ0MS0 duro
    OTHER: duro	PAR: otr/o__adj	FORMS: AQ0FP0 duras AQ0FS0 dura AQ0MP0 duros AQ0MS0 duro
-
-APERTIUM: electo	PAR: abstract/o__adj	FORMS: AQ0FP0 electas AQ0FP0 electísimas AQ0FS0 electa AQ0FS0 electísima AQ0MP0 electos AQ0MP0 electísimos AQ0MS0 electo AQ0MS0 electísimo
-   OTHER: electo	PAR: absolut/o__adj	FORMS: AQ0FP0 electas AQ0FS0 electa AQ0MP0 electos AQ0MS0 electo
-   OTHER: electo	PAR: cuánt/o__adj	FORMS: AQ0FP0 electas AQ0FS0 electa AQ0MP0 electos AQ0MS0 electo
-   OTHER: electo	PAR: mí/o__adj	FORMS: AQ0FP0 electas AQ0FS0 electa AQ0MP0 electos AQ0MS0 electo
-   OTHER: electo	PAR: otr/o__adj	FORMS: AQ0FP0 electas AQ0FS0 electa AQ0MP0 electos AQ0MS0 electo
 
 APERTIUM: electrodoméstico	PAR: abstract/o__adj	FORMS: AQ0FP0 electrodomésticas AQ0FP0 electrodomésticísimas AQ0FS0 electrodoméstica AQ0FS0 electrodomésticísima AQ0MP0 electrodomésticos AQ0MP0 electrodomésticísimos AQ0MS0 electrodoméstico AQ0MS0 electrodomésticísimo
    OTHER: electrodoméstico	PAR: absolut/o__adj	FORMS: AQ0FP0 electrodomésticas AQ0FS0 electrodoméstica AQ0MP0 electrodomésticos AQ0MS0 electrodoméstico
@@ -842,12 +800,6 @@ APERTIUM: escueto	PAR: abstract/o__adj	FORMS: AQ0FP0 escuetas AQ0FP0 escuetísim
    OTHER: escueto	PAR: mí/o__adj	FORMS: AQ0FP0 escuetas AQ0FS0 escueta AQ0MP0 escuetos AQ0MS0 escueto
    OTHER: escueto	PAR: otr/o__adj	FORMS: AQ0FP0 escuetas AQ0FS0 escueta AQ0MP0 escuetos AQ0MS0 escueto
 
-APERTIUM: esotérico	PAR: abstract/o__adj	FORMS: AQ0FP0 esotéricas AQ0FP0 esotéricísimas AQ0FS0 esotérica AQ0FS0 esotéricísima AQ0MP0 esotéricos AQ0MP0 esotéricísimos AQ0MS0 esotérico AQ0MS0 esotéricísimo
-   OTHER: esotérico	PAR: absolut/o__adj	FORMS: AQ0FP0 esotéricas AQ0FS0 esotérica AQ0MP0 esotéricos AQ0MS0 esotérico
-   OTHER: esotérico	PAR: cuánt/o__adj	FORMS: AQ0FP0 esotéricas AQ0FS0 esotérica AQ0MP0 esotéricos AQ0MS0 esotérico
-   OTHER: esotérico	PAR: mí/o__adj	FORMS: AQ0FP0 esotéricas AQ0FS0 esotérica AQ0MP0 esotéricos AQ0MS0 esotérico
-   OTHER: esotérico	PAR: otr/o__adj	FORMS: AQ0FP0 esotéricas AQ0FS0 esotérica AQ0MP0 esotéricos AQ0MS0 esotérico
-
 APERTIUM: espacioso	PAR: abstract/o__adj	FORMS: AQ0FP0 espaciosas AQ0FP0 espaciosísimas AQ0FS0 espaciosa AQ0FS0 espaciosísima AQ0MP0 espaciosos AQ0MP0 espaciosísimos AQ0MS0 espacioso AQ0MS0 espaciosísimo
    OTHER: espacioso	PAR: absolut/o__adj	FORMS: AQ0FP0 espaciosas AQ0FS0 espaciosa AQ0MP0 espaciosos AQ0MS0 espacioso
    OTHER: espacioso	PAR: cuánt/o__adj	FORMS: AQ0FP0 espaciosas AQ0FS0 espaciosa AQ0MP0 espaciosos AQ0MS0 espacioso
@@ -868,12 +820,6 @@ APERTIUM: esplendoroso	PAR: abstract/o__adj	FORMS: AQ0FP0 esplendorosas AQ0FP0 e
    OTHER: esplendoroso	PAR: cuánt/o__adj	FORMS: AQ0FP0 esplendorosas AQ0FS0 esplendorosa AQ0MP0 esplendorosos AQ0MS0 esplendoroso
    OTHER: esplendoroso	PAR: mí/o__adj	FORMS: AQ0FP0 esplendorosas AQ0FS0 esplendorosa AQ0MP0 esplendorosos AQ0MS0 esplendoroso
    OTHER: esplendoroso	PAR: otr/o__adj	FORMS: AQ0FP0 esplendorosas AQ0FS0 esplendorosa AQ0MP0 esplendorosos AQ0MS0 esplendoroso
-
-APERTIUM: estanco	PAR: blan/co__adj	FORMS: AQ0FP0 estancas AQ0FP0 estanquísimas AQ0FS0 estanca AQ0FS0 estanquísima AQ0MP0 estancos AQ0MP0 estanquísimos AQ0MS0 estanco AQ0MS0 estanquísimo
-   OTHER: estanco	PAR: absolut/o__adj	FORMS: AQ0FP0 estancas AQ0FS0 estanca AQ0MP0 estancos AQ0MS0 estanco
-   OTHER: estanco	PAR: cuánt/o__adj	FORMS: AQ0FP0 estancas AQ0FS0 estanca AQ0MP0 estancos AQ0MS0 estanco
-   OTHER: estanco	PAR: mí/o__adj	FORMS: AQ0FP0 estancas AQ0FS0 estanca AQ0MP0 estancos AQ0MS0 estanco
-   OTHER: estanco	PAR: otr/o__adj	FORMS: AQ0FP0 estancas AQ0FS0 estanca AQ0MP0 estancos AQ0MS0 estanco
 
 APERTIUM: estrecho	PAR: abstract/o__adj	FORMS: AQ0FP0 estrechas AQ0FP0 estrechísimas AQ0FS0 estrecha AQ0FS0 estrechísima AQ0MP0 estrechos AQ0MP0 estrechísimos AQ0MS0 estrecho AQ0MS0 estrechísimo
    OTHER: estrecho	PAR: absolut/o__adj	FORMS: AQ0FP0 estrechas AQ0FS0 estrecha AQ0MP0 estrechos AQ0MS0 estrecho
@@ -1183,12 +1129,6 @@ APERTIUM: horroroso	PAR: abstract/o__adj	FORMS: AQ0FP0 horrorosas AQ0FP0 horroro
    OTHER: horroroso	PAR: mí/o__adj	FORMS: AQ0FP0 horrorosas AQ0FS0 horrorosa AQ0MP0 horrorosos AQ0MS0 horroroso
    OTHER: horroroso	PAR: otr/o__adj	FORMS: AQ0FP0 horrorosas AQ0FS0 horrorosa AQ0MP0 horrorosos AQ0MS0 horroroso
 
-APERTIUM: huracanado	PAR: abstract/o__adj	FORMS: AQ0FP0 huracanadas AQ0FP0 huracanadísimas AQ0FS0 huracanada AQ0FS0 huracanadísima AQ0MP0 huracanados AQ0MP0 huracanadísimos AQ0MS0 huracanado AQ0MS0 huracanadísimo
-   OTHER: huracanado	PAR: absolut/o__adj	FORMS: AQ0FP0 huracanadas AQ0FS0 huracanada AQ0MP0 huracanados AQ0MS0 huracanado
-   OTHER: huracanado	PAR: cuánt/o__adj	FORMS: AQ0FP0 huracanadas AQ0FS0 huracanada AQ0MP0 huracanados AQ0MS0 huracanado
-   OTHER: huracanado	PAR: mí/o__adj	FORMS: AQ0FP0 huracanadas AQ0FS0 huracanada AQ0MP0 huracanados AQ0MS0 huracanado
-   OTHER: huracanado	PAR: otr/o__adj	FORMS: AQ0FP0 huracanadas AQ0FS0 huracanada AQ0MP0 huracanados AQ0MS0 huracanado
-
 APERTIUM: húmedo	PAR: abstract/o__adj	FORMS: AQ0FP0 húmedas AQ0FP0 húmedísimas AQ0FS0 húmeda AQ0FS0 húmedísima AQ0MP0 húmedos AQ0MP0 húmedísimos AQ0MS0 húmedo AQ0MS0 húmedísimo
    OTHER: húmedo	PAR: absolut/o__adj	FORMS: AQ0FP0 húmedas AQ0FS0 húmeda AQ0MP0 húmedos AQ0MS0 húmedo
    OTHER: húmedo	PAR: cuánt/o__adj	FORMS: AQ0FP0 húmedas AQ0FS0 húmeda AQ0MP0 húmedos AQ0MS0 húmedo
@@ -1200,12 +1140,6 @@ APERTIUM: ignominioso	PAR: abstract/o__adj	FORMS: AQ0FP0 ignominiosas AQ0FP0 ign
    OTHER: ignominioso	PAR: cuánt/o__adj	FORMS: AQ0FP0 ignominiosas AQ0FS0 ignominiosa AQ0MP0 ignominiosos AQ0MS0 ignominioso
    OTHER: ignominioso	PAR: mí/o__adj	FORMS: AQ0FP0 ignominiosas AQ0FS0 ignominiosa AQ0MP0 ignominiosos AQ0MS0 ignominioso
    OTHER: ignominioso	PAR: otr/o__adj	FORMS: AQ0FP0 ignominiosas AQ0FS0 ignominiosa AQ0MP0 ignominiosos AQ0MS0 ignominioso
-
-APERTIUM: ilimitado	PAR: abstract/o__adj	FORMS: AQ0FP0 ilimitadas AQ0FP0 ilimitadísimas AQ0FS0 ilimitada AQ0FS0 ilimitadísima AQ0MP0 ilimitados AQ0MP0 ilimitadísimos AQ0MS0 ilimitado AQ0MS0 ilimitadísimo
-   OTHER: ilimitado	PAR: absolut/o__adj	FORMS: AQ0FP0 ilimitadas AQ0FS0 ilimitada AQ0MP0 ilimitados AQ0MS0 ilimitado
-   OTHER: ilimitado	PAR: cuánt/o__adj	FORMS: AQ0FP0 ilimitadas AQ0FS0 ilimitada AQ0MP0 ilimitados AQ0MS0 ilimitado
-   OTHER: ilimitado	PAR: mí/o__adj	FORMS: AQ0FP0 ilimitadas AQ0FS0 ilimitada AQ0MP0 ilimitados AQ0MS0 ilimitado
-   OTHER: ilimitado	PAR: otr/o__adj	FORMS: AQ0FP0 ilimitadas AQ0FS0 ilimitada AQ0MP0 ilimitados AQ0MS0 ilimitado
 
 APERTIUM: ilustre	PAR: pobr/e__adj	FORMS: AQ0CP0 ilustres AQ0CS0 ilustre AQ0FP0 ilustrísimas AQ0FS0 ilustrísima AQ0MP0 ilustrísimos AQ0MS0 ilustrísimo
    OTHER: ilustre	PAR: abundante__adj	FORMS: AQ0CP0 ilustres AQ0CS0 ilustre
@@ -1258,12 +1192,6 @@ APERTIUM: indebido	PAR: abstract/o__adj	FORMS: AQ0FP0 indebidas AQ0FP0 indebidí
    OTHER: indebido	PAR: mí/o__adj	FORMS: AQ0FP0 indebidas AQ0FS0 indebida AQ0MP0 indebidos AQ0MS0 indebido
    OTHER: indebido	PAR: otr/o__adj	FORMS: AQ0FP0 indebidas AQ0FS0 indebida AQ0MP0 indebidos AQ0MS0 indebido
 
-APERTIUM: indefenso	PAR: abstract/o__adj	FORMS: AQ0FP0 indefensas AQ0FP0 indefensísimas AQ0FS0 indefensa AQ0FS0 indefensísima AQ0MP0 indefensos AQ0MP0 indefensísimos AQ0MS0 indefenso AQ0MS0 indefensísimo
-   OTHER: indefenso	PAR: absolut/o__adj	FORMS: AQ0FP0 indefensas AQ0FS0 indefensa AQ0MP0 indefensos AQ0MS0 indefenso
-   OTHER: indefenso	PAR: cuánt/o__adj	FORMS: AQ0FP0 indefensas AQ0FS0 indefensa AQ0MP0 indefensos AQ0MS0 indefenso
-   OTHER: indefenso	PAR: mí/o__adj	FORMS: AQ0FP0 indefensas AQ0FS0 indefensa AQ0MP0 indefensos AQ0MS0 indefenso
-   OTHER: indefenso	PAR: otr/o__adj	FORMS: AQ0FP0 indefensas AQ0FS0 indefensa AQ0MP0 indefensos AQ0MS0 indefenso
-
 APERTIUM: indefinido	PAR: abstract/o__adj	FORMS: AQ0FP0 indefinidas AQ0FP0 indefinidísimas AQ0FS0 indefinida AQ0FS0 indefinidísima AQ0MP0 indefinidos AQ0MP0 indefinidísimos AQ0MS0 indefinido AQ0MS0 indefinidísimo
    OTHER: indefinido	PAR: absolut/o__adj	FORMS: AQ0FP0 indefinidas AQ0FS0 indefinida AQ0MP0 indefinidos AQ0MS0 indefinido
    OTHER: indefinido	PAR: cuánt/o__adj	FORMS: AQ0FP0 indefinidas AQ0FS0 indefinida AQ0MP0 indefinidos AQ0MS0 indefinido
@@ -1276,12 +1204,6 @@ APERTIUM: indeseado	PAR: abstract/o__adj	FORMS: AQ0FP0 indeseadas AQ0FP0 indesea
    OTHER: indeseado	PAR: mí/o__adj	FORMS: AQ0FP0 indeseadas AQ0FS0 indeseada AQ0MP0 indeseados AQ0MS0 indeseado
    OTHER: indeseado	PAR: otr/o__adj	FORMS: AQ0FP0 indeseadas AQ0FS0 indeseada AQ0MP0 indeseados AQ0MS0 indeseado
 
-APERTIUM: indeterminado	PAR: abstract/o__adj	FORMS: AQ0FP0 indeterminadas AQ0FP0 indeterminadísimas AQ0FS0 indeterminada AQ0FS0 indeterminadísima AQ0MP0 indeterminados AQ0MP0 indeterminadísimos AQ0MS0 indeterminado AQ0MS0 indeterminadísimo
-   OTHER: indeterminado	PAR: absolut/o__adj	FORMS: AQ0FP0 indeterminadas AQ0FS0 indeterminada AQ0MP0 indeterminados AQ0MS0 indeterminado
-   OTHER: indeterminado	PAR: cuánt/o__adj	FORMS: AQ0FP0 indeterminadas AQ0FS0 indeterminada AQ0MP0 indeterminados AQ0MS0 indeterminado
-   OTHER: indeterminado	PAR: mí/o__adj	FORMS: AQ0FP0 indeterminadas AQ0FS0 indeterminada AQ0MP0 indeterminados AQ0MS0 indeterminado
-   OTHER: indeterminado	PAR: otr/o__adj	FORMS: AQ0FP0 indeterminadas AQ0FS0 indeterminada AQ0MP0 indeterminados AQ0MS0 indeterminado
-
 APERTIUM: indirecto	PAR: abstract/o__adj	FORMS: AQ0FP0 indirectas AQ0FP0 indirectísimas AQ0FS0 indirecta AQ0FS0 indirectísima AQ0MP0 indirectos AQ0MP0 indirectísimos AQ0MS0 indirecto AQ0MS0 indirectísimo
    OTHER: indirecto	PAR: absolut/o__adj	FORMS: AQ0FP0 indirectas AQ0FS0 indirecta AQ0MP0 indirectos AQ0MS0 indirecto
    OTHER: indirecto	PAR: cuánt/o__adj	FORMS: AQ0FP0 indirectas AQ0FS0 indirecta AQ0MP0 indirectos AQ0MS0 indirecto
@@ -1293,18 +1215,6 @@ APERTIUM: indiscriminado	PAR: abstract/o__adj	FORMS: AQ0FP0 indiscriminadas AQ0F
    OTHER: indiscriminado	PAR: cuánt/o__adj	FORMS: AQ0FP0 indiscriminadas AQ0FS0 indiscriminada AQ0MP0 indiscriminados AQ0MS0 indiscriminado
    OTHER: indiscriminado	PAR: mí/o__adj	FORMS: AQ0FP0 indiscriminadas AQ0FS0 indiscriminada AQ0MP0 indiscriminados AQ0MS0 indiscriminado
    OTHER: indiscriminado	PAR: otr/o__adj	FORMS: AQ0FP0 indiscriminadas AQ0FS0 indiscriminada AQ0MP0 indiscriminados AQ0MS0 indiscriminado
-
-APERTIUM: indiscutido	PAR: abstract/o__adj	FORMS: AQ0FP0 indiscutidas AQ0FP0 indiscutidísimas AQ0FS0 indiscutida AQ0FS0 indiscutidísima AQ0MP0 indiscutidos AQ0MP0 indiscutidísimos AQ0MS0 indiscutido AQ0MS0 indiscutidísimo
-   OTHER: indiscutido	PAR: absolut/o__adj	FORMS: AQ0FP0 indiscutidas AQ0FS0 indiscutida AQ0MP0 indiscutidos AQ0MS0 indiscutido
-   OTHER: indiscutido	PAR: cuánt/o__adj	FORMS: AQ0FP0 indiscutidas AQ0FS0 indiscutida AQ0MP0 indiscutidos AQ0MS0 indiscutido
-   OTHER: indiscutido	PAR: mí/o__adj	FORMS: AQ0FP0 indiscutidas AQ0FS0 indiscutida AQ0MP0 indiscutidos AQ0MS0 indiscutido
-   OTHER: indiscutido	PAR: otr/o__adj	FORMS: AQ0FP0 indiscutidas AQ0FS0 indiscutida AQ0MP0 indiscutidos AQ0MS0 indiscutido
-
-APERTIUM: indocumentado	PAR: abstract/o__adj	FORMS: AQ0FP0 indocumentadas AQ0FP0 indocumentadísimas AQ0FS0 indocumentada AQ0FS0 indocumentadísima AQ0MP0 indocumentados AQ0MP0 indocumentadísimos AQ0MS0 indocumentado AQ0MS0 indocumentadísimo
-   OTHER: indocumentado	PAR: absolut/o__adj	FORMS: AQ0FP0 indocumentadas AQ0FS0 indocumentada AQ0MP0 indocumentados AQ0MS0 indocumentado
-   OTHER: indocumentado	PAR: cuánt/o__adj	FORMS: AQ0FP0 indocumentadas AQ0FS0 indocumentada AQ0MP0 indocumentados AQ0MS0 indocumentado
-   OTHER: indocumentado	PAR: mí/o__adj	FORMS: AQ0FP0 indocumentadas AQ0FS0 indocumentada AQ0MP0 indocumentados AQ0MS0 indocumentado
-   OTHER: indocumentado	PAR: otr/o__adj	FORMS: AQ0FP0 indocumentadas AQ0FS0 indocumentada AQ0MP0 indocumentados AQ0MS0 indocumentado
 
 APERTIUM: inesperado	PAR: abstract/o__adj	FORMS: AQ0FP0 inesperadas AQ0FP0 inesperadísimas AQ0FS0 inesperada AQ0FS0 inesperadísima AQ0MP0 inesperados AQ0MP0 inesperadísimos AQ0MS0 inesperado AQ0MS0 inesperadísimo
    OTHER: inesperado	PAR: absolut/o__adj	FORMS: AQ0FP0 inesperadas AQ0FS0 inesperada AQ0MP0 inesperados AQ0MS0 inesperado
@@ -1372,12 +1282,6 @@ APERTIUM: inmenso	PAR: abstract/o__adj	FORMS: AQ0FP0 inmensas AQ0FP0 inmensísim
    OTHER: inmenso	PAR: mí/o__adj	FORMS: AQ0FP0 inmensas AQ0FS0 inmensa AQ0MP0 inmensos AQ0MS0 inmenso
    OTHER: inmenso	PAR: otr/o__adj	FORMS: AQ0FP0 inmensas AQ0FS0 inmensa AQ0MP0 inmensos AQ0MS0 inmenso
 
-APERTIUM: inmerso	PAR: abstract/o__adj	FORMS: AQ0FP0 inmersas AQ0FP0 inmersísimas AQ0FS0 inmersa AQ0FS0 inmersísima AQ0MP0 inmersos AQ0MP0 inmersísimos AQ0MS0 inmerso AQ0MS0 inmersísimo
-   OTHER: inmerso	PAR: absolut/o__adj	FORMS: AQ0FP0 inmersas AQ0FS0 inmersa AQ0MP0 inmersos AQ0MS0 inmerso
-   OTHER: inmerso	PAR: cuánt/o__adj	FORMS: AQ0FP0 inmersas AQ0FS0 inmersa AQ0MP0 inmersos AQ0MS0 inmerso
-   OTHER: inmerso	PAR: mí/o__adj	FORMS: AQ0FP0 inmersas AQ0FS0 inmersa AQ0MP0 inmersos AQ0MS0 inmerso
-   OTHER: inmerso	PAR: otr/o__adj	FORMS: AQ0FP0 inmersas AQ0FS0 inmersa AQ0MP0 inmersos AQ0MS0 inmerso
-
 APERTIUM: innato	PAR: abstract/o__adj	FORMS: AQ0FP0 innatas AQ0FP0 innatísimas AQ0FS0 innata AQ0FS0 innatísima AQ0MP0 innatos AQ0MP0 innatísimos AQ0MS0 innato AQ0MS0 innatísimo
    OTHER: innato	PAR: absolut/o__adj	FORMS: AQ0FP0 innatas AQ0FS0 innata AQ0MP0 innatos AQ0MS0 innato
    OTHER: innato	PAR: cuánt/o__adj	FORMS: AQ0FP0 innatas AQ0FS0 innata AQ0MP0 innatos AQ0MS0 innato
@@ -1414,12 +1318,6 @@ APERTIUM: intenso	PAR: abstract/o__adj	FORMS: AQ0FP0 intensas AQ0FP0 intensísim
 APERTIUM: interesante	PAR: pobr/e__adj	FORMS: AQ0CP0 interesantes AQ0CS0 interesante AQ0FP0 interesantísimas AQ0FS0 interesantísima AQ0MP0 interesantísimos AQ0MS0 interesantísimo
    OTHER: interesante	PAR: abundante__adj	FORMS: AQ0CP0 interesantes AQ0CS0 interesante
 
-APERTIUM: intravenoso	PAR: abstract/o__adj	FORMS: AQ0FP0 intravenosas AQ0FP0 intravenosísimas AQ0FS0 intravenosa AQ0FS0 intravenosísima AQ0MP0 intravenosos AQ0MP0 intravenosísimos AQ0MS0 intravenoso AQ0MS0 intravenosísimo
-   OTHER: intravenoso	PAR: absolut/o__adj	FORMS: AQ0FP0 intravenosas AQ0FS0 intravenosa AQ0MP0 intravenosos AQ0MS0 intravenoso
-   OTHER: intravenoso	PAR: cuánt/o__adj	FORMS: AQ0FP0 intravenosas AQ0FS0 intravenosa AQ0MP0 intravenosos AQ0MS0 intravenoso
-   OTHER: intravenoso	PAR: mí/o__adj	FORMS: AQ0FP0 intravenosas AQ0FS0 intravenosa AQ0MP0 intravenosos AQ0MS0 intravenoso
-   OTHER: intravenoso	PAR: otr/o__adj	FORMS: AQ0FP0 intravenosas AQ0FS0 intravenosa AQ0MP0 intravenosos AQ0MS0 intravenoso
-
 APERTIUM: introvertido	PAR: abstract/o__adj	FORMS: AQ0FP0 introvertidas AQ0FP0 introvertidísimas AQ0FS0 introvertida AQ0FS0 introvertidísima AQ0MP0 introvertidos AQ0MP0 introvertidísimos AQ0MS0 introvertido AQ0MS0 introvertidísimo
    OTHER: introvertido	PAR: absolut/o__adj	FORMS: AQ0FP0 introvertidas AQ0FS0 introvertida AQ0MP0 introvertidos AQ0MS0 introvertido
    OTHER: introvertido	PAR: cuánt/o__adj	FORMS: AQ0FP0 introvertidas AQ0FS0 introvertida AQ0MP0 introvertidos AQ0MS0 introvertido
@@ -1431,12 +1329,6 @@ APERTIUM: inusitado	PAR: abstract/o__adj	FORMS: AQ0FP0 inusitadas AQ0FP0 inusita
    OTHER: inusitado	PAR: cuánt/o__adj	FORMS: AQ0FP0 inusitadas AQ0FS0 inusitada AQ0MP0 inusitados AQ0MS0 inusitado
    OTHER: inusitado	PAR: mí/o__adj	FORMS: AQ0FP0 inusitadas AQ0FS0 inusitada AQ0MP0 inusitados AQ0MS0 inusitado
    OTHER: inusitado	PAR: otr/o__adj	FORMS: AQ0FP0 inusitadas AQ0FS0 inusitada AQ0MP0 inusitados AQ0MS0 inusitado
-
-APERTIUM: inverso	PAR: abstract/o__adj	FORMS: AQ0FP0 inversas AQ0FP0 inversísimas AQ0FS0 inversa AQ0FS0 inversísima AQ0MP0 inversos AQ0MP0 inversísimos AQ0MS0 inverso AQ0MS0 inversísimo
-   OTHER: inverso	PAR: absolut/o__adj	FORMS: AQ0FP0 inversas AQ0FS0 inversa AQ0MP0 inversos AQ0MS0 inverso
-   OTHER: inverso	PAR: cuánt/o__adj	FORMS: AQ0FP0 inversas AQ0FS0 inversa AQ0MP0 inversos AQ0MS0 inverso
-   OTHER: inverso	PAR: mí/o__adj	FORMS: AQ0FP0 inversas AQ0FS0 inversa AQ0MP0 inversos AQ0MS0 inverso
-   OTHER: inverso	PAR: otr/o__adj	FORMS: AQ0FP0 inversas AQ0FS0 inversa AQ0MP0 inversos AQ0MS0 inverso
 
 APERTIUM: irrespetuoso	PAR: abstract/o__adj	FORMS: AQ0FP0 irrespetuosas AQ0FP0 irrespetuosísimas AQ0FS0 irrespetuosa AQ0FS0 irrespetuosísima AQ0MP0 irrespetuosos AQ0MP0 irrespetuosísimos AQ0MS0 irrespetuoso AQ0MS0 irrespetuosísimo
    OTHER: irrespetuoso	PAR: absolut/o__adj	FORMS: AQ0FP0 irrespetuosas AQ0FS0 irrespetuosa AQ0MP0 irrespetuosos AQ0MS0 irrespetuoso
@@ -1509,12 +1401,6 @@ APERTIUM: lento	PAR: abstract/o__adj	FORMS: AQ0FP0 lentas AQ0FP0 lentísimas AQ0
    OTHER: lento	PAR: cuánt/o__adj	FORMS: AQ0FP0 lentas AQ0FS0 lenta AQ0MP0 lentos AQ0MS0 lento
    OTHER: lento	PAR: mí/o__adj	FORMS: AQ0FP0 lentas AQ0FS0 lenta AQ0MP0 lentos AQ0MS0 lento
    OTHER: lento	PAR: otr/o__adj	FORMS: AQ0FP0 lentas AQ0FS0 lenta AQ0MP0 lentos AQ0MS0 lento
-
-APERTIUM: leproso	PAR: abstract/o__adj	FORMS: AQ0FP0 leprosas AQ0FP0 leprosísimas AQ0FS0 leprosa AQ0FS0 leprosísima AQ0MP0 leprosos AQ0MP0 leprosísimos AQ0MS0 leproso AQ0MS0 leprosísimo
-   OTHER: leproso	PAR: absolut/o__adj	FORMS: AQ0FP0 leprosas AQ0FS0 leprosa AQ0MP0 leprosos AQ0MS0 leproso
-   OTHER: leproso	PAR: cuánt/o__adj	FORMS: AQ0FP0 leprosas AQ0FS0 leprosa AQ0MP0 leprosos AQ0MS0 leproso
-   OTHER: leproso	PAR: mí/o__adj	FORMS: AQ0FP0 leprosas AQ0FS0 leprosa AQ0MP0 leprosos AQ0MS0 leproso
-   OTHER: leproso	PAR: otr/o__adj	FORMS: AQ0FP0 leprosas AQ0FS0 leprosa AQ0MP0 leprosos AQ0MS0 leproso
 
 APERTIUM: leve	PAR: pobr/e__adj	FORMS: AQ0CP0 leves AQ0CS0 leve AQ0FP0 levísimas AQ0FS0 levísima AQ0MP0 levísimos AQ0MS0 levísimo
    OTHER: leve	PAR: abundante__adj	FORMS: AQ0CP0 leves AQ0CS0 leve
@@ -1871,12 +1757,6 @@ APERTIUM: ostentoso	PAR: abstract/o__adj	FORMS: AQ0FP0 ostentosas AQ0FP0 ostento
 APERTIUM: paciente	PAR: pobr/e__adj	FORMS: AQ0CP0 pacientes AQ0CS0 paciente AQ0FP0 pacientísimas AQ0FS0 pacientísima AQ0MP0 pacientísimos AQ0MS0 pacientísimo
    OTHER: paciente	PAR: abundante__adj	FORMS: AQ0CP0 pacientes AQ0CS0 paciente
 
-APERTIUM: pantanoso	PAR: abstract/o__adj	FORMS: AQ0FP0 pantanosas AQ0FP0 pantanosísimas AQ0FS0 pantanosa AQ0FS0 pantanosísima AQ0MP0 pantanosos AQ0MP0 pantanosísimos AQ0MS0 pantanoso AQ0MS0 pantanosísimo
-   OTHER: pantanoso	PAR: absolut/o__adj	FORMS: AQ0FP0 pantanosas AQ0FS0 pantanosa AQ0MP0 pantanosos AQ0MS0 pantanoso
-   OTHER: pantanoso	PAR: cuánt/o__adj	FORMS: AQ0FP0 pantanosas AQ0FS0 pantanosa AQ0MP0 pantanosos AQ0MS0 pantanoso
-   OTHER: pantanoso	PAR: mí/o__adj	FORMS: AQ0FP0 pantanosas AQ0FS0 pantanosa AQ0MP0 pantanosos AQ0MS0 pantanoso
-   OTHER: pantanoso	PAR: otr/o__adj	FORMS: AQ0FP0 pantanosas AQ0FS0 pantanosa AQ0MP0 pantanosos AQ0MS0 pantanoso
-
 APERTIUM: parturienta	PAR: abundante__adj	FORMS: AQ0CP0 parturientas AQ0CS0 parturienta
    OTHER: parturienta	PAR: clarisa__adj	FORMS: AQ0FP0 parturientas AQ0FS0 parturienta
 
@@ -1969,12 +1849,6 @@ APERTIUM: plano	PAR: abstract/o__adj	FORMS: AQ0FP0 planas AQ0FP0 planísimas AQ0
    OTHER: plano	PAR: cuánt/o__adj	FORMS: AQ0FP0 planas AQ0FS0 plana AQ0MP0 planos AQ0MS0 plano
    OTHER: plano	PAR: mí/o__adj	FORMS: AQ0FP0 planas AQ0FS0 plana AQ0MP0 planos AQ0MS0 plano
    OTHER: plano	PAR: otr/o__adj	FORMS: AQ0FP0 planas AQ0FS0 plana AQ0MP0 planos AQ0MS0 plano
-
-APERTIUM: platónico	PAR: abstract/o__adj	FORMS: AQ0FP0 platónicas AQ0FP0 platónicísimas AQ0FS0 platónica AQ0FS0 platónicísima AQ0MP0 platónicos AQ0MP0 platónicísimos AQ0MS0 platónico AQ0MS0 platónicísimo
-   OTHER: platónico	PAR: absolut/o__adj	FORMS: AQ0FP0 platónicas AQ0FS0 platónica AQ0MP0 platónicos AQ0MS0 platónico
-   OTHER: platónico	PAR: cuánt/o__adj	FORMS: AQ0FP0 platónicas AQ0FS0 platónica AQ0MP0 platónicos AQ0MS0 platónico
-   OTHER: platónico	PAR: mí/o__adj	FORMS: AQ0FP0 platónicas AQ0FS0 platónica AQ0MP0 platónicos AQ0MS0 platónico
-   OTHER: platónico	PAR: otr/o__adj	FORMS: AQ0FP0 platónicas AQ0FS0 platónica AQ0MP0 platónicos AQ0MS0 platónico
 
 APERTIUM: pleistoceno	PAR: absolut/o__adj	FORMS: AQ0FP0 pleistocenas AQ0FS0 pleistocena AQ0MP0 pleistocenos AQ0MS0 pleistoceno
    OTHER: pleistoceno	PAR: mal__adj	FORMS: AQ0FP0 pleistocenoas AQ0FS0 pleistocenoa AQ0MP0 pleistocenoos AQ0MS0 pleistoceno
@@ -2124,12 +1998,6 @@ APERTIUM: raro	PAR: abstract/o__adj	FORMS: AQ0FP0 raras AQ0FP0 rarísimas AQ0FS0
    OTHER: raro	PAR: cuánt/o__adj	FORMS: AQ0FP0 raras AQ0FS0 rara AQ0MP0 raros AQ0MS0 raro
    OTHER: raro	PAR: mí/o__adj	FORMS: AQ0FP0 raras AQ0FS0 rara AQ0MP0 raros AQ0MS0 raro
    OTHER: raro	PAR: otr/o__adj	FORMS: AQ0FP0 raras AQ0FS0 rara AQ0MP0 raros AQ0MS0 raro
-
-APERTIUM: raso	PAR: abstract/o__adj	FORMS: AQ0FP0 rasas AQ0FP0 rasísimas AQ0FS0 rasa AQ0FS0 rasísima AQ0MP0 rasos AQ0MP0 rasísimos AQ0MS0 raso AQ0MS0 rasísimo
-   OTHER: raso	PAR: absolut/o__adj	FORMS: AQ0FP0 rasas AQ0FS0 rasa AQ0MP0 rasos AQ0MS0 raso
-   OTHER: raso	PAR: cuánt/o__adj	FORMS: AQ0FP0 rasas AQ0FS0 rasa AQ0MP0 rasos AQ0MS0 raso
-   OTHER: raso	PAR: mí/o__adj	FORMS: AQ0FP0 rasas AQ0FS0 rasa AQ0MP0 rasos AQ0MS0 raso
-   OTHER: raso	PAR: otr/o__adj	FORMS: AQ0FP0 rasas AQ0FS0 rasa AQ0MP0 rasos AQ0MS0 raso
 
 APERTIUM: recto	PAR: abstract/o__adj	FORMS: AQ0FP0 rectas AQ0FP0 rectísimas AQ0FS0 recta AQ0FS0 rectísima AQ0MP0 rectos AQ0MP0 rectísimos AQ0MS0 recto AQ0MS0 rectísimo
    OTHER: recto	PAR: absolut/o__adj	FORMS: AQ0FP0 rectas AQ0FS0 recta AQ0MP0 rectos AQ0MS0 recto
@@ -2311,12 +2179,6 @@ APERTIUM: sincero	PAR: abstract/o__adj	FORMS: AQ0FP0 sinceras AQ0FP0 sincerísim
    OTHER: sincero	PAR: mí/o__adj	FORMS: AQ0FP0 sinceras AQ0FS0 sincera AQ0MP0 sinceros AQ0MS0 sincero
    OTHER: sincero	PAR: otr/o__adj	FORMS: AQ0FP0 sinceras AQ0FS0 sincera AQ0MP0 sinceros AQ0MS0 sincero
 
-APERTIUM: siniestrado	PAR: abstract/o__adj	FORMS: AQ0FP0 siniestradas AQ0FP0 siniestradísimas AQ0FS0 siniestrada AQ0FS0 siniestradísima AQ0MP0 siniestrados AQ0MP0 siniestradísimos AQ0MS0 siniestrado AQ0MS0 siniestradísimo
-   OTHER: siniestrado	PAR: absolut/o__adj	FORMS: AQ0FP0 siniestradas AQ0FS0 siniestrada AQ0MP0 siniestrados AQ0MS0 siniestrado
-   OTHER: siniestrado	PAR: cuánt/o__adj	FORMS: AQ0FP0 siniestradas AQ0FS0 siniestrada AQ0MP0 siniestrados AQ0MS0 siniestrado
-   OTHER: siniestrado	PAR: mí/o__adj	FORMS: AQ0FP0 siniestradas AQ0FS0 siniestrada AQ0MP0 siniestrados AQ0MS0 siniestrado
-   OTHER: siniestrado	PAR: otr/o__adj	FORMS: AQ0FP0 siniestradas AQ0FS0 siniestrada AQ0MP0 siniestrados AQ0MS0 siniestrado
-
 APERTIUM: sinuoso	PAR: abstract/o__adj	FORMS: AQ0FP0 sinuosas AQ0FP0 sinuosísimas AQ0FS0 sinuosa AQ0FS0 sinuosísima AQ0MP0 sinuosos AQ0MP0 sinuosísimos AQ0MS0 sinuoso AQ0MS0 sinuosísimo
    OTHER: sinuoso	PAR: absolut/o__adj	FORMS: AQ0FP0 sinuosas AQ0FS0 sinuosa AQ0MP0 sinuosos AQ0MS0 sinuoso
    OTHER: sinuoso	PAR: cuánt/o__adj	FORMS: AQ0FP0 sinuosas AQ0FS0 sinuosa AQ0MP0 sinuosos AQ0MS0 sinuoso
@@ -2382,12 +2244,6 @@ APERTIUM: supersticioso	PAR: abstract/o__adj	FORMS: AQ0FP0 supersticiosas AQ0FP0
    OTHER: supersticioso	PAR: cuánt/o__adj	FORMS: AQ0FP0 supersticiosas AQ0FS0 supersticiosa AQ0MP0 supersticiosos AQ0MS0 supersticioso
    OTHER: supersticioso	PAR: mí/o__adj	FORMS: AQ0FP0 supersticiosas AQ0FS0 supersticiosa AQ0MP0 supersticiosos AQ0MS0 supersticioso
    OTHER: supersticioso	PAR: otr/o__adj	FORMS: AQ0FP0 supersticiosas AQ0FS0 supersticiosa AQ0MP0 supersticiosos AQ0MS0 supersticioso
-
-APERTIUM: tartamudo	PAR: abstract/o__adj	FORMS: AQ0FP0 tartamudas AQ0FP0 tartamudísimas AQ0FS0 tartamuda AQ0FS0 tartamudísima AQ0MP0 tartamudos AQ0MP0 tartamudísimos AQ0MS0 tartamudo AQ0MS0 tartamudísimo
-   OTHER: tartamudo	PAR: absolut/o__adj	FORMS: AQ0FP0 tartamudas AQ0FS0 tartamuda AQ0MP0 tartamudos AQ0MS0 tartamudo
-   OTHER: tartamudo	PAR: cuánt/o__adj	FORMS: AQ0FP0 tartamudas AQ0FS0 tartamuda AQ0MP0 tartamudos AQ0MS0 tartamudo
-   OTHER: tartamudo	PAR: mí/o__adj	FORMS: AQ0FP0 tartamudas AQ0FS0 tartamuda AQ0MP0 tartamudos AQ0MS0 tartamudo
-   OTHER: tartamudo	PAR: otr/o__adj	FORMS: AQ0FP0 tartamudas AQ0FS0 tartamuda AQ0MP0 tartamudos AQ0MS0 tartamudo
 
 APERTIUM: tedioso	PAR: abstract/o__adj	FORMS: AQ0FP0 tediosas AQ0FP0 tediosísimas AQ0FS0 tediosa AQ0FS0 tediosísima AQ0MP0 tediosos AQ0MP0 tediosísimos AQ0MS0 tedioso AQ0MS0 tediosísimo
    OTHER: tedioso	PAR: absolut/o__adj	FORMS: AQ0FP0 tediosas AQ0FS0 tediosa AQ0MP0 tediosos AQ0MS0 tedioso
