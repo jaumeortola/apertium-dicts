@@ -663,9 +663,6 @@ APERTIUM: fructuós	PAR: afectu/ós__adj	FORMS: AQ0FP0 fructuoses AQ0FP0 fructuo
 APERTIUM: furiós	PAR: afectu/ós__adj	FORMS: AQ0FP0 furioses AQ0FP0 furiosíssimes AQ0FS0 furiosa AQ0FS0 furiosíssima AQ0MP0 furiosos AQ0MP0 furiosíssims AQ0MS0 furiosíssim AQ0MS0 furiós
    OTHER: furiós	PAR: aliment/ós__adj	FORMS: AQ0FP0 furioses AQ0FS0 furiosa AQ0MP0 furiosos AQ0MS0 furiós
 
-APERTIUM: gegant	PAR: absolut__adj	FORMS: AQ0FP0 gegantes AQ0FS0 geganta AQ0MP0 gegants AQ0MS0 gegant
-   OTHER: gegant	PAR: abdominal__adj	FORMS: AQ0CP0 gegants AQ0CS0 gegant
-
 APERTIUM: gelós	PAR: afectu/ós__adj	FORMS: AQ0FP0 geloses AQ0FP0 gelosíssimes AQ0FS0 gelosa AQ0FS0 gelosíssima AQ0MP0 gelosos AQ0MP0 gelosíssims AQ0MS0 gelosíssim AQ0MS0 gelós
    OTHER: gelós	PAR: aliment/ós__adj	FORMS: AQ0FP0 geloses AQ0FS0 gelosa AQ0MP0 gelosos AQ0MS0 gelós
 

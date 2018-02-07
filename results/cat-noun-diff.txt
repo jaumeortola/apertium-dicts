@@ -121,9 +121,6 @@ APERTIUM: amplificador	PAR: abric__n	FORMS: NCMP000 amplificadors NCMS000 amplif
 APERTIUM: andorrà	PAR: americ/à__n	FORMS: NCFP000 andorranes NCFS000 andorrana NCMP000 andorrans NCMS000 andorrà
    OTHER: andorrà	PAR: bacall/à__n	FORMS: NCMP000 andorrans NCMS000 andorrà
 
-APERTIUM: aneguet	PAR: trist__n	FORMS: NCFP000 aneguetes NCFS000 anegueta NCMP000 aneguetos NCMP000 aneguets NCMS000 aneguet
-   OTHER: aneguet	PAR: abric__n	FORMS: NCMP000 aneguets NCMS000 aneguet
-
 APERTIUM: apatxe	PAR: abric__n	FORMS: NCMP000 apatxes NCMS000 apatxe
    OTHER: apatxe	PAR: acompanyant__n	FORMS: NCCP000 apatxes NCCS000 apatxe
 
@@ -454,6 +451,9 @@ APERTIUM: compilador	PAR: abric__n	FORMS: NCMP000 compiladors NCMS000 compilador
 APERTIUM: complex	PAR: abast__n	FORMS: NCMP000 complexos NCMP000 complexs NCMS000 complex
    OTHER: complex	PAR: as__n	FORMS: NCMP000 complexos NCMS000 complex
 
+APERTIUM: component	PAR: abric__n	FORMS: NCMP000 components NCMS000 component
+   OTHER: component	PAR: acompanyant__n	FORMS: NCCP000 components NCCS000 component
+
 APERTIUM: comptador	PAR: abric__n	FORMS: NCMP000 comptadors NCMS000 comptador
    OTHER: comptador	PAR: senyor__n	FORMS: NCFP000 comptadores NCFS000 comptadora NCMP000 comptadors NCMS000 comptador
 
@@ -465,9 +465,6 @@ APERTIUM: concubí	PAR: alacant/í__n	FORMS: NCFP000 concubines NCFS000 concubin
 
 APERTIUM: concunyat	PAR: advoca/t__n	FORMS: NCFP000 concunyades NCFS000 concunyada NCMP000 concunyats NCMS000 concunyat
    OTHER: concunyat	PAR: abric__n	FORMS: NCMP000 concunyats NCMS000 concunyat
-
-APERTIUM: conscient	PAR: acompanyant__n	FORMS: NCCP000 conscients NCCS000 conscient
-   OTHER: conscient	PAR: abric__n	FORMS: NCMP000 conscients NCMS000 conscient
 
 APERTIUM: consonant	PAR: accessibilitat__n	FORMS: NCFP000 consonants NCFS000 consonant
    OTHER: consonant	PAR: acompanyant__n	FORMS: NCCP000 consonants NCCS000 consonant
@@ -667,6 +664,9 @@ APERTIUM: dòmino	PAR: atletisme__n	FORMS: NCMS000 dòmino
 APERTIUM: eclesiàstic	PAR: asiàti/c__n	FORMS: NCFP000 eclesiàstiques NCFS000 eclesiàstica NCMP000 eclesiàstics NCMS000 eclesiàstic
    OTHER: eclesiàstic	PAR: abric__n	FORMS: NCMP000 eclesiàstics NCMS000 eclesiàstic
 
+APERTIUM: editorial	PAR: accessibilitat__n	FORMS: NCFP000 editorials NCFS000 editorial
+   OTHER: editorial	PAR: acompanyant__n	FORMS: NCCP000 editorials NCCS000 editorial
+
 APERTIUM: eivissenc	PAR: bas/c__n	FORMS: NCFP000 eivissenques NCFS000 eivissenca NCMP000 eivissencos NCMP000 eivissencs NCMS000 eivissenc
    OTHER: eivissenc	PAR: abric__n	FORMS: NCMP000 eivissencs NCMS000 eivissenc
 
@@ -847,6 +847,9 @@ APERTIUM: fugitiu	PAR: administrati/u__n	FORMS: NCFP000 fugitives NCFS000 fugiti
 APERTIUM: fulgor	PAR: abric__n	FORMS: NCMP000 fulgors NCMS000 fulgor
    OTHER: fulgor	PAR: acompanyant__n	FORMS: NCCP000 fulgors NCCS000 fulgor
 
+APERTIUM: furor	PAR: abric__n	FORMS: NCMP000 furors NCMS000 furor
+   OTHER: furor	PAR: acompanyant__n	FORMS: NCCP000 furors NCCS000 furor
+
 APERTIUM: futbol	PAR: atletisme__n	FORMS: NCMS000 futbol
    OTHER: futbol	PAR: abric__n	FORMS: NCMP000 futbols NCMS000 futbol
 
@@ -859,9 +862,6 @@ APERTIUM: fúting	PAR: atletisme__n	FORMS: NCMS000 fúting
 APERTIUM: gadità	PAR: americ/à__n	FORMS: NCFP000 gaditanes NCFS000 gaditana NCMP000 gaditans NCMS000 gadità
    OTHER: gadità	PAR: bacall/à__n	FORMS: NCMP000 gaditans NCMS000 gadità
 
-APERTIUM: gai	PAR: acompanyant__n	FORMS: NCCP000 gais NCCS000 gai
-   OTHER: gai	PAR: abric__n	FORMS: NCMP000 gais NCMS000 gai
-
 APERTIUM: gaig	PAR: abric__n	FORMS: NCMP000 gaigs NCMS000 gaig
    OTHER: gaig	PAR: assa/ig__n	FORMS: NCMP000 gaigs NCMP000 gajos NCMS000 gaig
 
@@ -870,9 +870,6 @@ APERTIUM: galliner	PAR: abric__n	FORMS: NCMP000 galliners NCMS000 galliner
 
 APERTIUM: gambià	PAR: americ/à__n	FORMS: NCFP000 gambianes NCFS000 gambiana NCMP000 gambians NCMS000 gambià
    OTHER: gambià	PAR: bacall/à__n	FORMS: NCMP000 gambians NCMS000 gambià
-
-APERTIUM: genet	PAR: acompanyant__n	FORMS: NCCP000 genets NCCS000 genet
-   OTHER: genet	PAR: senyor__n	FORMS: NCFP000 genetes NCFS000 geneta NCMP000 genets NCMS000 genet
 
 APERTIUM: gentilhome	PAR: abric__n	FORMS: NCMP000 gentilhomes NCMS000 gentilhome
    OTHER: gentilhome	PAR: h/ome__n	FORMS: NCMP000 gentilhomes NCMP000 gentilhòmens NCMS000 gentilhome
@@ -954,9 +951,6 @@ APERTIUM: guia	PAR: abell/a__n	FORMS: NCFP000 guies NCFS000 guia
 
 APERTIUM: guineà	PAR: americ/à__n	FORMS: NCFP000 guineanes NCFS000 guineana NCMP000 guineans NCMS000 guineà
    OTHER: guineà	PAR: bacall/à__n	FORMS: NCMP000 guineans NCMS000 guineà
-
-APERTIUM: gènesi	PAR: acompanyant__n	FORMS: NCCP000 gènesis NCCS000 gènesi
-   OTHER: gènesi	PAR: accessibilitat__n	FORMS: NCFP000 gènesis NCFS000 gènesi
 
 APERTIUM: haitià	PAR: americ/à__n	FORMS: NCFP000 haitianes NCFS000 haitiana NCMP000 haitians NCMS000 haitià
    OTHER: haitià	PAR: bacall/à__n	FORMS: NCMP000 haitians NCMS000 haitià
@@ -1078,9 +1072,6 @@ APERTIUM: inquilí	PAR: alacant/í__n	FORMS: NCFP000 inquilines NCFS000 inquilin
 APERTIUM: inrevés	PAR: acc/és__n	FORMS: NCMP000 inrevessos NCMS000 inrevés
    OTHER: inrevés	PAR: BBVA__n	FORMS: NCMS000 inrevés
    OTHER: inrevés	PAR: atletisme__n	FORMS: NCMS000 inrevés
-
-APERTIUM: insecticida	PAR: accionist/a__n	FORMS: NCCP000 insecticides NCCS000 insecticida
-   OTHER: insecticida	PAR: carism/a__n	FORMS: NCMP000 insecticides NCMS000 insecticida
 
 APERTIUM: instal·lador	PAR: senyor__n	FORMS: NCFP000 instal·ladores NCFS000 instal·ladora NCMP000 instal·ladors NCMS000 instal·lador
    OTHER: instal·lador	PAR: abric__n	FORMS: NCMP000 instal·ladors NCMS000 instal·lador
@@ -1297,9 +1288,6 @@ APERTIUM: lligabosc	PAR: abric__n	FORMS: NCMP000 lligaboscs NCMS000 lligabosc
 APERTIUM: lliurador	PAR: senyor__n	FORMS: NCFP000 lliuradores NCFS000 lliuradora NCMP000 lliuradors NCMS000 lliurador
    OTHER: lliurador	PAR: abric__n	FORMS: NCMP000 lliuradors NCMS000 lliurador
 
-APERTIUM: lloctinent	PAR: acompanyant__n	FORMS: NCCP000 lloctinents NCCS000 lloctinent
-   OTHER: lloctinent	PAR: abric__n	FORMS: NCMP000 lloctinents NCMS000 lloctinent
-
 APERTIUM: llogater	PAR: senyor__n	FORMS: NCFP000 llogateres NCFS000 llogatera NCMP000 llogaters NCMS000 llogater
    OTHER: llogater	PAR: abric__n	FORMS: NCMP000 llogaters NCMS000 llogater
 
@@ -1377,9 +1365,6 @@ APERTIUM: malva	PAR: abell/a__n	FORMS: NCFP000 malves NCFS000 malva
 
 APERTIUM: malvolença	PAR: abell/a__n	FORMS: NCFP000 malvolençes NCFS000 malvolença
    OTHER: malvolença	PAR: adre/ça__n	FORMS: NCFP000 malvolences NCFS000 malvolença
-
-APERTIUM: mambo	PAR: atletisme__n	FORMS: NCMS000 mambo
-   OTHER: mambo	PAR: abric__n	FORMS: NCMP000 mambos NCMS000 mambo
 
 APERTIUM: mandra	PAR: abell/a__n	FORMS: NCFP000 mandres NCFS000 mandra
    OTHER: mandra	PAR: accionist/a__n	FORMS: NCCP000 mandres NCCS000 mandra
@@ -1713,10 +1698,6 @@ APERTIUM: otomà	PAR: americ/à__n	FORMS: NCFP000 otomanes NCFS000 otomana NCMP0
 APERTIUM: oïdor	PAR: senyor__n	FORMS: NCFP000 oïdores NCFS000 oïdora NCMP000 oïdors NCMS000 oïdor
    OTHER: oïdor	PAR: abric__n	FORMS: NCMP000 oïdors NCMS000 oïdor
 
-APERTIUM: pH	PAR: abric__n	FORMS: NCMP000 pHs NCMS000 pH
-   OTHER: pH	PAR: IRPF__n	FORMS: NCMN000 pH
-   OTHER: pH	PAR: campus__n	FORMS: NCMN000 pH
-
 APERTIUM: pagà	PAR: americ/à__n	FORMS: NCFP000 paganes NCFS000 pagana NCMP000 pagans NCMS000 pagà
    OTHER: pagà	PAR: bacall/à__n	FORMS: NCMP000 pagans NCMS000 pagà
 
@@ -1746,6 +1727,9 @@ APERTIUM: partidari	PAR: adjudicat/ari__n	FORMS: NCFP000 partidàries NCFS000 pa
 
 APERTIUM: passamaner	PAR: senyor__n	FORMS: NCFP000 passamaneres NCFS000 passamanera NCMP000 passamaners NCMS000 passamaner
    OTHER: passamaner	PAR: abric__n	FORMS: NCMP000 passamaners NCMS000 passamaner
+
+APERTIUM: pasteuritzador	PAR: senyor__n	FORMS: NCFP000 pasteuritzadores NCFS000 pasteuritzadora NCMP000 pasteuritzadors NCMS000 pasteuritzador
+   OTHER: pasteuritzador	PAR: abric__n	FORMS: NCMP000 pasteuritzadors NCMS000 pasteuritzador
 
 APERTIUM: pastisser	PAR: senyor__n	FORMS: NCFP000 pastisseres NCFS000 pastissera NCMP000 pastissers NCMS000 pastisser
    OTHER: pastisser	PAR: abric__n	FORMS: NCMP000 pastissers NCMS000 pastisser
@@ -1831,6 +1815,9 @@ APERTIUM: piròman	PAR: senyor__n	FORMS: NCFP000 piròmanes NCFS000 piròmana NC
 APERTIUM: pistoler	PAR: senyor__n	FORMS: NCFP000 pistoleres NCFS000 pistolera NCMP000 pistolers NCMS000 pistoler
    OTHER: pistoler	PAR: abric__n	FORMS: NCMP000 pistolers NCMS000 pistoler
 
+APERTIUM: pivot	PAR: abric__n	FORMS: NCMP000 pivots NCMS000 pivot
+   OTHER: pivot	PAR: acompanyant__n	FORMS: NCCP000 pivots NCCS000 pivot
+
 APERTIUM: plaguicida	PAR: accionist/a__n	FORMS: NCCP000 plaguicides NCCS000 plaguicida
    OTHER: plaguicida	PAR: carism/a__n	FORMS: NCMP000 plaguicides NCMS000 plaguicida
 
@@ -1856,7 +1843,7 @@ APERTIUM: poloni	PAR: atletisme__n	FORMS: NCMS000 poloni
 APERTIUM: polític	PAR: asiàti/c__n	FORMS: NCFP000 polítiques NCFS000 política NCMP000 polítics NCMS000 polític
    OTHER: polític	PAR: abric__n	FORMS: NCMP000 polítics NCMS000 polític
 
-APERTIUM: porpra	PAR: abell/a__n	FORMS: NCFP000 porpres NCFS000 porpra
+APERTIUM: porpra	PAR: carism/a__n	FORMS: NCMP000 porpres NCMS000 porpra
    OTHER: porpra	PAR: accionist/a__n	FORMS: NCCP000 porpres NCCS000 porpra
 
 APERTIUM: portador	PAR: senyor__n	FORMS: NCFP000 portadores NCFS000 portadora NCMP000 portadors NCMS000 portador
@@ -1873,9 +1860,6 @@ APERTIUM: posseïdor	PAR: senyor__n	FORMS: NCFP000 posseïdores NCFS000 posseïd
 
 APERTIUM: postor	PAR: senyor__n	FORMS: NCFP000 postores NCFS000 postora NCMP000 postors NCMS000 postor
    OTHER: postor	PAR: abric__n	FORMS: NCMP000 postors NCMS000 postor
-
-APERTIUM: precedent	PAR: acompanyant__n	FORMS: NCCP000 precedents NCCS000 precedent
-   OTHER: precedent	PAR: abric__n	FORMS: NCMP000 precedents NCMS000 precedent
 
 APERTIUM: precursor	PAR: senyor__n	FORMS: NCFP000 precursores NCFS000 precursora NCMP000 precursors NCMS000 precursor
    OTHER: precursor	PAR: abric__n	FORMS: NCMP000 precursors NCMS000 precursor
@@ -1963,15 +1947,15 @@ APERTIUM: puig	PAR: abric__n	FORMS: NCMP000 puigs NCMS000 puig
 APERTIUM: pupil	PAR: gal__n	FORMS: NCFP000 pupil·les NCFS000 pupil·la NCMP000 pupils NCMS000 pupil
    OTHER: pupil	PAR: abric__n	FORMS: NCMP000 pupils NCMS000 pupil
 
-APERTIUM: puput	PAR: accessibilitat__n	FORMS: NCFP000 puputs NCFS000 puput
-   OTHER: puput	PAR: acompanyant__n	FORMS: NCCP000 puputs NCCS000 puput
-
 APERTIUM: pus	PAR: atletisme__n	FORMS: NCMS000 pus
    OTHER: pus	PAR: IRPF__n	FORMS: NCMN000 pus
    OTHER: pus	PAR: campus__n	FORMS: NCMN000 pus
 
 APERTIUM: puta	PAR: abell/a__n	FORMS: NCFP000 putes NCFS000 puta
    OTHER: puta	PAR: accionist/a__n	FORMS: NCCP000 putes NCCS000 puta
+
+APERTIUM: púrpura	PAR: carism/a__n	FORMS: NCMP000 púrpures NCMS000 púrpura
+   OTHER: púrpura	PAR: abell/a__n	FORMS: NCFP000 púrpures NCFS000 púrpura
 
 APERTIUM: qatarià	PAR: americ/à__n	FORMS: NCFP000 qatarianes NCFS000 qatariana NCMP000 qatarians NCMS000 qatarià
    OTHER: qatarià	PAR: bacall/à__n	FORMS: NCMP000 qatarians NCMS000 qatarià
@@ -1996,9 +1980,6 @@ APERTIUM: químic	PAR: asiàti/c__n	FORMS: NCFP000 químiques NCFS000 química N
 
 APERTIUM: química	PAR: q__n	FORMS: NCFS000 química
    OTHER: química	PAR: acústi/ca__n	FORMS: NCFP000 químiques NCFS000 química
-
-APERTIUM: radical	PAR: abric__n	FORMS: NCMP000 radicals NCMS000 radical
-   OTHER: radical	PAR: acompanyant__n	FORMS: NCCP000 radicals NCCS000 radical
 
 APERTIUM: radioaficionat	PAR: advoca/t__n	FORMS: NCFP000 radioaficionades NCFS000 radioaficionada NCMP000 radioaficionats NCMS000 radioaficionat
    OTHER: radioaficionat	PAR: abric__n	FORMS: NCMP000 radioaficionats NCMS000 radioaficionat
@@ -2047,9 +2028,6 @@ APERTIUM: rebesnét	PAR: senyor__n	FORMS: NCFP000 rebesnétes NCFS000 rebesnéta
 
 APERTIUM: receptor	PAR: senyor__n	FORMS: NCFP000 receptores NCFS000 receptora NCMP000 receptors NCMS000 receptor
    OTHER: receptor	PAR: abric__n	FORMS: NCMP000 receptors NCMS000 receptor
-
-APERTIUM: recluta	PAR: carism/a__n	FORMS: NCMP000 reclutes NCMS000 recluta
-   OTHER: recluta	PAR: accionist/a__n	FORMS: NCCP000 reclutes NCCS000 recluta
 
 APERTIUM: recol·lector	PAR: senyor__n	FORMS: NCFP000 recol·lectores NCFS000 recol·lectora NCMP000 recol·lectors NCMS000 recol·lector
    OTHER: recol·lector	PAR: BBVA__n	FORMS: NCMS000 recol·lector
@@ -2101,9 +2079,6 @@ APERTIUM: repoblador	PAR: senyor__n	FORMS: NCFP000 repobladores NCFS000 repoblad
 APERTIUM: reporter	PAR: senyor__n	FORMS: NCFP000 reporteres NCFS000 reportera NCMP000 reporters NCMS000 reporter
    OTHER: reporter	PAR: abric__n	FORMS: NCMP000 reporters NCMS000 reporter
 
-APERTIUM: repàs	PAR: env/às__n	FORMS: NCMP000 repasos NCMS000 repàs
-   OTHER: repàs	PAR: capat/às__n	FORMS: NCMP000 repassos NCMS000 repàs
-
 APERTIUM: reserva	PAR: abell/a__n	FORMS: NCFP000 reserves NCFS000 reserva
    OTHER: reserva	PAR: accionist/a__n	FORMS: NCCP000 reserves NCCS000 reserva
 
@@ -2128,7 +2103,7 @@ APERTIUM: rock	PAR: campus__n	FORMS: NCMN000 rock
 APERTIUM: romà	PAR: americ/à__n	FORMS: NCFP000 romanes NCFS000 romana NCMP000 romans NCMS000 romà
    OTHER: romà	PAR: bacall/à__n	FORMS: NCMP000 romans NCMS000 romà
 
-APERTIUM: rosa	PAR: abell/a__n	FORMS: NCFP000 roses NCFS000 rosa
+APERTIUM: rosa	PAR: carism/a__n	FORMS: NCMP000 roses NCMS000 rosa
    OTHER: rosa	PAR: accionist/a__n	FORMS: NCCP000 roses NCCS000 rosa
 
 APERTIUM: rubor	PAR: abric__n	FORMS: NCMP000 rubors NCMS000 rubor
@@ -2217,9 +2192,6 @@ APERTIUM: seleccionador	PAR: senyor__n	FORMS: NCFP000 seleccionadores NCFS000 se
 
 APERTIUM: senador	PAR: senyor__n	FORMS: NCFP000 senadores NCFS000 senadora NCMP000 senadors NCMS000 senador
    OTHER: senador	PAR: abric__n	FORMS: NCMP000 senadors NCMS000 senador
-
-APERTIUM: sentinella	PAR: abell/a__n	FORMS: NCFP000 sentinelles NCFS000 sentinella
-   OTHER: sentinella	PAR: accionist/a__n	FORMS: NCCP000 sentinelles NCCS000 sentinella
 
 APERTIUM: senyoret	PAR: senyor__n	FORMS: NCFP000 senyoretes NCFS000 senyoreta NCMP000 senyorets NCMS000 senyoret
    OTHER: senyoret	PAR: abric__n	FORMS: NCMP000 senyorets NCMS000 senyoret
@@ -2408,11 +2380,8 @@ APERTIUM: tenidor	PAR: senyor__n	FORMS: NCFP000 tenidores NCFS000 tenidora NCMP0
 APERTIUM: terminal	PAR: accessibilitat__n	FORMS: NCFP000 terminals NCFS000 terminal
    OTHER: terminal	PAR: acompanyant__n	FORMS: NCCP000 terminals NCCS000 terminal
 
-APERTIUM: terra	PAR: abell/a__n	FORMS: NCFP000 terres NCFS000 terra
+APERTIUM: terra	PAR: carism/a__n	FORMS: NCMP000 terres NCMS000 terra
    OTHER: terra	PAR: accionist/a__n	FORMS: NCCP000 terres NCCS000 terra
-
-APERTIUM: terratinent	PAR: abric__n	FORMS: NCMP000 terratinents NCMS000 terratinent
-   OTHER: terratinent	PAR: acompanyant__n	FORMS: NCCP000 terratinents NCCS000 terratinent
 
 APERTIUM: terror	PAR: abric__n	FORMS: NCMP000 terrors NCMS000 terror
    OTHER: terror	PAR: acompanyant__n	FORMS: NCCP000 terrors NCCS000 terror
@@ -2441,9 +2410,6 @@ APERTIUM: tigre	PAR: alcalde__n	FORMS: NCFP000 tigresses NCFS000 tigressa NCMP00
 APERTIUM: timbal	PAR: abric__n	FORMS: NCMP000 timbals NCMS000 timbal
    OTHER: timbal	PAR: acompanyant__n	FORMS: NCCP000 timbals NCCS000 timbal
 
-APERTIUM: timoner	PAR: acompanyant__n	FORMS: NCCP000 timoners NCCS000 timoner
-   OTHER: timoner	PAR: abric__n	FORMS: NCMP000 timoners NCMS000 timoner
-
 APERTIUM: tintorer	PAR: senyor__n	FORMS: NCFP000 tintoreres NCFS000 tintorera NCMP000 tintorers NCMS000 tintorer
    OTHER: tintorer	PAR: abric__n	FORMS: NCMP000 tintorers NCMS000 tintorer
 
@@ -2452,6 +2418,9 @@ APERTIUM: tipògraf	PAR: senyor__n	FORMS: NCFP000 tipògrafes NCFS000 tipògrafa
 
 APERTIUM: tirador	PAR: senyor__n	FORMS: NCFP000 tiradores NCFS000 tiradora NCMP000 tiradors NCMS000 tirador
    OTHER: tirador	PAR: abric__n	FORMS: NCMP000 tiradors NCMS000 tirador
+
+APERTIUM: tiroide	PAR: accessibilitat__n	FORMS: NCFP000 tiroides NCFS000 tiroide
+   OTHER: tiroide	PAR: acompanyant__n	FORMS: NCCP000 tiroides NCCS000 tiroide
 
 APERTIUM: tirà	PAR: americ/à__n	FORMS: NCFP000 tiranes NCFS000 tirana NCMP000 tirans NCMS000 tirà
    OTHER: tirà	PAR: bacall/à__n	FORMS: NCMP000 tirans NCMS000 tirà
@@ -2612,9 +2581,6 @@ APERTIUM: veterinari	PAR: adjudicat/ari__n	FORMS: NCFP000 veterinàries NCFS000 
 APERTIUM: veterà	PAR: americ/à__n	FORMS: NCFP000 veteranes NCFS000 veterana NCMP000 veterans NCMS000 veterà
    OTHER: veterà	PAR: bacall/à__n	FORMS: NCMP000 veterans NCMS000 veterà
 
-APERTIUM: veça	PAR: abell/a__n	FORMS: NCFP000 veçes NCFS000 veça
-   OTHER: veça	PAR: adre/ça__n	FORMS: NCFP000 veces NCFS000 veça
-
 APERTIUM: veïnat	PAR: abric__n	FORMS: NCMP000 veïnats NCMS000 veïnat
    OTHER: veïnat	PAR: advoca/t__n	FORMS: NCFP000 veïnades NCFS000 veïnada NCMP000 veïnats NCMS000 veïnat
 
@@ -2733,9 +2699,6 @@ APERTIUM: xofer	PAR: acompanyant__n	FORMS: NCCP000 xofers NCCS000 xofer
 APERTIUM: xàrter	PAR: campus__n	FORMS: NCMN000 xàrter
    OTHER: xàrter	PAR: abric__n	FORMS: NCMP000 xàrters NCMS000 xàrter
 
-APERTIUM: xèrif	PAR: acompanyant__n	FORMS: NCCP000 xèrifs NCCS000 xèrif
-   OTHER: xèrif	PAR: senyor__n	FORMS: NCFP000 xèrifes NCFS000 xèrifa NCMP000 xèrifs NCMS000 xèrif
-
 APERTIUM: zero	PAR: abric__n	FORMS: NCMP000 zeros NCMS000 zero
    OTHER: zero	PAR: ATS__n	FORMS: NCCN000 zero
    OTHER: zero	PAR: guardaespatlles__n	FORMS: NCCN000 zero
@@ -2767,9 +2730,6 @@ APERTIUM: baixó	PAR: aband/ó__n	FORMS: NCMP000 baixons NCMS000 baixó
 
 APERTIUM: benentès	PAR: atletisme__n	FORMS: NCMS000 benentés
    OTHER: benentès	PAR: ??????????????	FORMS: NCMS000 benentès NCMS000 benentés
-
-APERTIUM: capatàs	PAR: capat/às__n	FORMS: NCMP000 capatassos NCMS000 capatàs
-   OTHER: capatàs	PAR: ??????????????	FORMS: NCFP000 capatasses NCFS000 capatassa NCMP000 capatassos NCMS000 capatàs
 
 APERTIUM: capitost	PAR: acompanyant__n	FORMS: NCCP000 capitosts NCCS000 capitost
    OTHER: capitost	PAR: ??????????????	FORMS: NCCP000 capitostos NCCP000 capitosts NCCS000 capitost
@@ -2856,14 +2816,12 @@ APERTIUM: whisky	PAR: abric__n	FORMS: NCMP000 whiskys NCMS000 whisky
 <e lm="androgin"><i>androgin</i><par n="??????????"/></e>
 <e lm="angle1"><i>angle1</i><par n="??????????"/></e>
 <e lm="angle2"><i>angle2</i><par n="??????????"/></e>
-<e lm="antanyàs"><i>antanyàs</i><par n="??????????"/></e>
 <e lm="antisci"><i>antisci</i><par n="??????????"/></e>
 <e lm="antropocè"><i>antropocè</i><par n="??????????"/></e>
 <e lm="api-rave"><i>api-rave</i><par n="??????????"/></e>
 <e lm="arin-arin"><i>arin-arin</i><par n="??????????"/></e>
 <e lm="autovia1"><i>autovia1</i><par n="??????????"/></e>
 <e lm="autovia2"><i>autovia2</i><par n="??????????"/></e>
-<e lm="baconàs"><i>baconàs</i><par n="??????????"/></e>
 <e lm="base1"><i>base1</i><par n="??????????"/></e>
 <e lm="base2"><i>base2</i><par n="??????????"/></e>
 <e lm="be1"><i>be1</i><par n="??????????"/></e>
@@ -2958,11 +2916,9 @@ APERTIUM: whisky	PAR: abric__n	FORMS: NCMP000 whiskys NCMS000 whisky
 <e lm="frau2"><i>frau2</i><par n="??????????"/></e>
 <e lm="gamarús"><i>gamarús</i><par n="??????????"/></e>
 <e lm="gaús"><i>gaús</i><par n="??????????"/></e>
-<e lm="gegantàs"><i>gegantàs</i><par n="??????????"/></e>
 <e lm="gemin"><i>gemin</i><par n="??????????"/></e>
 <e lm="giga2"><i>giga2</i><par n="??????????"/></e>
 <e lm="graben"><i>graben</i><par n="??????????"/></e>
-<e lm="grandàs"><i>grandàs</i><par n="??????????"/></e>
 <e lm="greisen"><i>greisen</i><par n="??????????"/></e>
 <e lm="guardabosc"><i>guardabosc</i><par n="??????????"/></e>
 <e lm="guardallança"><i>guardallança</i><par n="??????????"/></e>
@@ -2982,7 +2938,6 @@ APERTIUM: whisky	PAR: abric__n	FORMS: NCMP000 whiskys NCMS000 whisky
 <e lm="isauri"><i>isauri</i><par n="??????????"/></e>
 <e lm="isoespín"><i>isoespín</i><par n="??????????"/></e>
 <e lm="jazzman"><i>jazzman</i><par n="??????????"/></e>
-<e lm="jovenàs"><i>jovenàs</i><par n="??????????"/></e>
 <e lm="kremlin"><i>kremlin</i><par n="??????????"/></e>
 <e lm="lady"><i>lady</i><par n="??????????"/></e>
 <e lm="land"><i>land</i><par n="??????????"/></e>
@@ -3011,7 +2966,6 @@ APERTIUM: whisky	PAR: abric__n	FORMS: NCMP000 whiskys NCMS000 whisky
 <e lm="mi1"><i>mi1</i><par n="??????????"/></e>
 <e lm="mi2"><i>mi2</i><par n="??????????"/></e>
 <e lm="mil1"><i>mil1</i><par n="??????????"/></e>
-<e lm="millàs"><i>millàs</i><par n="??????????"/></e>
 <e lm="misogin"><i>misogin</i><par n="??????????"/></e>
 <e lm="mixelín"><i>mixelín</i><par n="??????????"/></e>
 <e lm="moca1"><i>moca1</i><par n="??????????"/></e>
@@ -3165,5 +3119,4 @@ APERTIUM: whisky	PAR: abric__n	FORMS: NCMP000 whiskys NCMS000 whisky
 <e lm="vuit1"><i>vuit1</i><par n="??????????"/></e>
 <e lm="xapó1"><i>xapó1</i><par n="??????????"/></e>
 <e lm="xapó2"><i>xapó2</i><par n="??????????"/></e>
-<e lm="xicotàs"><i>xicotàs</i><par n="??????????"/></e>
 <e lm="zero1"><i>zero1</i><par n="??????????"/></e>

@@ -623,3 +623,5 @@ estirat estirada [sup. estiradíssim]=categories:A; font:apertium;
 luctuós luctuosa [sup. luctuosíssim]=categories:A; font:apertium;
 accentuat accentuada [sup. accentuadíssim]=categories:A; font:apertium;
 musculós musculosa [sup. musculosíssim]=categories:A; font:apertium;
+convençut convençuda [sup. convençudíssim]=categories:A; font:apertium;
+dividit dividida [sup. divididíssim]=categories:A; font:apertium;
