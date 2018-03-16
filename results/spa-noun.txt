@@ -138,7 +138,6 @@
 <e lm="abrazamiento"><i>abrazamiento</i><par n="abismo__n"/></e>
 <e lm="abreación"><i>abreaci</i><par n="acci/ón__n"/></e>
 <e lm="abrebocas"><i>abrebocas</i><par n="IRPF__n"/></e>
-<e lm="abrebotellas"><i>abrebotellas</i><par n="IRPF__n"/></e>
 <e lm="abrepuño"><i>abrepuño</i><par n="abismo__n"/></e>
 <e lm="abrevadero"><i>abrevadero</i><par n="abismo__n"/></e>
 <e lm="abrevador"><i>abrevador</i><par n="abril__n"/></e>
@@ -556,7 +555,6 @@
 <e lm="adarga"><i>adarga</i><par n="abeja__n"/></e>
 <e lm="adarguero"><i>adarguero</i><par n="abismo__n"/></e>
 <e lm="adarme"><i>adarme</i><par n="abismo__n"/></e>
-<e lm="adarve"><i>adarve</i><par n="abismo__n"/></e>
 <e lm="adaza"><i>adaza</i><par n="abeja__n"/></e>
 <e lm="addenda"><i>addenda</i><par n="abeja__n"/></e>
 <e lm="adducto"><i>adducto</i><par n="abismo__n"/></e>
@@ -653,14 +651,12 @@
 <e lm="adrenocromo"><i>adrenocromo</i><par n="abismo__n"/></e>
 <e lm="adrenosterona"><i>adrenosterona</i><par n="abeja__n"/></e>
 <e lm="adresina"><i>adresina</i><par n="abeja__n"/></e>
-<e lm="adrizamiento"><i>adrizamiento</i><par n="abismo__n"/></e>
 <e lm="adsorbabilidad"><i>adsorbabilidad</i><par n="accesibilidad__n"/></e>
 <e lm="adsorbato"><i>adsorbato</i><par n="abismo__n"/></e>
 <e lm="adsorbedor"><i>adsorbedor</i><par n="abril__n"/></e>
 <e lm="adsorbente"><i>adsorbente</i><par n="abismo__n"/></e>
 <e lm="aduanero"><i>aduaner</i><par n="abogad/o__n"/></e>
 <e lm="aduar"><i>aduar</i><par n="abril__n"/></e>
-<e lm="aducción"><i>aducci</i><par n="acci/ón__n"/></e>
 <e lm="aducto"><i>aducto</i><par n="abismo__n"/></e>
 <e lm="aductor"><i>aductor</i><par n="abril__n"/></e>
 <e lm="adufe"><i>adufe</i><par n="abismo__n"/></e>
@@ -1320,7 +1316,6 @@
 <e lm="alimoche"><i>alimoche</i><par n="abismo__n"/></e>
 <e lm="alineabilidad"><i>alineabilidad</i><par n="accesibilidad__n"/></e>
 <e lm="alineador"><i>alineador</i><par n="abril__n"/></e>
-<e lm="alioli"><i>alioli</i><par n="abismo__n"/></e>
 <e lm="alirón"><i>alir</i><par n="aluvi/ón__n"/></e>
 <e lm="alisado"><i>alisado</i><par n="abismo__n"/></e>
 <e lm="alisador"><i>alisador</i><par n="señor__n"/></e>
@@ -1548,8 +1543,6 @@
 <e lm="amansador"><i>amansador</i><par n="señor__n"/></e>
 <e lm="amantillo"><i>amantillo</i><par n="abismo__n"/></e>
 <e lm="amanuense"><i>amanuense</i><par n="accionista__n"/></e>
-<e lm="amaraje"><i>amaraje</i><par n="abismo__n"/></e>
-<e lm="amaranto"><i>amaranto</i><par n="abismo__n"/></e>
 <e lm="amargo"><i>amargo</i><par n="abismo__n"/></e>
 <e lm="amargor"><i>amargor</i><par n="abril__n"/></e>
 <e lm="amarilleamiento"><i>amarilleamiento</i><par n="abismo__n"/></e>
@@ -2561,7 +2554,6 @@
 <e lm="articulador"><i>articulador</i><par n="abril__n"/></e>
 <e lm="artificero"><i>artificer</i><par n="abogad/o__n"/></e>
 <e lm="artificiosidad"><i>artificiosidad</i><par n="accesibilidad__n"/></e>
-<e lm="artillero"><i>artiller</i><par n="abogad/o__n"/></e>
 <e lm="artoplastia"><i>artoplastia</i><par n="abeja__n"/></e>
 <e lm="artritismo"><i>artritismo</i><par n="abismo__n"/></e>
 <e lm="artrodia"><i>artrodia</i><par n="abeja__n"/></e>
@@ -2978,7 +2970,6 @@
 <e lm="avellanar"><i>avellanar</i><par n="abril__n"/></e>
 <e lm="avellanero"><i>avellanero</i><par n="abismo__n"/></e>
 <e lm="avemaría"><i>avemaría</i><par n="abeja__n"/></e>
-<e lm="avenamiento"><i>avenamiento</i><par n="abismo__n"/></e>
 <e lm="avenate"><i>avenate</i><par n="abismo__n"/></e>
 <e lm="aventador"><i>aventador</i><par n="abril__n"/></e>
 <e lm="aventadora"><i>aventadora</i><par n="abeja__n"/></e>
@@ -3009,7 +3000,6 @@
 <e lm="avispón"><i>avisp</i><par n="aluvi/ón__n"/></e>
 <e lm="avitaminosis"><i>avitaminosis</i><par n="ETS__n"/></e>
 <e lm="avituallador"><i>avituallador</i><par n="señor__n"/></e>
-<e lm="avituallamiento"><i>avituallamiento</i><par n="abismo__n"/></e>
 <e lm="avivador"><i>avivador</i><par n="abril__n"/></e>
 <e lm="avivamiento"><i>avivamiento</i><par n="abismo__n"/></e>
 <e lm="avizorador"><i>avizorador</i><par n="señor__n"/></e>
@@ -3087,7 +3077,6 @@
 <e lm="azucarera"><i>azucarera</i><par n="abeja__n"/></e>
 <e lm="azucarería"><i>azucarería</i><par n="abeja__n"/></e>
 <e lm="azucarillo"><i>azucarillo</i><par n="abismo__n"/></e>
-<e lm="azucena"><i>azucena</i><par n="abeja__n"/></e>
 <e lm="azuche"><i>azuche</i><par n="abismo__n"/></e>
 <e lm="azud"><i>azud</i><par n="abril__n"/></e>
 <e lm="azuda"><i>azuda</i><par n="abeja__n"/></e>
@@ -3217,7 +3206,6 @@
 <e lm="baladrón"><i>baladr</i><par n="anfitri/ón__n"/></e>
 <e lm="balaguero"><i>balaguero</i><par n="abismo__n"/></e>
 <e lm="balaje"><i>balaje</i><par n="abismo__n"/></e>
-<e lm="balalaica"><i>balalaica</i><par n="abeja__n"/></e>
 <e lm="balancero"><i>balancer</i><par n="abogad/o__n"/></e>
 <e lm="balancímetro"><i>balancímetro</i><par n="abismo__n"/></e>
 <e lm="balandra"><i>balandra</i><par n="abeja__n"/></e>
@@ -3400,7 +3388,6 @@
 <e lm="bardal"><i>bardal</i><par n="abril__n"/></e>
 <e lm="bardiota"><i>bardiota</i><par n="accionista__n"/></e>
 <e lm="barestesia"><i>barestesia</i><par n="abeja__n"/></e>
-<e lm="bargueño"><i>bargueño</i><par n="abismo__n"/></e>
 <e lm="baria"><i>baria</i><par n="abeja__n"/></e>
 <e lm="barisfera"><i>barisfera</i><par n="abeja__n"/></e>
 <e lm="baritina"><i>baritina</i><par n="abeja__n"/></e>
@@ -3657,7 +3644,6 @@
 <e lm="benzoacetato"><i>benzoacetato</i><par n="abismo__n"/></e>
 <e lm="benzoato"><i>benzoato</i><par n="abismo__n"/></e>
 <e lm="benzocaína"><i>benzocaína</i><par n="abeja__n"/></e>
-<e lm="benzodiacepina"><i>benzodiacepina</i><par n="abeja__n"/></e>
 <e lm="benzofenona"><i>benzofenona</i><par n="abeja__n"/></e>
 <e lm="benzoguanimina"><i>benzoguanimina</i><par n="abeja__n"/></e>
 <e lm="benzoilbenzoato"><i>benzoilbenzoato</i><par n="abismo__n"/></e>
@@ -3784,7 +3770,6 @@
 <e lm="bienvenido"><i>bienvenido</i><par n="abismo__n"/></e>
 <e lm="bies"><i>bies</i><par n="abril__n"/></e>
 <e lm="biesfenoide"><i>biesfenoide</i><par n="abismo__n"/></e>
-<e lm="bifaz"><i>bifa</i><par n="ajedre/z__n"/></e>
 <e lm="bife"><i>bife</i><par n="abismo__n"/></e>
 <e lm="bifidobacteria"><i>bifidobacteria</i><par n="abeja__n"/></e>
 <e lm="bifluoruro"><i>bifluoruro</i><par n="abismo__n"/></e>
@@ -3873,7 +3858,6 @@
 <e lm="biopsicología"><i>biopsicología</i><par n="abeja__n"/></e>
 <e lm="biopulpectomía"><i>biopulpectomía</i><par n="abeja__n"/></e>
 <e lm="biopulpotomía"><i>biopulpotomía</i><par n="abeja__n"/></e>
-<e lm="biorreactor"><i>biorreactor</i><par n="abril__n"/></e>
 <e lm="biorrealimentación"><i>biorrealimentaci</i><par n="acci/ón__n"/></e>
 <e lm="biosecuencia"><i>biosecuencia</i><par n="abeja__n"/></e>
 <e lm="biosensor"><i>biosensor</i><par n="abril__n"/></e>
@@ -4472,7 +4456,6 @@
 <e lm="broncoespasmo"><i>broncoespasmo</i><par n="abismo__n"/></e>
 <e lm="broncopatía"><i>broncopatía</i><par n="abeja__n"/></e>
 <e lm="bronquedad"><i>bronquedad</i><par n="accesibilidad__n"/></e>
-<e lm="bronquiectasia"><i>bronquiectasia</i><par n="abeja__n"/></e>
 <e lm="bronquina"><i>bronquina</i><par n="abeja__n"/></e>
 <e lm="bronquiolitis"><i>bronquiolitis</i><par n="ETS__n"/></e>
 <e lm="bronquíolo"><i>bronquíolo</i><par n="abismo__n"/></e>
@@ -4483,7 +4466,6 @@
 <e lm="broqueta"><i>broqueta</i><par n="abeja__n"/></e>
 <e lm="brotadura"><i>brotadura</i><par n="abeja__n"/></e>
 <e lm="brozador"><i>brozador</i><par n="señor__n"/></e>
-<e lm="brucelosis"><i>brucelosis</i><par n="ETS__n"/></e>
 <e lm="brucero"><i>brucer</i><par n="abogad/o__n"/></e>
 <e lm="brucina"><i>brucina</i><par n="abeja__n"/></e>
 <e lm="brujuleo"><i>brujuleo</i><par n="abismo__n"/></e>
@@ -4568,7 +4550,6 @@
 <e lm="bullaje"><i>bullaje</i><par n="abismo__n"/></e>
 <e lm="bullanga"><i>bullanga</i><par n="abeja__n"/></e>
 <e lm="bullanguero"><i>bullanguer</i><par n="abogad/o__n"/></e>
-<e lm="bulldog"><i>bulldog</i><par n="abismo__n"/></e>
 <e lm="bullebulle"><i>bullebulle</i><par n="accionista__n"/></e>
 <e lm="bullion"><i>bullion</i><par n="club__n"/></e>
 <e lm="bullionismo"><i>bullionismo</i><par n="abismo__n"/></e>
@@ -4666,7 +4647,6 @@
 <e lm="bátavo"><i>bátav</i><par n="abogad/o__n"/></e>
 <e lm="bíceps"><i>bíceps</i><par n="IRPF__n"/></e>
 <e lm="bígamo"><i>bígam</i><par n="abogad/o__n"/></e>
-<e lm="bígaro"><i>bígaro</i><par n="abismo__n"/></e>
 <e lm="bínubo"><i>bínub</i><par n="abogad/o__n"/></e>
 <e lm="bíos"><i>bíos</i><par n="IRPF__n"/></e>
 <e lm="bípode"><i>bípode</i><par n="abismo__n"/></e>
@@ -4731,7 +4711,6 @@
 <e lm="cableadora"><i>cableadora</i><par n="abeja__n"/></e>
 <e lm="cablero"><i>cabler</i><par n="abogad/o__n"/></e>
 <e lm="cabotaje"><i>cabotaje</i><par n="abismo__n"/></e>
-<e lm="cabracho"><i>cabracho</i><par n="abismo__n"/></e>
 <e lm="cabrahígo"><i>cabrahígo</i><par n="abismo__n"/></e>
 <e lm="cabrales"><i>cabrales</i><par n="IRPF__n"/></e>
 <e lm="cabrerizo"><i>cabreriz</i><par n="abogad/o__n"/></e>
@@ -4943,7 +4922,6 @@
 <e lm="caldeo"><i>caldeo</i><par n="abismo__n"/></e>
 <e lm="calderada"><i>calderada</i><par n="abeja__n"/></e>
 <e lm="calderero"><i>calderer</i><par n="abogad/o__n"/></e>
-<e lm="caldereta"><i>caldereta</i><par n="abeja__n"/></e>
 <e lm="calderón"><i>calder</i><par n="aluvi/ón__n"/></e>
 <e lm="caldito"><i>caldito</i><par n="abismo__n"/></e>
 <e lm="calducho"><i>calducho</i><par n="abismo__n"/></e>
@@ -5156,7 +5134,6 @@
 <e lm="cancrinita"><i>cancrinita</i><par n="abeja__n"/></e>
 <e lm="cancro"><i>cancro</i><par n="abismo__n"/></e>
 <e lm="cancroide"><i>cancroide</i><par n="abismo__n"/></e>
-<e lm="cancán"><i>canc</i><par n="adem/án__n"/></e>
 <e lm="cancín"><i>canc</i><par n="bailar/ín__n"/></e>
 <e lm="cancón"><i>canc</i><par n="aluvi/ón__n"/></e>
 <e lm="candaleta"><i>candaleta</i><par n="abeja__n"/></e>
@@ -5344,7 +5321,6 @@
 <e lm="capón"><i>cap</i><par n="aluvi/ón__n"/></e>
 <e lm="car"><i>car</i><par n="abril__n"/></e>
 <e lm="caraba"><i>caraba</i><par n="abeja__n"/></e>
-<e lm="carabina"><i>carabina</i><par n="abeja__n"/></e>
 <e lm="carabinazo"><i>carabinazo</i><par n="abismo__n"/></e>
 <e lm="caracal"><i>caracal</i><par n="abril__n"/></e>
 <e lm="caracará"><i>caracará</i><par n="accionista__n"/></e>
@@ -6559,7 +6535,6 @@
 <e lm="chispómetro"><i>chispómetro</i><par n="abismo__n"/></e>
 <e lm="chisquero"><i>chisquero</i><par n="abismo__n"/></e>
 <e lm="chistera"><i>chistera</i><par n="abeja__n"/></e>
-<e lm="chistorra"><i>chistorra</i><par n="abeja__n"/></e>
 <e lm="chistoso"><i>chistos</i><par n="abogad/o__n"/></e>
 <e lm="chistu"><i>chistu</i><par n="abismo__n"/></e>
 <e lm="chistulari"><i>chistulari</i><par n="abismo__n"/></e>
@@ -6949,7 +6924,6 @@
 <e lm="ciprino"><i>ciprin</i><par n="abogad/o__n"/></e>
 <e lm="ciprio"><i>cipri</i><par n="abogad/o__n"/></e>
 <e lm="cipriota"><i>cipriota</i><par n="accionista__n"/></e>
-<e lm="ciprínido"><i>ciprínido</i><par n="abismo__n"/></e>
 <e lm="cirate"><i>cirate</i><par n="abismo__n"/></e>
 <e lm="circasiano"><i>circasian</i><par n="abogad/o__n"/></e>
 <e lm="circona"><i>circona</i><par n="abeja__n"/></e>
@@ -7278,7 +7252,6 @@
 <e lm="cochinata"><i>cochinata</i><par n="abeja__n"/></e>
 <e lm="cochinería"><i>cochinería</i><par n="abeja__n"/></e>
 <e lm="cochinilla"><i>cochinilla</i><par n="abeja__n"/></e>
-<e lm="cochinillo"><i>cochinillo</i><par n="abismo__n"/></e>
 <e lm="cochino"><i>cochin</i><par n="abogad/o__n"/></e>
 <e lm="cochiquera"><i>cochiquera</i><par n="abeja__n"/></e>
 <e lm="cochitril"><i>cochitril</i><par n="abril__n"/></e>
@@ -7293,7 +7266,6 @@
 <e lm="cockpit"><i>cockpit</i><par n="abismo__n"/></e>
 <e lm="cocktail"><i>cocktail</i><par n="club__n"/></e>
 <e lm="coclearia"><i>coclearia</i><par n="abeja__n"/></e>
-<e lm="cococha"><i>cococha</i><par n="abeja__n"/></e>
 <e lm="cocoinato"><i>cocoinato</i><par n="abismo__n"/></e>
 <e lm="cocoliche"><i>cocoliche</i><par n="abismo__n"/></e>
 <e lm="cocolito"><i>cocolito</i><par n="abismo__n"/></e>
@@ -7342,7 +7314,6 @@
 <e lm="cofinanzamiento"><i>cofinanzamiento</i><par n="abismo__n"/></e>
 <e lm="cofinita"><i>cofinita</i><par n="abeja__n"/></e>
 <e lm="cofirmante"><i>cofirmante</i><par n="accionista__n"/></e>
-<e lm="cofosis"><i>cofosis</i><par n="ETS__n"/></e>
 <e lm="cofrecillo"><i>cofrecillo</i><par n="abismo__n"/></e>
 <e lm="cofrontera"><i>cofrontera</i><par n="abeja__n"/></e>
 <e lm="cofunción"><i>cofunci</i><par n="acci/ón__n"/></e>
@@ -7425,7 +7396,6 @@
 <e lm="colemia"><i>colemia</i><par n="abeja__n"/></e>
 <e lm="colepoyesis"><i>colepoyesis</i><par n="ETS__n"/></e>
 <e lm="colerina"><i>colerina</i><par n="abeja__n"/></e>
-<e lm="colesteatoma"><i>colesteatoma</i><par n="abismo__n"/></e>
 <e lm="colesterasa"><i>colesterasa</i><par n="abeja__n"/></e>
 <e lm="colesteremia"><i>colesteremia</i><par n="abeja__n"/></e>
 <e lm="colesterina"><i>colesterina</i><par n="abeja__n"/></e>
@@ -7521,7 +7491,6 @@
 <e lm="colémbolo"><i>colémbolo</i><par n="abismo__n"/></e>
 <e lm="colículo"><i>colículo</i><par n="abismo__n"/></e>
 <e lm="colímite"><i>colímite</i><par n="abismo__n"/></e>
-<e lm="colín"><i>col</i><par n="bot/ín__n"/></e>
 <e lm="colón"><i>col</i><par n="aluvi/ón__n"/></e>
 <e lm="colúmbido"><i>colúmbido</i><par n="abismo__n"/></e>
 <e lm="comadrazgo"><i>comadrazgo</i><par n="abismo__n"/></e>
@@ -7715,7 +7684,6 @@
 <e lm="condestablía"><i>condestablía</i><par n="abeja__n"/></e>
 <e lm="condicionado"><i>condicionado</i><par n="abismo__n"/></e>
 <e lm="condicional"><i>condicional</i><par n="accesibilidad__n"/></e>
-<e lm="condicionalidad"><i>condicionalidad</i><par n="accesibilidad__n"/></e>
 <e lm="condilectomía"><i>condilectomía</i><par n="abeja__n"/></e>
 <e lm="condiscípulo"><i>condiscípul</i><par n="abogad/o__n"/></e>
 <e lm="condomino"><i>condomino</i><par n="abismo__n"/></e>
@@ -8102,7 +8070,6 @@
 <e lm="contribuidor"><i>contribuidor</i><par n="señor__n"/></e>
 <e lm="contributario"><i>contributari</i><par n="abogad/o__n"/></e>
 <e lm="contricción"><i>contricci</i><par n="acci/ón__n"/></e>
-<e lm="contrición"><i>contrici</i><par n="acci/ón__n"/></e>
 <e lm="controlabilidad"><i>controlabilidad</i><par n="accesibilidad__n"/></e>
 <e lm="contubernio"><i>contubernio</i><par n="abismo__n"/></e>
 <e lm="contumacia"><i>contumacia</i><par n="abeja__n"/></e>
@@ -8416,7 +8383,6 @@
 <e lm="cortil"><i>cortil</i><par n="abril__n"/></e>
 <e lm="cortinaje"><i>cortinaje</i><par n="abismo__n"/></e>
 <e lm="cortinal"><i>cortinal</i><par n="abril__n"/></e>
-<e lm="cortinilla"><i>cortinilla</i><par n="abeja__n"/></e>
 <e lm="cortés"><i>cortés</i><par n="FARC__n"/></e>
 <e lm="corvadura"><i>corvadura</i><par n="abeja__n"/></e>
 <e lm="corvallo"><i>corvallo</i><par n="abismo__n"/></e>
@@ -8481,7 +8447,6 @@
 <e lm="cotangente"><i>cotangente</i><par n="abeja__n"/></e>
 <e lm="cotarro"><i>cotarro</i><par n="abismo__n"/></e>
 <e lm="cote"><i>cote</i><par n="abismo__n"/></e>
-<e lm="cotejo"><i>cotejo</i><par n="abismo__n"/></e>
 <e lm="coterráneo"><i>coterráne</i><par n="abogad/o__n"/></e>
 <e lm="cotila"><i>cotila</i><par n="abeja__n"/></e>
 <e lm="cotilla"><i>cotilla</i><par n="accionista__n"/></e>
@@ -8730,7 +8695,6 @@
 <e lm="cronografía"><i>cronografía</i><par n="abeja__n"/></e>
 <e lm="cronograma"><i>cronograma</i><par n="abismo__n"/></e>
 <e lm="cronologista"><i>cronologista</i><par n="accionista__n"/></e>
-<e lm="cronometrador"><i>cronometrador</i><par n="señor__n"/></e>
 <e lm="cronometría"><i>cronometría</i><par n="abeja__n"/></e>
 <e lm="cronosecuencia"><i>cronosecuencia</i><par n="abeja__n"/></e>
 <e lm="cronotropismo"><i>cronotropismo</i><par n="abismo__n"/></e>
@@ -8760,7 +8724,6 @@
 <e lm="crêpe"><i>crêpe</i><par n="abismo__n"/></e>
 <e lm="críalo"><i>críalo</i><par n="abismo__n"/></e>
 <e lm="crísido"><i>crísido</i><par n="abismo__n"/></e>
-<e lm="crónlech"><i>crónlech</i><par n="abril__n"/></e>
 <e lm="crótalo"><i>crótalo</i><par n="abismo__n"/></e>
 <e lm="cuaco"><i>cuaco</i><par n="abismo__n"/></e>
 <e lm="cuaderna"><i>cuaderna</i><par n="abeja__n"/></e>
@@ -8827,6 +8790,7 @@
 <e lm="cuartil"><i>cuartil</i><par n="abril__n"/></e>
 <e lm="cuartillero"><i>cuartiller</i><par n="abogad/o__n"/></e>
 <e lm="cuartillo"><i>cuartillo</i><par n="abismo__n"/></e>
+<e lm="cuarto"><i>cuarto</i><par n="abismo__n"/></e>
 <e lm="cuartofinalista"><i>cuartofinalista</i><par n="accionista__n"/></e>
 <e lm="cuartón"><i>cuart</i><par n="aluvi/ón__n"/></e>
 <e lm="cuarzita"><i>cuarzita</i><par n="abeja__n"/></e>
@@ -8862,7 +8826,6 @@
 <e lm="cubero"><i>cuber</i><par n="abogad/o__n"/></e>
 <e lm="cubertada"><i>cubertada</i><par n="abeja__n"/></e>
 <e lm="cubería"><i>cubería</i><par n="abeja__n"/></e>
-<e lm="cubeto"><i>cubeto</i><par n="abismo__n"/></e>
 <e lm="cubicación"><i>cubicaci</i><par n="acci/ón__n"/></e>
 <e lm="cubileteo"><i>cubileteo</i><par n="abismo__n"/></e>
 <e lm="cubiletero"><i>cubiletero</i><par n="abismo__n"/></e>
@@ -9096,7 +9059,6 @@
 <e lm="cárdigan"><i>cárdigan</i><par n="abismo__n"/></e>
 <e lm="cárites"><i>cárites</i><par n="ETS__n"/></e>
 <e lm="cárolus"><i>cárolus</i><par n="IRPF__n"/></e>
-<e lm="cártamo"><i>cártamo</i><par n="abismo__n"/></e>
 <e lm="cárter"><i>cárter</i><par n="abril__n"/></e>
 <e lm="cásico"><i>cásico</i><par n="abismo__n"/></e>
 <e lm="cástula"><i>cástula</i><par n="abeja__n"/></e>
@@ -9333,7 +9295,6 @@
 <e lm="defraudador"><i>defraudador</i><par n="señor__n"/></e>
 <e lm="degasificación"><i>degasificaci</i><par n="acci/ón__n"/></e>
 <e lm="degenerado"><i>degenerad</i><par n="abogad/o__n"/></e>
-<e lm="deglución"><i>degluci</i><par n="acci/ón__n"/></e>
 <e lm="degollación"><i>degollaci</i><par n="acci/ón__n"/></e>
 <e lm="degolladero"><i>degolladero</i><par n="abismo__n"/></e>
 <e lm="degollado"><i>degollado</i><par n="abismo__n"/></e>
@@ -9362,7 +9323,6 @@
 <e lm="deleción"><i>deleci</i><par n="acci/ón__n"/></e>
 <e lm="deleitación"><i>deleitaci</i><par n="acci/ón__n"/></e>
 <e lm="deleitamiento"><i>deleitamiento</i><par n="abismo__n"/></e>
-<e lm="deletreo"><i>deletreo</i><par n="abismo__n"/></e>
 <e lm="deleátur"><i>deleátur</i><par n="abril__n"/></e>
 <e lm="delfinina"><i>delfinina</i><par n="abeja__n"/></e>
 <e lm="delfínido"><i>delfínido</i><par n="abismo__n"/></e>
@@ -9618,7 +9578,6 @@
 <e lm="desbragado"><i>desbragad</i><par n="abogad/o__n"/></e>
 <e lm="desbravamiento"><i>desbravamiento</i><par n="abismo__n"/></e>
 <e lm="desbravecimiento"><i>desbravecimiento</i><par n="abismo__n"/></e>
-<e lm="desbridamiento"><i>desbridamiento</i><par n="abismo__n"/></e>
 <e lm="desbrozador"><i>desbrozador</i><par n="abril__n"/></e>
 <e lm="desbrozadora"><i>desbrozadora</i><par n="abeja__n"/></e>
 <e lm="desbrozo"><i>desbrozo</i><par n="abismo__n"/></e>
@@ -10585,7 +10544,6 @@
 <e lm="dimetilpiperacina"><i>dimetilpiperacina</i><par n="abeja__n"/></e>
 <e lm="dimetoxitetraglicol"><i>dimetoxitetraglicol</i><par n="abril__n"/></e>
 <e lm="diminuendo"><i>diminuendo</i><par n="abismo__n"/></e>
-<e lm="diminutivo"><i>diminutivo</i><par n="abismo__n"/></e>
 <e lm="dimisionario"><i>dimisionari</i><par n="abogad/o__n"/></e>
 <e lm="dimisorias"><i>dimisorias</i><par n="ETS__n"/></e>
 <e lm="din"><i>din</i><par n="IRPF__n"/></e>
@@ -10647,7 +10605,6 @@
 <e lm="dipsácea"><i>dipsácea</i><par n="abeja__n"/></e>
 <e lm="dipsómano"><i>dipsóman</i><par n="abogad/o__n"/></e>
 <e lm="dipterocarpácea"><i>dipterocarpácea</i><par n="accionista__n"/></e>
-<e lm="direccionalidad"><i>direccionalidad</i><par n="accesibilidad__n"/></e>
 <e lm="directividad"><i>directividad</i><par n="accesibilidad__n"/></e>
 <e lm="directo"><i>directo</i><par n="abismo__n"/></e>
 <e lm="diresorcina"><i>diresorcina</i><par n="abeja__n"/></e>
@@ -10657,7 +10614,6 @@
 <e lm="dirigibilidad"><i>dirigibilidad</i><par n="accesibilidad__n"/></e>
 <e lm="dirigismo"><i>dirigismo</i><par n="abismo__n"/></e>
 <e lm="disaraxia"><i>disaraxia</i><par n="abeja__n"/></e>
-<e lm="disartria"><i>disartria</i><par n="abeja__n"/></e>
 <e lm="disbacteriosis"><i>disbacteriosis</i><par n="ETS__n"/></e>
 <e lm="disceptación"><i>disceptaci</i><par n="acci/ón__n"/></e>
 <e lm="discinesia"><i>discinesia</i><par n="abeja__n"/></e>
@@ -10689,11 +10645,8 @@
 <e lm="disertante"><i>disertante</i><par n="accionista__n"/></e>
 <e lm="disestesia"><i>disestesia</i><par n="abeja__n"/></e>
 <e lm="disfagia"><i>disfagia</i><par n="abeja__n"/></e>
-<e lm="disfasia"><i>disfasia</i><par n="abeja__n"/></e>
 <e lm="disfavor"><i>disfavor</i><par n="abril__n"/></e>
-<e lm="disfemia"><i>disfemia</i><par n="abeja__n"/></e>
 <e lm="disfemismo"><i>disfemismo</i><par n="abismo__n"/></e>
-<e lm="disfonía"><i>disfonía</i><par n="abeja__n"/></e>
 <e lm="disformidad"><i>disformidad</i><par n="accesibilidad__n"/></e>
 <e lm="disfumino"><i>disfumino</i><par n="abismo__n"/></e>
 <e lm="disgammaglobulinemia"><i>disgammaglobulinemia</i><par n="abeja__n"/></e>
@@ -10708,9 +10661,7 @@
 <e lm="disimulo"><i>disimulo</i><par n="abismo__n"/></e>
 <e lm="disipador"><i>disipador</i><par n="señor__n"/></e>
 <e lm="diskette"><i>diskette</i><par n="abismo__n"/></e>
-<e lm="dislalia"><i>dislalia</i><par n="abeja__n"/></e>
 <e lm="dislate"><i>dislate</i><par n="abismo__n"/></e>
-<e lm="dislipemia"><i>dislipemia</i><par n="abeja__n"/></e>
 <e lm="dislocadura"><i>dislocadura</i><par n="abeja__n"/></e>
 <e lm="disloque"><i>disloque</i><par n="abismo__n"/></e>
 <e lm="disléxico"><i>disléxic</i><par n="abogad/o__n"/></e>
@@ -10787,7 +10738,6 @@
 <e lm="ditología"><i>ditología</i><par n="abeja__n"/></e>
 <e lm="ditroqueo"><i>ditroqueo</i><par n="abismo__n"/></e>
 <e lm="diuranato"><i>diuranato</i><par n="abismo__n"/></e>
-<e lm="diuresis"><i>diuresis</i><par n="ETS__n"/></e>
 <e lm="diurno"><i>diurno</i><par n="abismo__n"/></e>
 <e lm="diurético"><i>diurético</i><par n="abismo__n"/></e>
 <e lm="diuturnidad"><i>diuturnidad</i><par n="accesibilidad__n"/></e>
@@ -11076,14 +11026,12 @@
 <e lm="echazón"><i>echaz</i><par n="acci/ón__n"/></e>
 <e lm="eclampsia"><i>eclampsia</i><par n="abeja__n"/></e>
 <e lm="eclesiología"><i>eclesiología</i><par n="abeja__n"/></e>
-<e lm="eclipse"><i>eclipse</i><par n="abismo__n"/></e>
 <e lm="eclisa"><i>eclisa</i><par n="abeja__n"/></e>
 <e lm="eclogita"><i>eclogita</i><par n="abeja__n"/></e>
 <e lm="eclímetro"><i>eclímetro</i><par n="abismo__n"/></e>
 <e lm="eclíptica"><i>eclíptica</i><par n="abeja__n"/></e>
 <e lm="ecocardiografía"><i>ecocardiografía</i><par n="abeja__n"/></e>
 <e lm="ecodesarrollo"><i>ecodesarrollo</i><par n="abismo__n"/></e>
-<e lm="ecolalia"><i>ecolalia</i><par n="abeja__n"/></e>
 <e lm="economicismo"><i>economicismo</i><par n="abismo__n"/></e>
 <e lm="economizador"><i>economizador</i><par n="señor__n"/></e>
 <e lm="ecosfera"><i>ecosfera</i><par n="abeja__n"/></e>
@@ -11727,7 +11675,6 @@
 <e lm="endoparásito"><i>endoparásito</i><par n="abismo__n"/></e>
 <e lm="endoplasma"><i>endoplasma</i><par n="abismo__n"/></e>
 <e lm="endoprocto"><i>endoprocto</i><par n="abismo__n"/></e>
-<e lm="endoprótesis"><i>endoprótesis</i><par n="ETS__n"/></e>
 <e lm="endorreísmo"><i>endorreísmo</i><par n="abismo__n"/></e>
 <e lm="endorso"><i>endorso</i><par n="abismo__n"/></e>
 <e lm="endosador"><i>endosador</i><par n="señor__n"/></e>
@@ -11930,7 +11877,6 @@
 <e lm="ensabanado"><i>ensabanado</i><par n="abismo__n"/></e>
 <e lm="ensacador"><i>ensacador</i><par n="abril__n"/></e>
 <e lm="ensacadora"><i>ensacadora</i><par n="abeja__n"/></e>
-<e lm="ensaladera"><i>ensaladera</i><par n="abeja__n"/></e>
 <e lm="ensalmo"><i>ensalmo</i><par n="abismo__n"/></e>
 <e lm="ensalzamiento"><i>ensalzamiento</i><par n="abismo__n"/></e>
 <e lm="ensamblado"><i>ensamblado</i><par n="abismo__n"/></e>
@@ -12025,7 +11971,6 @@
 <e lm="entrecoro"><i>entrecoro</i><par n="abismo__n"/></e>
 <e lm="entrecortadura"><i>entrecortadura</i><par n="abeja__n"/></e>
 <e lm="entrecorteza"><i>entrecorteza</i><par n="abeja__n"/></e>
-<e lm="entrecot"><i>entrecot</i><par n="club__n"/></e>
 <e lm="entrecuesto"><i>entrecuesto</i><par n="abismo__n"/></e>
 <e lm="entredós"><i>entred</i><par n="adi/ós__n"/></e>
 <e lm="entreeje"><i>entreeje</i><par n="abismo__n"/></e>
@@ -12686,7 +12631,6 @@
 <e lm="espantamoscas"><i>espantamoscas</i><par n="IRPF__n"/></e>
 <e lm="espante"><i>espante</i><par n="abismo__n"/></e>
 <e lm="espanto"><i>espanto</i><par n="abismo__n"/></e>
-<e lm="esparavel"><i>esparavel</i><par n="abril__n"/></e>
 <e lm="esparaván"><i>esparav</i><par n="adem/án__n"/></e>
 <e lm="esparciata"><i>esparciata</i><par n="accionista__n"/></e>
 <e lm="esparcidor"><i>esparcidor</i><par n="abril__n"/></e>
@@ -12828,7 +12772,6 @@
 <e lm="espolonada"><i>espolonada</i><par n="abeja__n"/></e>
 <e lm="espolonazo"><i>espolonazo</i><par n="abismo__n"/></e>
 <e lm="espolvoreo"><i>espolvoreo</i><par n="abismo__n"/></e>
-<e lm="espolín"><i>espol</i><par n="bot/ín__n"/></e>
 <e lm="espolón"><i>espol</i><par n="aluvi/ón__n"/></e>
 <e lm="espondilitis"><i>espondilitis</i><par n="ETS__n"/></e>
 <e lm="espondiloartritis"><i>espondiloartritis</i><par n="ETS__n"/></e>
@@ -13564,7 +13507,6 @@
 <e lm="fabulario"><i>fabulario</i><par n="abismo__n"/></e>
 <e lm="fabulista"><i>fabulista</i><par n="accionista__n"/></e>
 <e lm="fabulosidad"><i>fabulosidad</i><par n="accesibilidad__n"/></e>
-<e lm="faca"><i>faca</i><par n="abeja__n"/></e>
 <e lm="facazo"><i>facazo</i><par n="abismo__n"/></e>
 <e lm="faccionario"><i>faccionari</i><par n="abogad/o__n"/></e>
 <e lm="faccioso"><i>faccios</i><par n="abogad/o__n"/></e>
@@ -13902,7 +13844,6 @@
 <e lm="festinación"><i>festinaci</i><par n="acci/ón__n"/></e>
 <e lm="festivo"><i>festivo</i><par n="abismo__n"/></e>
 <e lm="festuca"><i>festuca</i><par n="abeja__n"/></e>
-<e lm="festón"><i>fest</i><par n="aluvi/ón__n"/></e>
 <e lm="fetación"><i>fetaci</i><par n="acci/ón__n"/></e>
 <e lm="fetichista"><i>fetichista</i><par n="accionista__n"/></e>
 <e lm="feticidio"><i>feticidio</i><par n="abismo__n"/></e>
@@ -14077,7 +14018,6 @@
 <e lm="fisípedo"><i>fisípedo</i><par n="abismo__n"/></e>
 <e lm="fisónomo"><i>fisónom</i><par n="abogad/o__n"/></e>
 <e lm="fisóstomo"><i>fisóstomo</i><par n="abismo__n"/></e>
-<e lm="fitness"><i>fitness</i><par n="IRPF__n"/></e>
 <e lm="fitoaglutinina"><i>fitoaglutinina</i><par n="abeja__n"/></e>
 <e lm="fitocenosis"><i>fitocenosis</i><par n="ETS__n"/></e>
 <e lm="fitofenología"><i>fitofenología</i><par n="abeja__n"/></e>
@@ -14120,7 +14060,6 @@
 <e lm="flanquís"><i>flanquís</i><par n="IRPF__n"/></e>
 <e lm="flap"><i>flap</i><par n="abismo__n"/></e>
 <e lm="flaqueo"><i>flaqueo</i><par n="abismo__n"/></e>
-<e lm="flaqueza"><i>flaqueza</i><par n="abeja__n"/></e>
 <e lm="flash-back"><i>flash-back</i><par n="abismo__n"/></e>
 <e lm="flashback"><i>flashback</i><par n="abismo__n"/></e>
 <e lm="flato"><i>flato</i><par n="abismo__n"/></e>
@@ -14166,7 +14105,6 @@
 <e lm="flogisto"><i>flogisto</i><par n="abismo__n"/></e>
 <e lm="flogopita"><i>flogopita</i><par n="abeja__n"/></e>
 <e lm="flogosis"><i>flogosis</i><par n="ETS__n"/></e>
-<e lm="flojedad"><i>flojedad</i><par n="accesibilidad__n"/></e>
 <e lm="flojel"><i>flojel</i><par n="abril__n"/></e>
 <e lm="flojeo"><i>flojeo</i><par n="abismo__n"/></e>
 <e lm="flojera"><i>flojera</i><par n="abeja__n"/></e>
@@ -14501,7 +14439,6 @@
 <e lm="frenectomía"><i>frenectomía</i><par n="abeja__n"/></e>
 <e lm="frenero"><i>frener</i><par n="abogad/o__n"/></e>
 <e lm="frenería"><i>frenería</i><par n="abeja__n"/></e>
-<e lm="frenillo"><i>frenillo</i><par n="abismo__n"/></e>
 <e lm="frenitis"><i>frenitis</i><par n="IRPF__n"/></e>
 <e lm="frenología"><i>frenología</i><par n="abeja__n"/></e>
 <e lm="frenopatía"><i>frenopatía</i><par n="abeja__n"/></e>
@@ -14527,14 +14464,12 @@
 <e lm="fricasé"><i>fricasé</i><par n="abismo__n"/></e>
 <e lm="fricatización"><i>fricatizaci</i><par n="acci/ón__n"/></e>
 <e lm="friega"><i>friega</i><par n="abeja__n"/></e>
-<e lm="friegasuelos"><i>friegasuelos</i><par n="IRPF__n"/></e>
 <e lm="friera"><i>friera</i><par n="abeja__n"/></e>
 <e lm="frigio"><i>frigi</i><par n="abogad/o__n"/></e>
 <e lm="frigoría"><i>frigoría</i><par n="abeja__n"/></e>
 <e lm="frijolar"><i>frijolar</i><par n="abril__n"/></e>
 <e lm="frijolillo"><i>frijolillo</i><par n="abismo__n"/></e>
 <e lm="frimario"><i>frimario</i><par n="abismo__n"/></e>
-<e lm="fringílido"><i>fringílido</i><par n="abismo__n"/></e>
 <e lm="frisa"><i>frisa</i><par n="abeja__n"/></e>
 <e lm="frisado"><i>frisado</i><par n="abismo__n"/></e>
 <e lm="frisador"><i>frisador</i><par n="señor__n"/></e>
@@ -15313,7 +15248,6 @@
 <e lm="glosador"><i>glosador</i><par n="señor__n"/></e>
 <e lm="glosalgia"><i>glosalgia</i><par n="abeja__n"/></e>
 <e lm="glose"><i>glose</i><par n="abismo__n"/></e>
-<e lm="glosectomía"><i>glosectomía</i><par n="abeja__n"/></e>
 <e lm="glosema"><i>glosema</i><par n="abeja__n"/></e>
 <e lm="glosemática"><i>glosemática</i><par n="abeja__n"/></e>
 <e lm="glosilla"><i>glosilla</i><par n="abeja__n"/></e>
@@ -15678,7 +15612,6 @@
 <e lm="guaca"><i>guaca</i><par n="abeja__n"/></e>
 <e lm="guacalote"><i>guacalote</i><par n="abismo__n"/></e>
 <e lm="guacamaya"><i>guacamaya</i><par n="abeja__n"/></e>
-<e lm="guacamayo"><i>guacamayo</i><par n="abismo__n"/></e>
 <e lm="guacamol"><i>guacamol</i><par n="abril__n"/></e>
 <e lm="guacamole"><i>guacamole</i><par n="abismo__n"/></e>
 <e lm="guacamote"><i>guacamote</i><par n="abismo__n"/></e>
@@ -15864,7 +15797,6 @@
 <e lm="guindaleza"><i>guindaleza</i><par n="abeja__n"/></e>
 <e lm="guindamaina"><i>guindamaina</i><par n="abeja__n"/></e>
 <e lm="guindaste"><i>guindaste</i><par n="abismo__n"/></e>
-<e lm="guindilla"><i>guindilla</i><par n="abeja__n"/></e>
 <e lm="guindo"><i>guindo</i><par n="abismo__n"/></e>
 <e lm="guindola"><i>guindola</i><par n="abeja__n"/></e>
 <e lm="guineano"><i>guinean</i><par n="abogad/o__n"/></e>
@@ -16592,7 +16524,6 @@
 <e lm="hidrópico"><i>hidrópic</i><par n="abogad/o__n"/></e>
 <e lm="hidátide"><i>hidátide</i><par n="abismo__n"/></e>
 <e lm="hiemosco"><i>hiemosco</i><par n="abismo__n"/></e>
-<e lm="hierbabuena"><i>hierbabuena</i><par n="abeja__n"/></e>
 <e lm="hierofante"><i>hierofante</i><par n="abismo__n"/></e>
 <e lm="hierografía"><i>hierografía</i><par n="abeja__n"/></e>
 <e lm="hieroscopia"><i>hieroscopia</i><par n="abeja__n"/></e>
@@ -16737,7 +16668,6 @@
 <e lm="hipnotización"><i>hipnotizaci</i><par n="acci/ón__n"/></e>
 <e lm="hipnotizador"><i>hipnotizador</i><par n="señor__n"/></e>
 <e lm="hipnótico"><i>hipnótic</i><par n="abogad/o__n"/></e>
-<e lm="hipoacusia"><i>hipoacusia</i><par n="abeja__n"/></e>
 <e lm="hipoadrenia"><i>hipoadrenia</i><par n="abeja__n"/></e>
 <e lm="hipocausto"><i>hipocausto</i><par n="abismo__n"/></e>
 <e lm="hipocentauro"><i>hipocentauro</i><par n="abismo__n"/></e>
@@ -16788,7 +16718,6 @@
 <e lm="hipostasia"><i>hipostasia</i><par n="abeja__n"/></e>
 <e lm="hipostasis"><i>hipostasis</i><par n="ETS__n"/></e>
 <e lm="hipotaxis"><i>hipotaxis</i><par n="IRPF__n"/></e>
-<e lm="hipotecante"><i>hipotecante</i><par n="accionista__n"/></e>
 <e lm="hipotecnia"><i>hipotecnia</i><par n="abeja__n"/></e>
 <e lm="hipotenar"><i>hipotenar</i><par n="abril__n"/></e>
 <e lm="hipotenso"><i>hipotens</i><par n="abogad/o__n"/></e>
@@ -17590,7 +17519,6 @@
 <e lm="inmunoconglutinina"><i>inmunoconglutinina</i><par n="abeja__n"/></e>
 <e lm="inmunodifusión"><i>inmunodifusi</i><par n="acci/ón__n"/></e>
 <e lm="inmunoelectroforesis"><i>inmunoelectroforesis</i><par n="ETS__n"/></e>
-<e lm="inmunoensayo"><i>inmunoensayo</i><par n="abismo__n"/></e>
 <e lm="inmunofijación"><i>inmunofijaci</i><par n="acci/ón__n"/></e>
 <e lm="inmunofluorescencia"><i>inmunofluorescencia</i><par n="abeja__n"/></e>
 <e lm="inmunogenicidad"><i>inmunogenicidad</i><par n="accesibilidad__n"/></e>
@@ -17900,7 +17828,6 @@
 <e lm="iroqués"><i>iroqu</i><par n="aragon/és__n"/></e>
 <e lm="irracional"><i>irracional</i><par n="albañil__n"/></e>
 <e lm="irracionalismo"><i>irracionalismo</i><par n="abismo__n"/></e>
-<e lm="irradiancia"><i>irradiancia</i><par n="abeja__n"/></e>
 <e lm="irrealidad"><i>irrealidad</i><par n="accesibilidad__n"/></e>
 <e lm="irrebatibilidad"><i>irrebatibilidad</i><par n="accesibilidad__n"/></e>
 <e lm="irredentismo"><i>irredentismo</i><par n="abismo__n"/></e>
@@ -18083,7 +18010,6 @@
 <e lm="jabonado"><i>jabonado</i><par n="abismo__n"/></e>
 <e lm="jabonador"><i>jabonador</i><par n="señor__n"/></e>
 <e lm="jabonadura"><i>jabonadura</i><par n="abeja__n"/></e>
-<e lm="jaboncillo"><i>jaboncillo</i><par n="abismo__n"/></e>
 <e lm="jabonero"><i>jabonero</i><par n="abismo__n"/></e>
 <e lm="jabonería"><i>jabonería</i><par n="abeja__n"/></e>
 <e lm="jaborandi"><i>jaborandi</i><par n="abismo__n"/></e>
@@ -18388,7 +18314,6 @@
 <e lm="kirieleisón"><i>kirieleis</i><par n="aluvi/ón__n"/></e>
 <e lm="kirsch"><i>kirsch</i><par n="abismo__n"/></e>
 <e lm="kitsch"><i>kitsch</i><par n="abismo__n"/></e>
-<e lm="kiwi"><i>kiwi</i><par n="abismo__n"/></e>
 <e lm="kleenex"><i>kleenex</i><par n="IRPF__n"/></e>
 <e lm="klistrón"><i>klistr</i><par n="aluvi/ón__n"/></e>
 <e lm="knock-out"><i>knock-out</i><par n="abismo__n"/></e>
@@ -18687,7 +18612,6 @@
 <e lm="lat"><i>lat</i><par n="abismo__n"/></e>
 <e lm="latastro"><i>latastro</i><par n="abismo__n"/></e>
 <e lm="latebra"><i>latebra</i><par n="abeja__n"/></e>
-<e lm="lateralización"><i>lateralizaci</i><par n="acci/ón__n"/></e>
 <e lm="lateritización"><i>lateritizaci</i><par n="acci/ón__n"/></e>
 <e lm="laterización"><i>laterizaci</i><par n="acci/ón__n"/></e>
 <e lm="laterognacia"><i>laterognacia</i><par n="abeja__n"/></e>
@@ -18753,7 +18677,6 @@
 <e lm="lavamiento"><i>lavamiento</i><par n="abismo__n"/></e>
 <e lm="lavanco"><i>lavanco</i><par n="abismo__n"/></e>
 <e lm="lavandera"><i>lavandera</i><par n="abeja__n"/></e>
-<e lm="lavaojos"><i>lavaojos</i><par n="IRPF__n"/></e>
 <e lm="lavaparabrisas"><i>lavaparabrisas</i><par n="IRPF__n"/></e>
 <e lm="lavatorio"><i>lavatorio</i><par n="abismo__n"/></e>
 <e lm="lavazas"><i>lavazas</i><par n="ETS__n"/></e>
@@ -19058,7 +18981,6 @@
 <e lm="ligón"><i>lig</i><par n="anfitri/ón__n"/></e>
 <e lm="lija"><i>lija</i><par n="abeja__n"/></e>
 <e lm="lijado"><i>lijado</i><par n="abismo__n"/></e>
-<e lm="lijadora"><i>lijadora</i><par n="abeja__n"/></e>
 <e lm="lilaila"><i>lilaila</i><par n="abeja__n"/></e>
 <e lm="lilangeni"><i>lilangeni</i><par n="abismo__n"/></e>
 <e lm="lilao"><i>lilao</i><par n="abismo__n"/></e>
@@ -19567,7 +19489,6 @@
 <e lm="macrogenerador"><i>macrogenerador</i><par n="abril__n"/></e>
 <e lm="macrogenia"><i>macrogenia</i><par n="abeja__n"/></e>
 <e lm="macroglobulinemia"><i>macroglobulinemia</i><par n="abeja__n"/></e>
-<e lm="macroglosia"><i>macroglosia</i><par n="abeja__n"/></e>
 <e lm="macroglubinemia"><i>macroglubinemia</i><par n="abeja__n"/></e>
 <e lm="macrognacia"><i>macrognacia</i><par n="abeja__n"/></e>
 <e lm="macrografía"><i>macrografía</i><par n="abeja__n"/></e>
@@ -19595,7 +19516,6 @@
 <e lm="macrosoma"><i>macrosoma</i><par n="abismo__n"/></e>
 <e lm="macrosomía"><i>macrosomía</i><par n="abeja__n"/></e>
 <e lm="macrospora"><i>macrospora</i><par n="abeja__n"/></e>
-<e lm="macrostomía"><i>macrostomía</i><par n="abeja__n"/></e>
 <e lm="macrotia"><i>macrotia</i><par n="abeja__n"/></e>
 <e lm="macroárea"><i>macroárea</i><par n="abeja__n"/></e>
 <e lm="macruro"><i>macruro</i><par n="abismo__n"/></e>
@@ -19907,6 +19827,7 @@
 <e lm="manganismo"><i>manganismo</i><par n="abismo__n"/></e>
 <e lm="manganita"><i>manganita</i><par n="abeja__n"/></e>
 <e lm="mangante"><i>mangante</i><par n="accionista__n"/></e>
+<e lm="mango"><i>mango</i><par n="abismo__n"/></e>
 <e lm="mangoneo"><i>mangoneo</i><par n="abismo__n"/></e>
 <e lm="mangorrillo"><i>mangorrillo</i><par n="abismo__n"/></e>
 <e lm="mangosta"><i>mangosta</i><par n="abeja__n"/></e>
@@ -19970,10 +19891,8 @@
 <e lm="manteador"><i>manteador</i><par n="señor__n"/></e>
 <e lm="manteamiento"><i>manteamiento</i><par n="abismo__n"/></e>
 <e lm="mantecada"><i>mantecada</i><par n="abeja__n"/></e>
-<e lm="mantecado"><i>mantecado</i><par n="abismo__n"/></e>
 <e lm="mantecosidad"><i>mantecosidad</i><par n="accesibilidad__n"/></e>
 <e lm="mantelería"><i>mantelería</i><par n="abeja__n"/></e>
-<e lm="manteleta"><i>manteleta</i><par n="abeja__n"/></e>
 <e lm="mantelete"><i>mantelete</i><par n="abismo__n"/></e>
 <e lm="mantellina"><i>mantellina</i><par n="abeja__n"/></e>
 <e lm="mantenedor"><i>mantenedor</i><par n="abril__n"/></e>
@@ -20030,7 +19949,6 @@
 <e lm="marceo"><i>marceo</i><par n="abismo__n"/></e>
 <e lm="marchador"><i>marchador</i><par n="señor__n"/></e>
 <e lm="marchamero"><i>marchamer</i><par n="abogad/o__n"/></e>
-<e lm="marchamo"><i>marchamo</i><par n="abismo__n"/></e>
 <e lm="marchapié"><i>marchapié</i><par n="abismo__n"/></e>
 <e lm="marchitez"><i>marchite</i><par n="actri/z__n"/></e>
 <e lm="marcialidad"><i>marcialidad</i><par n="accesibilidad__n"/></e>
@@ -20707,7 +20625,6 @@
 <e lm="metilal"><i>metilal</i><par n="abril__n"/></e>
 <e lm="metilamina"><i>metilamina</i><par n="abeja__n"/></e>
 <e lm="metilaminofenol"><i>metilaminofenol</i><par n="abril__n"/></e>
-<e lm="metilanilina"><i>metilanilina</i><par n="abeja__n"/></e>
 <e lm="metilantraceno"><i>metilantraceno</i><par n="abismo__n"/></e>
 <e lm="metilantraquinona"><i>metilantraquinona</i><par n="abeja__n"/></e>
 <e lm="metilato"><i>metilato</i><par n="abismo__n"/></e>
@@ -20876,7 +20793,6 @@
 <e lm="microfarad"><i>microfarad</i><par n="abismo__n"/></e>
 <e lm="microfaradio"><i>microfaradio</i><par n="abismo__n"/></e>
 <e lm="microfauna"><i>microfauna</i><par n="abeja__n"/></e>
-<e lm="microfibra"><i>microfibra</i><par n="abeja__n"/></e>
 <e lm="microfibrilla"><i>microfibrilla</i><par n="abeja__n"/></e>
 <e lm="microfilmación"><i>microfilmaci</i><par n="acci/ón__n"/></e>
 <e lm="microfilmadora"><i>microfilmadora</i><par n="abeja__n"/></e>
@@ -21278,7 +21194,6 @@
 <e lm="mogollón"><i>mogoll</i><par n="aluvi/ón__n"/></e>
 <e lm="mogote"><i>mogote</i><par n="abismo__n"/></e>
 <e lm="moguex"><i>moguex</i><par n="abril__n"/></e>
-<e lm="mohair"><i>mohair</i><par n="club__n"/></e>
 <e lm="mohametano"><i>mohametan</i><par n="abogad/o__n"/></e>
 <e lm="moharra"><i>moharra</i><par n="abeja__n"/></e>
 <e lm="moharrache"><i>moharrache</i><par n="abismo__n"/></e>
@@ -21530,7 +21445,6 @@
 <e lm="monterería"><i>monterería</i><par n="abeja__n"/></e>
 <e lm="monterilla"><i>monterilla</i><par n="abeja__n"/></e>
 <e lm="montero"><i>montero</i><par n="abismo__n"/></e>
-<e lm="montería"><i>montería</i><par n="abeja__n"/></e>
 <e lm="montevideano"><i>montevidean</i><par n="abogad/o__n"/></e>
 <e lm="monticellita"><i>monticellita</i><par n="abeja__n"/></e>
 <e lm="montilla"><i>montilla</i><par n="abismo__n"/></e>
@@ -21543,7 +21457,6 @@
 <e lm="monógamo"><i>monógam</i><par n="abogad/o__n"/></e>
 <e lm="monóstrofe"><i>monóstrofe</i><par n="abeja__n"/></e>
 <e lm="monóxilo"><i>monóxilo</i><par n="abismo__n"/></e>
-<e lm="mopa"><i>mopa</i><par n="abeja__n"/></e>
 <e lm="moqueo"><i>moqueo</i><par n="abismo__n"/></e>
 <e lm="moquero"><i>moquero</i><par n="abismo__n"/></e>
 <e lm="moquete"><i>moquete</i><par n="abismo__n"/></e>
@@ -21643,7 +21556,6 @@
 <e lm="morterazo"><i>morterazo</i><par n="abismo__n"/></e>
 <e lm="morterete"><i>morterete</i><par n="abismo__n"/></e>
 <e lm="morteruelo"><i>morteruelo</i><par n="abismo__n"/></e>
-<e lm="mortificación"><i>mortificaci</i><par n="acci/ón__n"/></e>
 <e lm="mortinatalidad"><i>mortinatalidad</i><par n="accesibilidad__n"/></e>
 <e lm="mortinato"><i>mortinat</i><par n="abogad/o__n"/></e>
 <e lm="morucho"><i>morucho</i><par n="abismo__n"/></e>
@@ -21683,7 +21595,6 @@
 <e lm="motejo"><i>motejo</i><par n="abismo__n"/></e>
 <e lm="motera"><i>motera</i><par n="abeja__n"/></e>
 <e lm="motero"><i>moter</i><par n="abogad/o__n"/></e>
-<e lm="motilidad"><i>motilidad</i><par n="accesibilidad__n"/></e>
 <e lm="motilón"><i>motil</i><par n="anfitri/ón__n"/></e>
 <e lm="moto-nieve"><i>moto-nieve</i><par n="BBC__n"/></e>
 <e lm="motoaspiradora"><i>motoaspiradora</i><par n="abeja__n"/></e>
@@ -21783,7 +21694,6 @@
 <e lm="multicadera"><i>multicadera</i><par n="abeja__n"/></e>
 <e lm="multicanal"><i>multicanal</i><par n="abril__n"/></e>
 <e lm="multicapa"><i>multicapa</i><par n="abeja__n"/></e>
-<e lm="multicasco"><i>multicasco</i><par n="abismo__n"/></e>
 <e lm="multicentro"><i>multicentro</i><par n="abismo__n"/></e>
 <e lm="multicolinealidad"><i>multicolinealidad</i><par n="accesibilidad__n"/></e>
 <e lm="multicomputador"><i>multicomputador</i><par n="abril__n"/></e>
@@ -21792,7 +21702,6 @@
 <e lm="multidimensión"><i>multidimensi</i><par n="acci/ón__n"/></e>
 <e lm="multiempresa"><i>multiempresa</i><par n="abeja__n"/></e>
 <e lm="multietapa"><i>multietapa</i><par n="abeja__n"/></e>
-<e lm="multifilamento"><i>multifilamento</i><par n="abismo__n"/></e>
 <e lm="multifrecuencia"><i>multifrecuencia</i><par n="abeja__n"/></e>
 <e lm="multifuncionalidad"><i>multifuncionalidad</i><par n="accesibilidad__n"/></e>
 <e lm="multiidioma"><i>multiidioma</i><par n="abismo__n"/></e>
@@ -21864,7 +21773,6 @@
 <e lm="musicastro"><i>musicastro</i><par n="abismo__n"/></e>
 <e lm="musichall"><i>musichall</i><par n="abismo__n"/></e>
 <e lm="musicomanía"><i>musicomanía</i><par n="abeja__n"/></e>
-<e lm="musicógrafo"><i>musicógraf</i><par n="abogad/o__n"/></e>
 <e lm="musicólogo"><i>musicólog</i><par n="abogad/o__n"/></e>
 <e lm="musicómano"><i>musicóman</i><par n="abogad/o__n"/></e>
 <e lm="musiquero"><i>musiquero</i><par n="abismo__n"/></e>
@@ -22245,7 +22153,6 @@
 <e lm="neógeno"><i>neógeno</i><par n="abismo__n"/></e>
 <e lm="neólogo"><i>neólog</i><par n="abogad/o__n"/></e>
 <e lm="ngultrum"><i>ngultrum</i><par n="abismo__n"/></e>
-<e lm="niacina"><i>niacina</i><par n="abeja__n"/></e>
 <e lm="niacitina"><i>niacitina</i><par n="abeja__n"/></e>
 <e lm="niala"><i>niala</i><par n="abismo__n"/></e>
 <e lm="nibble"><i>nibble</i><par n="abismo__n"/></e>
@@ -23226,7 +23133,6 @@
 <e lm="oídio"><i>oídio</i><par n="abismo__n"/></e>
 <e lm="oótida"><i>oótida</i><par n="abeja__n"/></e>
 <e lm="p-clorofenol"><i>p-clorofenol</i><par n="abril__n"/></e>
-<e lm="pH"><i>pH</i><par n="BBVA__n"/></e>
 <e lm="pabilo"><i>pabilo</i><par n="abismo__n"/></e>
 <e lm="pabilón"><i>pabil</i><par n="aluvi/ón__n"/></e>
 <e lm="pablo"><i>pablo</i><par n="abismo__n"/></e>
@@ -23915,7 +23821,6 @@
 <e lm="patronero"><i>patroner</i><par n="abogad/o__n"/></e>
 <e lm="patronímico"><i>patronímico</i><par n="abismo__n"/></e>
 <e lm="patrullaje"><i>patrullaje</i><par n="abismo__n"/></e>
-<e lm="patuco"><i>patuco</i><par n="abismo__n"/></e>
 <e lm="patulea"><i>patulea</i><par n="abeja__n"/></e>
 <e lm="patulina"><i>patulina</i><par n="abeja__n"/></e>
 <e lm="patíbulo"><i>patíbulo</i><par n="abismo__n"/></e>
@@ -24082,7 +23987,6 @@
 <e lm="peinecillo"><i>peinecillo</i><par n="abismo__n"/></e>
 <e lm="peinero"><i>peiner</i><par n="abogad/o__n"/></e>
 <e lm="peinería"><i>peinería</i><par n="abeja__n"/></e>
-<e lm="peineta"><i>peineta</i><par n="abeja__n"/></e>
 <e lm="peinetero"><i>peineter</i><par n="abogad/o__n"/></e>
 <e lm="peje"><i>peje</i><par n="abismo__n"/></e>
 <e lm="pejepalo"><i>pejepalo</i><par n="abismo__n"/></e>
@@ -24315,7 +24219,6 @@
 <e lm="perfecto"><i>perfecto</i><par n="abismo__n"/></e>
 <e lm="perfenacina"><i>perfenacina</i><par n="abeja__n"/></e>
 <e lm="perfidia"><i>perfidia</i><par n="abeja__n"/></e>
-<e lm="perfilador"><i>perfilador</i><par n="abril__n"/></e>
 <e lm="perfiladura"><i>perfiladura</i><par n="abeja__n"/></e>
 <e lm="perfilógrafo"><i>perfilógrafo</i><par n="abismo__n"/></e>
 <e lm="perforador"><i>perforador</i><par n="señor__n"/></e>
@@ -24574,7 +24477,6 @@
 <e lm="picaporte"><i>picaporte</i><par n="abismo__n"/></e>
 <e lm="picardo"><i>picard</i><par n="abogad/o__n"/></e>
 <e lm="picardía"><i>picardía</i><par n="abeja__n"/></e>
-<e lm="picatoste"><i>picatoste</i><par n="abismo__n"/></e>
 <e lm="picazo"><i>picazo</i><par n="abismo__n"/></e>
 <e lm="pichel"><i>pichel</i><par n="abril__n"/></e>
 <e lm="pichelero"><i>picheler</i><par n="abogad/o__n"/></e>
@@ -24839,7 +24741,6 @@
 <e lm="pisaúvas"><i>pisaúvas</i><par n="IRPF__n"/></e>
 <e lm="piscator"><i>piscator</i><par n="abril__n"/></e>
 <e lm="piscicultor"><i>piscicultor</i><par n="señor__n"/></e>
-<e lm="piscicultura"><i>piscicultura</i><par n="abeja__n"/></e>
 <e lm="pisco"><i>pisco</i><par n="abismo__n"/></e>
 <e lm="piscolabis"><i>piscolabis</i><par n="IRPF__n"/></e>
 <e lm="piscívoro"><i>piscívor</i><par n="abogad/o__n"/></e>
@@ -24904,7 +24805,6 @@
 <e lm="piélago"><i>piélago</i><par n="abismo__n"/></e>
 <e lm="piéride"><i>piéride</i><par n="abeja__n"/></e>
 <e lm="piñal"><i>piñal</i><par n="abril__n"/></e>
-<e lm="piñata"><i>piñata</i><par n="abeja__n"/></e>
 <e lm="piñonata"><i>piñonata</i><par n="abeja__n"/></e>
 <e lm="piñonate"><i>piñonate</i><par n="abismo__n"/></e>
 <e lm="piñoneo"><i>piñoneo</i><par n="abismo__n"/></e>
@@ -25514,7 +25414,6 @@
 <e lm="posadero"><i>posader</i><par n="abogad/o__n"/></e>
 <e lm="poscombustión"><i>poscombusti</i><par n="acci/ón__n"/></e>
 <e lm="poscomunión"><i>poscomuni</i><par n="acci/ón__n"/></e>
-<e lm="pose"><i>pose</i><par n="abeja__n"/></e>
 <e lm="posesionero"><i>posesioner</i><par n="abogad/o__n"/></e>
 <e lm="posesivo"><i>posesivo</i><par n="abismo__n"/></e>
 <e lm="posesor"><i>posesor</i><par n="señor__n"/></e>
@@ -25535,7 +25434,6 @@
 <e lm="posología"><i>posología</i><par n="abeja__n"/></e>
 <e lm="pospierna"><i>pospierna</i><par n="abeja__n"/></e>
 <e lm="postcontracción"><i>postcontracci</i><par n="acci/ón__n"/></e>
-<e lm="postcosecha"><i>postcosecha</i><par n="abeja__n"/></e>
 <e lm="postcurado"><i>postcurado</i><par n="abismo__n"/></e>
 <e lm="postdelictualidad"><i>postdelictualidad</i><par n="accesibilidad__n"/></e>
 <e lm="postdorsal"><i>postdorsal</i><par n="accesibilidad__n"/></e>
@@ -25548,7 +25446,6 @@
 <e lm="posteta"><i>posteta</i><par n="abeja__n"/></e>
 <e lm="postfijo"><i>postfijo</i><par n="abismo__n"/></e>
 <e lm="postformado"><i>postformado</i><par n="abismo__n"/></e>
-<e lm="postguerra"><i>postguerra</i><par n="abeja__n"/></e>
 <e lm="postigo"><i>postigo</i><par n="abismo__n"/></e>
 <e lm="postilla"><i>postilla</i><par n="abeja__n"/></e>
 <e lm="postillón"><i>postill</i><par n="aluvi/ón__n"/></e>
@@ -25760,7 +25657,6 @@
 <e lm="prendero"><i>prender</i><par n="abogad/o__n"/></e>
 <e lm="prendería"><i>prendería</i><par n="abeja__n"/></e>
 <e lm="prendido"><i>prendido</i><par n="abismo__n"/></e>
-<e lm="prendimiento"><i>prendimiento</i><par n="abismo__n"/></e>
 <e lm="prenoción"><i>prenoci</i><par n="acci/ón__n"/></e>
 <e lm="prenombre"><i>prenombre</i><par n="abismo__n"/></e>
 <e lm="prensabala"><i>prensabala</i><par n="abeja__n"/></e>
@@ -25816,7 +25712,6 @@
 <e lm="presiógrafo"><i>presiógrafo</i><par n="abismo__n"/></e>
 <e lm="presiómetro"><i>presiómetro</i><par n="abismo__n"/></e>
 <e lm="presocrático"><i>presocrático</i><par n="abismo__n"/></e>
-<e lm="presostato"><i>presostato</i><par n="abismo__n"/></e>
 <e lm="pressing"><i>pressing</i><par n="abismo__n"/></e>
 <e lm="prest"><i>prest</i><par n="abril__n"/></e>
 <e lm="prestancia"><i>prestancia</i><par n="abeja__n"/></e>
@@ -25959,7 +25854,6 @@
 <e lm="profetizador"><i>profetizador</i><par n="señor__n"/></e>
 <e lm="profibrinolisina"><i>profibrinolisina</i><par n="abeja__n"/></e>
 <e lm="profiláctico"><i>profiláctico</i><par n="abismo__n"/></e>
-<e lm="profiterol"><i>profiterol</i><par n="abril__n"/></e>
 <e lm="profiteroles"><i>profiteroles</i><par n="IRPF__n"/></e>
 <e lm="proflavina"><i>proflavina</i><par n="abeja__n"/></e>
 <e lm="profundo"><i>profundo</i><par n="abismo__n"/></e>
@@ -25979,7 +25873,6 @@
 <e lm="prolactina"><i>prolactina</i><par n="abeja__n"/></e>
 <e lm="prolamina"><i>prolamina</i><par n="abeja__n"/></e>
 <e lm="prole"><i>prole</i><par n="abeja__n"/></e>
-<e lm="prolegómeno"><i>prolegómeno</i><par n="abismo__n"/></e>
 <e lm="prolepsis"><i>prolepsis</i><par n="ETS__n"/></e>
 <e lm="proletarismo"><i>proletarismo</i><par n="abismo__n"/></e>
 <e lm="prolificidad"><i>prolificidad</i><par n="accesibilidad__n"/></e>
@@ -26224,7 +26117,6 @@
 <e lm="pueblerino"><i>pueblerin</i><par n="abogad/o__n"/></e>
 <e lm="pueblucho"><i>pueblucho</i><par n="abismo__n"/></e>
 <e lm="puenteo"><i>puenteo</i><par n="abismo__n"/></e>
-<e lm="puenting"><i>puenting</i><par n="abismo__n"/></e>
 <e lm="puerca"><i>puerca</i><par n="abeja__n"/></e>
 <e lm="puercoespín"><i>puercoesp</i><par n="bot/ín__n"/></e>
 <e lm="puericia"><i>puericia</i><par n="abeja__n"/></e>
@@ -26277,7 +26169,6 @@
 <e lm="pulsímetro"><i>pulsímetro</i><par n="abismo__n"/></e>
 <e lm="pulsómetro"><i>pulsómetro</i><par n="abismo__n"/></e>
 <e lm="pulverizado"><i>pulverizado</i><par n="abismo__n"/></e>
-<e lm="pulverizador"><i>pulverizador</i><par n="señor__n"/></e>
 <e lm="pulverulencia"><i>pulverulencia</i><par n="abeja__n"/></e>
 <e lm="pulvimetalurgia"><i>pulvimetalurgia</i><par n="abeja__n"/></e>
 <e lm="pumita"><i>pumita</i><par n="abeja__n"/></e>
@@ -26701,7 +26592,6 @@
 <e lm="rabillo"><i>rabillo</i><par n="abismo__n"/></e>
 <e lm="rabinismo"><i>rabinismo</i><par n="abismo__n"/></e>
 <e lm="rabinista"><i>rabinista</i><par n="accionista__n"/></e>
-<e lm="rabioso"><i>rabios</i><par n="abogad/o__n"/></e>
 <e lm="rabisalsera"><i>rabisalsera</i><par n="abeja__n"/></e>
 <e lm="rabiza"><i>rabiza</i><par n="abeja__n"/></e>
 <e lm="rabión"><i>rabi</i><par n="aluvi/ón__n"/></e>
@@ -26773,7 +26663,6 @@
 <e lm="radioguía"><i>radioguía</i><par n="accionista__n"/></e>
 <e lm="radioinmunodifusión"><i>radioinmunodifusi</i><par n="acci/ón__n"/></e>
 <e lm="radioinmunoelectroforesis"><i>radioinmunoelectroforesis</i><par n="ETS__n"/></e>
-<e lm="radioinmunoensayo"><i>radioinmunoensayo</i><par n="abismo__n"/></e>
 <e lm="radioinmunovaloración"><i>radioinmunovaloraci</i><par n="acci/ón__n"/></e>
 <e lm="radiointerferómetro"><i>radiointerferómetro</i><par n="abismo__n"/></e>
 <e lm="radiolario"><i>radiolario</i><par n="abismo__n"/></e>
@@ -26876,7 +26765,6 @@
 <e lm="rancidez"><i>rancide</i><par n="actri/z__n"/></e>
 <e lm="ranciedad"><i>ranciedad</i><par n="accesibilidad__n"/></e>
 <e lm="rand"><i>rand</i><par n="abismo__n"/></e>
-<e lm="randa"><i>randa</i><par n="abeja__n"/></e>
 <e lm="rangua"><i>rangua</i><par n="abeja__n"/></e>
 <e lm="rangífero"><i>rangífero</i><par n="abismo__n"/></e>
 <e lm="ranilla"><i>ranilla</i><par n="abeja__n"/></e>
@@ -26934,7 +26822,6 @@
 <e lm="rasgueado"><i>rasgueado</i><par n="abismo__n"/></e>
 <e lm="rasgueador"><i>rasgueador</i><par n="señor__n"/></e>
 <e lm="rasgueo"><i>rasgueo</i><par n="abismo__n"/></e>
-<e lm="rasguño"><i>rasguño</i><par n="abismo__n"/></e>
 <e lm="rasilla"><i>rasilla</i><par n="abeja__n"/></e>
 <e lm="raso"><i>raso</i><par n="abismo__n"/></e>
 <e lm="raspado"><i>raspado</i><par n="abismo__n"/></e>
@@ -26986,7 +26873,6 @@
 <e lm="rayador"><i>rayador</i><par n="abismo__n"/></e>
 <e lm="rayadora"><i>rayadora</i><par n="abeja__n"/></e>
 <e lm="rayadura"><i>rayadura</i><par n="abeja__n"/></e>
-<e lm="rayuela"><i>rayuela</i><par n="abeja__n"/></e>
 <e lm="razia"><i>razia</i><par n="abeja__n"/></e>
 <e lm="razonador"><i>razonador</i><par n="señor__n"/></e>
 <e lm="razzia"><i>razzia</i><par n="abeja__n"/></e>
@@ -27159,7 +27045,6 @@
 <e lm="recogebalones"><i>recogebalones</i><par n="ATS__n"/></e>
 <e lm="recogebates"><i>recogebates</i><par n="ATS__n"/></e>
 <e lm="recogedero"><i>recogedero</i><par n="abismo__n"/></e>
-<e lm="recogedor"><i>recogedor</i><par n="abril__n"/></e>
 <e lm="recoleto"><i>recoleto</i><par n="abismo__n"/></e>
 <e lm="recomendado"><i>recomendad</i><par n="abogad/o__n"/></e>
 <e lm="recompactación"><i>recompactaci</i><par n="acci/ón__n"/></e>
@@ -27654,7 +27539,6 @@
 <e lm="reprensor"><i>reprensor</i><par n="señor__n"/></e>
 <e lm="represa"><i>represa</i><par n="abeja__n"/></e>
 <e lm="represor"><i>represor</i><par n="señor__n"/></e>
-<e lm="reprimenda"><i>reprimenda</i><par n="abeja__n"/></e>
 <e lm="reprivatización"><i>reprivatizaci</i><par n="acci/ón__n"/></e>
 <e lm="reprobado"><i>reprobad</i><par n="abogad/o__n"/></e>
 <e lm="reprobador"><i>reprobador</i><par n="señor__n"/></e>
@@ -27773,7 +27657,6 @@
 <e lm="resquemo"><i>resquemo</i><par n="abismo__n"/></e>
 <e lm="restador"><i>restador</i><par n="señor__n"/></e>
 <e lm="restallido"><i>restallido</i><par n="abismo__n"/></e>
-<e lm="restaurador"><i>restaurador</i><par n="señor__n"/></e>
 <e lm="restaurativo"><i>restaurativo</i><par n="abismo__n"/></e>
 <e lm="restañadero"><i>restañadero</i><par n="abismo__n"/></e>
 <e lm="restañadura"><i>restañadura</i><par n="abeja__n"/></e>
@@ -27877,7 +27760,6 @@
 <e lm="retrodispersión"><i>retrodispersi</i><par n="acci/ón__n"/></e>
 <e lm="retrodonación"><i>retrodonaci</i><par n="acci/ón__n"/></e>
 <e lm="retroensamblador"><i>retroensamblador</i><par n="abril__n"/></e>
-<e lm="retroexcavadora"><i>retroexcavadora</i><par n="abeja__n"/></e>
 <e lm="retrofaringe"><i>retrofaringe</i><par n="abeja__n"/></e>
 <e lm="retrogenia"><i>retrogenia</i><par n="abeja__n"/></e>
 <e lm="retrogradación"><i>retrogradaci</i><par n="acci/ón__n"/></e>
@@ -28013,7 +27895,6 @@
 <e lm="ricahombría"><i>ricahombría</i><par n="abeja__n"/></e>
 <e lm="ricia"><i>ricia</i><par n="abeja__n"/></e>
 <e lm="ricina"><i>ricina</i><par n="abeja__n"/></e>
-<e lm="ricino"><i>ricino</i><par n="abismo__n"/></e>
 <e lm="ricinoleato"><i>ricinoleato</i><par n="abismo__n"/></e>
 <e lm="rickettsia"><i>rickettsia</i><par n="abeja__n"/></e>
 <e lm="rickettsiosis"><i>rickettsiosis</i><par n="ETS__n"/></e>
@@ -28242,7 +28123,6 @@
 <e lm="rompenueces"><i>rompenueces</i><par n="IRPF__n"/></e>
 <e lm="rompevirutas"><i>rompevirutas</i><par n="IRPF__n"/></e>
 <e lm="rompido"><i>rompido</i><par n="abismo__n"/></e>
-<e lm="rompimiento"><i>rompimiento</i><par n="abismo__n"/></e>
 <e lm="románico"><i>románico</i><par n="abismo__n"/></e>
 <e lm="romántico"><i>romántic</i><par n="abogad/o__n"/></e>
 <e lm="ronca"><i>ronca</i><par n="abeja__n"/></e>
@@ -28607,7 +28487,6 @@
 <e lm="salinómetro"><i>salinómetro</i><par n="abismo__n"/></e>
 <e lm="salio"><i>sali</i><par n="abogad/o__n"/></e>
 <e lm="salitral"><i>salitral</i><par n="abril__n"/></e>
-<e lm="salitre"><i>salitre</i><par n="abismo__n"/></e>
 <e lm="salitrero"><i>salitrer</i><par n="abogad/o__n"/></e>
 <e lm="salitrería"><i>salitrería</i><par n="abeja__n"/></e>
 <e lm="salivajo"><i>salivajo</i><par n="abismo__n"/></e>
@@ -28620,8 +28499,6 @@
 <e lm="salmonelosis"><i>salmonelosis</i><par n="ETS__n"/></e>
 <e lm="salmonera"><i>salmonera</i><par n="abeja__n"/></e>
 <e lm="salmonicultura"><i>salmonicultura</i><par n="abeja__n"/></e>
-<e lm="salmorejo"><i>salmorejo</i><par n="abismo__n"/></e>
-<e lm="salmónido"><i>salmónido</i><par n="abismo__n"/></e>
 <e lm="salobral"><i>salobral</i><par n="abril__n"/></e>
 <e lm="salobridad"><i>salobridad</i><par n="accesibilidad__n"/></e>
 <e lm="salol"><i>salol</i><par n="abril__n"/></e>
@@ -29143,7 +29020,6 @@
 <e lm="seraje"><i>seraje</i><par n="abismo__n"/></e>
 <e lm="serasquier"><i>serasquier</i><par n="abril__n"/></e>
 <e lm="serasquierato"><i>serasquierato</i><par n="abismo__n"/></e>
-<e lm="serba"><i>serba</i><par n="abeja__n"/></e>
 <e lm="serbal"><i>serbal</i><par n="abril__n"/></e>
 <e lm="serbobosnio"><i>serbobosni</i><par n="abogad/o__n"/></e>
 <e lm="serbocroata"><i>serbocroata</i><par n="accionista__n"/></e>
@@ -29548,7 +29424,6 @@
 <e lm="sirte"><i>sirte</i><par n="abismo__n"/></e>
 <e lm="sirventés"><i>sirvent</i><par n="cipr/és__n"/></e>
 <e lm="siríaco"><i>siríac</i><par n="abogad/o__n"/></e>
-<e lm="sisa"><i>sisa</i><par n="abeja__n"/></e>
 <e lm="sisador"><i>sisador</i><par n="señor__n"/></e>
 <e lm="sismo"><i>sismo</i><par n="abismo__n"/></e>
 <e lm="sismografía"><i>sismografía</i><par n="abeja__n"/></e>
@@ -29639,7 +29514,6 @@
 <e lm="sobreelevación"><i>sobreelevaci</i><par n="acci/ón__n"/></e>
 <e lm="sobreempeño"><i>sobreempeño</i><par n="abismo__n"/></e>
 <e lm="sobreempleo"><i>sobreempleo</i><par n="abismo__n"/></e>
-<e lm="sobreentrenamiento"><i>sobreentrenamiento</i><par n="abismo__n"/></e>
 <e lm="sobreenvejecimiento"><i>sobreenvejecimiento</i><par n="abismo__n"/></e>
 <e lm="sobreerupción"><i>sobreerupci</i><par n="acci/ón__n"/></e>
 <e lm="sobreesdrújula"><i>sobreesdrújula</i><par n="abeja__n"/></e>
@@ -29829,7 +29703,6 @@
 <e lm="solidarización"><i>solidarizaci</i><par n="acci/ón__n"/></e>
 <e lm="solideo"><i>solideo</i><par n="abismo__n"/></e>
 <e lm="solifluxión"><i>solifluxi</i><par n="acci/ón__n"/></e>
-<e lm="soliloquio"><i>soliloquio</i><par n="abismo__n"/></e>
 <e lm="solio"><i>solio</i><par n="abismo__n"/></e>
 <e lm="solipsismo"><i>solipsismo</i><par n="abismo__n"/></e>
 <e lm="solitaria"><i>solitaria</i><par n="abeja__n"/></e>
@@ -30126,7 +29999,6 @@
 <e lm="sublicencia"><i>sublicencia</i><par n="abeja__n"/></e>
 <e lm="sublimado"><i>sublimado</i><par n="abismo__n"/></e>
 <e lm="sublimador"><i>sublimador</i><par n="abril__n"/></e>
-<e lm="sublimidad"><i>sublimidad</i><par n="accesibilidad__n"/></e>
 <e lm="sublista"><i>sublista</i><par n="abeja__n"/></e>
 <e lm="subluxación"><i>subluxaci</i><par n="acci/ón__n"/></e>
 <e lm="sublímite"><i>sublímite</i><par n="abismo__n"/></e>
@@ -30342,7 +30214,6 @@
 <e lm="superhumeral"><i>superhumeral</i><par n="abril__n"/></e>
 <e lm="supericonoscopio"><i>supericonoscopio</i><par n="abismo__n"/></e>
 <e lm="superintendencia"><i>superintendencia</i><par n="abeja__n"/></e>
-<e lm="superintendente"><i>superintendente</i><par n="accionista__n"/></e>
 <e lm="superior"><i>superior</i><par n="abril__n"/></e>
 <e lm="superiora"><i>superiora</i><par n="abeja__n"/></e>
 <e lm="superiorato"><i>superiorato</i><par n="abismo__n"/></e>
@@ -30367,7 +30238,6 @@
 <e lm="supervención"><i>supervenci</i><par n="acci/ón__n"/></e>
 <e lm="superveniencia"><i>superveniencia</i><par n="abeja__n"/></e>
 <e lm="superyección"><i>superyecci</i><par n="acci/ón__n"/></e>
-<e lm="superyó"><i>superyó</i><par n="abismo__n"/></e>
 <e lm="superóxido"><i>superóxido</i><par n="abismo__n"/></e>
 <e lm="supinación"><i>supinaci</i><par n="acci/ón__n"/></e>
 <e lm="supinador"><i>supinador</i><par n="abril__n"/></e>
@@ -30396,7 +30266,6 @@
 <e lm="supurativo"><i>supurativo</i><par n="abismo__n"/></e>
 <e lm="suputación"><i>suputaci</i><par n="acci/ón__n"/></e>
 <e lm="supósito"><i>supósito</i><par n="abismo__n"/></e>
-<e lm="sura"><i>sura</i><par n="club__n"/></e>
 <e lm="surafricano"><i>surafrican</i><par n="abogad/o__n"/></e>
 <e lm="suramericano"><i>suramerican</i><par n="abogad/o__n"/></e>
 <e lm="surcador"><i>surcador</i><par n="señor__n"/></e>
@@ -30406,7 +30275,6 @@
 <e lm="surfero"><i>surfer</i><par n="abogad/o__n"/></e>
 <e lm="surgidero"><i>surgidero</i><par n="abismo__n"/></e>
 <e lm="surgidor"><i>surgidor</i><par n="señor__n"/></e>
-<e lm="suricata"><i>suricata</i><par n="abeja__n"/></e>
 <e lm="suripanta"><i>suripanta</i><par n="abeja__n"/></e>
 <e lm="surmenage"><i>surmenage</i><par n="abismo__n"/></e>
 <e lm="surplace"><i>surplace</i><par n="abismo__n"/></e>
@@ -30432,7 +30300,6 @@
 <e lm="susurración"><i>susurraci</i><par n="acci/ón__n"/></e>
 <e lm="susurrador"><i>susurrador</i><par n="señor__n"/></e>
 <e lm="susurrido"><i>susurrido</i><par n="abismo__n"/></e>
-<e lm="sutilidad"><i>sutilidad</i><par n="accesibilidad__n"/></e>
 <e lm="sutra"><i>sutra</i><par n="accionista__n"/></e>
 <e lm="svástica"><i>svástica</i><par n="abeja__n"/></e>
 <e lm="swaheli"><i>swaheli</i><par n="abismo__n"/></e>
@@ -30495,7 +30362,6 @@
 <e lm="tabasqueño"><i>tabasqueñ</i><par n="abogad/o__n"/></e>
 <e lm="tabelladura"><i>tabelladura</i><par n="abeja__n"/></e>
 <e lm="tabernería"><i>tabernería</i><par n="abeja__n"/></e>
-<e lm="tabernáculo"><i>tabernáculo</i><par n="abismo__n"/></e>
 <e lm="tabes"><i>tabes</i><par n="IRPF__n"/></e>
 <e lm="tabica"><i>tabica</i><par n="abeja__n"/></e>
 <e lm="tabicamiento"><i>tabicamiento</i><par n="abismo__n"/></e>
@@ -30515,7 +30381,6 @@
 <e lm="tableteado"><i>tableteado</i><par n="abismo__n"/></e>
 <e lm="tableteo"><i>tableteo</i><par n="abismo__n"/></e>
 <e lm="tablilla"><i>tablilla</i><par n="abeja__n"/></e>
-<e lm="tablita"><i>tablita</i><par n="abeja__n"/></e>
 <e lm="tablonaje"><i>tablonaje</i><par n="abismo__n"/></e>
 <e lm="tabloncillo"><i>tabloncillo</i><par n="abismo__n"/></e>
 <e lm="tabo"><i>tabo</i><par n="abismo__n"/></e>
@@ -30781,7 +30646,6 @@
 <e lm="tarsorrafía"><i>tarsorrafía</i><par n="abeja__n"/></e>
 <e lm="tartaja"><i>tartaja</i><par n="accionista__n"/></e>
 <e lm="tartajoso"><i>tartajos</i><par n="abogad/o__n"/></e>
-<e lm="tartaleta"><i>tartaleta</i><par n="abeja__n"/></e>
 <e lm="tartan"><i>tartan</i><par n="BBVA__n"/></e>
 <e lm="tartana"><i>tartana</i><par n="abeja__n"/></e>
 <e lm="tartanero"><i>tartaner</i><par n="abogad/o__n"/></e>
@@ -30863,7 +30727,6 @@
 <e lm="teda"><i>teda</i><par n="abeja__n"/></e>
 <e lm="tedero"><i>tedero</i><par n="abismo__n"/></e>
 <e lm="tedéum"><i>tedéum</i><par n="IRPF__n"/></e>
-<e lm="teflón"><i>tefl</i><par n="aluvi/ón__n"/></e>
 <e lm="teguillo"><i>teguillo</i><par n="abismo__n"/></e>
 <e lm="tegumento"><i>tegumento</i><par n="abismo__n"/></e>
 <e lm="tehuelche"><i>tehuelche</i><par n="accionista__n"/></e>
@@ -30930,7 +30793,6 @@
 <e lm="telemanipulador"><i>telemanipulador</i><par n="señor__n"/></e>
 <e lm="telemecánica"><i>telemecánica</i><par n="abeja__n"/></e>
 <e lm="telemedición"><i>telemedici</i><par n="acci/ón__n"/></e>
-<e lm="telemedida"><i>telemedida</i><par n="abeja__n"/></e>
 <e lm="telemetro"><i>telemetro</i><par n="abismo__n"/></e>
 <e lm="telemetría"><i>telemetría</i><par n="abeja__n"/></e>
 <e lm="telemotor"><i>telemotor</i><par n="señor__n"/></e>
@@ -30977,7 +30839,6 @@
 <e lm="telonero"><i>teloner</i><par n="abogad/o__n"/></e>
 <e lm="telosinapsis"><i>telosinapsis</i><par n="ETS__n"/></e>
 <e lm="teluro"><i>teluro</i><par n="abismo__n"/></e>
-<e lm="telurómetro"><i>telurómetro</i><par n="abismo__n"/></e>
 <e lm="telémetro"><i>telémetro</i><par n="abismo__n"/></e>
 <e lm="telómero"><i>telómer</i><par n="abogad/o__n"/></e>
 <e lm="tembladal"><i>tembladal</i><par n="abril__n"/></e>
@@ -31121,7 +30982,6 @@
 <e lm="termo"><i>termo</i><par n="abismo__n"/></e>
 <e lm="termoalgesia"><i>termoalgesia</i><par n="abeja__n"/></e>
 <e lm="termoanalgesia"><i>termoanalgesia</i><par n="abeja__n"/></e>
-<e lm="termobalanza"><i>termobalanza</i><par n="abeja__n"/></e>
 <e lm="termocauterio"><i>termocauterio</i><par n="abismo__n"/></e>
 <e lm="termocauterización"><i>termocauterizaci</i><par n="acci/ón__n"/></e>
 <e lm="termoclina"><i>termoclina</i><par n="abeja__n"/></e>
@@ -31625,7 +31485,6 @@
 <e lm="toluensulfonamida"><i>toluensulfonamida</i><par n="abeja__n"/></e>
 <e lm="toluensulfonato"><i>toluensulfonato</i><par n="abismo__n"/></e>
 <e lm="toluhidroquinona"><i>toluhidroquinona</i><par n="abeja__n"/></e>
-<e lm="toluidina"><i>toluidina</i><par n="abeja__n"/></e>
 <e lm="toluquinona"><i>toluquinona</i><par n="abeja__n"/></e>
 <e lm="tolvanera"><i>tolvanera</i><par n="abeja__n"/></e>
 <e lm="tomacorriente"><i>tomacorriente</i><par n="abeja__n"/></e>
@@ -31648,7 +31507,6 @@
 <e lm="tonadillero"><i>tonadiller</i><par n="abogad/o__n"/></e>
 <e lm="tondino"><i>tondino</i><par n="abismo__n"/></e>
 <e lm="tondiz"><i>tondi</i><par n="actri/z__n"/></e>
-<e lm="tondo"><i>tondo</i><par n="abismo__n"/></e>
 <e lm="tonelero"><i>toneler</i><par n="abogad/o__n"/></e>
 <e lm="tonelete"><i>tonelete</i><par n="abismo__n"/></e>
 <e lm="tonema"><i>tonema</i><par n="abeja__n"/></e>
@@ -31941,7 +31799,6 @@
 <e lm="transferibilidad"><i>transferibilidad</i><par n="accesibilidad__n"/></e>
 <e lm="transferidor"><i>transferidor</i><par n="señor__n"/></e>
 <e lm="transferrina"><i>transferrina</i><par n="abeja__n"/></e>
-<e lm="transfiguración"><i>transfiguraci</i><par n="acci/ón__n"/></e>
 <e lm="transfixión"><i>transfixi</i><par n="acci/ón__n"/></e>
 <e lm="transflor"><i>transflor</i><par n="abril__n"/></e>
 <e lm="transfluencia"><i>transfluencia</i><par n="abeja__n"/></e>
@@ -32050,7 +31907,6 @@
 <e lm="trasfusión"><i>trasfusi</i><par n="acci/ón__n"/></e>
 <e lm="trasfusor"><i>trasfusor</i><par n="señor__n"/></e>
 <e lm="trasgo"><i>trasgo</i><par n="abismo__n"/></e>
-<e lm="trasgresión"><i>trasgresi</i><par n="acci/ón__n"/></e>
 <e lm="trasguero"><i>trasguer</i><par n="abogad/o__n"/></e>
 <e lm="trashoguero"><i>trashoguero</i><par n="abismo__n"/></e>
 <e lm="trashumación"><i>trashumaci</i><par n="acci/ón__n"/></e>
@@ -32131,7 +31987,6 @@
 <e lm="travesero"><i>travesero</i><par n="abismo__n"/></e>
 <e lm="travesti"><i>travesti</i><par n="accionista__n"/></e>
 <e lm="travestismo"><i>travestismo</i><par n="abismo__n"/></e>
-<e lm="travesura"><i>travesura</i><par n="abeja__n"/></e>
 <e lm="trazabilidad"><i>trazabilidad</i><par n="accesibilidad__n"/></e>
 <e lm="trazador"><i>trazador</i><par n="abril__n"/></e>
 <e lm="trazadora"><i>trazadora</i><par n="abeja__n"/></e>
@@ -32198,7 +32053,6 @@
 <e lm="triacetina"><i>triacetina</i><par n="abeja__n"/></e>
 <e lm="triacetoxiestearato"><i>triacetoxiestearato</i><par n="abismo__n"/></e>
 <e lm="triache"><i>triache</i><par n="abismo__n"/></e>
-<e lm="triaje"><i>triaje</i><par n="abismo__n"/></e>
 <e lm="triamida"><i>triamida</i><par n="abeja__n"/></e>
 <e lm="triamilamina"><i>triamilamina</i><par n="abeja__n"/></e>
 <e lm="triaminotrifenilmetano"><i>triaminotrifenilmetano</i><par n="abismo__n"/></e>
@@ -32292,7 +32146,6 @@
 <e lm="trilladura"><i>trilladura</i><par n="abeja__n"/></e>
 <e lm="trillizo"><i>trilliz</i><par n="abogad/o__n"/></e>
 <e lm="trilobite"><i>trilobite</i><par n="abismo__n"/></e>
-<e lm="trimarán"><i>trimar</i><par n="adem/án__n"/></e>
 <e lm="trimerización"><i>trimerizaci</i><par n="acci/ón__n"/></e>
 <e lm="trimero"><i>trimero</i><par n="abismo__n"/></e>
 <e lm="trimería"><i>trimería</i><par n="abeja__n"/></e>
@@ -32524,7 +32377,6 @@
 <e lm="trónica"><i>trónica</i><par n="abeja__n"/></e>
 <e lm="tsavorita"><i>tsavorita</i><par n="abeja__n"/></e>
 <e lm="tsetsé"><i>tsetsé</i><par n="abeja__n"/></e>
-<e lm="tuareg"><i>tuareg</i><par n="ATS__n"/></e>
 <e lm="tuberculina"><i>tuberculina</i><par n="abeja__n"/></e>
 <e lm="tuberculinismo"><i>tuberculinismo</i><par n="abismo__n"/></e>
 <e lm="tuberculización"><i>tuberculizaci</i><par n="acci/ón__n"/></e>
@@ -32536,7 +32388,6 @@
 <e lm="tucuirico"><i>tucuirico</i><par n="abismo__n"/></e>
 <e lm="tucumano"><i>tucuman</i><par n="abogad/o__n"/></e>
 <e lm="tucutuco"><i>tucutuco</i><par n="abismo__n"/></e>
-<e lm="tucán"><i>tuc</i><par n="adem/án__n"/></e>
 <e lm="tudel"><i>tudel</i><par n="abril__n"/></e>
 <e lm="tudelano"><i>tudelan</i><par n="abogad/o__n"/></e>
 <e lm="tudesco"><i>tudesco</i><par n="abismo__n"/></e>
@@ -32544,7 +32395,6 @@
 <e lm="tueco"><i>tuec</i><par n="abogad/o__n"/></e>
 <e lm="tuerce"><i>tuerce</i><par n="abismo__n"/></e>
 <e lm="tuero"><i>tuero</i><par n="abismo__n"/></e>
-<e lm="tueste"><i>tueste</i><par n="abismo__n"/></e>
 <e lm="tufarada"><i>tufarada</i><par n="abeja__n"/></e>
 <e lm="tufillas"><i>tufillas</i><par n="ATS__n"/></e>
 <e lm="tugrik"><i>tugrik</i><par n="abismo__n"/></e>
@@ -32820,7 +32670,6 @@
 <e lm="uruguayismo"><i>uruguayismo</i><par n="abismo__n"/></e>
 <e lm="urutaú"><i>urutaú</i><par n="club__n"/></e>
 <e lm="urópodo"><i>urópodo</i><par n="abismo__n"/></e>
-<e lm="usabilidad"><i>usabilidad</i><par n="accesibilidad__n"/></e>
 <e lm="usagre"><i>usagre</i><par n="abismo__n"/></e>
 <e lm="usanza"><i>usanza</i><par n="abeja__n"/></e>
 <e lm="usier"><i>usier</i><par n="abril__n"/></e>
@@ -33035,7 +32884,6 @@
 <e lm="vecera"><i>vecera</i><par n="abeja__n"/></e>
 <e lm="vecero"><i>vecer</i><par n="abogad/o__n"/></e>
 <e lm="vecería"><i>vecería</i><par n="abeja__n"/></e>
-<e lm="vectorización"><i>vectorizaci</i><par n="acci/ón__n"/></e>
 <e lm="veda"><i>veda</i><par n="abeja__n"/></e>
 <e lm="vedanta"><i>vedanta</i><par n="abismo__n"/></e>
 <e lm="vedegambre"><i>vedegambre</i><par n="abismo__n"/></e>
@@ -33228,7 +33076,6 @@
 <e lm="vermicida"><i>vermicida</i><par n="abismo__n"/></e>
 <e lm="vermiculita"><i>vermiculita</i><par n="abeja__n"/></e>
 <e lm="vermis"><i>vermis</i><par n="IRPF__n"/></e>
-<e lm="vermut"><i>vermut</i><par n="abismo__n"/></e>
 <e lm="vermífugo"><i>vermífugo</i><par n="abismo__n"/></e>
 <e lm="vernalización"><i>vernalizaci</i><par n="acci/ón__n"/></e>
 <e lm="vero"><i>vero</i><par n="abismo__n"/></e>
@@ -33281,7 +33128,6 @@
 <e lm="veta"><i>veta</i><par n="abeja__n"/></e>
 <e lm="vetiverol"><i>vetiverol</i><par n="abril__n"/></e>
 <e lm="vetustez"><i>vetuste</i><par n="actri/z__n"/></e>
-<e lm="veza"><i>veza</i><par n="abeja__n"/></e>
 <e lm="viada"><i>viada</i><par n="abeja__n"/></e>
 <e lm="viador"><i>viador</i><par n="abril__n"/></e>
 <e lm="vialidad"><i>vialidad</i><par n="accesibilidad__n"/></e>
@@ -33500,7 +33346,6 @@
 <e lm="vizcacha"><i>vizcacha</i><par n="abeja__n"/></e>
 <e lm="vizcainada"><i>vizcainada</i><par n="abeja__n"/></e>
 <e lm="vizcaitarra"><i>vizcaitarra</i><par n="accionista__n"/></e>
-<e lm="vizcondado"><i>vizcondado</i><par n="abismo__n"/></e>
 <e lm="vizcondesa"><i>vizcondesa</i><par n="abeja__n"/></e>
 <e lm="viático"><i>viático</i><par n="abismo__n"/></e>
 <e lm="viñadero"><i>viñader</i><par n="abogad/o__n"/></e>
@@ -33561,7 +33406,6 @@
 <e lm="voltsegundo"><i>voltsegundo</i><par n="abismo__n"/></e>
 <e lm="voltámetro"><i>voltámetro</i><par n="abismo__n"/></e>
 <e lm="volumenómetro"><i>volumenómetro</i><par n="abismo__n"/></e>
-<e lm="voluptuosidad"><i>voluptuosidad</i><par n="accesibilidad__n"/></e>
 <e lm="volverina"><i>volverina</i><par n="abeja__n"/></e>
 <e lm="volvo"><i>volvo</i><par n="abismo__n"/></e>
 <e lm="volvocal"><i>volvocal</i><par n="accesibilidad__n"/></e>
@@ -33753,7 +33597,6 @@
 <e lm="yerbatero"><i>yerbater</i><par n="abogad/o__n"/></e>
 <e lm="yerbera"><i>yerbera</i><par n="abeja__n"/></e>
 <e lm="yermo"><i>yermo</i><par n="abismo__n"/></e>
-<e lm="yero"><i>yero</i><par n="abismo__n"/></e>
 <e lm="yerro"><i>yerro</i><par n="abismo__n"/></e>
 <e lm="yesal"><i>yesal</i><par n="abril__n"/></e>
 <e lm="yesar"><i>yesar</i><par n="abril__n"/></e>
@@ -33951,7 +33794,6 @@
 <e lm="zarria"><i>zarria</i><par n="abeja__n"/></e>
 <e lm="zarzaganillo"><i>zarzaganillo</i><par n="abismo__n"/></e>
 <e lm="zarzagán"><i>zarzag</i><par n="adem/án__n"/></e>
-<e lm="zarzamora"><i>zarzamora</i><par n="abeja__n"/></e>
 <e lm="zarzaparrilla"><i>zarzaparrilla</i><par n="abeja__n"/></e>
 <e lm="zarzaparrillar"><i>zarzaparrillar</i><par n="abril__n"/></e>
 <e lm="zarzaperruna"><i>zarzaperruna</i><par n="abeja__n"/></e>

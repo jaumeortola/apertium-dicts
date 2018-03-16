@@ -548,7 +548,6 @@
 <e lm="agresà"><i>agres</i><par n="afric/à__adj"/></e>
 <e lm="agreujant"><i>agreujant</i><par n="abdominal__adj"/></e>
 <e lm="agripnòtic"><i>agripnòti</i><par n="acadèmi/c__adj"/></e>
-<e lm="agroecològic"><i>agroecològi</i><par n="acadèmi/c__adj"/></e>
 <e lm="agroforestal"><i>agroforestal</i><par n="abdominal__adj"/></e>
 <e lm="agrològic"><i>agrològi</i><par n="acadèmi/c__adj"/></e>
 <e lm="agroner"><i>agroner</i><par n="absolut__adj"/></e>
@@ -1019,7 +1018,6 @@
 <e lm="amoixador"><i>amoixador</i><par n="absolut__adj"/></e>
 <e lm="amollador"><i>amollador</i><par n="absolut__adj"/></e>
 <e lm="amonestador"><i>amonestador</i><par n="absolut__adj"/></e>
-<e lm="amoniacal"><i>amoniacal</i><par n="abdominal__adj"/></e>
 <e lm="amoníac"><i>amonía</i><par n="acadèmi/c__adj"/></e>
 <e lm="amorita"><i>amorit</i><par n="agrícol/a__adj"/></e>
 <e lm="amorià"><i>amori</i><par n="afric/à__adj"/></e>
@@ -1037,7 +1035,6 @@
 <e lm="amplexiforme"><i>amplexiforme</i><par n="abdominal__adj"/></e>
 <e lm="ampli"><i></i><par n="/ampli__adj"/></e>
 <e lm="ampliador"><i>ampliador</i><par n="absolut__adj"/></e>
-<e lm="ampliatiu"><i>ampliati</i><par n="abusi/u__adj"/></e>
 <e lm="amplificador"><i>amplificador</i><par n="absolut__adj"/></e>
 <e lm="amplificatiu"><i>amplificati</i><par n="abusi/u__adj"/></e>
 <e lm="ampostí"><i>ampost</i><par n="alacant/í__adj"/></e>
@@ -1140,7 +1137,6 @@
 <e lm="andritxol"><i>andritxol</i><par n="absolut__adj"/></e>
 <e lm="androcràtic"><i>androcràti</i><par n="acadèmi/c__adj"/></e>
 <e lm="androcèfal"><i>androcèfal</i><par n="absolut__adj"/></e>
-<e lm="androcèntric"><i>androcèntri</i><par n="acadèmi/c__adj"/></e>
 <e lm="androdioic"><i>androdioi</i><par n="acadèmi/c__adj"/></e>
 <e lm="androgènic"><i>androgèni</i><par n="acadèmi/c__adj"/></e>
 <e lm="androide"><i>androide</i><par n="abdominal__adj"/></e>
@@ -1736,17 +1732,14 @@
 <e lm="aprovatiu"><i>aprovati</i><par n="abusi/u__adj"/></e>
 <e lm="aprovisionador"><i>aprovisionador</i><par n="absolut__adj"/></e>
 <e lm="apràctic"><i>apràcti</i><par n="acadèmi/c__adj"/></e>
-<e lm="aptitudinal"><i>aptitudinal</i><par n="abdominal__adj"/></e>
 <e lm="aptià"><i>apti</i><par n="afric/à__adj"/></e>
 <e lm="aptòtic"><i>aptòti</i><par n="acadèmi/c__adj"/></e>
 <e lm="apuntador"><i>apuntador</i><par n="absolut__adj"/></e>
 <e lm="apàtrida"><i>apàtrid</i><par n="agrícol/a__adj"/></e>
 <e lm="apètal"><i>apètal</i><par n="absolut__adj"/></e>
-<e lm="apícola"><i>apícol</i><par n="agrícol/a__adj"/></e>
 <e lm="apífug"><i>apífug</i><par n="amarg__adj"/></e>
 <e lm="apòstata"><i>apòstat</i><par n="agrícol/a__adj"/></e>
 <e lm="apòtrop"><i>apòtrop</i><par n="absolut__adj"/></e>
-<e lm="aquemènida"><i>aquemènid</i><par n="agrícol/a__adj"/></e>
 <e lm="aqueniforme"><i>aqueniforme</i><par n="abdominal__adj"/></e>
 <e lm="aqueu"><i>aque</i><par n="ate/u__adj"/></e>
 <e lm="aquiescent"><i>aquiescent</i><par n="abdominal__adj"/></e>
@@ -2062,7 +2055,6 @@
 <e lm="asserrerat"><i>asserrera</i><par n="triparti/t__adj"/></e>
 <e lm="assertori"><i>assert</i><par n="access/ori__adj"/></e>
 <e lm="assessor"><i>assessor</i><par n="absolut__adj"/></e>
-<e lm="assetjador"><i>assetjador</i><par n="absolut__adj"/></e>
 <e lm="assetjant"><i>assetjant</i><par n="abdominal__adj"/></e>
 <e lm="asseveratiu"><i>asseverati</i><par n="abusi/u__adj"/></e>
 <e lm="assignable"><i>assignable</i><par n="abdominal__adj"/></e>
@@ -2248,7 +2240,6 @@
 <e lm="autocor"><i>autocor</i><par n="absolut__adj"/></e>
 <e lm="autocorrectiu"><i>autocorrecti</i><par n="abusi/u__adj"/></e>
 <e lm="autocrom"><i>autocrom</i><par n="abdominal__adj"/></e>
-<e lm="autocrític"><i>autocríti</i><par n="acadèmi/c__adj"/></e>
 <e lm="autoctonista"><i>autoctonist</i><par n="agrícol/a__adj"/></e>
 <e lm="autocèfal"><i>autocèfal</i><par n="absolut__adj"/></e>
 <e lm="autodestructiu"><i>autodestructi</i><par n="abusi/u__adj"/></e>
@@ -2294,7 +2285,6 @@
 <e lm="autopàtic"><i>autopàti</i><par n="acadèmi/c__adj"/></e>
 <e lm="autoreactiu"><i>autoreacti</i><par n="abusi/u__adj"/></e>
 <e lm="autoreductor"><i>autoreductor</i><par n="absolut__adj"/></e>
-<e lm="autoreferencial"><i>autoreferencial</i><par n="abdominal__adj"/></e>
 <e lm="autoreferent"><i>autoreferent</i><par n="abdominal__adj"/></e>
 <e lm="autoreflexiu"><i>autoreflexi</i><par n="abusi/u__adj"/></e>
 <e lm="autorefredat"><i>autorefreda</i><par n="triparti/t__adj"/></e>
@@ -2625,7 +2615,6 @@
 <e lm="becut"><i>becu</i><par n="triparti/t__adj"/></e>
 <e lm="becvermell"><i>becvermell</i><par n="absolut__adj"/></e>
 <e lm="bederrès"><i>bederr</i><par n="afgan/ès__adj"/></e>
-<e lm="beduí"><i>bedu</i><par n="genu/í__adj"/></e>
 <e lm="begissà"><i>begiss</i><par n="afric/à__adj"/></e>
 <e lm="beguder"><i>beguder</i><par n="absolut__adj"/></e>
 <e lm="beguetà"><i>beguet</i><par n="afric/à__adj"/></e>
@@ -3160,7 +3149,6 @@
 <e lm="bosquí"><i>bosqu</i><par n="alacant/í__adj"/></e>
 <e lm="bossut"><i>bossu</i><par n="triparti/t__adj"/></e>
 <e lm="bostonià"><i>bostoni</i><par n="afric/à__adj"/></e>
-<e lm="bosònic"><i>bosòni</i><par n="acadèmi/c__adj"/></e>
 <e lm="botarellenc"><i>botarellen</i><par n="acadèmi/c__adj"/></e>
 <e lm="botedor"><i>botedor</i><par n="absolut__adj"/></e>
 <e lm="botenc"><i>boten</i><par n="acadèmi/c__adj"/></e>
@@ -3544,7 +3532,6 @@
 <e lm="campdevanolenc"><i>campdevanolen</i><par n="acadèmi/c__adj"/></e>
 <e lm="campellenc"><i>campellen</i><par n="acadèmi/c__adj"/></e>
 <e lm="campeller"><i>campeller</i><par n="absolut__adj"/></e>
-<e lm="campestre"><i>campestre</i><par n="abdominal__adj"/></e>
 <e lm="campilòtrop"><i>campilòtrop</i><par n="absolut__adj"/></e>
 <e lm="campinenc"><i>campinen</i><par n="acadèmi/c__adj"/></e>
 <e lm="campinyià"><i>campinyi</i><par n="afric/à__adj"/></e>
@@ -4010,11 +3997,11 @@
 <e lm="cenocític"><i>cenocíti</i><par n="acadèmi/c__adj"/></e>
 <e lm="cenomanià"><i>cenomani</i><par n="afric/à__adj"/></e>
 <e lm="cenozoic"><i>cenozoi</i><par n="acadèmi/c__adj"/></e>
-<e lm="censal"><i>censal</i><par n="abdominal__adj"/></e>
 <e lm="censurable"><i>censurable</i><par n="abdominal__adj"/></e>
 <e lm="censurador"><i>censurador</i><par n="absolut__adj"/></e>
 <e lm="centellat"><i>centella</i><par n="triparti/t__adj"/></e>
 <e lm="centellenc"><i>centellen</i><par n="acadèmi/c__adj"/></e>
+<e lm="centenari"><i>centen</i><par n="adjudicat/ari__adj"/></e>
 <e lm="centmilionèsim"><i>centmilionèsim</i><par n="absolut__adj"/></e>
 <e lm="centmilmilionèsim"><i>centmilmilionèsim</i><par n="absolut__adj"/></e>
 <e lm="centmil·lèsim"><i>centmil·lèsim</i><par n="absolut__adj"/></e>
@@ -4350,7 +4337,6 @@
 <e lm="cognitivista"><i>cognitivist</i><par n="agrícol/a__adj"/></e>
 <e lm="cognoscent"><i>cognoscent</i><par n="abdominal__adj"/></e>
 <e lm="cognoscible"><i>cognoscible</i><par n="abdominal__adj"/></e>
-<e lm="cognoscitiu"><i>cognosciti</i><par n="abusi/u__adj"/></e>
 <e lm="cogulenc"><i>cogulen</i><par n="acadèmi/c__adj"/></e>
 <e lm="cohibidor"><i>cohibidor</i><par n="absolut__adj"/></e>
 <e lm="cohonestador"><i>cohonestador</i><par n="absolut__adj"/></e>
@@ -4671,7 +4657,6 @@
 <e lm="contabescent"><i>contabescent</i><par n="abdominal__adj"/></e>
 <e lm="contagiable"><i>contagiable</i><par n="abdominal__adj"/></e>
 <e lm="contaminable"><i>contaminable</i><par n="abdominal__adj"/></e>
-<e lm="contaminador"><i>contaminador</i><par n="absolut__adj"/></e>
 <e lm="contemperant"><i>contemperant</i><par n="abdominal__adj"/></e>
 <e lm="contemporitzador"><i>contemporitzador</i><par n="absolut__adj"/></e>
 <e lm="contemptible"><i>contemptible</i><par n="abdominal__adj"/></e>
@@ -4911,7 +4896,6 @@
 <e lm="cracovià"><i>cracovi</i><par n="afric/à__adj"/></e>
 <e lm="craniat"><i>crania</i><par n="triparti/t__adj"/></e>
 <e lm="craniocaudal"><i>craniocaudal</i><par n="abdominal__adj"/></e>
-<e lm="craniofacial"><i>craniofacial</i><par n="abdominal__adj"/></e>
 <e lm="craniomandibular"><i>craniomandibular</i><par n="abdominal__adj"/></e>
 <e lm="craniomètric"><i>craniomètri</i><par n="acadèmi/c__adj"/></e>
 <e lm="cranià"><i>crani</i><par n="afric/à__adj"/></e>
@@ -4932,7 +4916,6 @@
 <e lm="cremador"><i>cremador</i><par n="absolut__adj"/></e>
 <e lm="cremadís"><i>cremad</i><par n="cast/ís__adj"/></e>
 <e lm="cremallut"><i>cremallu</i><par n="triparti/t__adj"/></e>
-<e lm="crematori"><i>cremat</i><par n="access/ori__adj"/></e>
 <e lm="crenat"><i>crena</i><par n="triparti/t__adj"/></e>
 <e lm="crenulat"><i>crenula</i><par n="triparti/t__adj"/></e>
 <e lm="crepitant"><i>crepitant</i><par n="abdominal__adj"/></e>
@@ -5006,7 +4989,6 @@
 <e lm="cronogramàtic"><i>cronogramàti</i><par n="acadèmi/c__adj"/></e>
 <e lm="cronogràfic"><i>cronogràfi</i><par n="acadèmi/c__adj"/></e>
 <e lm="cronohistòric"><i>cronohistòri</i><par n="acadèmi/c__adj"/></e>
-<e lm="cronometrador"><i>cronometrador</i><par n="absolut__adj"/></e>
 <e lm="cronomètric"><i>cronomètri</i><par n="acadèmi/c__adj"/></e>
 <e lm="cronístic"><i>cronísti</i><par n="acadèmi/c__adj"/></e>
 <e lm="crostat"><i>crosta</i><par n="triparti/t__adj"/></e>
@@ -5620,7 +5602,6 @@
 <e lm="deuterotònic"><i>deuterotòni</i><par n="acadèmi/c__adj"/></e>
 <e lm="deutoplasmàtic"><i>deutoplasmàti</i><par n="acadèmi/c__adj"/></e>
 <e lm="devaluador"><i>devaluador</i><par n="absolut__adj"/></e>
-<e lm="deverbal"><i>deverbal</i><par n="abdominal__adj"/></e>
 <e lm="devocional"><i>devocional</i><par n="abdominal__adj"/></e>
 <e lm="devolut"><i>devolut</i><par n="absolut__adj"/></e>
 <e lm="devorant"><i>devorant</i><par n="abdominal__adj"/></e>
@@ -5786,7 +5767,6 @@
 <e lm="dirimible"><i>dirimible</i><par n="abdominal__adj"/></e>
 <e lm="disazoic"><i>disazoi</i><par n="acadèmi/c__adj"/></e>
 <e lm="discal"><i>discal</i><par n="abdominal__adj"/></e>
-<e lm="discent"><i>discent</i><par n="abdominal__adj"/></e>
 <e lm="discernidor"><i>discernidor</i><par n="absolut__adj"/></e>
 <e lm="disciforme"><i>disciforme</i><par n="abdominal__adj"/></e>
 <e lm="disciplinable"><i>disciplinable</i><par n="abdominal__adj"/></e>
@@ -6768,7 +6748,6 @@
 <e lm="esclerificat"><i>esclerifica</i><par n="triparti/t__adj"/></e>
 <e lm="esclerofil·le"><i>esclerofil·l</i><par n="adept/e__adj"/></e>
 <e lm="esclerosat"><i>esclerosa</i><par n="triparti/t__adj"/></e>
-<e lm="escleròtic"><i>escleròti</i><par n="acadèmi/c__adj"/></e>
 <e lm="esclerós"><i>escler</i><par n="aliment/ós__adj"/></e>
 <e lm="escobiforme"><i>escobiforme</i><par n="abdominal__adj"/></e>
 <e lm="escodrinyable"><i>escodrinyable</i><par n="abdominal__adj"/></e>
@@ -7376,7 +7355,6 @@
 <e lm="extradural"><i>extradural</i><par n="abdominal__adj"/></e>
 <e lm="extraeclesial"><i>extraeclesial</i><par n="abdominal__adj"/></e>
 <e lm="extraembrionari"><i>extraembrion</i><par n="adjudicat/ari__adj"/></e>
-<e lm="extraesportiu"><i>extraesporti</i><par n="abusi/u__adj"/></e>
 <e lm="extrafloral"><i>extrafloral</i><par n="abdominal__adj"/></e>
 <e lm="extrafutbolístic"><i>extrafutbolísti</i><par n="acadèmi/c__adj"/></e>
 <e lm="extragalàctic"><i>extragalàcti</i><par n="acadèmi/c__adj"/></e>
@@ -7396,7 +7374,6 @@
 <e lm="extramusical"><i>extramusical</i><par n="abdominal__adj"/></e>
 <e lm="extraocular"><i>extraocular</i><par n="abdominal__adj"/></e>
 <e lm="extraoficial"><i>extraoficial</i><par n="abdominal__adj"/></e>
-<e lm="extrapiramidal"><i>extrapiramidal</i><par n="abdominal__adj"/></e>
 <e lm="extraplà"><i>extrapl</i><par n="afric/à__adj"/></e>
 <e lm="extrapolable"><i>extrapolable</i><par n="abdominal__adj"/></e>
 <e lm="extrapressupostari"><i>extrapressupost</i><par n="adjudicat/ari__adj"/></e>
@@ -8333,7 +8310,6 @@
 <e lm="geneàtic"><i>geneàti</i><par n="acadèmi/c__adj"/></e>
 <e lm="genialoide"><i>genialoide</i><par n="abdominal__adj"/></e>
 <e lm="genicular"><i>genicular</i><par n="abdominal__adj"/></e>
-<e lm="geniculat"><i>genicula</i><par n="triparti/t__adj"/></e>
 <e lm="genistoide"><i>genistoide</i><par n="abdominal__adj"/></e>
 <e lm="genitori"><i>genit</i><par n="access/ori__adj"/></e>
 <e lm="geniós"><i>geni</i><par n="aliment/ós__adj"/></e>
@@ -8419,7 +8395,6 @@
 <e lm="ginandromòrfic"><i>ginandromòrfi</i><par n="acadèmi/c__adj"/></e>
 <e lm="ginebrenc"><i>ginebren</i><par n="acadèmi/c__adj"/></e>
 <e lm="ginebrosà"><i>ginebros</i><par n="afric/à__adj"/></e>
-<e lm="ginebrí"><i>ginebr</i><par n="alacant/í__adj"/></e>
 <e lm="ginecològic"><i>ginecològi</i><par n="acadèmi/c__adj"/></e>
 <e lm="ginestarol"><i>ginestarol</i><par n="absolut__adj"/></e>
 <e lm="ginodioic"><i>ginodioi</i><par n="acadèmi/c__adj"/></e>
@@ -8494,7 +8469,6 @@
 <e lm="glucogen"><i>gluc</i><par n="ex/ogen__adj"/></e>
 <e lm="glucosat"><i>glucosa</i><par n="triparti/t__adj"/></e>
 <e lm="glucurònic"><i>glucuròni</i><par n="acadèmi/c__adj"/></e>
-<e lm="glucèmic"><i>glucèmi</i><par n="acadèmi/c__adj"/></e>
 <e lm="glucònic"><i>glucòni</i><par n="acadèmi/c__adj"/></e>
 <e lm="glumaci"><i>glum</i><par n="herb/aci__adj"/></e>
 <e lm="glumiflor"><i>glumiflor</i><par n="absolut__adj"/></e>
@@ -9052,7 +9026,6 @@
 <e lm="hipnosedant"><i>hipnosedant</i><par n="abdominal__adj"/></e>
 <e lm="hipnotitzable"><i>hipnotitzable</i><par n="abdominal__adj"/></e>
 <e lm="hipnotitzant"><i>hipnotitzant</i><par n="abdominal__adj"/></e>
-<e lm="hipoacúsic"><i>hipoacúsi</i><par n="acadèmi/c__adj"/></e>
 <e lm="hipoal·lèrgic"><i>hipoal·lèrgi</i><par n="acadèmi/c__adj"/></e>
 <e lm="hipobromós"><i>hipobrom</i><par n="aliment/ós__adj"/></e>
 <e lm="hipocalòric"><i>hipocalòri</i><par n="acadèmi/c__adj"/></e>
@@ -9556,7 +9529,6 @@
 <e lm="inaudible"><i>inaudible</i><par n="abdominal__adj"/></e>
 <e lm="inautèntic"><i>inautènti</i><par n="acadèmi/c__adj"/></e>
 <e lm="inavesat"><i>inavesa</i><par n="triparti/t__adj"/></e>
-<e lm="inca"><i>in</i><par n="aste/ca__adj"/></e>
 <e lm="incaic"><i>incai</i><par n="acadèmi/c__adj"/></e>
 <e lm="incancel·lable"><i>incancel·lable</i><par n="abdominal__adj"/></e>
 <e lm="incantable"><i>incantable</i><par n="abdominal__adj"/></e>
@@ -9625,7 +9597,6 @@
 <e lm="inconsiderat"><i>inconsidera</i><par n="triparti/t__adj"/></e>
 <e lm="inconsolable"><i>inconsolable</i><par n="abdominal__adj"/></e>
 <e lm="inconspicu"><i>inconsp</i><par n="consp/icu__adj"/></e>
-<e lm="inconstant"><i>inconstant</i><par n="abdominal__adj"/></e>
 <e lm="inconstruïble"><i>inconstruïble</i><par n="abdominal__adj"/></e>
 <e lm="inconsult"><i>inconsult</i><par n="absolut__adj"/></e>
 <e lm="inconsútil"><i>inconsútil</i><par n="abdominal__adj"/></e>
@@ -10481,7 +10452,6 @@
 <e lm="juianenc"><i>juianen</i><par n="acadèmi/c__adj"/></e>
 <e lm="jujolat"><i>jujola</i><par n="triparti/t__adj"/></e>
 <e lm="juliolenc"><i>juliolen</i><par n="acadèmi/c__adj"/></e>
-<e lm="julià"><i>juli</i><par n="afric/à__adj"/></e>
 <e lm="jullós"><i>jull</i><par n="aliment/ós__adj"/></e>
 <e lm="jumel"><i>jumel</i><par n="abdominal__adj"/></e>
 <e lm="jumenser"><i>jumenser</i><par n="absolut__adj"/></e>
@@ -10839,7 +10809,6 @@
 <e lm="llanerí"><i>llaner</i><par n="alacant/í__adj"/></e>
 <e lm="llangorós"><i>llangor</i><par n="aliment/ós__adj"/></e>
 <e lm="llantiós"><i>llanti</i><par n="aliment/ós__adj"/></e>
-<e lm="llanut"><i>llanu</i><par n="triparti/t__adj"/></e>
 <e lm="llanvirnià"><i>llanvirni</i><par n="afric/à__adj"/></e>
 <e lm="llançador"><i>llançador</i><par n="absolut__adj"/></e>
 <e lm="llançamíssils"><i>llançamíssils</i><par n="multimèdia__adj"/></e>
@@ -10872,7 +10841,6 @@
 <e lm="lledonenc"><i>lledonen</i><par n="acadèmi/c__adj"/></e>
 <e lm="llefardós"><i>llefard</i><par n="aliment/ós__adj"/></e>
 <e lm="llefec"><i>llefe</i><par n="ce/c__adj"/></e>
-<e lm="llefiscós"><i>llefisc</i><par n="aliment/ós__adj"/></e>
 <e lm="llefre"><i>llefr</i><par n="adept/e__adj"/></e>
 <e lm="llefuc"><i>llefu</i><par n="ce/c__adj"/></e>
 <e lm="lleganyós"><i>llegany</i><par n="aliment/ós__adj"/></e>
@@ -10899,7 +10867,6 @@
 <e lm="llepador"><i>llepador</i><par n="absolut__adj"/></e>
 <e lm="llepafigues"><i>llepafigues</i><par n="multimèdia__adj"/></e>
 <e lm="llepafils"><i>llepafils</i><par n="multimèdia__adj"/></e>
-<e lm="llepissós"><i>llepiss</i><par n="aliment/ós__adj"/></e>
 <e lm="llepó"><i>llep</i><par n="amfitri/ó__adj"/></e>
 <e lm="lleroní"><i>lleron</i><par n="alacant/í__adj"/></e>
 <e lm="llersenc"><i>llersen</i><par n="acadèmi/c__adj"/></e>
@@ -11011,7 +10978,6 @@
 <e lm="logicista"><i>logicist</i><par n="agrícol/a__adj"/></e>
 <e lm="logogrífic"><i>logogrífi</i><par n="acadèmi/c__adj"/></e>
 <e lm="logoperiòdic"><i>logoperiòdi</i><par n="acadèmi/c__adj"/></e>
-<e lm="logopèdic"><i>logopèdi</i><par n="acadèmi/c__adj"/></e>
 <e lm="logronyès"><i>logrony</i><par n="afgan/ès__adj"/></e>
 <e lm="lomentaci"><i>loment</i><par n="herb/aci__adj"/></e>
 <e lm="longilini"><i>longil</i><par n="sangu/ini__adj"/></e>
@@ -11109,7 +11075,6 @@
 <e lm="madrepòric"><i>madrepòri</i><par n="acadèmi/c__adj"/></e>
 <e lm="madrigalesc"><i>madrigales</i><par n="bas/c__adj"/></e>
 <e lm="madrigalístic"><i>madrigalísti</i><par n="acadèmi/c__adj"/></e>
-<e lm="maduratiu"><i>madurati</i><par n="abusi/u__adj"/></e>
 <e lm="maduret"><i>maduret</i><par n="absolut__adj"/></e>
 <e lm="madurès"><i>madur</i><par n="afgan/ès__adj"/></e>
 <e lm="maellà"><i>maell</i><par n="afric/à__adj"/></e>
@@ -11390,7 +11355,6 @@
 <e lm="maritable"><i>maritable</i><par n="abdominal__adj"/></e>
 <e lm="maritimopesquer"><i>maritimopesquer</i><par n="absolut__adj"/></e>
 <e lm="maritimoterrestre"><i>maritimoterrestre</i><par n="abdominal__adj"/></e>
-<e lm="marià"><i>mari</i><par n="afric/à__adj"/></e>
 <e lm="marjalenc"><i>marjalen</i><par n="acadèmi/c__adj"/></e>
 <e lm="markovià"><i>markovi</i><par n="afric/à__adj"/></e>
 <e lm="marmolador"><i>marmolador</i><par n="absolut__adj"/></e>
@@ -11424,7 +11388,6 @@
 <e lm="marçanenc"><i>marçanen</i><par n="acadèmi/c__adj"/></e>
 <e lm="marínida"><i>marínid</i><par n="agrícol/a__adj"/></e>
 <e lm="mascle"><i>mascl</i><par n="adept/e__adj"/></e>
-<e lm="masclista"><i>masclist</i><par n="agrícol/a__adj"/></e>
 <e lm="masdenvergenc"><i>masdenvergen</i><par n="acadèmi/c__adj"/></e>
 <e lm="masllorençà"><i>masllorenç</i><par n="afric/à__adj"/></e>
 <e lm="masnoví"><i>masnov</i><par n="alacant/í__adj"/></e>
@@ -11503,7 +11466,6 @@
 <e lm="mecanitzador"><i>mecanitzador</i><par n="absolut__adj"/></e>
 <e lm="mecanogràfic"><i>mecanogràfi</i><par n="acadèmi/c__adj"/></e>
 <e lm="mecanoscrit"><i>mecanoscrit</i><par n="absolut__adj"/></e>
-<e lm="mede"><i>med</i><par n="adept/e__adj"/></e>
 <e lm="medeciner"><i>medeciner</i><par n="absolut__adj"/></e>
 <e lm="mediastínic"><i>mediastíni</i><par n="acadèmi/c__adj"/></e>
 <e lm="mediat"><i>mediat</i><par n="absolut__adj"/></e>
@@ -11545,7 +11507,6 @@
 <e lm="meglenita"><i>meglenit</i><par n="agrícol/a__adj"/></e>
 <e lm="megàric"><i>megàri</i><par n="acadèmi/c__adj"/></e>
 <e lm="meitadat"><i>meitada</i><par n="triparti/t__adj"/></e>
-<e lm="melancòlic"><i>melancòli</i><par n="acadèmi/c__adj"/></e>
 <e lm="melanesi"><i>melan</i><par n="indon/esi__adj"/></e>
 <e lm="melangiós"><i>melangi</i><par n="aliment/ós__adj"/></e>
 <e lm="melanoafricà"><i>melanoafric</i><par n="afric/à__adj"/></e>
@@ -11684,7 +11645,6 @@
 <e lm="metabòric"><i>metabòric</i><par n="abdominal__adj"/></e>
 <e lm="metacarpià"><i>metacarpi</i><par n="afric/à__adj"/></e>
 <e lm="metacarpofalàngic"><i>metacarpofalàngi</i><par n="acadèmi/c__adj"/></e>
-<e lm="metacognitiu"><i>metacogniti</i><par n="abusi/u__adj"/></e>
 <e lm="metacrílic"><i>metacrílic</i><par n="abdominal__adj"/></e>
 <e lm="metacèntric"><i>metacèntri</i><par n="acadèmi/c__adj"/></e>
 <e lm="metadiegètic"><i>metadiegèti</i><par n="acadèmi/c__adj"/></e>
@@ -11816,7 +11776,6 @@
 <e lm="mineralògic"><i>mineralògi</i><par n="acadèmi/c__adj"/></e>
 <e lm="mineromedicinal"><i>mineromedicinal</i><par n="abdominal__adj"/></e>
 <e lm="mingrelià"><i>mingreli</i><par n="afric/à__adj"/></e>
-<e lm="minihidràulic"><i>minihidràuli</i><par n="acadèmi/c__adj"/></e>
 <e lm="minimal"><i>minimal</i><par n="abdominal__adj"/></e>
 <e lm="minimitzador"><i>minimitzador</i><par n="absolut__adj"/></e>
 <e lm="ministrable"><i>ministrable</i><par n="abdominal__adj"/></e>
@@ -12917,7 +12876,6 @@
 <e lm="odenès"><i>oden</i><par n="afgan/ès__adj"/></e>
 <e lm="odiable"><i>odiable</i><par n="abdominal__adj"/></e>
 <e lm="odontoide"><i>odontoide</i><par n="abdominal__adj"/></e>
-<e lm="odontològic"><i>odontològi</i><par n="acadèmi/c__adj"/></e>
 <e lm="odontoramf"><i>odontoramf</i><par n="absolut__adj"/></e>
 <e lm="odontàlgic"><i>odontàlgi</i><par n="acadèmi/c__adj"/></e>
 <e lm="odorant"><i>odorant</i><par n="abdominal__adj"/></e>
@@ -13127,7 +13085,6 @@
 <e lm="organofosforat"><i>organofosfora</i><par n="triparti/t__adj"/></e>
 <e lm="organogenètic"><i>organogenèti</i><par n="acadèmi/c__adj"/></e>
 <e lm="organogràfic"><i>organogràfi</i><par n="acadèmi/c__adj"/></e>
-<e lm="organolèptic"><i>organolèpti</i><par n="acadèmi/c__adj"/></e>
 <e lm="organològic"><i>organològi</i><par n="acadèmi/c__adj"/></e>
 <e lm="organomineral"><i>organomineral</i><par n="abdominal__adj"/></e>
 <e lm="organoplàstic"><i>organoplàsti</i><par n="acadèmi/c__adj"/></e>
@@ -13152,7 +13109,6 @@
 <e lm="ornamentari"><i>ornament</i><par n="adjudicat/ari__adj"/></e>
 <e lm="ornitòfil"><i>ornitòfil</i><par n="absolut__adj"/></e>
 <e lm="ornític"><i>orníti</i><par n="acadèmi/c__adj"/></e>
-<e lm="orofacial"><i>orofacial</i><par n="abdominal__adj"/></e>
 <e lm="orogènic"><i>orogèni</i><par n="acadèmi/c__adj"/></e>
 <e lm="oromediterrani"><i>oromediterr</i><par n="contempor/ani__adj"/></e>
 <e lm="oromo"><i>oromo</i><par n="abdominal__adj"/></e>
@@ -13249,7 +13205,6 @@
 <e lm="ostrícola"><i>ostrícol</i><par n="agrícol/a__adj"/></e>
 <e lm="ostrífer"><i>ostrífer</i><par n="absolut__adj"/></e>
 <e lm="otacústic"><i>otacústi</i><par n="acadèmi/c__adj"/></e>
-<e lm="otològic"><i>otològi</i><par n="acadèmi/c__adj"/></e>
 <e lm="otosí"><i>otos</i><par n="alacant/í__adj"/></e>
 <e lm="otònic"><i>otòni</i><par n="acadèmi/c__adj"/></e>
 <e lm="ouat"><i>oua</i><par n="triparti/t__adj"/></e>
@@ -13801,7 +13756,6 @@
 <e lm="perjudicador"><i>perjudicador</i><par n="absolut__adj"/></e>
 <e lm="perjur"><i>perjur</i><par n="absolut__adj"/></e>
 <e lm="perjurador"><i>perjurador</i><par n="absolut__adj"/></e>
-<e lm="perlat"><i>perla</i><par n="triparti/t__adj"/></e>
 <e lm="perlejant"><i>perlejant</i><par n="abdominal__adj"/></e>
 <e lm="perler"><i>perler</i><par n="absolut__adj"/></e>
 <e lm="perlingual"><i>perlingual</i><par n="abdominal__adj"/></e>
@@ -14015,7 +13969,6 @@
 <e lm="pirúvic"><i>pirúvic</i><par n="abdominal__adj"/></e>
 <e lm="piscatori"><i>piscat</i><par n="access/ori__adj"/></e>
 <e lm="pisciforme"><i>pisciforme</i><par n="abdominal__adj"/></e>
-<e lm="piscívor"><i>piscívor</i><par n="absolut__adj"/></e>
 <e lm="pisiforme"><i>pisiforme</i><par n="abdominal__adj"/></e>
 <e lm="pisistràtide"><i>pisistràtide</i><par n="abdominal__adj"/></e>
 <e lm="pisolític"><i>pisolíti</i><par n="acadèmi/c__adj"/></e>
@@ -14194,7 +14147,6 @@
 <e lm="pobric"><i>pobri</i><par n="acadèmi/c__adj"/></e>
 <e lm="pobrissó"><i>pobriss</i><par n="amfitri/ó__adj"/></e>
 <e lm="pobrús"><i>pobr</i><par n="bielor/ús__adj"/></e>
-<e lm="poca-solta"><i>poca-solt</i><par n="agrícol/a__adj"/></e>
 <e lm="pocavergonya"><i>pocavergony</i><par n="agrícol/a__adj"/></e>
 <e lm="podador"><i>podador</i><par n="absolut__adj"/></e>
 <e lm="podal"><i>podal</i><par n="abdominal__adj"/></e>
@@ -14246,7 +14198,6 @@
 <e lm="polihalí"><i>polihal</i><par n="alacant/í__adj"/></e>
 <e lm="polihidroxílic"><i>polihidroxíli</i><par n="acadèmi/c__adj"/></e>
 <e lm="polihídric"><i>polihídri</i><par n="acadèmi/c__adj"/></e>
-<e lm="poliinsaturat"><i>poliinsatura</i><par n="triparti/t__adj"/></e>
 <e lm="polilobulat"><i>polilobula</i><par n="triparti/t__adj"/></e>
 <e lm="polimedicat"><i>polimedica</i><par n="triparti/t__adj"/></e>
 <e lm="polimetàl·lic"><i>polimetàl·li</i><par n="acadèmi/c__adj"/></e>
@@ -14466,7 +14417,6 @@
 <e lm="postulant"><i>postulant</i><par n="abdominal__adj"/></e>
 <e lm="posturer"><i>posturer</i><par n="absolut__adj"/></e>
 <e lm="postvacacional"><i>postvacacional</i><par n="abdominal__adj"/></e>
-<e lm="postverbal"><i>postverbal</i><par n="abdominal__adj"/></e>
 <e lm="postvictorià"><i>postvictori</i><par n="afric/à__adj"/></e>
 <e lm="potenciador"><i>potenciador</i><par n="absolut__adj"/></e>
 <e lm="potenciomètric"><i>potenciomètri</i><par n="acadèmi/c__adj"/></e>
@@ -14573,7 +14523,6 @@
 <e lm="prelatici"><i>prelat</i><par n="fict/ici__adj"/></e>
 <e lm="prelatiu"><i>prelati</i><par n="abusi/u__adj"/></e>
 <e lm="prelector"><i>prelector</i><par n="absolut__adj"/></e>
-<e lm="prelingüístic"><i>prelingüísti</i><par n="acadèmi/c__adj"/></e>
 <e lm="premamà"><i>premamà</i><par n="multimèdia__adj"/></e>
 <e lm="premenopàusic"><i>premenopàusi</i><par n="acadèmi/c__adj"/></e>
 <e lm="premenstrual"><i>premenstrual</i><par n="abdominal__adj"/></e>
@@ -14609,7 +14558,6 @@
 <e lm="prerenaixentista"><i>prerenaixentist</i><par n="agrícol/a__adj"/></e>
 <e lm="prerevolucionari"><i>prerevolucion</i><par n="adjudicat/ari__adj"/></e>
 <e lm="preromà"><i>prerom</i><par n="afric/à__adj"/></e>
-<e lm="preromànic"><i>preromàni</i><par n="acadèmi/c__adj"/></e>
 <e lm="preromàntic"><i>preromànti</i><par n="acadèmi/c__adj"/></e>
 <e lm="presagiós"><i>presagi</i><par n="aliment/ós__adj"/></e>
 <e lm="presantificat"><i>presantifica</i><par n="triparti/t__adj"/></e>
@@ -14626,7 +14574,6 @@
 <e lm="presidiari"><i>presidi</i><par n="adjudicat/ari__adj"/></e>
 <e lm="presil·làbic"><i>presil·làbi</i><par n="acadèmi/c__adj"/></e>
 <e lm="presistòlic"><i>presistòlic</i><par n="abdominal__adj"/></e>
-<e lm="presoner"><i>presoner</i><par n="absolut__adj"/></e>
 <e lm="presspan"><i>presspan</i><par n="multimèdia__adj"/></e>
 <e lm="pressupostable"><i>pressupostable</i><par n="abdominal__adj"/></e>
 <e lm="pressut"><i>pressu</i><par n="triparti/t__adj"/></e>
@@ -14876,7 +14823,6 @@
 <e lm="pseudàntic"><i>pseudànti</i><par n="acadèmi/c__adj"/></e>
 <e lm="pseudògraf"><i>pseudògraf</i><par n="absolut__adj"/></e>
 <e lm="psicoactiu"><i>psicoacti</i><par n="abusi/u__adj"/></e>
-<e lm="psicoafectiu"><i>psicoafecti</i><par n="abusi/u__adj"/></e>
 <e lm="psicoanalista"><i>psicoanalist</i><par n="agrícol/a__adj"/></e>
 <e lm="psicoanalitzable"><i>psicoanalitzable</i><par n="abdominal__adj"/></e>
 <e lm="psicoanalèptic"><i>psicoanalèptic</i><par n="abdominal__adj"/></e>
@@ -15622,7 +15568,6 @@
 <e lm="replicador"><i>replicador</i><par n="absolut__adj"/></e>
 <e lm="replicaire"><i>replicaire</i><par n="abdominal__adj"/></e>
 <e lm="replè"><i>repl</i><par n="ali/è__adj"/></e>
-<e lm="repoblador"><i>repoblador</i><par n="absolut__adj"/></e>
 <e lm="reportador"><i>reportador</i><par n="absolut__adj"/></e>
 <e lm="reporter"><i>reporter</i><par n="absolut__adj"/></e>
 <e lm="reposable"><i>reposable</i><par n="abdominal__adj"/></e>
@@ -15704,7 +15649,6 @@
 <e lm="retillent"><i>retillent</i><par n="abdominal__adj"/></e>
 <e lm="retià"><i>reti</i><par n="afric/à__adj"/></e>
 <e lm="retolador"><i>retolador</i><par n="absolut__adj"/></e>
-<e lm="retornable"><i>retornable</i><par n="abdominal__adj"/></e>
 <e lm="retornador"><i>retornador</i><par n="absolut__adj"/></e>
 <e lm="retorsiu"><i>retorsi</i><par n="abusi/u__adj"/></e>
 <e lm="retort"><i>retort</i><par n="absolut__adj"/></e>
@@ -16195,7 +16139,6 @@
 <e lm="santhipolenc"><i>santhipolen</i><par n="acadèmi/c__adj"/></e>
 <e lm="santificable"><i>santificable</i><par n="abdominal__adj"/></e>
 <e lm="santificador"><i>santificador</i><par n="absolut__adj"/></e>
-<e lm="santificant"><i>santificant</i><par n="abdominal__adj"/></e>
 <e lm="santisidrenc"><i>santisidren</i><par n="acadèmi/c__adj"/></e>
 <e lm="santjaumer"><i>santjaumer</i><par n="absolut__adj"/></e>
 <e lm="santjoan"><i>santjoan</i><par n="absolut__adj"/></e>
@@ -17535,7 +17478,6 @@
 <e lm="termàntic"><i>termànti</i><par n="acadèmi/c__adj"/></e>
 <e lm="termòfil"><i>termòfil</i><par n="absolut__adj"/></e>
 <e lm="termòfob"><i>termòfob</i><par n="absolut__adj"/></e>
-<e lm="termòfor"><i>termòfor</i><par n="absolut__adj"/></e>
 <e lm="ternat"><i>terna</i><par n="triparti/t__adj"/></e>
 <e lm="terolenc"><i>terolen</i><par n="acadèmi/c__adj"/></e>
 <e lm="terpènic"><i>terpèni</i><par n="acadèmi/c__adj"/></e>
@@ -18606,7 +18548,6 @@
 <e lm="vegetable"><i>vegetable</i><par n="abdominal__adj"/></e>
 <e lm="vegetant"><i>vegetant</i><par n="abdominal__adj"/></e>
 <e lm="veguerial"><i>veguerial</i><par n="abdominal__adj"/></e>
-<e lm="vegà"><i>veg</i><par n="afric/à__adj"/></e>
 <e lm="velador"><i>velador</i><par n="absolut__adj"/></e>
 <e lm="velar"><i>velar</i><par n="abdominal__adj"/></e>
 <e lm="veler"><i>veler</i><par n="absolut__adj"/></e>
@@ -18706,7 +18647,6 @@
 <e lm="veràtric"><i>veràtri</i><par n="acadèmi/c__adj"/></e>
 <e lm="verós"><i>ver</i><par n="aliment/ós__adj"/></e>
 <e lm="vescomtal"><i>vescomtal</i><par n="abdominal__adj"/></e>
-<e lm="vescós"><i>vesc</i><par n="aliment/ós__adj"/></e>
 <e lm="vesicant"><i>vesicant</i><par n="abdominal__adj"/></e>
 <e lm="vesicatori"><i>vesicat</i><par n="access/ori__adj"/></e>
 <e lm="vesicular"><i>vesicular</i><par n="abdominal__adj"/></e>
@@ -18868,7 +18808,6 @@
 <e lm="viscontinià"><i>viscontini</i><par n="afric/à__adj"/></e>
 <e lm="viseà"><i>vise</i><par n="afric/à__adj"/></e>
 <e lm="visibilitzador"><i>visibilitzador</i><par n="absolut__adj"/></e>
-<e lm="visigòtic"><i>visigòti</i><par n="acadèmi/c__adj"/></e>
 <e lm="visitador"><i>visitador</i><par n="absolut__adj"/></e>
 <e lm="visiu"><i>visi</i><par n="abusi/u__adj"/></e>
 <e lm="vistabellà"><i>vistabell</i><par n="afric/à__adj"/></e>

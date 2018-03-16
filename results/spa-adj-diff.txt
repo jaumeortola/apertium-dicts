@@ -1884,10 +1884,6 @@ APERTIUM: portentoso	PAR: abstract/o__adj	FORMS: AQ0FP0 portentosas AQ0FP0 porte
    OTHER: portentoso	PAR: mí/o__adj	FORMS: AQ0FP0 portentosas AQ0FS0 portentosa AQ0MP0 portentosos AQ0MS0 portentoso
    OTHER: portentoso	PAR: otr/o__adj	FORMS: AQ0FP0 portentosas AQ0FS0 portentosa AQ0MP0 portentosos AQ0MS0 portentoso
 
-APERTIUM: postal	PAR: abundante__adj	FORMS: AQ0CP0 postals AQ0CS0 postal
-   OTHER: postal	PAR: abdominal__adj	FORMS: AQ0CP0 postales AQ0CS0 postal
-   OTHER: postal	PAR: cuál__adj	FORMS: AQ0CP0 postales AQ0CS0 postal
-
 APERTIUM: potente	PAR: pobr/e__adj	FORMS: AQ0CP0 potentes AQ0CS0 potente AQ0FP0 potentísimas AQ0FS0 potentísima AQ0MP0 potentísimos AQ0MS0 potentísimo
    OTHER: potente	PAR: abundante__adj	FORMS: AQ0CP0 potentes AQ0CS0 potente
 
@@ -2010,6 +2006,9 @@ APERTIUM: religioso	PAR: abstract/o__adj	FORMS: AQ0FP0 religiosas AQ0FP0 religio
    OTHER: religioso	PAR: cuánt/o__adj	FORMS: AQ0FP0 religiosas AQ0FS0 religiosa AQ0MP0 religiosos AQ0MS0 religioso
    OTHER: religioso	PAR: mí/o__adj	FORMS: AQ0FP0 religiosas AQ0FS0 religiosa AQ0MP0 religiosos AQ0MS0 religioso
    OTHER: religioso	PAR: otr/o__adj	FORMS: AQ0FP0 religiosas AQ0FS0 religiosa AQ0MP0 religiosos AQ0MS0 religioso
+
+APERTIUM: rellenable	PAR: abdominal__adj	FORMS: AQ0CP0 rellenablees AQ0CS0 rellenable
+   OTHER: rellenable	PAR: abundante__adj	FORMS: AQ0CP0 rellenables AQ0CS0 rellenable
 
 APERTIUM: relleno	PAR: abstract/o__adj	FORMS: AQ0FP0 rellenas AQ0FP0 rellenísimas AQ0FS0 rellena AQ0FS0 rellenísima AQ0MP0 rellenos AQ0MP0 rellenísimos AQ0MS0 relleno AQ0MS0 rellenísimo
    OTHER: relleno	PAR: absolut/o__adj	FORMS: AQ0FP0 rellenas AQ0FS0 rellena AQ0MP0 rellenos AQ0MS0 relleno

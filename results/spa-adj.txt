@@ -361,7 +361,6 @@
 <e lm="alegador"><i>alegador</i><par n="abrumador__adj"/></e>
 <e lm="alegorista"><i>alegorista</i><par n="abundante__adj"/></e>
 <e lm="alegórico"><i>alegóric</i><par n="absolut/o__adj"/></e>
-<e lm="alergénico"><i>alergénic</i><par n="absolut/o__adj"/></e>
 <e lm="aleucémico"><i>aleucémic</i><par n="absolut/o__adj"/></e>
 <e lm="aleve"><i>aleve</i><par n="abundante__adj"/></e>
 <e lm="alfa"><i>alfa</i><par n="abundante__adj"/></e>
@@ -446,7 +445,6 @@
 <e lm="amasador"><i>amasador</i><par n="abrumador__adj"/></e>
 <e lm="amatorio"><i>amatori</i><par n="absolut/o__adj"/></e>
 <e lm="amaurótico"><i>amaurótic</i><par n="absolut/o__adj"/></e>
-<e lm="amazónico"><i>amazónic</i><par n="absolut/o__adj"/></e>
 <e lm="ambarino"><i>ambarin</i><par n="absolut/o__adj"/></e>
 <e lm="ambidextro"><i>ambidextr</i><par n="absolut/o__adj"/></e>
 <e lm="ambidiestro"><i>ambidiestr</i><par n="absolut/o__adj"/></e>
@@ -479,7 +477,6 @@
 <e lm="amitótico"><i>amitótic</i><par n="absolut/o__adj"/></e>
 <e lm="ammonita"><i>ammonita</i><par n="abundante__adj"/></e>
 <e lm="amnésico"><i>amnésic</i><par n="absolut/o__adj"/></e>
-<e lm="amoniacal"><i>amoniacal</i><par n="abdominal__adj"/></e>
 <e lm="amontillado"><i>amontillad</i><par n="absolut/o__adj"/></e>
 <e lm="amorita"><i>amorita</i><par n="abundante__adj"/></e>
 <e lm="amorreo"><i>amorre</i><par n="absolut/o__adj"/></e>
@@ -492,7 +489,6 @@
 <e lm="amperiano"><i>amperian</i><par n="absolut/o__adj"/></e>
 <e lm="amplexicaulo"><i>amplexicaul</i><par n="absolut/o__adj"/></e>
 <e lm="ampliador"><i>ampliador</i><par n="abrumador__adj"/></e>
-<e lm="ampliatorio"><i>ampliatori</i><par n="absolut/o__adj"/></e>
 <e lm="amplificador"><i>amplificador</i><par n="abrumador__adj"/></e>
 <e lm="ampollar"><i>ampollar</i><par n="abdominal__adj"/></e>
 <e lm="ampular"><i>ampular</i><par n="abdominal__adj"/></e>
@@ -1973,7 +1969,6 @@
 <e lm="cenobial"><i>cenobial</i><par n="abdominal__adj"/></e>
 <e lm="cenobítico"><i>cenobític</i><par n="absolut/o__adj"/></e>
 <e lm="cenocárpico"><i>cenocárpic</i><par n="absolut/o__adj"/></e>
-<e lm="censal"><i>censal</i><par n="abdominal__adj"/></e>
 <e lm="censor"><i>censor</i><par n="abrumador__adj"/></e>
 <e lm="censorio"><i>censori</i><par n="absolut/o__adj"/></e>
 <e lm="censurable"><i>censurable</i><par n="abundante__adj"/></e>
@@ -2317,7 +2312,6 @@
 <e lm="cognaticio"><i>cognatici</i><par n="absolut/o__adj"/></e>
 <e lm="cognato"><i>cognat</i><par n="absolut/o__adj"/></e>
 <e lm="cognoscible"><i>cognoscible</i><par n="abundante__adj"/></e>
-<e lm="cognoscitivo"><i>cognoscitiv</i><par n="absolut/o__adj"/></e>
 <e lm="cogotudo"><i>cogotud</i><par n="absolut/o__adj"/></e>
 <e lm="cohesivo"><i>cohesiv</i><par n="absolut/o__adj"/></e>
 <e lm="coisogénico"><i>coisogénic</i><par n="absolut/o__adj"/></e>
@@ -2554,7 +2548,6 @@
 <e lm="consuntivo"><i>consuntiv</i><par n="absolut/o__adj"/></e>
 <e lm="contactable"><i>contactable</i><par n="abundante__adj"/></e>
 <e lm="contadero"><i>contader</i><par n="absolut/o__adj"/></e>
-<e lm="contaminador"><i>contaminador</i><par n="abrumador__adj"/></e>
 <e lm="contemplador"><i>contemplador</i><par n="abrumador__adj"/></e>
 <e lm="contemplativo"><i>contemplativ</i><par n="absolut/o__adj"/></e>
 <e lm="contenedor"><i>contenedor</i><par n="abrumador__adj"/></e>
@@ -2574,7 +2567,6 @@
 <e lm="contranatural"><i>contranatural</i><par n="abdominal__adj"/></e>
 <e lm="contraofensivo"><i>contraofensiv</i><par n="absolut/o__adj"/></e>
 <e lm="contrapalado"><i>contrapalad</i><par n="absolut/o__adj"/></e>
-<e lm="contrapicado"><i>contrapicad</i><par n="absolut/o__adj"/></e>
 <e lm="contraplacado"><i>contraplacad</i><par n="absolut/o__adj"/></e>
 <e lm="contrarrevolucionario"><i>contrarrevolucionari</i><par n="absolut/o__adj"/></e>
 <e lm="contrarrotativo"><i>contrarrotativ</i><par n="absolut/o__adj"/></e>
@@ -2750,7 +2742,6 @@
 <e lm="coñón"><i>coñ</i><par n="anfitri/ón__adj"/></e>
 <e lm="cracoviano"><i>cracovian</i><par n="absolut/o__adj"/></e>
 <e lm="craneano"><i>cranean</i><par n="absolut/o__adj"/></e>
-<e lm="craneofacial"><i>craneofacial</i><par n="abdominal__adj"/></e>
 <e lm="craneomaxilar"><i>craneomaxilar</i><par n="abdominal__adj"/></e>
 <e lm="craneométrico"><i>craneométric</i><par n="absolut/o__adj"/></e>
 <e lm="craniano"><i>cranian</i><par n="absolut/o__adj"/></e>
@@ -2812,7 +2803,6 @@
 <e lm="cromógeno"><i>cromógen</i><par n="absolut/o__adj"/></e>
 <e lm="cronoestratigráfico"><i>cronoestratigráfic</i><par n="absolut/o__adj"/></e>
 <e lm="cronográfico"><i>cronográfic</i><par n="absolut/o__adj"/></e>
-<e lm="cronometrador"><i>cronometrador</i><par n="abrumador__adj"/></e>
 <e lm="cronométrico"><i>cronométric</i><par n="absolut/o__adj"/></e>
 <e lm="cronístico"><i>cronístic</i><par n="absolut/o__adj"/></e>
 <e lm="crotónico"><i>crotónic</i><par n="absolut/o__adj"/></e>
@@ -3079,7 +3069,6 @@
 <e lm="denotativo"><i>denotativ</i><par n="absolut/o__adj"/></e>
 <e lm="densimétrico"><i>densimétric</i><par n="absolut/o__adj"/></e>
 <e lm="densitométrico"><i>densitométric</i><par n="absolut/o__adj"/></e>
-<e lm="dentario"><i>dentari</i><par n="absolut/o__adj"/></e>
 <e lm="denticulado"><i>denticulad</i><par n="absolut/o__adj"/></e>
 <e lm="denticular"><i>denticular</i><par n="abdominal__adj"/></e>
 <e lm="dentiforme"><i>dentiforme</i><par n="abundante__adj"/></e>
@@ -3342,7 +3331,6 @@
 <e lm="devatado"><i>devatad</i><par n="absolut/o__adj"/></e>
 <e lm="devatiado"><i>devatiad</i><par n="absolut/o__adj"/></e>
 <e lm="devengable"><i>devengable</i><par n="abundante__adj"/></e>
-<e lm="deverbal"><i>deverbal</i><par n="abdominal__adj"/></e>
 <e lm="deverbativo"><i>deverbativ</i><par n="absolut/o__adj"/></e>
 <e lm="devolucionista"><i>devolucionista</i><par n="abundante__adj"/></e>
 <e lm="devoluto"><i>devolut</i><par n="absolut/o__adj"/></e>
@@ -3448,7 +3436,6 @@
 <e lm="diluente"><i>diluente</i><par n="abundante__adj"/></e>
 <e lm="diluvial"><i>diluvial</i><par n="abdominal__adj"/></e>
 <e lm="dimanante"><i>dimanante</i><par n="abundante__adj"/></e>
-<e lm="diminutivo"><i>diminutiv</i><par n="absolut/o__adj"/></e>
 <e lm="dimisionario"><i>dimisionari</i><par n="absolut/o__adj"/></e>
 <e lm="dimitente"><i>dimitente</i><par n="abundante__adj"/></e>
 <e lm="dimorfo"><i>dimorf</i><par n="absolut/o__adj"/></e>
@@ -4154,7 +4141,6 @@
 <e lm="escleroso"><i>escleros</i><par n="absolut/o__adj"/></e>
 <e lm="esclerófilo"><i>esclerófil</i><par n="absolut/o__adj"/></e>
 <e lm="esclerósico"><i>esclerósic</i><par n="absolut/o__adj"/></e>
-<e lm="esclerótico"><i>esclerótic</i><par n="absolut/o__adj"/></e>
 <e lm="escolapio"><i>escolapi</i><par n="absolut/o__adj"/></e>
 <e lm="escolariego"><i>escolarieg</i><par n="absolut/o__adj"/></e>
 <e lm="escolimoso"><i>escolimos</i><par n="absolut/o__adj"/></e>
@@ -4419,7 +4405,6 @@
 <e lm="evangelizador"><i>evangelizador</i><par n="abrumador__adj"/></e>
 <e lm="evaporable"><i>evaporable</i><par n="abundante__adj"/></e>
 <e lm="evaporador"><i>evaporador</i><par n="abrumador__adj"/></e>
-<e lm="evaporativo"><i>evaporativ</i><par n="absolut/o__adj"/></e>
 <e lm="evaporítico"><i>evaporític</i><par n="absolut/o__adj"/></e>
 <e lm="evasor"><i>evasor</i><par n="abrumador__adj"/></e>
 <e lm="evehente"><i>evehente</i><par n="abundante__adj"/></e>
@@ -4833,7 +4818,6 @@
 <e lm="fontal"><i>fontal</i><par n="abdominal__adj"/></e>
 <e lm="fontanal"><i>fontanal</i><par n="abdominal__adj"/></e>
 <e lm="fontanero"><i>fontaner</i><par n="absolut/o__adj"/></e>
-<e lm="fonémico"><i>fonémic</i><par n="absolut/o__adj"/></e>
 <e lm="forajido"><i>forajid</i><par n="absolut/o__adj"/></e>
 <e lm="foraminal"><i>foraminal</i><par n="abdominal__adj"/></e>
 <e lm="forbólico"><i>forbólic</i><par n="absolut/o__adj"/></e>
@@ -5246,7 +5230,6 @@
 <e lm="glucogénico"><i>glucogénic</i><par n="absolut/o__adj"/></e>
 <e lm="glucosado"><i>glucosad</i><par n="absolut/o__adj"/></e>
 <e lm="glucosúrico"><i>glucosúric</i><par n="absolut/o__adj"/></e>
-<e lm="glucémico"><i>glucémic</i><par n="absolut/o__adj"/></e>
 <e lm="glucónico"><i>glucónic</i><par n="absolut/o__adj"/></e>
 <e lm="glutinoso"><i>glutinos</i><par n="absolut/o__adj"/></e>
 <e lm="glutámico"><i>glutámic</i><par n="absolut/o__adj"/></e>
@@ -5442,7 +5425,6 @@
 <e lm="haplopoliploide"><i>haplopoliploide</i><par n="abundante__adj"/></e>
 <e lm="haptógeno"><i>haptógen</i><par n="absolut/o__adj"/></e>
 <e lm="haragán"><i>harag</i><par n="alem/án__adj"/></e>
-<e lm="harapiento"><i>harapient</i><par n="absolut/o__adj"/></e>
 <e lm="haraposo"><i>harapos</i><par n="absolut/o__adj"/></e>
 <e lm="harinero"><i>hariner</i><par n="absolut/o__adj"/></e>
 <e lm="harinoso"><i>harinos</i><par n="absolut/o__adj"/></e>
@@ -5584,7 +5566,6 @@
 <e lm="hialino"><i>hialin</i><par n="absolut/o__adj"/></e>
 <e lm="hialográfico"><i>hialográfic</i><par n="absolut/o__adj"/></e>
 <e lm="hialoideo"><i>hialoide</i><par n="absolut/o__adj"/></e>
-<e lm="hialurónico"><i>hialurónic</i><par n="absolut/o__adj"/></e>
 <e lm="hibernal"><i>hibernal</i><par n="abdominal__adj"/></e>
 <e lm="hibernizo"><i>hiberniz</i><par n="absolut/o__adj"/></e>
 <e lm="hidalgo"><i>hidalg</i><par n="absolut/o__adj"/></e>
@@ -6842,7 +6823,6 @@
 <e lm="langostiner"><i>langostiner</i><par n="abrumador__adj"/></e>
 <e lm="languedociano"><i>languedocian</i><par n="absolut/o__adj"/></e>
 <e lm="lanoso"><i>lanos</i><par n="absolut/o__adj"/></e>
-<e lm="lanudo"><i>lanud</i><par n="absolut/o__adj"/></e>
 <e lm="lanuginoso"><i>lanuginos</i><par n="absolut/o__adj"/></e>
 <e lm="lanzador"><i>lanzador</i><par n="abrumador__adj"/></e>
 <e lm="lanífero"><i>lanífer</i><par n="absolut/o__adj"/></e>
@@ -6892,7 +6872,6 @@
 <e lm="lebrero"><i>lebrer</i><par n="absolut/o__adj"/></e>
 <e lm="lebruno"><i>lebrun</i><par n="absolut/o__adj"/></e>
 <e lm="lechar"><i>lechar</i><par n="abdominal__adj"/></e>
-<e lm="lechoso"><i>lechos</i><par n="absolut/o__adj"/></e>
 <e lm="lechugado"><i>lechugad</i><par n="absolut/o__adj"/></e>
 <e lm="lechuguino"><i>lechuguin</i><par n="absolut/o__adj"/></e>
 <e lm="lechuzo"><i>lechuz</i><par n="absolut/o__adj"/></e>
@@ -7201,7 +7180,6 @@
 <e lm="madrugador"><i>madrugador</i><par n="abrumador__adj"/></e>
 <e lm="madrugón"><i>madrug</i><par n="anfitri/ón__adj"/></e>
 <e lm="madurador"><i>madurador</i><par n="abrumador__adj"/></e>
-<e lm="madurativo"><i>madurativ</i><par n="absolut/o__adj"/></e>
 <e lm="maestral"><i>maestral</i><par n="abdominal__adj"/></e>
 <e lm="magallánico"><i>magallánic</i><par n="absolut/o__adj"/></e>
 <e lm="magdaleniense"><i>magdaleniense</i><par n="abundante__adj"/></e>
@@ -7364,7 +7342,6 @@
 <e lm="marginalista"><i>marginalista</i><par n="abundante__adj"/></e>
 <e lm="margoso"><i>margos</i><par n="absolut/o__adj"/></e>
 <e lm="marial"><i>marial</i><par n="abdominal__adj"/></e>
-<e lm="mariano"><i>marian</i><par n="absolut/o__adj"/></e>
 <e lm="marimbero"><i>marimber</i><par n="absolut/o__adj"/></e>
 <e lm="marinerado"><i>marinerad</i><par n="absolut/o__adj"/></e>
 <e lm="marinista"><i>marinista</i><par n="abundante__adj"/></e>
@@ -7983,7 +7960,6 @@
 <e lm="multiempresa"><i>multiempresa</i><par n="abundante__adj"/></e>
 <e lm="multiespectral"><i>multiespectral</i><par n="abdominal__adj"/></e>
 <e lm="multiespiral"><i>multiespiral</i><par n="abdominal__adj"/></e>
-<e lm="multifilar"><i>multifilar</i><par n="abdominal__adj"/></e>
 <e lm="multifocal"><i>multifocal</i><par n="abdominal__adj"/></e>
 <e lm="multiforme"><i>multiforme</i><par n="abundante__adj"/></e>
 <e lm="multifásico"><i>multifásic</i><par n="absolut/o__adj"/></e>
@@ -8498,9 +8474,7 @@
 <e lm="organizador"><i>organizador</i><par n="abrumador__adj"/></e>
 <e lm="organoclorado"><i>organoclorad</i><par n="absolut/o__adj"/></e>
 <e lm="organográfico"><i>organográfic</i><par n="absolut/o__adj"/></e>
-<e lm="organoléptico"><i>organoléptic</i><par n="absolut/o__adj"/></e>
 <e lm="organometálico"><i>organometálic</i><par n="absolut/o__adj"/></e>
-<e lm="organógeno"><i>organógen</i><par n="absolut/o__adj"/></e>
 <e lm="orgiástico"><i>orgiástic</i><par n="absolut/o__adj"/></e>
 <e lm="orgásmico"><i>orgásmic</i><par n="absolut/o__adj"/></e>
 <e lm="orgástico"><i>orgástic</i><par n="absolut/o__adj"/></e>
@@ -8556,7 +8530,6 @@
 <e lm="oteador"><i>oteador</i><par n="abrumador__adj"/></e>
 <e lm="otogénico"><i>otogénic</i><par n="absolut/o__adj"/></e>
 <e lm="otolítico"><i>otolític</i><par n="absolut/o__adj"/></e>
-<e lm="otológico"><i>otológic</i><par n="absolut/o__adj"/></e>
 <e lm="otomandibular"><i>otomandibular</i><par n="abdominal__adj"/></e>
 <e lm="otorgadero"><i>otorgader</i><par n="absolut/o__adj"/></e>
 <e lm="otorgador"><i>otorgador</i><par n="abrumador__adj"/></e>
@@ -9063,7 +9036,6 @@
 <e lm="perióstico"><i>perióstic</i><par n="absolut/o__adj"/></e>
 <e lm="perjudicador"><i>perjudicador</i><par n="abrumador__adj"/></e>
 <e lm="perjuro"><i>perjur</i><par n="absolut/o__adj"/></e>
-<e lm="perlado"><i>perlad</i><par n="absolut/o__adj"/></e>
 <e lm="perlero"><i>perler</i><par n="absolut/o__adj"/></e>
 <e lm="perlingual"><i>perlingual</i><par n="abdominal__adj"/></e>
 <e lm="perlino"><i>perlin</i><par n="absolut/o__adj"/></e>
@@ -9189,7 +9161,6 @@
 <e lm="pineal"><i>pineal</i><par n="abdominal__adj"/></e>
 <e lm="pingajoso"><i>pingajos</i><par n="absolut/o__adj"/></e>
 <e lm="pingorotudo"><i>pingorotud</i><par n="absolut/o__adj"/></e>
-<e lm="pingüe"><i>pingüe</i><par n="abundante__adj"/></e>
 <e lm="pinjante"><i>pinjante</i><par n="abundante__adj"/></e>
 <e lm="pinnado"><i>pinnad</i><par n="absolut/o__adj"/></e>
 <e lm="pinnaticompuesto"><i>pinnaticompuest</i><par n="absolut/o__adj"/></e>
@@ -9374,7 +9345,6 @@
 <e lm="poligámico"><i>poligámic</i><par n="absolut/o__adj"/></e>
 <e lm="poligínico"><i>poligínic</i><par n="absolut/o__adj"/></e>
 <e lm="poliinmunoglobulínico"><i>poliinmunoglobulínic</i><par n="absolut/o__adj"/></e>
-<e lm="poliinsaturado"><i>poliinsaturad</i><par n="absolut/o__adj"/></e>
 <e lm="polimineral"><i>polimineral</i><par n="abdominal__adj"/></e>
 <e lm="polimorfo"><i>polimorf</i><par n="absolut/o__adj"/></e>
 <e lm="polimorfonuclear"><i>polimorfonuclear</i><par n="abdominal__adj"/></e>
@@ -9515,7 +9485,6 @@
 <e lm="postulante"><i>postulant</i><par n="gobernant/e__adj"/></e>
 <e lm="postverbal"><i>postverbal</i><par n="abdominal__adj"/></e>
 <e lm="postónico"><i>postónic</i><par n="absolut/o__adj"/></e>
-<e lm="posverbal"><i>posverbal</i><par n="abdominal__adj"/></e>
 <e lm="potado"><i>potad</i><par n="absolut/o__adj"/></e>
 <e lm="potador"><i>potador</i><par n="abrumador__adj"/></e>
 <e lm="potosino"><i>potosin</i><par n="absolut/o__adj"/></e>
@@ -9846,7 +9815,6 @@
 <e lm="pulgar"><i>pulgar</i><par n="abdominal__adj"/></e>
 <e lm="pulgoso"><i>pulgos</i><par n="absolut/o__adj"/></e>
 <e lm="pulidor"><i>pulidor</i><par n="abrumador__adj"/></e>
-<e lm="pulpar"><i>pulpar</i><par n="abdominal__adj"/></e>
 <e lm="pulposo"><i>pulpos</i><par n="absolut/o__adj"/></e>
 <e lm="pulquérrimo"><i>pulquérrim</i><par n="absolut/o__adj"/></e>
 <e lm="pulsador"><i>pulsador</i><par n="abrumador__adj"/></e>
@@ -9879,7 +9847,6 @@
 <e lm="pustuloso"><i>pustulos</i><par n="absolut/o__adj"/></e>
 <e lm="putesco"><i>putesc</i><par n="absolut/o__adj"/></e>
 <e lm="putrefactivo"><i>putrefactiv</i><par n="absolut/o__adj"/></e>
-<e lm="putrefacto"><i>putrefact</i><par n="absolut/o__adj"/></e>
 <e lm="putrescente"><i>putrescente</i><par n="abundante__adj"/></e>
 <e lm="putrescible"><i>putrescible</i><par n="abundante__adj"/></e>
 <e lm="puzolánico"><i>puzolánic</i><par n="absolut/o__adj"/></e>
@@ -9982,7 +9949,6 @@
 <e lm="rabicorto"><i>rabicort</i><par n="absolut/o__adj"/></e>
 <e lm="rabicón"><i>rabic</i><par n="anfitri/ón__adj"/></e>
 <e lm="rabilargo"><i>rabilarg</i><par n="absolut/o__adj"/></e>
-<e lm="rabioso"><i>rabios</i><par n="absolut/o__adj"/></e>
 <e lm="rabisalsera"><i>rabisalsera</i><par n="abundante__adj"/></e>
 <e lm="raboso"><i>rabos</i><par n="absolut/o__adj"/></e>
 <e lm="rabudo"><i>rabud</i><par n="absolut/o__adj"/></e>
@@ -10104,7 +10070,6 @@
 <e lm="recitador"><i>recitador</i><par n="abrumador__adj"/></e>
 <e lm="recitativo"><i>recitativ</i><par n="absolut/o__adj"/></e>
 <e lm="reclamable"><i>reclamable</i><par n="abundante__adj"/></e>
-<e lm="reclinable"><i>reclinable</i><par n="abundante__adj"/></e>
 <e lm="reclutador"><i>reclutador</i><par n="abrumador__adj"/></e>
 <e lm="recocho"><i>recoch</i><par n="absolut/o__adj"/></e>
 <e lm="recogedor"><i>recogedor</i><par n="abrumador__adj"/></e>
@@ -10213,7 +10178,6 @@
 <e lm="regularizador"><i>regularizador</i><par n="abrumador__adj"/></e>
 <e lm="regulativo"><i>regulativ</i><par n="absolut/o__adj"/></e>
 <e lm="reidor"><i>reidor</i><par n="abrumador__adj"/></e>
-<e lm="reinante"><i>reinante</i><par n="abundante__adj"/></e>
 <e lm="reivindicable"><i>reivindicable</i><par n="abundante__adj"/></e>
 <e lm="reivindicatorio"><i>reivindicatori</i><par n="absolut/o__adj"/></e>
 <e lm="relajador"><i>relajador</i><par n="abrumador__adj"/></e>
@@ -10222,7 +10186,6 @@
 <e lm="relatador"><i>relatador</i><par n="abrumador__adj"/></e>
 <e lm="relicto"><i>relict</i><par n="absolut/o__adj"/></e>
 <e lm="relimpio"><i>relimpi</i><par n="absolut/o__adj"/></e>
-<e lm="rellenable"><i>rellenable</i><par n="abundante__adj"/></e>
 <e lm="relocalizable"><i>relocalizable</i><par n="abundante__adj"/></e>
 <e lm="relojero"><i>relojer</i><par n="absolut/o__adj"/></e>
 <e lm="reluctante"><i>reluctante</i><par n="abundante__adj"/></e>
@@ -10247,7 +10210,6 @@
 <e lm="remolcable"><i>remolcable</i><par n="abundante__adj"/></e>
 <e lm="remolón"><i>remol</i><par n="anfitri/ón__adj"/></e>
 <e lm="remontante"><i>remontante</i><par n="abundante__adj"/></e>
-<e lm="removible"><i>removible</i><par n="abundante__adj"/></e>
 <e lm="remunerador"><i>remunerador</i><par n="abrumador__adj"/></e>
 <e lm="remunerativo"><i>remunerativ</i><par n="absolut/o__adj"/></e>
 <e lm="remuneratorio"><i>remuneratori</i><par n="absolut/o__adj"/></e>
@@ -10351,7 +10313,6 @@
 <e lm="responsivo"><i>responsiv</i><par n="absolut/o__adj"/></e>
 <e lm="resquebrajoso"><i>resquebrajos</i><par n="absolut/o__adj"/></e>
 <e lm="restador"><i>restador</i><par n="abrumador__adj"/></e>
-<e lm="restaurador"><i>restaurador</i><par n="abrumador__adj"/></e>
 <e lm="restaurativo"><i>restaurativ</i><par n="absolut/o__adj"/></e>
 <e lm="restituible"><i>restituible</i><par n="abundante__adj"/></e>
 <e lm="restituidor"><i>restituidor</i><par n="abrumador__adj"/></e>
@@ -10374,7 +10335,6 @@
 <e lm="reticuloendotelial"><i>reticuloendotelial</i><par n="abdominal__adj"/></e>
 <e lm="retiniano"><i>retinian</i><par n="absolut/o__adj"/></e>
 <e lm="retinocoroideo"><i>retinocoroide</i><par n="absolut/o__adj"/></e>
-<e lm="retornable"><i>retornable</i><par n="abundante__adj"/></e>
 <e lm="retorromano"><i>retorroman</i><par n="absolut/o__adj"/></e>
 <e lm="retorrománico"><i>retorrománic</i><par n="absolut/o__adj"/></e>
 <e lm="retorsivo"><i>retorsiv</i><par n="absolut/o__adj"/></e>
@@ -10424,7 +10384,6 @@
 <e lm="revendedor"><i>revendedor</i><par n="abrumador__adj"/></e>
 <e lm="revenible"><i>revenible</i><par n="abundante__adj"/></e>
 <e lm="reventón"><i>revent</i><par n="anfitri/ón__adj"/></e>
-<e lm="reverberante"><i>reverberante</i><par n="abundante__adj"/></e>
 <e lm="reverenciable"><i>reverenciable</i><par n="abundante__adj"/></e>
 <e lm="reverenciador"><i>reverenciador</i><par n="abrumador__adj"/></e>
 <e lm="reverencial"><i>reverencial</i><par n="abdominal__adj"/></e>
@@ -10888,7 +10847,6 @@
 <e lm="semifluido"><i>semifluid</i><par n="absolut/o__adj"/></e>
 <e lm="semiforme"><i>semiforme</i><par n="abundante__adj"/></e>
 <e lm="semifosforoso"><i>semifosforos</i><par n="absolut/o__adj"/></e>
-<e lm="semigraso"><i>semigras</i><par n="absolut/o__adj"/></e>
 <e lm="semiheterotípico"><i>semiheterotípic</i><par n="absolut/o__adj"/></e>
 <e lm="semiindirecto"><i>semiindirect</i><par n="absolut/o__adj"/></e>
 <e lm="semiinscrito"><i>semiinscrit</i><par n="absolut/o__adj"/></e>
@@ -10921,7 +10879,6 @@
 <e lm="semirredondo"><i>semirredond</i><par n="absolut/o__adj"/></e>
 <e lm="semirrápido"><i>semirrápid</i><par n="absolut/o__adj"/></e>
 <e lm="semirrígido"><i>semirrígid</i><par n="absolut/o__adj"/></e>
-<e lm="semiseco"><i>semisec</i><par n="absolut/o__adj"/></e>
 <e lm="semisimple"><i>semisimple</i><par n="abundante__adj"/></e>
 <e lm="semisólido"><i>semisólid</i><par n="absolut/o__adj"/></e>
 <e lm="semiunivalente"><i>semiunivalente</i><par n="abundante__adj"/></e>
@@ -10966,7 +10923,6 @@
 <e lm="serigráfico"><i>serigráfic</i><par n="absolut/o__adj"/></e>
 <e lm="sermonario"><i>sermonari</i><par n="absolut/o__adj"/></e>
 <e lm="sermoneador"><i>sermoneador</i><par n="abrumador__adj"/></e>
-<e lm="serológico"><i>serológic</i><par n="absolut/o__adj"/></e>
 <e lm="seromucoso"><i>seromucos</i><par n="absolut/o__adj"/></e>
 <e lm="serondo"><i>serond</i><par n="absolut/o__adj"/></e>
 <e lm="seroso"><i>seros</i><par n="absolut/o__adj"/></e>
@@ -11223,7 +11179,6 @@
 <e lm="soterraño"><i>soterrañ</i><par n="absolut/o__adj"/></e>
 <e lm="soteño"><i>soteñ</i><par n="absolut/o__adj"/></e>
 <e lm="soufflé"><i>soufflé</i><par n="abundante__adj"/></e>
-<e lm="soñoliento"><i>soñolient</i><par n="absolut/o__adj"/></e>
 <e lm="sport"><i>sport</i><par n="multimedia__adj"/></e>
 <e lm="standard"><i>standard</i><par n="gran__adj"/></e>
 <e lm="suabo"><i>suab</i><par n="absolut/o__adj"/></e>
@@ -11297,7 +11252,6 @@
 <e lm="subregional"><i>subregional</i><par n="abdominal__adj"/></e>
 <e lm="subrepresentado"><i>subrepresentad</i><par n="absolut/o__adj"/></e>
 <e lm="subrepticio"><i>subreptici</i><par n="absolut/o__adj"/></e>
-<e lm="subsanable"><i>subsanable</i><par n="abundante__adj"/></e>
 <e lm="subsecuente"><i>subsecuente</i><par n="abundante__adj"/></e>
 <e lm="subseroso"><i>subseros</i><par n="absolut/o__adj"/></e>
 <e lm="substancial"><i>substancial</i><par n="abdominal__adj"/></e>
@@ -11573,7 +11527,6 @@
 <e lm="tapador"><i>tapador</i><par n="abrumador__adj"/></e>
 <e lm="tapido"><i>tapid</i><par n="absolut/o__adj"/></e>
 <e lm="tapinocráneo"><i>tapinocráne</i><par n="absolut/o__adj"/></e>
-<e lm="tapizante"><i>tapizante</i><par n="abundante__adj"/></e>
 <e lm="taponero"><i>taponer</i><par n="absolut/o__adj"/></e>
 <e lm="tapuya"><i>tapuya</i><par n="abundante__adj"/></e>
 <e lm="taquillero"><i>taquiller</i><par n="absolut/o__adj"/></e>
@@ -11748,11 +11701,9 @@
 <e lm="terregoso"><i>terregos</i><par n="absolut/o__adj"/></e>
 <e lm="terrino"><i>terrin</i><par n="absolut/o__adj"/></e>
 <e lm="terrizo"><i>terriz</i><par n="absolut/o__adj"/></e>
-<e lm="terroso"><i>terros</i><par n="absolut/o__adj"/></e>
 <e lm="terrícola"><i>terrícola</i><par n="abundante__adj"/></e>
 <e lm="terrífico"><i>terrífic</i><par n="absolut/o__adj"/></e>
 <e lm="terrígeno"><i>terrígen</i><par n="absolut/o__adj"/></e>
-<e lm="terso"><i>ters</i><par n="absolut/o__adj"/></e>
 <e lm="tertuliano"><i>tertulian</i><par n="absolut/o__adj"/></e>
 <e lm="tertuliante"><i>tertuliante</i><par n="abundante__adj"/></e>
 <e lm="tertulio"><i>tertuli</i><par n="absolut/o__adj"/></e>
@@ -11763,7 +11714,6 @@
 <e lm="teselado"><i>teselad</i><par n="absolut/o__adj"/></e>
 <e lm="teso"><i>tes</i><par n="absolut/o__adj"/></e>
 <e lm="tesonero"><i>tesoner</i><par n="absolut/o__adj"/></e>
-<e lm="testamentario"><i>testamentari</i><par n="absolut/o__adj"/></e>
 <e lm="testarrón"><i>testarr</i><par n="anfitri/ón__adj"/></e>
 <e lm="testarudo"><i>testarud</i><par n="absolut/o__adj"/></e>
 <e lm="testificativo"><i>testificativ</i><par n="absolut/o__adj"/></e>
@@ -11813,7 +11763,6 @@
 <e lm="timodependiente"><i>timodependiente</i><par n="abundante__adj"/></e>
 <e lm="timoindependiente"><i>timoindependiente</i><par n="abundante__adj"/></e>
 <e lm="timonero"><i>timoner</i><par n="absolut/o__adj"/></e>
-<e lm="timorato"><i>timorat</i><par n="absolut/o__adj"/></e>
 <e lm="timorense"><i>timorense</i><par n="abundante__adj"/></e>
 <e lm="timorés"><i>timor</i><par n="aragon/és__adj"/></e>
 <e lm="timpanoescamoso"><i>timpanoescamos</i><par n="absolut/o__adj"/></e>
@@ -11877,7 +11826,6 @@
 <e lm="tonante"><i>tonante</i><par n="abundante__adj"/></e>
 <e lm="tonelero"><i>toneler</i><par n="absolut/o__adj"/></e>
 <e lm="tonificador"><i>tonificador</i><par n="abrumador__adj"/></e>
-<e lm="tonificante"><i>tonificante</i><par n="abundante__adj"/></e>
 <e lm="tonsilar"><i>tonsilar</i><par n="abdominal__adj"/></e>
 <e lm="tontaina"><i>tontaina</i><par n="abundante__adj"/></e>
 <e lm="topadizo"><i>topadiz</i><par n="absolut/o__adj"/></e>
@@ -11899,7 +11847,6 @@
 <e lm="toriado"><i>toriad</i><par n="absolut/o__adj"/></e>
 <e lm="toriondo"><i>toriond</i><par n="absolut/o__adj"/></e>
 <e lm="tormentario"><i>tormentari</i><par n="absolut/o__adj"/></e>
-<e lm="tormentoso"><i>tormentos</i><par n="absolut/o__adj"/></e>
 <e lm="tornadizo"><i>tornadiz</i><par n="absolut/o__adj"/></e>
 <e lm="tornasol"><i>tornasol</i><par n="abdominal__adj"/></e>
 <e lm="tornátil"><i>tornátil</i><par n="abdominal__adj"/></e>
@@ -11917,7 +11864,6 @@
 <e lm="tosigoso"><i>tosigos</i><par n="absolut/o__adj"/></e>
 <e lm="totalitarista"><i>totalitarista</i><par n="abundante__adj"/></e>
 <e lm="totonaco"><i>totonac</i><par n="absolut/o__adj"/></e>
-<e lm="totémico"><i>totémic</i><par n="absolut/o__adj"/></e>
 <e lm="toxicológico"><i>toxicológic</i><par n="absolut/o__adj"/></e>
 <e lm="toxicóforo"><i>toxicófor</i><par n="absolut/o__adj"/></e>
 <e lm="toxicógeno"><i>toxicógen</i><par n="absolut/o__adj"/></e>
@@ -11928,7 +11874,6 @@
 <e lm="tracio"><i>traci</i><par n="absolut/o__adj"/></e>
 <e lm="tracista"><i>tracista</i><par n="abundante__adj"/></e>
 <e lm="tractivo"><i>tractiv</i><par n="absolut/o__adj"/></e>
-<e lm="tractor"><i>tractor</i><par n="abrumador__adj"/></e>
 <e lm="traductor"><i>traductor</i><par n="abrumador__adj"/></e>
 <e lm="traedizo"><i>traediz</i><par n="absolut/o__adj"/></e>
 <e lm="traedor"><i>traedor</i><par n="abrumador__adj"/></e>
@@ -12241,7 +12186,6 @@
 <e lm="trovista"><i>trovista</i><par n="abundante__adj"/></e>
 <e lm="troyano"><i>troyan</i><par n="absolut/o__adj"/></e>
 <e lm="truchero"><i>trucher</i><par n="absolut/o__adj"/></e>
-<e lm="truculento"><i>truculent</i><par n="absolut/o__adj"/></e>
 <e lm="truhanesco"><i>truhanesc</i><par n="absolut/o__adj"/></e>
 <e lm="trunco"><i>trunc</i><par n="absolut/o__adj"/></e>
 <e lm="trémulo"><i>trémul</i><par n="absolut/o__adj"/></e>
@@ -12497,7 +12441,6 @@
 <e lm="varietal"><i>varietal</i><par n="abdominal__adj"/></e>
 <e lm="varioloso"><i>variolos</i><par n="absolut/o__adj"/></e>
 <e lm="variolítico"><i>variolític</i><par n="absolut/o__adj"/></e>
-<e lm="variopinto"><i>variopint</i><par n="absolut/o__adj"/></e>
 <e lm="variólico"><i>variólic</i><par n="absolut/o__adj"/></e>
 <e lm="varsoviano"><i>varsovian</i><par n="absolut/o__adj"/></e>
 <e lm="vasallo"><i>vasall</i><par n="absolut/o__adj"/></e>
