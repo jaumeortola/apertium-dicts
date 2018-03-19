@@ -9976,7 +9976,6 @@
 <e lm="insuperat"><i>insupera</i><par n="triparti/t__adj"/></e>
 <e lm="insurgent"><i>insurgent</i><par n="abdominal__adj"/></e>
 <e lm="insurreccional"><i>insurreccional</i><par n="abdominal__adj"/></e>
-<e lm="integrant"><i>integrant</i><par n="abdominal__adj"/></e>
 <e lm="integripal·lial"><i>integripal·lial</i><par n="abdominal__adj"/></e>
 <e lm="intel·lectiu"><i>intel·lecti</i><par n="abusi/u__adj"/></e>
 <e lm="intel·lectualista"><i>intel·lectualist</i><par n="agrícol/a__adj"/></e>
@@ -12357,7 +12356,6 @@
 <e lm="nahua"><i>nahu</i><par n="agrícol/a__adj"/></e>
 <e lm="naixedor"><i>naixedor</i><par n="absolut__adj"/></e>
 <e lm="namurià"><i>namuri</i><par n="afric/à__adj"/></e>
-<e lm="nan"><i>nan</i><par n="absolut__adj"/></e>
 <e lm="nanoide"><i>nanoide</i><par n="abdominal__adj"/></e>
 <e lm="nanomètric"><i>nanomètri</i><par n="acadèmi/c__adj"/></e>
 <e lm="nanoscòpic"><i>nanoscòpi</i><par n="acadèmi/c__adj"/></e>

@@ -279,6 +279,7 @@ APERTIUM: bleda	PAR: abell/a__n	FORMS: NCFP000 bledes NCFS000 bleda
 
 APERTIUM: boig	PAR: bo/ig__n	FORMS: NCFP000 boges NCFS000 boja NCMP000 boigs NCMP000 bojos NCMS000 boig
    OTHER: boig	PAR: assa/ig__n	FORMS: NCMP000 boigs NCMP000 bojos NCMS000 boig
+   OTHER: boig	PAR: ra/ig__n	FORMS: NCMP000 boigs NCMP000 bojos NCMS000 boig
 
 APERTIUM: bombarder	PAR: senyor__n	FORMS: NCFP000 bombarderes NCFS000 bombardera NCMP000 bombarders NCMS000 bombarder
    OTHER: bombarder	PAR: abric__n	FORMS: NCMP000 bombarders NCMS000 bombarder
@@ -687,7 +688,7 @@ APERTIUM: drus	PAR: senyor__n	FORMS: NCFP000 druses NCFS000 drusa NCMP000 druss 
 APERTIUM: duc	PAR: du/c__n	FORMS: NCFP000 duquesses NCFS000 duquessa NCMP000 ducs NCMS000 duc
    OTHER: duc	PAR: abric__n	FORMS: NCMP000 ducs NCMS000 duc
 
-APERTIUM: déu	PAR: d/éu__n	FORMS: NCFP000 deesses NCFS000 deessa NCMP000 déus NCMS000 déu
+APERTIUM: déu	PAR: d/éu__n	FORMS: NCFP000 dees NCFP000 deesses NCFS000 dea NCFS000 deessa NCMP000 déus NCMS000 déu
    OTHER: déu	PAR: abric__n	FORMS: NCMP000 déus NCMS000 déu
 
 APERTIUM: eclesiàstic	PAR: asiàti/c__n	FORMS: NCFP000 eclesiàstiques NCFS000 eclesiàstica NCMP000 eclesiàstics NCMS000 eclesiàstic
@@ -890,6 +891,7 @@ APERTIUM: franctirador	PAR: senyor__n	FORMS: NCFP000 franctiradores NCFS000 fran
 
 APERTIUM: franqueig	PAR: abric__n	FORMS: NCMP000 franqueigs NCMS000 franqueig
    OTHER: franqueig	PAR: assa/ig__n	FORMS: NCMP000 franqueigs NCMP000 franquejos NCMS000 franqueig
+   OTHER: franqueig	PAR: ra/ig__n	FORMS: NCMP000 franqueigs NCMP000 franquejos NCMS000 franqueig
 
 APERTIUM: fruiter	PAR: senyor__n	FORMS: NCFP000 fruiteres NCFS000 fruitera NCMP000 fruiters NCMS000 fruiter
    OTHER: fruiter	PAR: abric__n	FORMS: NCMP000 fruiters NCMS000 fruiter
@@ -917,6 +919,7 @@ APERTIUM: gadità	PAR: americ/à__n	FORMS: NCFP000 gaditanes NCFS000 gaditana NC
 
 APERTIUM: gaig	PAR: abric__n	FORMS: NCMP000 gaigs NCMS000 gaig
    OTHER: gaig	PAR: assa/ig__n	FORMS: NCMP000 gaigs NCMP000 gajos NCMS000 gaig
+   OTHER: gaig	PAR: ra/ig__n	FORMS: NCMP000 gaigs NCMP000 gajos NCMS000 gaig
 
 APERTIUM: galliner	PAR: abric__n	FORMS: NCMP000 galliners NCMS000 galliner
    OTHER: galliner	PAR: senyor__n	FORMS: NCFP000 gallineres NCFS000 gallinera NCMP000 galliners NCMS000 galliner
@@ -1455,6 +1458,9 @@ APERTIUM: malvolença	PAR: abell/a__n	FORMS: NCFP000 malvolençes NCFS000 malvol
 
 APERTIUM: mandra	PAR: abell/a__n	FORMS: NCFP000 mandres NCFS000 mandra
    OTHER: mandra	PAR: accionist/a__n	FORMS: NCCP000 mandres NCCS000 mandra
+
+APERTIUM: maniguet	PAR: abric__n	FORMS: NCMP000 maneguets NCMS000 maneguet
+   OTHER: maniguet	PAR: abric__n	FORMS: NCMP000 maniguets NCMS000 maniguet
 
 APERTIUM: manobre	PAR: acompanyant__n	FORMS: NCCP000 manobres NCCS000 manobre
    OTHER: manobre	PAR: abric__n	FORMS: NCMP000 manobres NCMS000 manobre
@@ -2068,6 +2074,7 @@ APERTIUM: puericultor	PAR: senyor__n	FORMS: NCFP000 puericultores NCFS000 pueric
 
 APERTIUM: puig	PAR: abric__n	FORMS: NCMP000 puigs NCMS000 puig
    OTHER: puig	PAR: assa/ig__n	FORMS: NCMP000 puigs NCMP000 pujos NCMS000 puig
+   OTHER: puig	PAR: ra/ig__n	FORMS: NCMP000 puigs NCMP000 pujos NCMS000 puig
 
 APERTIUM: pupil	PAR: gal__n	FORMS: NCFP000 pupil·les NCFS000 pupil·la NCMP000 pupils NCMS000 pupil
    OTHER: pupil	PAR: abric__n	FORMS: NCMP000 pupils NCMS000 pupil
@@ -2111,9 +2118,6 @@ APERTIUM: química	PAR: q__n	FORMS: NCFS000 química
 
 APERTIUM: radioaficionat	PAR: advoca/t__n	FORMS: NCFP000 radioaficionades NCFS000 radioaficionada NCMP000 radioaficionats NCMS000 radioaficionat
    OTHER: radioaficionat	PAR: abric__n	FORMS: NCMP000 radioaficionats NCMS000 radioaficionat
-
-APERTIUM: raig	PAR: abric__n	FORMS: NCMP000 raigs NCMS000 raig
-   OTHER: raig	PAR: assa/ig__n	FORMS: NCMP000 raigs NCMP000 rajos NCMS000 raig
 
 APERTIUM: ramader	PAR: senyor__n	FORMS: NCFP000 ramaderes NCFS000 ramadera NCMP000 ramaders NCMS000 ramader
    OTHER: ramader	PAR: abric__n	FORMS: NCMP000 ramaders NCMS000 ramader
@@ -2263,6 +2267,7 @@ APERTIUM: sacerdot	PAR: sacerdot__n	FORMS: NCFP000 sacerdotesses NCFS000 sacerdo
 
 APERTIUM: sacseig	PAR: abric__n	FORMS: NCMP000 sacseigs NCMS000 sacseig
    OTHER: sacseig	PAR: assa/ig__n	FORMS: NCMP000 sacseigs NCMP000 sacsejos NCMS000 sacseig
+   OTHER: sacseig	PAR: ra/ig__n	FORMS: NCMP000 sacseigs NCMP000 sacsejos NCMS000 sacseig
 
 APERTIUM: sagristà	PAR: americ/à__n	FORMS: NCFP000 sagristanes NCFS000 sagristana NCMP000 sagristans NCMS000 sagristà
    OTHER: sagristà	PAR: bacall/à__n	FORMS: NCMP000 sagristans NCMS000 sagristà

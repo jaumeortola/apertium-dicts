@@ -5100,7 +5100,6 @@
 <e lm="avellanor"><i>avellanor</i><par n="accessibilitat__n"/></e>
 <e lm="avellanosa"><i>avellanos</i><par n="abell/a__n"/></e>
 <e lm="avemaria"><i>avemari</i><par n="abell/a__n"/></e>
-<e lm="avena"><i>aven</i><par n="abell/a__n"/></e>
 <e lm="avencó"><i>avenc</i><par n="aband/ó__n"/></e>
 <e lm="averament"><i>averament</i><par n="abric__n"/></e>
 <e lm="avergonyiment"><i>avergonyiment</i><par n="abric__n"/></e>
@@ -9276,14 +9275,11 @@
 <e lm="carabasser"><i>carabasser</i><par n="abric__n"/></e>
 <e lm="carabassera"><i>carabasser</i><par n="abell/a__n"/></e>
 <e lm="carabasserar"><i>carabasserar</i><par n="abric__n"/></e>
-<e lm="carabasseta"><i>carabasset</i><par n="abell/a__n"/></e>
 <e lm="carabassina"><i>carabassin</i><par n="abell/a__n"/></e>
 <e lm="carabassinera"><i>carabassiner</i><par n="abell/a__n"/></e>
 <e lm="carabassonera"><i>carabassoner</i><par n="abell/a__n"/></e>
 <e lm="carabassot"><i>carabassot</i><par n="abric__n"/></e>
 <e lm="carabassotada"><i>carabassotad</i><par n="abell/a__n"/></e>
-<e lm="carabassí"><i>carabass</i><par n="boc/í__n"/></e>
-<e lm="carabassó"><i>carabass</i><par n="aband/ó__n"/></e>
 <e lm="carabinieri"><i>carabinieri</i><par n="abric__n"/></e>
 <e lm="carabita"><i>carabit</i><par n="abell/a__n"/></e>
 <e lm="caracal"><i>caracal</i><par n="abric__n"/></e>
@@ -21430,7 +21426,6 @@
 <e lm="fogatjador"><i>fogatjador</i><par n="abric__n"/></e>
 <e lm="fogatjament"><i>fogatjament</i><par n="abric__n"/></e>
 <e lm="fogona"><i>fogon</i><par n="abell/a__n"/></e>
-<e lm="fogonada"><i>fogonad</i><par n="abell/a__n"/></e>
 <e lm="fogonadura"><i>fogonadur</i><par n="abell/a__n"/></e>
 <e lm="fogoner"><i>fogoner</i><par n="abric__n"/></e>
 <e lm="fogonera"><i>fogoner</i><par n="abell/a__n"/></e>
@@ -27964,7 +27959,6 @@
 <e lm="llepia"><i>llepi</i><par n="abell/a__n"/></e>
 <e lm="llepissós"><i>llepiss</i><par n="contenci/ós__n"/></e>
 <e lm="llepoleria"><i>llepoleri</i><par n="abell/a__n"/></e>
-<e lm="llepolia"><i>llepoli</i><par n="abell/a__n"/></e>
 <e lm="lleroní"><i>lleron</i><par n="alacant/í__n"/></e>
 <e lm="llersenc"><i>llersen</i><par n="asiàti/c__n"/></e>
 <e lm="llescador"><i>llescador</i><par n="abric__n"/></e>
@@ -39906,7 +39900,6 @@
 <e lm="rebrotada"><i>rebrotad</i><par n="abell/a__n"/></e>
 <e lm="rebrotim"><i>rebrotim</i><par n="abric__n"/></e>
 <e lm="rebrotí"><i>rebrot</i><par n="boc/í__n"/></e>
-<e lm="rebuf"><i>rebuf</i><par n="abric__n"/></e>
 <e lm="rebufada"><i>rebufad</i><par n="abell/a__n"/></e>
 <e lm="rebull"><i>rebull</i><par n="abric__n"/></e>
 <e lm="rebulla"><i>rebull</i><par n="abell/a__n"/></e>
@@ -49727,7 +49720,6 @@
 <e lm="xuclera"><i>xucler</i><par n="abell/a__n"/></e>
 <e lm="xuclet"><i>xuclet</i><par n="abric__n"/></e>
 <e lm="xuclà"><i>xucl</i><par n="bacall/à__n"/></e>
-<e lm="xucrut"><i>xucrut</i><par n="accessibilitat__n"/></e>
 <e lm="xueta"><i>xuet</i><par n="accionist/a__n"/></e>
 <e lm="xuetim"><i>xuetim</i><par n="abric__n"/></e>
 <e lm="xuetó"><i>xuet</i><par n="amfitri/ó__n"/></e>
