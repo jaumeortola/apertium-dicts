@@ -1808,7 +1808,7 @@ APERTIUM: organitzador	PAR: senyor__n	FORMS: NCFP000 organitzadores NCFS000 orga
 APERTIUM: orient	PAR: atletisme__n	FORMS: NCMS000 orient
    OTHER: orient	PAR: abric__n	FORMS: NCMP000 orients NCMS000 orient
 
-APERTIUM: osset	PAR: trist__n	FORMS: NCFP000 ossetes NCFS000 osseta NCMP000 ossetos NCMP000 ossets NCMS000 osset
+APERTIUM: osset	PAR: senyor__n	FORMS: NCFP000 ossetes NCFS000 osseta NCMP000 ossets NCMS000 osset
    OTHER: osset	PAR: abric__n	FORMS: NCMP000 ossets NCMS000 osset
 
 APERTIUM: otomà	PAR: americ/à__n	FORMS: NCFP000 otomanes NCFS000 otomana NCMP000 otomans NCMS000 otomà

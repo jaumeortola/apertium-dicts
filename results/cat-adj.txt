@@ -1877,7 +1877,6 @@
 <e lm="armipotent"><i>armipotent</i><par n="abdominal__adj"/></e>
 <e lm="armorial"><i>armorial</i><par n="abdominal__adj"/></e>
 <e lm="armoriat"><i>armoria</i><par n="triparti/t__adj"/></e>
-<e lm="armoricà"><i>armoric</i><par n="afric/à__adj"/></e>
 <e lm="armènid"><i>armènid</i><par n="absolut__adj"/></e>
 <e lm="armífer"><i>armífer</i><par n="absolut__adj"/></e>
 <e lm="armíger"><i>armíger</i><par n="absolut__adj"/></e>
@@ -5313,7 +5312,6 @@
 <e lm="derivador"><i>derivador</i><par n="absolut__adj"/></e>
 <e lm="derivant"><i>derivant</i><par n="abdominal__adj"/></e>
 <e lm="derivatiu"><i>derivati</i><par n="abusi/u__adj"/></e>
-<e lm="dermatològic"><i>dermatològi</i><par n="acadèmi/c__adj"/></e>
 <e lm="dermatoplàstic"><i>dermatoplàsti</i><par n="acadèmi/c__adj"/></e>
 <e lm="dermòtrop"><i>dermòtrop</i><par n="absolut__adj"/></e>
 <e lm="derogable"><i>derogable</i><par n="abdominal__adj"/></e>
@@ -17766,7 +17764,6 @@
 <e lm="tovenc"><i>toven</i><par n="acadèmi/c__adj"/></e>
 <e lm="tovós"><i>tov</i><par n="aliment/ós__adj"/></e>
 <e lm="toxicogènic"><i>toxicogèni</i><par n="acadèmi/c__adj"/></e>
-<e lm="toxicològic"><i>toxicològi</i><par n="acadèmi/c__adj"/></e>
 <e lm="toxigen"><i>tox</i><par n="cancer/igen__adj"/></e>
 <e lm="trabucable"><i>trabucable</i><par n="abdominal__adj"/></e>
 <e lm="trabucador"><i>trabucador</i><par n="absolut__adj"/></e>

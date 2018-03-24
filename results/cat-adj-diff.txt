@@ -151,6 +151,9 @@ APERTIUM: bell	PAR: alt__adj	FORMS: AQ0FP0 belles AQ0FP0 bellíssimes AQ0FS0 bel
    OTHER: bell	PAR: quant__adj	FORMS: AQ0FP0 belles AQ0FS0 bella AQ0MP0 bells AQ0MS0 bell
    OTHER: bell	PAR: superlatiu__adj	FORMS: AQ0FP0 belles AQ0FS0 bella AQ0MP0 bells AQ0MS0 bell
 
+APERTIUM: bel·licós	PAR: afectu/ós__adj	FORMS: AQ0FP0 bel·licoses AQ0FP0 bel·licosíssimes AQ0FS0 bel·licosa AQ0FS0 bel·licosíssima AQ0MP0 bel·licosos AQ0MP0 bel·licosíssims AQ0MS0 bel·licosíssim AQ0MS0 bel·licós
+   OTHER: bel·licós	PAR: aliment/ós__adj	FORMS: AQ0FP0 bel·licoses AQ0FS0 bel·licosa AQ0MP0 bel·licosos AQ0MS0 bel·licós
+
 APERTIUM: benaurat	PAR: afortuna/t__adj	FORMS: AQ0FP0 benaurades AQ0FP0 benauradíssimes AQ0FS0 benaurada AQ0FS0 benauradíssima AQ0MP0 benauradíssims AQ0MP0 benaurats AQ0MS0 benauradíssim AQ0MS0 benaurat
    OTHER: benaurat	PAR: triparti/t__adj	FORMS: AQ0FP0 benaurades AQ0FS0 benaurada AQ0MP0 benaurats AQ0MS0 benaurat
 
