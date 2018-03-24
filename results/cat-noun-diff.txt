@@ -92,6 +92,9 @@ APERTIUM: albí	PAR: alacant/í__n	FORMS: NCFP000 albines NCFS000 albina NCMP000
 APERTIUM: alcalde	PAR: alcalde__n	FORMS: NCFP000 alcaldesses NCFS000 alcaldessa NCMP000 alcaldes NCMS000 alcalde
    OTHER: alcalde	PAR: acompanyant__n	FORMS: NCCP000 alcaldes NCCS000 alcalde
 
+APERTIUM: aler	PAR: abric__n	FORMS: NCMP000 alers NCMS000 aler
+   OTHER: aler	PAR: senyor__n	FORMS: NCFP000 aleres NCFS000 alera NCMP000 alers NCMS000 aler
+
 APERTIUM: algicida	PAR: accionist/a__n	FORMS: NCCP000 algicides NCCS000 algicida
    OTHER: algicida	PAR: carism/a__n	FORMS: NCMP000 algicides NCMS000 algicida
 
@@ -286,6 +289,9 @@ APERTIUM: bombarder	PAR: senyor__n	FORMS: NCFP000 bombarderes NCFS000 bombardera
 
 APERTIUM: bombo	PAR: abric__n	FORMS: NCMP000 bombos NCMS000 bombo
    OTHER: bombo	PAR: acompanyant__n	FORMS: NCCP000 bombos NCCS000 bombo
+
+APERTIUM: bosnià	PAR: americ/à__n	FORMS: NCFP000 bosnianes NCFS000 bosniana NCMP000 bosnians NCMS000 bosnià
+   OTHER: bosnià	PAR: bacall/à__n	FORMS: NCMP000 bosnians NCMS000 bosnià
 
 APERTIUM: botifarra	PAR: abell/a__n	FORMS: NCFP000 botifarres NCFS000 botifarra
    OTHER: botifarra	PAR: accionist/a__n	FORMS: NCCP000 botifarres NCCS000 botifarra
@@ -1458,9 +1464,6 @@ APERTIUM: malvolença	PAR: abell/a__n	FORMS: NCFP000 malvolençes NCFS000 malvol
 
 APERTIUM: mandra	PAR: abell/a__n	FORMS: NCFP000 mandres NCFS000 mandra
    OTHER: mandra	PAR: accionist/a__n	FORMS: NCCP000 mandres NCCS000 mandra
-
-APERTIUM: maniguet	PAR: abric__n	FORMS: NCMP000 maneguets NCMS000 maneguet
-   OTHER: maniguet	PAR: abric__n	FORMS: NCMP000 maniguets NCMS000 maniguet
 
 APERTIUM: manobre	PAR: acompanyant__n	FORMS: NCCP000 manobres NCCS000 manobre
    OTHER: manobre	PAR: abric__n	FORMS: NCMP000 manobres NCMS000 manobre

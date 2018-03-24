@@ -3875,6 +3875,7 @@
 <e lm="catalanitzador"><i>catalanitzador</i><par n="absolut__adj"/></e>
 <e lm="catalanobalear"><i>catalanobalear</i><par n="abdominal__adj"/></e>
 <e lm="catalanofòbic"><i>catalanofòbi</i><par n="acadèmi/c__adj"/></e>
+<e lm="catalanooccità"><i>catalanooccit</i><par n="afric/à__adj"/></e>
 <e lm="catalanovalencià"><i>catalanovalenci</i><par n="afric/à__adj"/></e>
 <e lm="catalanòfil"><i>catalanòfil</i><par n="absolut__adj"/></e>
 <e lm="catalanòfob"><i>catalanòfob</i><par n="absolut__adj"/></e>
@@ -9648,7 +9649,6 @@
 <e lm="incús"><i>inc</i><par n="andal/ús__adj"/></e>
 <e lm="indagador"><i>indagador</i><par n="absolut__adj"/></e>
 <e lm="indagatori"><i>indagat</i><par n="access/ori__adj"/></e>
-<e lm="indecidible"><i>indecidible</i><par n="abdominal__adj"/></e>
 <e lm="indecisori"><i>indecis</i><par n="access/ori__adj"/></e>
 <e lm="indeclarable"><i>indeclarable</i><par n="abdominal__adj"/></e>
 <e lm="indecorós"><i>indecor</i><par n="aliment/ós__adj"/></e>
@@ -10539,6 +10539,7 @@
 <e lm="laboratorial"><i>laboratorial</i><par n="abdominal__adj"/></e>
 <e lm="labortà"><i>labort</i><par n="afric/à__adj"/></e>
 <e lm="labriforme"><i>labriforme</i><par n="abdominal__adj"/></e>
+<e lm="lacanià"><i>lacani</i><par n="afric/à__adj"/></e>
 <e lm="lacedemoni"><i>lacedem</i><par n="err/oni__adj"/></e>
 <e lm="lacerant"><i>lacerant</i><par n="abdominal__adj"/></e>
 <e lm="lacertiforme"><i>lacertiforme</i><par n="abdominal__adj"/></e>
@@ -13659,6 +13660,7 @@
 <e lm="pennsilvanià"><i>pennsilvani</i><par n="afric/à__adj"/></e>
 <e lm="penníger"><i>penníger</i><par n="absolut__adj"/></e>
 <e lm="penombrós"><i>penombr</i><par n="aliment/ós__adj"/></e>
+<e lm="pensable"><i>pensable</i><par n="abdominal__adj"/></e>
 <e lm="pensiu"><i>pensi</i><par n="abusi/u__adj"/></e>
 <e lm="pensívol"><i>pensívol</i><par n="absolut__adj"/></e>
 <e lm="pentacotòmic"><i>pentacotòmi</i><par n="acadèmi/c__adj"/></e>
@@ -16457,7 +16459,6 @@
 <e lm="sequerol"><i>sequerol</i><par n="absolut__adj"/></e>
 <e lm="sequerut"><i>sequeru</i><par n="triparti/t__adj"/></e>
 <e lm="sequier"><i>sequier</i><par n="absolut__adj"/></e>
-<e lm="serbobosnià"><i>serbobosni</i><par n="afric/à__adj"/></e>
 <e lm="serbokosovar"><i>serbokosovar</i><par n="abdominal__adj"/></e>
 <e lm="serdinyenc"><i>serdinyen</i><par n="acadèmi/c__adj"/></e>
 <e lm="sereny"><i>sereny</i><par n="absolut__adj"/></e>

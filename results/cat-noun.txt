@@ -1677,7 +1677,6 @@
 <e lm="alenyanenc"><i>alenyanen</i><par n="asiàti/c__n"/></e>
 <e lm="aleocara"><i>aleocar</i><par n="abell/a__n"/></e>
 <e lm="alepocefàlid"><i>alepocefàlid</i><par n="abric__n"/></e>
-<e lm="aler"><i>aler</i><par n="senyor__n"/></e>
 <e lm="alerada"><i>alerad</i><par n="abell/a__n"/></e>
 <e lm="alerió"><i>aleri</i><par n="aband/ó__n"/></e>
 <e lm="alerta"><i>alert</i><par n="abell/a__n"/></e>
@@ -7264,7 +7263,6 @@
 <e lm="boscatera"><i>boscater</i><par n="abell/a__n"/></e>
 <e lm="boscúria"><i>boscúri</i><par n="abell/a__n"/></e>
 <e lm="bosniana"><i>bosnian</i><par n="abell/a__n"/></e>
-<e lm="bosnià"><i>bosni</i><par n="bacall/à__n"/></e>
 <e lm="bosquer"><i>bosquer</i><par n="abric__n"/></e>
 <e lm="bosquera"><i>bosquer</i><par n="abell/a__n"/></e>
 <e lm="bosquerol"><i>bosquerol</i><par n="abric__n"/></e>
@@ -10321,7 +10319,6 @@
 <e lm="cepstre"><i>cepstre</i><par n="abric__n"/></e>
 <e lm="ceptrot"><i>ceptrot</i><par n="abric__n"/></e>
 <e lm="cepòlid"><i>cepòlid</i><par n="abric__n"/></e>
-<e lm="cer"><i>cer</i><par n="abric__n"/></e>
 <e lm="cerambícid"><i>cerambícid</i><par n="abric__n"/></e>
 <e lm="cerami"><i>cerami</i><par n="abric__n"/></e>
 <e lm="ceramial"><i>ceramial</i><par n="accessibilitat__n"/></e>
@@ -14812,6 +14809,7 @@
 <e lm="desservei"><i>desservei</i><par n="abric__n"/></e>
 <e lm="desset"><i>desset</i><par n="ATS__n"/></e>
 <e lm="dessoldatge"><i>dessoldatge</i><par n="abric__n"/></e>
+<e lm="dessolvatació"><i>dessolvataci</i><par n="acci/ó__n"/></e>
 <e lm="dessuador"><i>dessuador</i><par n="abric__n"/></e>
 <e lm="dessuardatge"><i>dessuardatge</i><par n="abric__n"/></e>
 <e lm="dessubstanciament"><i>dessubstanciament</i><par n="abric__n"/></e>
@@ -19244,7 +19242,6 @@
 <e lm="estavarès"><i>estavar</i><par n="angl/ès__n"/></e>
 <e lm="estavellament"><i>estavellament</i><par n="abric__n"/></e>
 <e lm="estearat"><i>estearat</i><par n="abric__n"/></e>
-<e lm="estearina"><i>estearin</i><par n="abell/a__n"/></e>
 <e lm="esteatoma"><i>esteatom</i><par n="carism/a__n"/></e>
 <e lm="esteatorrea"><i>esteatorre</i><par n="abell/a__n"/></e>
 <e lm="esteatosi"><i>esteatosi</i><par n="accessibilitat__n"/></e>
@@ -28990,7 +28987,6 @@
 <e lm="manegaire"><i>manegaire</i><par n="acompanyant__n"/></e>
 <e lm="manegament"><i>manegament</i><par n="abric__n"/></e>
 <e lm="manegot"><i>manegot</i><par n="abric__n"/></e>
-<e lm="maneguet"><i>maneguet</i><par n="abric__n"/></e>
 <e lm="manegueta"><i>maneguet</i><par n="abell/a__n"/></e>
 <e lm="manejadissa"><i>manejadiss</i><par n="abell/a__n"/></e>
 <e lm="manejament"><i>manejament</i><par n="abric__n"/></e>
@@ -40114,7 +40110,6 @@
 <e lm="reempenyament"><i>reempenyament</i><par n="abric__n"/></e>
 <e lm="reempenyorament"><i>reempenyorament</i><par n="abric__n"/></e>
 <e lm="reemplaçant"><i>reemplaçant</i><par n="acompanyant__n"/></e>
-<e lm="reena"><i>reen</i><par n="abell/a__n"/></e>
 <e lm="reencaminament"><i>reencaminament</i><par n="abric__n"/></e>
 <e lm="reencesa"><i>reences</i><par n="abell/a__n"/></e>
 <e lm="reencontre"><i>reencontre</i><par n="abric__n"/></e>
@@ -40293,7 +40288,6 @@
 <e lm="regàlia"><i>regàli</i><par n="abell/a__n"/></e>
 <e lm="regó"><i>reg</i><par n="aband/ó__n"/></e>
 <e lm="regúlid"><i>regúlid</i><par n="abric__n"/></e>
-<e lm="rehena"><i>rehen</i><par n="abell/a__n"/></e>
 <e lm="rehidratació"><i>rehidrataci</i><par n="acci/ó__n"/></e>
 <e lm="reial"><i>reial</i><par n="abric__n"/></e>
 <e lm="reialenc"><i>reialenc</i><par n="abric__n"/></e>
@@ -40815,6 +40809,7 @@
 <e lm="retinografia"><i>retinografi</i><par n="abell/a__n"/></e>
 <e lm="retinol"><i>retinol</i><par n="abric__n"/></e>
 <e lm="retinoscopi"><i>retinoscopi</i><par n="abric__n"/></e>
+<e lm="retinoscòpia"><i>retinoscòpi</i><par n="abell/a__n"/></e>
 <e lm="retinosi"><i>retinosi</i><par n="accessibilitat__n"/></e>
 <e lm="retint"><i>retint</i><par n="abric__n"/></e>
 <e lm="retintatge"><i>retintatge</i><par n="abric__n"/></e>
