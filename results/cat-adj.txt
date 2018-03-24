@@ -609,6 +609,7 @@
 <e lm="ajudant"><i>ajudant</i><par n="abdominal__adj"/></e>
 <e lm="ajustador"><i>ajustador</i><par n="absolut__adj"/></e>
 <e lm="ajustadís"><i>ajustad</i><par n="cast/ís__adj"/></e>
+<e lm="ala-roig"><i>ala-ro</i><par n="infraro/ig__adj"/></e>
 <e lm="alabador"><i>alabador</i><par n="absolut__adj"/></e>
 <e lm="alabaix"><i>alabaix</i><par n="annex__adj"/></e>
 <e lm="alabanciós"><i>alabanci</i><par n="aliment/ós__adj"/></e>
@@ -2479,6 +2480,7 @@
 <e lm="barallós"><i>barall</i><par n="aliment/ós__adj"/></e>
 <e lm="barater"><i>barater</i><par n="absolut__adj"/></e>
 <e lm="barba-reveixí"><i>barba-reveix</i><par n="alacant/í__adj"/></e>
+<e lm="barba-roig"><i>barba-ro</i><par n="infraro/ig__adj"/></e>
 <e lm="barba-ros"><i>barba-ros</i><par n="ros__adj"/></e>
 <e lm="barba-serrat"><i>barba-serra</i><par n="triparti/t__adj"/></e>
 <e lm="barbablanc"><i>barbablan</i><par n="acadèmi/c__adj"/></e>
@@ -3608,6 +3610,7 @@
 <e lm="canòpic"><i>canòpi</i><par n="acadèmi/c__adj"/></e>
 <e lm="caolínic"><i>caolíni</i><par n="acadèmi/c__adj"/></e>
 <e lm="caorsí"><i>caors</i><par n="alacant/í__adj"/></e>
+<e lm="cap-roig"><i>cap-ro</i><par n="infraro/ig__adj"/></e>
 <e lm="cap-rossenc"><i>cap-rossen</i><par n="acadèmi/c__adj"/></e>
 <e lm="capacitatiu"><i>capacitati</i><par n="abusi/u__adj"/></e>
 <e lm="capafontí"><i>capafont</i><par n="alacant/í__adj"/></e>
@@ -3673,6 +3676,7 @@
 <e lm="caquèctic"><i>caquècti</i><par n="acadèmi/c__adj"/></e>
 <e lm="cara-redó"><i>cara-red</i><par n="amfitri/ó__adj"/></e>
 <e lm="cara-rodó"><i>cara-rod</i><par n="amfitri/ó__adj"/></e>
+<e lm="cara-roig"><i>cara-ro</i><par n="infraro/ig__adj"/></e>
 <e lm="cara-rugat"><i>cara-ruga</i><par n="triparti/t__adj"/></e>
 <e lm="cara-xuclat"><i>cara-xucla</i><par n="triparti/t__adj"/></e>
 <e lm="caraalegre"><i>caraalegre</i><par n="abdominal__adj"/></e>
@@ -5004,6 +5008,7 @@
 <e lm="ctenoide"><i>ctenoide</i><par n="abdominal__adj"/></e>
 <e lm="ctònic"><i>ctòni</i><par n="acadèmi/c__adj"/></e>
 <e lm="cua-rogenc"><i>cua-rogen</i><par n="acadèmi/c__adj"/></e>
+<e lm="cua-roig"><i>cua-ro</i><par n="infraro/ig__adj"/></e>
 <e lm="cua-rutllat"><i>cua-rutlla</i><par n="triparti/t__adj"/></e>
 <e lm="cuaample"><i>cuaampl</i><par n="adept/e__adj"/></e>
 <e lm="cuabarrat"><i>cuabarra</i><par n="triparti/t__adj"/></e>
@@ -13975,6 +13980,7 @@
 <e lm="pistil·lar"><i>pistil·lar</i><par n="abdominal__adj"/></e>
 <e lm="pistil·lat"><i>pistil·la</i><par n="triparti/t__adj"/></e>
 <e lm="pistil·lífer"><i>pistil·lífer</i><par n="absolut__adj"/></e>
+<e lm="pit-roig"><i>pit-ro</i><par n="infraro/ig__adj"/></e>
 <e lm="pitera"><i>piter</i><par n="clariss/a__adj"/></e>
 <e lm="piteu"><i>pite</i><par n="ate/u__adj"/></e>
 <e lm="piti"><i>p</i><par n="s/iti__adj"/></e>
@@ -18252,6 +18258,7 @@
 <e lm="ultraradical"><i>ultraradical</i><par n="abdominal__adj"/></e>
 <e lm="ultrareialista"><i>ultrareialist</i><par n="agrícol/a__adj"/></e>
 <e lm="ultrarelativista"><i>ultrarelativist</i><par n="agrícol/a__adj"/></e>
+<e lm="ultraroig"><i>ultraro</i><par n="infraro/ig__adj"/></e>
 <e lm="ultraràpid"><i>ultraràpid</i><par n="absolut__adj"/></e>
 <e lm="ultrasensible"><i>ultrasensible</i><par n="abdominal__adj"/></e>
 <e lm="ultrasonor"><i>ultrasonor</i><par n="absolut__adj"/></e>

@@ -199,6 +199,9 @@ APERTIUM: blaugrana	PAR: agrícol/a__adj	FORMS: AQ0CP0 blaugranes AQ0CS0 blaugra
 APERTIUM: bocabadat	PAR: afortuna/t__adj	FORMS: AQ0FP0 bocabadades AQ0FP0 bocabadadíssimes AQ0FS0 bocabadada AQ0FS0 bocabadadíssima AQ0MP0 bocabadadíssims AQ0MP0 bocabadats AQ0MS0 bocabadadíssim AQ0MS0 bocabadat
    OTHER: bocabadat	PAR: triparti/t__adj	FORMS: AQ0FP0 bocabadades AQ0FS0 bocabadada AQ0MP0 bocabadats AQ0MS0 bocabadat
 
+APERTIUM: boig	PAR: bo/ig__adj	FORMS: AQ0FP0 boges AQ0FP0 bogíssimes AQ0FS0 bogíssima AQ0FS0 boja AQ0MP0 bogíssims AQ0MP0 boigs AQ0MP0 bojos AQ0MS0 bogíssim AQ0MS0 boig
+   OTHER: boig	PAR: infraro/ig__adj	FORMS: AQ0FP0 boges AQ0FS0 boja AQ0MP0 boigs AQ0MP0 bojos AQ0MS0 boig
+
 APERTIUM: bonic	PAR: blan/c__adj	FORMS: AQ0FP0 boniques AQ0FP0 boniquíssimes AQ0FS0 bonica AQ0FS0 boniquíssima AQ0MP0 bonics AQ0MP0 boniquíssims AQ0MS0 bonic AQ0MS0 boniquíssim
    OTHER: bonic	PAR: acadèmi/c__adj	FORMS: AQ0FP0 boniques AQ0FS0 bonica AQ0MP0 bonics AQ0MS0 bonic
    OTHER: bonic	PAR: po/c__adj	FORMS: AQ0FP0 boniques AQ0FS0 bonica AQ0MP0 bonics AQ0MS0 bonic
@@ -1314,6 +1317,9 @@ APERTIUM: ric	PAR: blan/c__adj	FORMS: AQ0FP0 riques AQ0FP0 riquíssimes AQ0FS0 r
 APERTIUM: rigorós	PAR: afectu/ós__adj	FORMS: AQ0FP0 rigoroses AQ0FP0 rigorosíssimes AQ0FS0 rigorosa AQ0FS0 rigorosíssima AQ0MP0 rigorosos AQ0MP0 rigorosíssims AQ0MS0 rigorosíssim AQ0MS0 rigorós
    OTHER: rigorós	PAR: aliment/ós__adj	FORMS: AQ0FP0 rigoroses AQ0FS0 rigorosa AQ0MP0 rigorosos AQ0MS0 rigorós
 
+APERTIUM: roig	PAR: bo/ig__adj	FORMS: AQ0FP0 roges AQ0FP0 rogíssimes AQ0FS0 rogíssima AQ0FS0 roja AQ0MP0 rogíssims AQ0MP0 roigs AQ0MP0 rojos AQ0MS0 rogíssim AQ0MS0 roig
+   OTHER: roig	PAR: infraro/ig__adj	FORMS: AQ0FP0 roges AQ0FS0 roja AQ0MP0 roigs AQ0MP0 rojos AQ0MS0 roig
+
 APERTIUM: rosa	PAR: agrícol/a__adj	FORMS: AQ0CP0 roses AQ0CS0 rosa
    OTHER: rosa	PAR: multimèdia__adj	FORMS: AQ0CN0 rosa
 
@@ -1577,9 +1583,6 @@ APERTIUM: bla	PAR: bo__adj	FORMS: AQ0FP0 blanes AQ0FP0 blaníssimes AQ0FS0 blana
 APERTIUM: bo	PAR: bo__adj	FORMS: AQ0FP0 bones AQ0FP0 boníssimes AQ0FS0 bona AQ0FS0 boníssima AQ0MP0 bons AQ0MP0 boníssims AQ0MS0 bo AQ0MS0 boníssim
    OTHER: bo	PAR: ??????????????	FORMS: AQ0FP0 bones AQ0FS0 bona AQ0MP0 bons AQ0MS0 bo AQ0MS0 bon
 
-APERTIUM: boig	PAR: bo/ig__adj	FORMS: AQ0FP0 boges AQ0FP0 bogíssimes AQ0FS0 bogíssima AQ0FS0 boja AQ0MP0 bogíssims AQ0MP0 boigs AQ0MP0 bojos AQ0MS0 bogíssim AQ0MS0 boig
-   OTHER: boig	PAR: ??????????????	FORMS: AQ0FP0 boges AQ0FS0 boja AQ0MP0 boigs AQ0MP0 bojos AQ0MS0 boig
-
 APERTIUM: bru	PAR: bo__adj	FORMS: AQ0FP0 brunes AQ0FP0 bruníssimes AQ0FS0 bruna AQ0FS0 bruníssima AQ0MP0 bruns AQ0MP0 bruníssims AQ0MS0 bru AQ0MS0 bruníssim
    OTHER: bru	PAR: ??????????????	FORMS: AQ0FP0 brunes AQ0FS0 bruna AQ0MP0 bruns AQ0MS0 bru
 
@@ -1591,9 +1594,6 @@ APERTIUM: dietílic	PAR: acadèmi/c__adj	FORMS: AQ0FP0 dietíliques AQ0FS0 diet�
 
 APERTIUM: fi	PAR: bo__adj	FORMS: AQ0FP0 fines AQ0FP0 finíssimes AQ0FS0 fina AQ0FS0 finíssima AQ0MP0 fins AQ0MP0 finíssims AQ0MS0 fi AQ0MS0 finíssim
    OTHER: fi	PAR: ??????????????	FORMS: AQ0FP0 fines AQ0FS0 fina AQ0MP0 fins AQ0MS0 fi
-
-APERTIUM: infraroig	PAR: bo/ig__adj	FORMS: AQ0FP0 infraroges AQ0FP0 infrarogíssimes AQ0FS0 infrarogíssima AQ0FS0 infraroja AQ0MP0 infrarogíssims AQ0MP0 infraroigs AQ0MP0 infrarojos AQ0MS0 infrarogíssim AQ0MS0 infraroig
-   OTHER: infraroig	PAR: ??????????????	FORMS: AQ0FP0 infraroges AQ0FS0 infraroja AQ0MP0 infraroigs AQ0MP0 infrarojos AQ0MS0 infraroig
 
 APERTIUM: lleig	PAR: lle/ig__adj	FORMS: AQ0FP0 lletges AQ0FP0 lletgíssimes AQ0FS0 lletgíssima AQ0FS0 lletja AQ0MP0 lletgíssims AQ0MP0 lletjos AQ0MS0 lleig AQ0MS0 lletgíssim
    OTHER: lleig	PAR: ??????????????	FORMS: AQ0FP0 lletges AQ0FS0 lletja AQ0MP0 lleigs AQ0MP0 lletjos AQ0MS0 lleig
@@ -1625,14 +1625,8 @@ APERTIUM: psicomotor	PAR: absolut__adj	FORMS: AQ0FP0 psicomotores AQ0FS0 psicomo
 APERTIUM: puto	PAR: guerx/o__adj	FORMS: AQ0FP0 putes AQ0FS0 puta AQ0MP0 putos AQ0MS0 puto
    OTHER: puto	PAR: ??????????????	FORMS: AQ0MP0 putos AQ0MS0 puto
 
-APERTIUM: pèl-roig	PAR: bo/ig__adj	FORMS: AQ0FP0 pèl-roges AQ0FP0 pèl-rogíssimes AQ0FS0 pèl-rogíssima AQ0FS0 pèl-roja AQ0MP0 pèl-rogíssims AQ0MP0 pèl-roigs AQ0MP0 pèl-rojos AQ0MS0 pèl-rogíssim AQ0MS0 pèl-roig
-   OTHER: pèl-roig	PAR: ??????????????	FORMS: AQ0FP0 pèl-roges AQ0FS0 pèl-roja AQ0MP0 pèl-roigs AQ0MP0 pèl-rojos AQ0MS0 pèl-roig
-
 APERTIUM: qualsevol	PAR: quals/evol__adj	FORMS: AQ0CP0 qualssevol AQ0CP0 qualssevulla AQ0CS0 qualsevol AQ0CS0 qualsevulla
    OTHER: qualsevol	PAR: ??????????????	FORMS: AQ0CP0 qualssevol AQ0CS0 qualsevol
-
-APERTIUM: roig	PAR: bo/ig__adj	FORMS: AQ0FP0 roges AQ0FP0 rogíssimes AQ0FS0 rogíssima AQ0FS0 roja AQ0MP0 rogíssims AQ0MP0 roigs AQ0MP0 rojos AQ0MS0 rogíssim AQ0MS0 roig
-   OTHER: roig	PAR: ??????????????	FORMS: AQ0FP0 roges AQ0FS0 roja AQ0MP0 roigs AQ0MP0 rojos AQ0MS0 roig
 
 APERTIUM: sa	PAR: bo__adj	FORMS: AQ0FP0 sanes AQ0FP0 saníssimes AQ0FS0 sana AQ0FS0 saníssima AQ0MP0 sans AQ0MP0 saníssims AQ0MS0 sa AQ0MS0 saníssim
    OTHER: sa	PAR: ??????????????	FORMS: AQ0FP0 sanes AQ0FS0 sana AQ0MP0 sans AQ0MS0 sa
@@ -1673,7 +1667,6 @@ APERTIUM: verge	PAR: abdominal__adj	FORMS: AQ0CP0 verges AQ0CS0 verge
 <e lm="acrogin"><i>acrogin</i><par n="??????????"/></e>
 <e lm="aglòs"><i>aglòs</i><par n="??????????"/></e>
 <e lm="agomfi"><i>agomfi</i><par n="??????????"/></e>
-<e lm="ala-roig"><i>ala-roig</i><par n="??????????"/></e>
 <e lm="albinervi"><i>albinervi</i><par n="??????????"/></e>
 <e lm="alàctica"><i>alàctica</i><par n="??????????"/></e>
 <e lm="amfisci"><i>amfisci</i><par n="??????????"/></e>
@@ -1691,7 +1684,6 @@ APERTIUM: verge	PAR: abdominal__adj	FORMS: AQ0CP0 verges AQ0CS0 verge
 <e lm="asci"><i>asci</i><par n="??????????"/></e>
 <e lm="auri"><i>auri</i><par n="??????????"/></e>
 <e lm="automotor"><i>automotor</i><par n="??????????"/></e>
-<e lm="barba-roig"><i>barba-roig</i><par n="??????????"/></e>
 <e lm="basmati"><i>basmati</i><par n="??????????"/></e>
 <e lm="basílica"><i>basílica</i><par n="??????????"/></e>
 <e lm="becgròs"><i>becgròs</i><par n="??????????"/></e>
@@ -1707,9 +1699,7 @@ APERTIUM: verge	PAR: abdominal__adj	FORMS: AQ0CP0 verges AQ0CS0 verge
 <e lm="braquisinclinal"><i>braquisinclinal</i><par n="??????????"/></e>
 <e lm="bruti"><i>bruti</i><par n="??????????"/></e>
 <e lm="candi"><i>candi</i><par n="??????????"/></e>
-<e lm="cap-roig"><i>cap-roig</i><par n="??????????"/></e>
 <e lm="capgròs"><i>capgròs</i><par n="??????????"/></e>
-<e lm="cara-roig"><i>cara-roig</i><par n="??????????"/></e>
 <e lm="caragròs"><i>caragròs</i><par n="??????????"/></e>
 <e lm="carni"><i>carni</i><par n="??????????"/></e>
 <e lm="carpanell"><i>carpanell</i><par n="??????????"/></e>
@@ -1726,7 +1716,6 @@ APERTIUM: verge	PAR: abdominal__adj	FORMS: AQ0CP0 verges AQ0CS0 verge
 <e lm="country"><i>country</i><par n="??????????"/></e>
 <e lm="croat1"><i>croat1</i><par n="??????????"/></e>
 <e lm="croat2"><i>croat2</i><par n="??????????"/></e>
-<e lm="cua-roig"><i>cua-roig</i><par n="??????????"/></e>
 <e lm="cuguçós"><i>cuguçós</i><par n="??????????"/></e>
 <e lm="culgròs"><i>culgròs</i><par n="??????????"/></e>
 <e lm="custodi"><i>custodi</i><par n="??????????"/></e>
@@ -1860,7 +1849,6 @@ APERTIUM: verge	PAR: abdominal__adj	FORMS: AQ0CP0 verges AQ0CS0 verge
 <e lm="petrolanco"><i>petrolanco</i><par n="??????????"/></e>
 <e lm="peugròs"><i>peugròs</i><par n="??????????"/></e>
 <e lm="pinnatinervi"><i>pinnatinervi</i><par n="??????????"/></e>
-<e lm="pit-roig"><i>pit-roig</i><par n="??????????"/></e>
 <e lm="pitiús"><i>pitiús</i><par n="??????????"/></e>
 <e lm="planta-roig"><i>planta-roig</i><par n="??????????"/></e>
 <e lm="pluig"><i>pluig</i><par n="??????????"/></e>
@@ -1929,7 +1917,6 @@ APERTIUM: verge	PAR: abdominal__adj	FORMS: AQ0CP0 verges AQ0CS0 verge
 <e lm="triple2"><i>triple2</i><par n="??????????"/></e>
 <e lm="tríbade"><i>tríbade</i><par n="??????????"/></e>
 <e lm="tupí3"><i>tupí3</i><par n="??????????"/></e>
-<e lm="ultraroig"><i>ultraroig</i><par n="??????????"/></e>
 <e lm="uninervi"><i>uninervi</i><par n="??????????"/></e>
 <e lm="vacu"><i>vacu</i><par n="??????????"/></e>
 <e lm="vasomotor"><i>vasomotor</i><par n="??????????"/></e>
