@@ -29,7 +29,7 @@ fi
 echo $apertium_dict
 echo $src_dict
 
-for gramcat in adj noun; do 
+for gramcat in adv adj noun; do 
 	perl $dir_scripts/generate-apertium.pl $lang $gramcat $src_dict $apertium_dict > $dir_results/$lang-$gramcat.txt 2>$dir_results/$lang-$gramcat-diff.txt
 done
 

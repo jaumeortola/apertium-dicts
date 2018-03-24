@@ -1,14 +1,17 @@
 
 APERTIUM: ABS	PAR: BBVA__n	FORMS: NCMS000 ABS
    OTHER: ABS	PAR: IRPF__n	FORMS: NCMN000 ABS
+   OTHER: ABS	PAR: graffiti__n	FORMS: NCMN000 ABS
    OTHER: ABS	PAR: mois__n	FORMS: NCMN000 ABS
 
 APERTIUM: ADN	PAR: BBVA__n	FORMS: NCMS000 ADN
    OTHER: ADN	PAR: IRPF__n	FORMS: NCMN000 ADN
+   OTHER: ADN	PAR: graffiti__n	FORMS: NCMN000 ADN
    OTHER: ADN	PAR: mois__n	FORMS: NCMN000 ADN
 
 APERTIUM: ADSL	PAR: BBVA__n	FORMS: NCMS000 ADSL
    OTHER: ADSL	PAR: IRPF__n	FORMS: NCMN000 ADSL
+   OTHER: ADSL	PAR: graffiti__n	FORMS: NCMN000 ADSL
    OTHER: ADSL	PAR: mois__n	FORMS: NCMN000 ADSL
 
 APERTIUM: BCE	PAR: BBVA__n	FORMS: NCMS000 BCE
@@ -17,18 +20,22 @@ APERTIUM: BCE	PAR: BBVA__n	FORMS: NCMS000 BCE
 
 APERTIUM: CAC	PAR: BBVA__n	FORMS: NCMS000 CAC
    OTHER: CAC	PAR: IRPF__n	FORMS: NCMN000 CAC
+   OTHER: CAC	PAR: graffiti__n	FORMS: NCMN000 CAC
    OTHER: CAC	PAR: mois__n	FORMS: NCMN000 CAC
 
 APERTIUM: CAN	PAR: BBC__n	FORMS: NCFS000 CAN
    OTHER: CAN	PAR: IRPF__n	FORMS: NCMN000 CAN
+   OTHER: CAN	PAR: graffiti__n	FORMS: NCMN000 CAN
    OTHER: CAN	PAR: mois__n	FORMS: NCMN000 CAN
 
 APERTIUM: CD	PAR: BBVA__n	FORMS: NCMS000 CD
    OTHER: CD	PAR: IRPF__n	FORMS: NCMN000 CD
+   OTHER: CD	PAR: graffiti__n	FORMS: NCMN000 CD
    OTHER: CD	PAR: mois__n	FORMS: NCMN000 CD
 
 APERTIUM: CDD	PAR: BBVA__n	FORMS: NCMS000 CDD
    OTHER: CDD	PAR: IRPF__n	FORMS: NCMN000 CDD
+   OTHER: CDD	PAR: graffiti__n	FORMS: NCMN000 CDD
    OTHER: CDD	PAR: mois__n	FORMS: NCMN000 CDD
 
 APERTIUM: CE	PAR: BBC__n	FORMS: NCFS000 CE
@@ -49,14 +56,17 @@ APERTIUM: CIA	PAR: BBC__n	FORMS: NCFS000 CIA
 
 APERTIUM: CNRS	PAR: BBVA__n	FORMS: NCMS000 CNRS
    OTHER: CNRS	PAR: IRPF__n	FORMS: NCMN000 CNRS
+   OTHER: CNRS	PAR: graffiti__n	FORMS: NCMN000 CNRS
    OTHER: CNRS	PAR: mois__n	FORMS: NCMN000 CNRS
 
 APERTIUM: CO2	PAR: BBVA__n	FORMS: NCMS000 CO2
    OTHER: CO2	PAR: IRPF__n	FORMS: NCMN000 CO2
+   OTHER: CO2	PAR: graffiti__n	FORMS: NCMN000 CO2
    OTHER: CO2	PAR: mois__n	FORMS: NCMN000 CO2
 
 APERTIUM: DOM	PAR: BBVA__n	FORMS: NCMS000 DOM
    OTHER: DOM	PAR: IRPF__n	FORMS: NCMN000 DOM
+   OTHER: DOM	PAR: graffiti__n	FORMS: NCMN000 DOM
    OTHER: DOM	PAR: mois__n	FORMS: NCMN000 DOM
 
 APERTIUM: DRH	PAR: BBVA__n	FORMS: NCMS000 DRH
@@ -65,10 +75,16 @@ APERTIUM: DRH	PAR: BBVA__n	FORMS: NCMS000 DRH
 
 APERTIUM: DVD	PAR: BBVA__n	FORMS: NCMS000 DVD
    OTHER: DVD	PAR: IRPF__n	FORMS: NCMN000 DVD
+   OTHER: DVD	PAR: graffiti__n	FORMS: NCMN000 DVD
    OTHER: DVD	PAR: mois__n	FORMS: NCMN000 DVD
+
+APERTIUM: EDF	PAR: BBC__n	FORMS: NCFS000 EDF
+   OTHER: EDF	PAR: OPA__n	FORMS: NCFN000 EDF
+   OTHER: EDF	PAR: fois__n	FORMS: NCFN000 EDF
 
 APERTIUM: FBI	PAR: BBVA__n	FORMS: NCMS000 FBI
    OTHER: FBI	PAR: IRPF__n	FORMS: NCMN000 FBI
+   OTHER: FBI	PAR: graffiti__n	FORMS: NCMN000 FBI
    OTHER: FBI	PAR: mois__n	FORMS: NCMN000 FBI
 
 APERTIUM: GMT	PAR: BBC__n	FORMS: NCFS000 GMT
@@ -77,11 +93,21 @@ APERTIUM: GMT	PAR: BBC__n	FORMS: NCFS000 GMT
 
 APERTIUM: GPS	PAR: BBVA__n	FORMS: NCMS000 GPS
    OTHER: GPS	PAR: IRPF__n	FORMS: NCMN000 GPS
+   OTHER: GPS	PAR: graffiti__n	FORMS: NCMN000 GPS
    OTHER: GPS	PAR: mois__n	FORMS: NCMN000 GPS
+
+APERTIUM: IRA	PAR: BBVA__n	FORMS: NCMS000 IRA
+   OTHER: IRA	PAR: OPA__n	FORMS: NCFN000 IRA
+   OTHER: IRA	PAR: fois__n	FORMS: NCFN000 IRA
 
 APERTIUM: JO	PAR: BBVA__n	FORMS: NCMS000 JO
    OTHER: JO	PAR: IRPF__n	FORMS: NCMN000 JO
+   OTHER: JO	PAR: graffiti__n	FORMS: NCMN000 JO
    OTHER: JO	PAR: mois__n	FORMS: NCMN000 JO
+
+APERTIUM: NASA	PAR: BBC__n	FORMS: NCFS000 NASA
+   OTHER: NASA	PAR: OPA__n	FORMS: NCFN000 NASA
+   OTHER: NASA	PAR: fois__n	FORMS: NCFN000 NASA
 
 APERTIUM: ONU	PAR: BBC__n	FORMS: NCFS000 ONU
    OTHER: ONU	PAR: OPA__n	FORMS: NCFN000 ONU
@@ -97,6 +123,7 @@ APERTIUM: OPV	PAR: BBC__n	FORMS: NCFS000 OPV
 
 APERTIUM: OTAN	PAR: BBC__n	FORMS: NCFS000 OTAN
    OTHER: OTAN	PAR: IRPF__n	FORMS: NCMN000 OTAN
+   OTHER: OTAN	PAR: graffiti__n	FORMS: NCMN000 OTAN
    OTHER: OTAN	PAR: mois__n	FORMS: NCMN000 OTAN
 
 APERTIUM: PACA	PAR: BBC__n	FORMS: NCFS000 PACA
@@ -107,21 +134,18 @@ APERTIUM: PC	PAR: IRPF__n	FORMS: NCMN000 PC
    OTHER: PC	PAR: ATS__n	FORMS: NCCN000 PC
    OTHER: PC	PAR: ex__n	FORMS: NCCN000 PC
 
-APERTIUM: PME	PAR: BBC__n	FORMS: NCFS000 PME
-   OTHER: PME	PAR: OPA__n	FORMS: NCFN000 PME
-   OTHER: PME	PAR: fois__n	FORMS: NCFN000 PME
+APERTIUM: PDG	PAR: IRPF__n	FORMS: NCMN000 PDG
+   OTHER: PDG	PAR: ATS__n	FORMS: NCCN000 PDG
+   OTHER: PDG	PAR: ex__n	FORMS: NCCN000 PDG
 
 APERTIUM: PS	PAR: BBVA__n	FORMS: NCMS000 PS
    OTHER: PS	PAR: IRPF__n	FORMS: NCMN000 PS
+   OTHER: PS	PAR: graffiti__n	FORMS: NCMN000 PS
    OTHER: PS	PAR: mois__n	FORMS: NCMN000 PS
 
 APERTIUM: SA	PAR: BBC__n	FORMS: NCFS000 SA
    OTHER: SA	PAR: OPA__n	FORMS: NCFN000 SA
    OTHER: SA	PAR: fois__n	FORMS: NCFN000 SA
-
-APERTIUM: SMS	PAR: BBVA__n	FORMS: NCMS000 SMS
-   OTHER: SMS	PAR: IRPF__n	FORMS: NCMN000 SMS
-   OTHER: SMS	PAR: mois__n	FORMS: NCMN000 SMS
 
 APERTIUM: SNCF	PAR: BBC__n	FORMS: NCFS000 SNCF
    OTHER: SNCF	PAR: OPA__n	FORMS: NCFN000 SNCF
@@ -129,6 +153,7 @@ APERTIUM: SNCF	PAR: BBC__n	FORMS: NCFS000 SNCF
 
 APERTIUM: SOS	PAR: BBVA__n	FORMS: NCMS000 SOS
    OTHER: SOS	PAR: IRPF__n	FORMS: NCMN000 SOS
+   OTHER: SOS	PAR: graffiti__n	FORMS: NCMN000 SOS
    OTHER: SOS	PAR: mois__n	FORMS: NCMN000 SOS
 
 APERTIUM: SS	PAR: soif__n	FORMS: NCFS000 SS
@@ -142,6 +167,11 @@ APERTIUM: Saint-Sylvestre	PAR: abeille__n	FORMS: NCFP000 Saint-Sylvestres NCFS00
 APERTIUM: Suisse	PAR: artiste__n	FORMS: NCCP000 Suisses NCCS000 Suisse
    OTHER: Suisse	PAR: OPA__n	FORMS: NCFN000 Suisse
    OTHER: Suisse	PAR: fois__n	FORMS: NCFN000 Suisse
+
+APERTIUM: TGV	PAR: BBVA__n	FORMS: NCMS000 TGV
+   OTHER: TGV	PAR: IRPF__n	FORMS: NCMN000 TGV
+   OTHER: TGV	PAR: graffiti__n	FORMS: NCMN000 TGV
+   OTHER: TGV	PAR: mois__n	FORMS: NCMN000 TGV
 
 APERTIUM: TVA	PAR: BBVA__n	FORMS: NCMS000 TVA
    OTHER: TVA	PAR: OPA__n	FORMS: NCFN000 TVA
@@ -161,10 +191,8 @@ APERTIUM: UV	PAR: BBVA__n	FORMS: NCMS000 UV
 
 APERTIUM: abcès	PAR: livre__n	FORMS: NCMP000 abcèss NCMS000 abcès
    OTHER: abcès	PAR: IRPF__n	FORMS: NCMN000 abcès
+   OTHER: abcès	PAR: graffiti__n	FORMS: NCMN000 abcès
    OTHER: abcès	PAR: mois__n	FORMS: NCMN000 abcès
-
-APERTIUM: accompagnateur	PAR: livre__n	FORMS: NCMP000 accompagnateurs NCMS000 accompagnateur
-   OTHER: accompagnateur	PAR: administrat/eur__n	FORMS: NCFP000 accompagnatrices NCFS000 accompagnatrice NCMP000 accompagnateurs NCMS000 accompagnateur
 
 APERTIUM: acmé	PAR: abeille__n	FORMS: NCFP000 acmés NCFS000 acmé
    OTHER: acmé	PAR: artiste__n	FORMS: NCCP000 acmés NCCS000 acmé
@@ -189,11 +217,12 @@ APERTIUM: adhésif	PAR: livre__n	FORMS: NCMP000 adhésifs NCMS000 adhésif
 APERTIUM: adorateur	PAR: livre__n	FORMS: NCMP000 adorateurs NCMS000 adorateur
    OTHER: adorateur	PAR: administrat/eur__n	FORMS: NCFP000 adoratrices NCFS000 adoratrice NCMP000 adorateurs NCMS000 adorateur
 
-APERTIUM: affaire	PAR: livre__n	FORMS: NCMP000 affaires NCMS000 affaire
-   OTHER: affaire	PAR: abeille__n	FORMS: NCFP000 affaires NCFS000 affaire
+APERTIUM: affixe	PAR: livre__n	FORMS: NCMP000 affixes NCMS000 affixe
+   OTHER: affixe	PAR: artiste__n	FORMS: NCCP000 affixes NCCS000 affixe
 
 APERTIUM: afrikaans	PAR: livre__n	FORMS: NCMP000 afrikaanss NCMS000 afrikaans
    OTHER: afrikaans	PAR: IRPF__n	FORMS: NCMN000 afrikaans
+   OTHER: afrikaans	PAR: graffiti__n	FORMS: NCMN000 afrikaans
    OTHER: afrikaans	PAR: mois__n	FORMS: NCMN000 afrikaans
 
 APERTIUM: agenda	PAR: abeille__n	FORMS: NCFP000 agendas NCFS000 agenda
@@ -219,11 +248,9 @@ APERTIUM: aide	PAR: abeille__n	FORMS: NCFP000 aides NCFS000 aide
 APERTIUM: aine	PAR: abeille__n	FORMS: NCFP000 aines NCFS000 aine
    OTHER: aine	PAR: artiste__n	FORMS: NCCP000 aines NCCS000 aine
 
-APERTIUM: albanais	PAR: livre__n	FORMS: NCMP000 albanaiss NCMS000 albanais
-   OTHER: albanais	PAR: admis__n	FORMS: NCFP000 albanaises NCFS000 albanaise NCMN000 albanais
-
 APERTIUM: albatros	PAR: livre__n	FORMS: NCMP000 albatross NCMS000 albatros
    OTHER: albatros	PAR: IRPF__n	FORMS: NCMN000 albatros
+   OTHER: albatros	PAR: graffiti__n	FORMS: NCMN000 albatros
    OTHER: albatros	PAR: mois__n	FORMS: NCMN000 albatros
 
 APERTIUM: albinos	PAR: artiste__n	FORMS: NCCP000 albinoss NCCS000 albinos
@@ -242,6 +269,7 @@ APERTIUM: allant	PAR: livre__n	FORMS: NCMP000 allants NCMS000 allant
 
 APERTIUM: allegro	PAR: livre__n	FORMS: NCMP000 allegros NCMS000 allegro
    OTHER: allegro	PAR: IRPF__n	FORMS: NCMN000 allegro
+   OTHER: allegro	PAR: graffiti__n	FORMS: NCMN000 allegro
    OTHER: allegro	PAR: mois__n	FORMS: NCMN000 allegro
 
 APERTIUM: amateur	PAR: artiste__n	FORMS: NCCP000 amateurs NCCS000 amateur
@@ -249,10 +277,14 @@ APERTIUM: amateur	PAR: artiste__n	FORMS: NCCP000 amateurs NCCS000 amateur
 
 APERTIUM: amen	PAR: livre__n	FORMS: NCMP000 amens NCMS000 amen
    OTHER: amen	PAR: IRPF__n	FORMS: NCMN000 amen
+   OTHER: amen	PAR: graffiti__n	FORMS: NCMN000 amen
    OTHER: amen	PAR: mois__n	FORMS: NCMN000 amen
 
 APERTIUM: amiral	PAR: livre__n	FORMS: NCMP000 amirals NCMS000 amiral
    OTHER: amiral	PAR: commercia/l__n	FORMS: NCFP000 amirales NCFS000 amirale NCMP000 amiraux NCMS000 amiral
+
+APERTIUM: ammoniaque	PAR: abeille__n	FORMS: NCFP000 ammoniaques NCFS000 ammoniaque
+   OTHER: ammoniaque	PAR: artiste__n	FORMS: NCCP000 ammoniaques NCCS000 ammoniaque
 
 APERTIUM: amphitryon	PAR: ancien__n	FORMS: NCFP000 amphitryonnes NCFS000 amphitryonne NCMP000 amphitryons NCMS000 amphitryon
    OTHER: amphitryon	PAR: livre__n	FORMS: NCMP000 amphitryons NCMS000 amphitryon
@@ -263,6 +295,9 @@ APERTIUM: ancêtre	PAR: livre__n	FORMS: NCMP000 ancêtres NCMS000 ancêtre
 
 APERTIUM: annonce	PAR: livre__n	FORMS: NCMP000 annonces NCMS000 annonce
    OTHER: annonce	PAR: abeille__n	FORMS: NCFP000 annonces NCFS000 annonce
+
+APERTIUM: annélide	PAR: livre__n	FORMS: NCMP000 annélides NCMS000 annélide
+   OTHER: annélide	PAR: artiste__n	FORMS: NCCP000 annélides NCCS000 annélide
 
 APERTIUM: antécédent	PAR: livre__n	FORMS: NCMP000 antécédents NCMS000 antécédent
    OTHER: antécédent	PAR: affecté__n	FORMS: NCFP000 antécédentes NCFS000 antécédente NCMP000 antécédents NCMS000 antécédent
@@ -277,13 +312,9 @@ APERTIUM: aranais	PAR: admis__n	FORMS: NCFP000 aranaises NCFS000 aranaise NCMN00
 APERTIUM: arbitraire	PAR: livre__n	FORMS: NCMP000 arbitraires NCMS000 arbitraire
    OTHER: arbitraire	PAR: artiste__n	FORMS: NCCP000 arbitraires NCCS000 arbitraire
 
-APERTIUM: arc-en-ciel	PAR: mois__n	FORMS: NCMN000 arc-en-ciel
-   OTHER: arc-en-ciel	PAR: BBVA__n	FORMS: NCMS000 arc-en-ciel
-   OTHER: arc-en-ciel	PAR: argent__n	FORMS: NCMS000 arc-en-ciel
-   OTHER: arc-en-ciel	PAR: personnel__n	FORMS: NCMS000 arc-en-ciel
-
 APERTIUM: archiprêtre	PAR: livre__n	FORMS: NCMP000 archiprêtres NCMS000 archiprêtre
    OTHER: archiprêtre	PAR: buffle__n	FORMS: NCFP000 archiprêtresses NCFS000 archiprêtresse NCMP000 archiprêtres NCMS000 archiprêtre
+   OTHER: archiprêtre	PAR: bêta__n	FORMS: NCFP000 archiprêtresses NCFS000 archiprêtresse NCMP000 archiprêtres NCMS000 archiprêtre
    OTHER: archiprêtre	PAR: maire__n	FORMS: NCFP000 archiprêtresses NCFS000 archiprêtresse NCMP000 archiprêtres NCMS000 archiprêtre
 
 APERTIUM: argent	PAR: argent__n	FORMS: NCMS000 argent
@@ -323,9 +354,6 @@ APERTIUM: automobilisme	PAR: personnel__n	FORMS: NCMS000 automobilisme
 APERTIUM: aventurier	PAR: livre__n	FORMS: NCMP000 aventuriers NCMS000 aventurier
    OTHER: aventurier	PAR: bouch/er__n	FORMS: NCFP000 aventurières NCFS000 aventurière NCMP000 aventuriers NCMS000 aventurier
 
-APERTIUM: aviateur	PAR: livre__n	FORMS: NCMP000 aviateurs NCMS000 aviateur
-   OTHER: aviateur	PAR: administrat/eur__n	FORMS: NCFP000 aviatrices NCFS000 aviatrice NCMP000 aviateurs NCMS000 aviateur
-
 APERTIUM: avorteur	PAR: livre__n	FORMS: NCMP000 avorteurs NCMS000 avorteur
    OTHER: avorteur	PAR: causeu/r__n	FORMS: NCFP000 avorteuses NCFS000 avorteuse NCMP000 avorteurs NCMS000 avorteur
    OTHER: avorteur	PAR: débit/eur__n	FORMS: NCFP000 avorteuses NCFS000 avorteuse NCMP000 avorteurs NCMS000 avorteur
@@ -337,6 +365,9 @@ APERTIUM: avoué	PAR: livre__n	FORMS: NCMP000 avoués NCMS000 avoué
 APERTIUM: azote	PAR: personnel__n	FORMS: NCMS000 azote
    OTHER: azote	PAR: livre__n	FORMS: NCMP000 azotes NCMS000 azote
    OTHER: azote	PAR: match__n	FORMS: NCMP000 azotes NCMS000 azote
+
+APERTIUM: azéri	PAR: livre__n	FORMS: NCMP000 azéris NCMS000 azéri
+   OTHER: azéri	PAR: affecté__n	FORMS: NCFP000 azéries NCFS000 azérie NCMP000 azéris NCMS000 azéri
 
 APERTIUM: aérobic	PAR: livre__n	FORMS: NCMP000 aérobics NCMS000 aérobic
    OTHER: aérobic	PAR: abeille__n	FORMS: NCFP000 aérobics NCFS000 aérobic
@@ -352,7 +383,7 @@ APERTIUM: baladin	PAR: affecté__n	FORMS: NCFP000 baladines NCFS000 baladine NCM
 APERTIUM: barbe	PAR: abeille__n	FORMS: NCFP000 barbes NCFS000 barbe
    OTHER: barbe	PAR: artiste__n	FORMS: NCCP000 barbes NCCS000 barbe
 
-APERTIUM: baron	PAR: buffle__n	FORMS: NCFP000 baronsses NCFS000 baronsse NCMP000 barons NCMS000 baron
+APERTIUM: baron	PAR: clown__n	FORMS: NCFP000 baronesses NCFS000 baronesse NCMP000 barons NCMS000 baron
    OTHER: baron	PAR: ancien__n	FORMS: NCFP000 baronnes NCFS000 baronne NCMP000 barons NCMS000 baron
 
 APERTIUM: basilique	PAR: abeille__n	FORMS: NCFP000 basiliques NCFS000 basilique
@@ -366,29 +397,47 @@ APERTIUM: basket-ball	PAR: personnel__n	FORMS: NCMS000 basket-ball
    OTHER: basket-ball	PAR: livre__n	FORMS: NCMP000 basket-balls NCMS000 basket-ball
    OTHER: basket-ball	PAR: match__n	FORMS: NCMP000 basket-balls NCMS000 basket-ball
 
-APERTIUM: basque	PAR: livre__n	FORMS: NCMP000 basques NCMS000 basque
-   OTHER: basque	PAR: artiste__n	FORMS: NCCP000 basques NCCS000 basque
-
 APERTIUM: batteur	PAR: livre__n	FORMS: NCMP000 batteurs NCMS000 batteur
    OTHER: batteur	PAR: causeu/r__n	FORMS: NCFP000 batteuses NCFS000 batteuse NCMP000 batteurs NCMS000 batteur
    OTHER: batteur	PAR: débit/eur__n	FORMS: NCFP000 batteuses NCFS000 batteuse NCMP000 batteurs NCMS000 batteur
    OTHER: batteur	PAR: vende/ur__n	FORMS: NCFP000 batteuses NCFS000 batteuse NCMP000 batteurs NCMS000 batteur
 
-APERTIUM: beau-frère	PAR: livre__n	FORMS: NCMP000 beau-frères NCMS000 beau-frère
+APERTIUM: baume	PAR: abeille__n	FORMS: NCFP000 baumes NCFS000 baume
+   OTHER: baume	PAR: artiste__n	FORMS: NCCP000 baumes NCCS000 baume
+
+APERTIUM: beau-fils	PAR: be/au-fils__n	FORMS: NCFP000 belles-filles NCFS000 belle-fille NCMP000 beaux-enfants NCMP000 beaux-fils NCMS000 beau-fils
+   OTHER: beau-fils	PAR: BBVA__n	FORMS: NCMS000 beau-fils
+   OTHER: beau-fils	PAR: argent__n	FORMS: NCMS000 beau-fils
+   OTHER: beau-fils	PAR: personnel__n	FORMS: NCMS000 beau-fils
+
+APERTIUM: beau-frère	PAR: be/au-frère__n	FORMS: NCFP000 belles-sœurs NCFS000 belle-sœur NCMP000 beaux-frères NCMS000 beau-frère
    OTHER: beau-frère	PAR: BBVA__n	FORMS: NCMS000 beau-frère
    OTHER: beau-frère	PAR: argent__n	FORMS: NCMS000 beau-frère
    OTHER: beau-frère	PAR: personnel__n	FORMS: NCMS000 beau-frère
 
+APERTIUM: beau-père	PAR: be/au-père__n	FORMS: NCFP000 belles-mères NCFS000 belle-mère NCMP000 beaux-parents NCMP000 beaux-pères NCMS000 beau-père
+   OTHER: beau-père	PAR: BBVA__n	FORMS: NCMS000 beau-père
+   OTHER: beau-père	PAR: argent__n	FORMS: NCMS000 beau-père
+   OTHER: beau-père	PAR: personnel__n	FORMS: NCMS000 beau-père
+
 APERTIUM: beaux-arts	PAR: vacances__n	FORMS: NCFP000 beaux-arts
    OTHER: beaux-arts	PAR: abords__n	FORMS: NCMP000 beaux-arts
 
-APERTIUM: belle-fille	PAR: abeille__n	FORMS: NCFP000 belle-filles NCFS000 belle-fille
-   OTHER: belle-fille	PAR: BBC__n	FORMS: NCFS000 belle-fille
-   OTHER: belle-fille	PAR: soif__n	FORMS: NCFS000 belle-fille
+APERTIUM: beige	PAR: livre__n	FORMS: NCMP000 beiges NCMS000 beige
+   OTHER: beige	PAR: artiste__n	FORMS: NCCP000 beiges NCCS000 beige
+
+APERTIUM: benzène	PAR: livre__n	FORMS: NCMP000 benzènes NCMS000 benzène
+   OTHER: benzène	PAR: BBVA__n	FORMS: NCMS000 benzène
+   OTHER: benzène	PAR: argent__n	FORMS: NCMS000 benzène
+   OTHER: benzène	PAR: personnel__n	FORMS: NCMS000 benzène
 
 APERTIUM: bien-être	PAR: livre__n	FORMS: NCMP000 bien-êtres NCMS000 bien-être
    OTHER: bien-être	PAR: IRPF__n	FORMS: NCMN000 bien-être
+   OTHER: bien-être	PAR: graffiti__n	FORMS: NCMN000 bien-être
    OTHER: bien-être	PAR: mois__n	FORMS: NCMN000 bien-être
+
+APERTIUM: binôme	PAR: livre__n	FORMS: NCMP000 binômes NCMS000 binôme
+   OTHER: binôme	PAR: artiste__n	FORMS: NCCP000 binômes NCCS000 binôme
 
 APERTIUM: bison	PAR: livre__n	FORMS: NCMP000 bisons NCMS000 bison
    OTHER: bison	PAR: ancien__n	FORMS: NCFP000 bisonnes NCFS000 bisonne NCMP000 bisons NCMS000 bison
@@ -397,8 +446,14 @@ APERTIUM: bivalve	PAR: livre__n	FORMS: NCMP000 livres NCMS000 livre
    OTHER: bivalve	PAR: livre__n	FORMS: NCMP000 bivalves NCMS000 bivalve
    OTHER: bivalve	PAR: match__n	FORMS: NCMP000 bivalves NCMS000 bivalve
 
+APERTIUM: blanc	PAR: livre__n	FORMS: NCMP000 blancs NCMS000 blanc
+   OTHER: blanc	PAR: blanc__n	FORMS: NCFP000 blanches NCFS000 blanche NCMP000 blancs NCMS000 blanc
+
 APERTIUM: bleu	PAR: livre__n	FORMS: NCMP000 bleus NCMS000 bleu
    OTHER: bleu	PAR: affecté__n	FORMS: NCFP000 bleues NCFS000 bleue NCMP000 bleus NCMS000 bleu
+
+APERTIUM: bobo	PAR: livre__n	FORMS: NCMP000 bobos NCMS000 bobo
+   OTHER: bobo	PAR: artiste__n	FORMS: NCCP000 bobos NCCS000 bobo
 
 APERTIUM: bon	PAR: livre__n	FORMS: NCMP000 bons NCMS000 bon
    OTHER: bon	PAR: ancien__n	FORMS: NCFP000 bonnes NCFS000 bonne NCMP000 bons NCMS000 bon
@@ -423,13 +478,6 @@ APERTIUM: brasseur	PAR: livre__n	FORMS: NCMP000 brasseurs NCMS000 brasseur
 APERTIUM: brouillon	PAR: livre__n	FORMS: NCMP000 brouillons NCMS000 brouillon
    OTHER: brouillon	PAR: ancien__n	FORMS: NCFP000 brouillonnes NCFS000 brouillonne NCMP000 brouillons NCMS000 brouillon
 
-APERTIUM: buffle	PAR: livre__n	FORMS: NCMP000 buffles NCMS000 buffle
-   OTHER: buffle	PAR: buffle__n	FORMS: NCFP000 bufflesses NCFS000 bufflesse NCMP000 buffles NCMS000 buffle
-   OTHER: buffle	PAR: maire__n	FORMS: NCFP000 bufflesses NCFS000 bufflesse NCMP000 buffles NCMS000 buffle
-
-APERTIUM: bureau	PAR: livre__n	FORMS: NCMP000 bureaus NCMS000 bureau
-   OTHER: bureau	PAR: lieu__n	FORMS: NCMP000 bureaux NCMS000 bureau
-
 APERTIUM: burka	PAR: artiste__n	FORMS: NCCP000 burkas NCCS000 burka
    OTHER: burka	PAR: abeille__n	FORMS: NCFP000 burkas NCFS000 burka
 
@@ -440,8 +488,19 @@ APERTIUM: bénéfice	PAR: abeille__n	FORMS: NCFP000 bénéfices NCFS000 bénéfi
    OTHER: bénéfice	PAR: livre__n	FORMS: NCMP000 bénéfices NCMS000 bénéfice
    OTHER: bénéfice	PAR: match__n	FORMS: NCMP000 bénéfices NCMS000 bénéfice
 
+APERTIUM: bête	PAR: livre__n	FORMS: NCMP000 bêtes NCMS000 bête
+   OTHER: bête	PAR: abeille__n	FORMS: NCFP000 bêtes NCFS000 bête
+
+APERTIUM: c	PAR: soif__n	FORMS: NCFS000 c
+   OTHER: c	PAR: IRPF__n	FORMS: NCMN000 c
+   OTHER: c	PAR: graffiti__n	FORMS: NCMN000 c
+   OTHER: c	PAR: mois__n	FORMS: NCMN000 c
+
 APERTIUM: cadre	PAR: livre__n	FORMS: NCMP000 cadres NCMS000 cadre
    OTHER: cadre	PAR: artiste__n	FORMS: NCCP000 cadres NCCS000 cadre
+
+APERTIUM: cannelle	PAR: abeille__n	FORMS: NCFP000 cannelles NCFS000 cannelle
+   OTHER: cannelle	PAR: artiste__n	FORMS: NCCP000 cannelles NCCS000 cannelle
 
 APERTIUM: capital	PAR: anima/l__n	FORMS: NCMP000 capitaux NCMS000 capital
    OTHER: capital	PAR: commercia/l__n	FORMS: NCFP000 capitales NCFS000 capitale NCMP000 capitaux NCMS000 capital
@@ -449,14 +508,17 @@ APERTIUM: capital	PAR: anima/l__n	FORMS: NCMP000 capitaux NCMS000 capital
 APERTIUM: cardinal	PAR: livre__n	FORMS: NCMP000 cardinals NCMS000 cardinal
    OTHER: cardinal	PAR: anima/l__n	FORMS: NCMP000 cardinaux NCMS000 cardinal
 
+APERTIUM: carnivore	PAR: livre__n	FORMS: NCMP000 carnivores NCMS000 carnivore
+   OTHER: carnivore	PAR: artiste__n	FORMS: NCCP000 carnivores NCCS000 carnivore
+
 APERTIUM: carpe	PAR: abeille__n	FORMS: NCFP000 carpes NCFS000 carpe
    OTHER: carpe	PAR: artiste__n	FORMS: NCCP000 carpes NCCS000 carpe
 
-APERTIUM: carreau	PAR: livre__n	FORMS: NCMP000 carreaus NCMS000 carreau
-   OTHER: carreau	PAR: lieu__n	FORMS: NCMP000 carreaux NCMS000 carreau
-
 APERTIUM: carré	PAR: livre__n	FORMS: NCMP000 carrés NCMS000 carré
    OTHER: carré	PAR: affecté__n	FORMS: NCFP000 carrées NCFS000 carrée NCMP000 carrés NCMS000 carré
+
+APERTIUM: cartouche	PAR: livre__n	FORMS: NCMP000 cartouches NCMS000 cartouche
+   OTHER: cartouche	PAR: artiste__n	FORMS: NCCP000 cartouches NCCS000 cartouche
 
 APERTIUM: cash-flow	PAR: argent__n	FORMS: NCMS000 cash-flow
    OTHER: cash-flow	PAR: livre__n	FORMS: NCMP000 cash-flows NCMS000 cash-flow
@@ -474,6 +536,13 @@ APERTIUM: cavalier	PAR: livre__n	FORMS: NCMP000 cavaliers NCMS000 cavalier
 APERTIUM: cave	PAR: abeille__n	FORMS: NCFP000 caves NCFS000 cave
    OTHER: cave	PAR: artiste__n	FORMS: NCCP000 caves NCCS000 cave
 
+APERTIUM: censeur	PAR: causeu/r__n	FORMS: NCFP000 censeuses NCFS000 censeuse NCMP000 censeurs NCMS000 censeur
+   OTHER: censeur	PAR: livre__n	FORMS: NCMP000 censeurs NCMS000 censeur
+   OTHER: censeur	PAR: match__n	FORMS: NCMP000 censeurs NCMS000 censeur
+
+APERTIUM: centenaire	PAR: artiste__n	FORMS: NCCP000 uentenaires NCCS000 uentenaire
+   OTHER: centenaire	PAR: artiste__n	FORMS: NCCP000 centenaires NCCS000 centenaire
+
 APERTIUM: centième	PAR: livre__n	FORMS: NCMP000 centièmes NCMS000 centième
    OTHER: centième	PAR: artiste__n	FORMS: NCCP000 centièmes NCCS000 centième
 
@@ -486,12 +555,13 @@ APERTIUM: cerise	PAR: abeille__n	FORMS: NCFP000 cerises NCFS000 cerise
 APERTIUM: champagne	PAR: livre__n	FORMS: NCMP000 champagnes NCMS000 champagne
    OTHER: champagne	PAR: artiste__n	FORMS: NCCP000 champagnes NCCS000 champagne
 
+APERTIUM: chancelier	PAR: livre__n	FORMS: NCMP000 chanceliers NCMS000 chancelier
+   OTHER: chancelier	PAR: bouch/er__n	FORMS: NCFP000 chancelières NCFS000 chancelière NCMP000 chanceliers NCMS000 chancelier
+
 APERTIUM: chaos	PAR: ex__n	FORMS: NCCN000 chaos
    OTHER: chaos	PAR: IRPF__n	FORMS: NCMN000 chaos
+   OTHER: chaos	PAR: graffiti__n	FORMS: NCMN000 chaos
    OTHER: chaos	PAR: mois__n	FORMS: NCMN000 chaos
-
-APERTIUM: charge	PAR: livre__n	FORMS: NCMP000 charges NCMS000 charge
-   OTHER: charge	PAR: abeille__n	FORMS: NCFP000 charges NCFS000 charge
 
 APERTIUM: charpentier	PAR: livre__n	FORMS: NCMP000 charpentiers NCMS000 charpentier
    OTHER: charpentier	PAR: bouch/er__n	FORMS: NCFP000 charpentières NCFS000 charpentière NCMP000 charpentiers NCMS000 charpentier
@@ -502,15 +572,23 @@ APERTIUM: chemisier	PAR: livre__n	FORMS: NCMP000 chemisiers NCMS000 chemisier
 APERTIUM: chevalier	PAR: livre__n	FORMS: NCMP000 chevaliers NCMS000 chevalier
    OTHER: chevalier	PAR: bouch/er__n	FORMS: NCFP000 chevalières NCFS000 chevalière NCMP000 chevaliers NCMS000 chevalier
 
-APERTIUM: choix	PAR: livre__n	FORMS: NCMP000 choixs NCMS000 choix
-   OTHER: choix	PAR: IRPF__n	FORMS: NCMN000 choix
-   OTHER: choix	PAR: mois__n	FORMS: NCMN000 choix
+APERTIUM: choral	PAR: livre__n	FORMS: NCMP000 chorals NCMS000 choral
+   OTHER: choral	PAR: affecté__n	FORMS: NCFP000 chorales NCFS000 chorale NCMP000 chorals NCMS000 choral
+
+APERTIUM: châtaignier	PAR: livre__n	FORMS: NCMP000 châtaigniers NCMS000 châtaignier
+   OTHER: châtaignier	PAR: artiste__n	FORMS: NCCP000 châtaigniers NCCS000 châtaignier
 
 APERTIUM: clair	PAR: livre__n	FORMS: NCMP000 clairs NCMS000 clair
    OTHER: clair	PAR: affecté__n	FORMS: NCFP000 claires NCFS000 claire NCMP000 clairs NCMS000 clair
 
+APERTIUM: classique	PAR: livre__n	FORMS: NCMP000 classiques NCMS000 classique
+   OTHER: classique	PAR: artiste__n	FORMS: NCCP000 classiques NCCS000 classique
+
 APERTIUM: clerc	PAR: livre__n	FORMS: NCMP000 clercs NCMS000 clerc
    OTHER: clerc	PAR: artiste__n	FORMS: NCCP000 clercs NCCS000 clerc
+
+APERTIUM: clone	PAR: livre__n	FORMS: NCMP000 clones NCMS000 clone
+   OTHER: clone	PAR: artiste__n	FORMS: NCCP000 clones NCCS000 clone
 
 APERTIUM: clown	PAR: clown__n	FORMS: NCFP000 clownesses NCFS000 clownesse NCMP000 clowns NCMS000 clown
    OTHER: clown	PAR: artiste__n	FORMS: NCCP000 clowns NCCS000 clown
@@ -525,8 +603,14 @@ APERTIUM: coffre-fort	PAR: livre__n	FORMS: NCMP000 coffre-forts NCMS000 coffre-f
    OTHER: coffre-fort	PAR: argent__n	FORMS: NCMS000 coffre-fort
    OTHER: coffre-fort	PAR: personnel__n	FORMS: NCMS000 coffre-fort
 
+APERTIUM: collant	PAR: livre__n	FORMS: NCMP000 collants NCMS000 collant
+   OTHER: collant	PAR: affecté__n	FORMS: NCFP000 collantes NCFS000 collante NCMP000 collants NCMS000 collant
+
 APERTIUM: collectif	PAR: livre__n	FORMS: NCMP000 collectifs NCMS000 collectif
    OTHER: collectif	PAR: jui/f__n	FORMS: NCFP000 collectives NCFS000 collective NCMP000 collectifs NCMS000 collectif
+
+APERTIUM: comarque	PAR: abeille__n	FORMS: NCFP000 comarques NCFS000 comarque
+   OTHER: comarque	PAR: artiste__n	FORMS: NCCP000 comarques NCCS000 comarque
 
 APERTIUM: comble	PAR: personnel__n	FORMS: NCMS000 comble
    OTHER: comble	PAR: livre__n	FORMS: NCMP000 combles NCMS000 comble
@@ -534,9 +618,6 @@ APERTIUM: comble	PAR: personnel__n	FORMS: NCMS000 comble
 
 APERTIUM: commande	PAR: livre__n	FORMS: NCMP000 commandes NCMS000 commande
    OTHER: commande	PAR: abeille__n	FORMS: NCFP000 commandes NCFS000 commande
-
-APERTIUM: commentateur	PAR: livre__n	FORMS: NCMP000 commentateurs NCMS000 commentateur
-   OTHER: commentateur	PAR: administrat/eur__n	FORMS: NCFP000 commentatrices NCFS000 commentatrice NCMP000 commentateurs NCMS000 commentateur
 
 APERTIUM: commerçant	PAR: livre__n	FORMS: NCMP000 commerçants NCMS000 commerçant
    OTHER: commerçant	PAR: affecté__n	FORMS: NCFP000 commerçantes NCFS000 commerçante NCMP000 commerçants NCMS000 commerçant
@@ -565,6 +646,7 @@ APERTIUM: compteur	PAR: livre__n	FORMS: NCMP000 compteurs NCMS000 compteur
 
 APERTIUM: comte	PAR: livre__n	FORMS: NCMP000 comtes NCMS000 comte
    OTHER: comte	PAR: buffle__n	FORMS: NCFP000 comtesses NCFS000 comtesse NCMP000 comtes NCMS000 comte
+   OTHER: comte	PAR: bêta__n	FORMS: NCFP000 comtesses NCFS000 comtesse NCMP000 comtes NCMS000 comte
    OTHER: comte	PAR: maire__n	FORMS: NCFP000 comtesses NCFS000 comtesse NCMP000 comtes NCMS000 comte
 
 APERTIUM: conception	PAR: livre__n	FORMS: NCMP000 conceptions NCMS000 conception
@@ -573,25 +655,39 @@ APERTIUM: conception	PAR: livre__n	FORMS: NCMP000 conceptions NCMS000 conception
 APERTIUM: conduit	PAR: livre__n	FORMS: NCMP000 conduits NCMS000 conduit
    OTHER: conduit	PAR: affecté__n	FORMS: NCFP000 conduites NCFS000 conduite NCMP000 conduits NCMS000 conduit
 
+APERTIUM: confrère	PAR: livre__n	FORMS: NCMP000 confrères NCMS000 confrère
+   OTHER: confrère	PAR: artiste__n	FORMS: NCCP000 confrères NCCS000 confrère
+
 APERTIUM: connu	PAR: affecté__n	FORMS: NCFP000 connues NCFS000 connue NCMP000 connus NCMS000 connu
    OTHER: connu	PAR: livre__n	FORMS: NCMP000 connus NCMS000 connu
    OTHER: connu	PAR: match__n	FORMS: NCMP000 connus NCMS000 connu
+
+APERTIUM: constituant	PAR: livre__n	FORMS: NCMP000 constituants NCMS000 constituant
+   OTHER: constituant	PAR: affecté__n	FORMS: NCFP000 constituantes NCFS000 constituante NCMP000 constituants NCMS000 constituant
 
 APERTIUM: consul	PAR: artiste__n	FORMS: NCCP000 consuls NCCS000 consul
    OTHER: consul	PAR: affecté__n	FORMS: NCFP000 consules NCFS000 consule NCMP000 consuls NCMS000 consul
 
 APERTIUM: contre-la-montre	PAR: livre__n	FORMS: NCMP000 contre-la-montres NCMS000 contre-la-montre
    OTHER: contre-la-montre	PAR: IRPF__n	FORMS: NCMN000 contre-la-montre
+   OTHER: contre-la-montre	PAR: graffiti__n	FORMS: NCMN000 contre-la-montre
    OTHER: contre-la-montre	PAR: mois__n	FORMS: NCMN000 contre-la-montre
 
-APERTIUM: coteau	PAR: livre__n	FORMS: NCMP000 coteaus NCMS000 coteau
-   OTHER: coteau	PAR: lieu__n	FORMS: NCMP000 coteaux NCMS000 coteau
+APERTIUM: cornique	PAR: artiste__n	FORMS: NCCP000 corniques NCCS000 cornique
+   OTHER: cornique	PAR: livre__n	FORMS: NCMP000 corniques NCMS000 cornique
+   OTHER: cornique	PAR: match__n	FORMS: NCMP000 corniques NCMS000 cornique
 
 APERTIUM: cotonnier	PAR: livre__n	FORMS: NCMP000 cotonniers NCMS000 cotonnier
    OTHER: cotonnier	PAR: bouch/er__n	FORMS: NCFP000 cotonnières NCFS000 cotonnière NCMP000 cotonniers NCMS000 cotonnier
 
+APERTIUM: couchant	PAR: livre__n	FORMS: NCMP000 couchants NCMS000 couchant
+   OTHER: couchant	PAR: affecté__n	FORMS: NCFP000 couchantes NCFS000 couchante NCMP000 couchants NCMS000 couchant
+
 APERTIUM: couple	PAR: livre__n	FORMS: NCMP000 couples NCMS000 couple
    OTHER: couple	PAR: artiste__n	FORMS: NCCP000 couples NCCS000 couple
+
+APERTIUM: coupé	PAR: livre__n	FORMS: NCMP000 coupés NCMS000 coupé
+   OTHER: coupé	PAR: affecté__n	FORMS: NCFP000 coupées NCFS000 coupée NCMP000 coupés NCMS000 coupé
 
 APERTIUM: courant	PAR: livre__n	FORMS: NCMP000 courants NCMS000 courant
    OTHER: courant	PAR: affecté__n	FORMS: NCFP000 courantes NCFS000 courante NCMP000 courants NCMS000 courant
@@ -612,6 +708,9 @@ APERTIUM: court-métrage	PAR: livre__n	FORMS: NCMP000 court-métrages NCMS000 co
 APERTIUM: couvert	PAR: livre__n	FORMS: NCMP000 couverts NCMS000 couvert
    OTHER: couvert	PAR: affecté__n	FORMS: NCFP000 couvertes NCFS000 couverte NCMP000 couverts NCMS000 couvert
 
+APERTIUM: critique	PAR: abeille__n	FORMS: NCFP000 critiques NCFS000 critique
+   OTHER: critique	PAR: artiste__n	FORMS: NCCP000 critiques NCCS000 critique
+
 APERTIUM: crème	PAR: abeille__n	FORMS: NCFP000 crèmes NCFS000 crème
    OTHER: crème	PAR: artiste__n	FORMS: NCCP000 crèmes NCCS000 crème
 
@@ -619,8 +718,17 @@ APERTIUM: cuirassé	PAR: affecté__n	FORMS: NCFP000 cuirassées NCFS000 cuirass�
    OTHER: cuirassé	PAR: livre__n	FORMS: NCMP000 cuirassés NCMS000 cuirassé
    OTHER: cuirassé	PAR: match__n	FORMS: NCMP000 cuirassés NCMS000 cuirassé
 
+APERTIUM: cul-de-sac	PAR: cul/-de-sac__n	FORMS: NCMP000 culs-de-sac NCMS000 cul-de-sac
+   OTHER: cul-de-sac	PAR: BBVA__n	FORMS: NCMS000 cul-de-sac
+   OTHER: cul-de-sac	PAR: argent__n	FORMS: NCMS000 cul-de-sac
+   OTHER: cul-de-sac	PAR: personnel__n	FORMS: NCMS000 cul-de-sac
+
 APERTIUM: demi	PAR: livre__n	FORMS: NCMP000 demis NCMS000 demi
    OTHER: demi	PAR: affecté__n	FORMS: NCFP000 demies NCFS000 demie NCMP000 demis NCMS000 demi
+
+APERTIUM: demi-frère	PAR: demi-/frère__n	FORMS: NCFP000 demi-sœurs NCFS000 demi-sœur NCMP000 demi-frères NCMS000 demi-frère
+   OTHER: demi-frère	PAR: livre__n	FORMS: NCMP000 demi-frères NCMS000 demi-frère
+   OTHER: demi-frère	PAR: match__n	FORMS: NCMP000 demi-frères NCMS000 demi-frère
 
 APERTIUM: diesel	PAR: mois__n	FORMS: NCMN000 diesel
    OTHER: diesel	PAR: cie/l__n	FORMS: NCMP000 diesels NCMS000 diesel
@@ -630,9 +738,6 @@ APERTIUM: diesel	PAR: mois__n	FORMS: NCMN000 diesel
 APERTIUM: dieu	PAR: d/ieu__n	FORMS: NCFP000 déesses NCFS000 déesse NCMP000 dieux NCMS000 dieu
    OTHER: dieu	PAR: lieu__n	FORMS: NCMP000 dieux NCMS000 dieu
 
-APERTIUM: distributeur	PAR: livre__n	FORMS: NCMP000 distributeurs NCMS000 distributeur
-   OTHER: distributeur	PAR: administrat/eur__n	FORMS: NCFP000 distributrices NCFS000 distributrice NCMP000 distributeurs NCMS000 distributeur
-
 APERTIUM: djihad	PAR: personnel__n	FORMS: NCMS000 djihad
    OTHER: djihad	PAR: livre__n	FORMS: NCMP000 djihads NCMS000 djihad
    OTHER: djihad	PAR: match__n	FORMS: NCMP000 djihads NCMS000 djihad
@@ -640,14 +745,14 @@ APERTIUM: djihad	PAR: personnel__n	FORMS: NCMS000 djihad
 APERTIUM: docteur	PAR: livre__n	FORMS: NCMP000 docteurs NCMS000 docteur
    OTHER: docteur	PAR: artiste__n	FORMS: NCCP000 docteurs NCCS000 docteur
 
+APERTIUM: dramatique	PAR: livre__n	FORMS: NCMP000 dramatiques NCMS000 dramatique
+   OTHER: dramatique	PAR: artiste__n	FORMS: NCCP000 dramatiques NCCS000 dramatique
+
 APERTIUM: droit	PAR: livre__n	FORMS: NCMP000 droits NCMS000 droit
    OTHER: droit	PAR: affecté__n	FORMS: NCFP000 droites NCFS000 droite NCMP000 droits NCMS000 droit
 
 APERTIUM: débiteur	PAR: débit/eur__n	FORMS: NCFP000 débiteuses NCFS000 débiteuse NCMP000 débiteurs NCMS000 débiteur
    OTHER: débiteur	PAR: administrat/eur__n	FORMS: NCFP000 débitrices NCFS000 débitrice NCMP000 débiteurs NCMS000 débiteur
-
-APERTIUM: décennie	PAR: livre__n	FORMS: NCMP000 décennies NCMS000 décennie
-   OTHER: décennie	PAR: abeille__n	FORMS: NCFP000 décennies NCFS000 décennie
 
 APERTIUM: découvert	PAR: livre__n	FORMS: NCMP000 découverts NCMS000 découvert
    OTHER: découvert	PAR: affecté__n	FORMS: NCFP000 découvertes NCFS000 découverte NCMP000 découverts NCMS000 découvert
@@ -662,12 +767,6 @@ APERTIUM: défenseur	PAR: causeu/r__n	FORMS: NCFP000 défenseuses NCFS000 défen
 APERTIUM: démon	PAR: livre__n	FORMS: NCMP000 démons NCMS000 démon
    OTHER: démon	PAR: affecté__n	FORMS: NCFP000 démones NCFS000 démone NCMP000 démons NCMS000 démon
 
-APERTIUM: député	PAR: livre__n	FORMS: NCMP000 députés NCMS000 député
-   OTHER: député	PAR: affecté__n	FORMS: NCFP000 députées NCFS000 députée NCMP000 députés NCMS000 député
-
-APERTIUM: désintégration	PAR: livre__n	FORMS: NCMP000 désintégrations NCMS000 désintégration
-   OTHER: désintégration	PAR: abeille__n	FORMS: NCFP000 désintégrations NCFS000 désintégration
-
 APERTIUM: détecteur	PAR: administrat/eur__n	FORMS: NCFP000 détectrices NCFS000 détectrice NCMP000 détecteurs NCMS000 détecteur
    OTHER: détecteur	PAR: livre__n	FORMS: NCMP000 détecteurs NCMS000 détecteur
    OTHER: détecteur	PAR: match__n	FORMS: NCMP000 détecteurs NCMS000 détecteur
@@ -680,15 +779,16 @@ APERTIUM: endosseur	PAR: causeu/r__n	FORMS: NCFP000 endosseuses NCFS000 endosseu
    OTHER: endosseur	PAR: livre__n	FORMS: NCMP000 endosseurs NCMS000 endosseur
    OTHER: endosseur	PAR: match__n	FORMS: NCMP000 endosseurs NCMS000 endosseur
 
-APERTIUM: enfant	PAR: livre__n	FORMS: NCMP000 enfants NCMS000 enfant
-   OTHER: enfant	PAR: artiste__n	FORMS: NCCP000 enfants NCCS000 enfant
-
 APERTIUM: enseigne	PAR: abeille__n	FORMS: NCFP000 enseignes NCFS000 enseigne
    OTHER: enseigne	PAR: artiste__n	FORMS: NCCP000 enseignes NCCS000 enseigne
 
 APERTIUM: entête	PAR: abeille__n	FORMS: NCFP000 entêtes NCFS000 entête
    OTHER: entête	PAR: livre__n	FORMS: NCMP000 entêtes NCMS000 entête
    OTHER: entête	PAR: match__n	FORMS: NCMP000 entêtes NCMS000 entête
+
+APERTIUM: ermite	PAR: artiste__n	FORMS: NCCP000 ermites NCCS000 ermite
+   OTHER: ermite	PAR: livre__n	FORMS: NCMP000 ermites NCMS000 ermite
+   OTHER: ermite	PAR: match__n	FORMS: NCMP000 ermites NCMS000 ermite
 
 APERTIUM: espace	PAR: livre__n	FORMS: NCMP000 espaces NCMS000 espace
    OTHER: espace	PAR: artiste__n	FORMS: NCCP000 espaces NCCS000 espace
@@ -700,19 +800,12 @@ APERTIUM: exécutif	PAR: jui/f__n	FORMS: NCFP000 exécutives NCFS000 exécutive 
 APERTIUM: facteur	PAR: livre__n	FORMS: NCMP000 facteurs NCMS000 facteur
    OTHER: facteur	PAR: administrat/eur__n	FORMS: NCFP000 factrices NCFS000 factrice NCMP000 facteurs NCMS000 facteur
 
-APERTIUM: fantôme	PAR: artiste__n	FORMS: NCCP000 fantômes NCCS000 fantôme
-   OTHER: fantôme	PAR: livre__n	FORMS: NCMP000 fantômes NCMS000 fantôme
-   OTHER: fantôme	PAR: match__n	FORMS: NCMP000 fantômes NCMS000 fantôme
-
 APERTIUM: farce	PAR: livre__n	FORMS: NCMP000 farces NCMS000 farce
    OTHER: farce	PAR: abeille__n	FORMS: NCFP000 farces NCFS000 farce
 
 APERTIUM: filmage	PAR: abeille__n	FORMS: NCFP000 filmages NCFS000 filmage
    OTHER: filmage	PAR: livre__n	FORMS: NCMP000 filmages NCMS000 filmage
    OTHER: filmage	PAR: match__n	FORMS: NCMP000 filmages NCMS000 filmage
-
-APERTIUM: foi	PAR: soif__n	FORMS: NCFS000 foi
-   OTHER: foi	PAR: abeille__n	FORMS: NCFP000 fois NCFS000 foi
 
 APERTIUM: folk	PAR: mois__n	FORMS: NCMN000 folk
    OTHER: folk	PAR: livre__n	FORMS: NCMP000 folks NCMS000 folk
@@ -730,21 +823,27 @@ APERTIUM: football	PAR: personnel__n	FORMS: NCMS000 football
 APERTIUM: forgeron	PAR: livre__n	FORMS: NCMP000 forgerons NCMS000 forgeron
    OTHER: forgeron	PAR: ancien__n	FORMS: NCFP000 forgeronnes NCFS000 forgeronne NCMP000 forgerons NCMS000 forgeron
 
-APERTIUM: fossé	PAR: abeille__n	FORMS: NCFP000 fossés NCFS000 fossé
-   OTHER: fossé	PAR: livre__n	FORMS: NCMP000 fossés NCMS000 fossé
-   OTHER: fossé	PAR: match__n	FORMS: NCMP000 fossés NCMS000 fossé
+APERTIUM: fort	PAR: livre__n	FORMS: NCMP000 forts NCMS000 fort
+   OTHER: fort	PAR: affecté__n	FORMS: NCFP000 fortes NCFS000 forte NCMP000 forts NCMS000 fort
+
+APERTIUM: foudre	PAR: abeille__n	FORMS: NCFP000 foudres NCFS000 foudre
+   OTHER: foudre	PAR: artiste__n	FORMS: NCCP000 foudres NCCS000 foudre
+
+APERTIUM: francique	PAR: personnel__n	FORMS: NCMS000 francique
+   OTHER: francique	PAR: livre__n	FORMS: NCMP000 franciques NCMS000 francique
+   OTHER: francique	PAR: match__n	FORMS: NCMP000 franciques NCMS000 francique
 
 APERTIUM: froid	PAR: livre__n	FORMS: NCMP000 froids NCMS000 froid
    OTHER: froid	PAR: affecté__n	FORMS: NCFP000 froides NCFS000 froide NCMP000 froids NCMS000 froid
 
-APERTIUM: fugitif	PAR: livre__n	FORMS: NCMP000 fugitifs NCMS000 fugitif
-   OTHER: fugitif	PAR: jui/f__n	FORMS: NCFP000 fugitives NCFS000 fugitive NCMP000 fugitifs NCMS000 fugitif
-
-APERTIUM: fureur	PAR: livre__n	FORMS: NCMP000 fureurs NCMS000 fureur
-   OTHER: fureur	PAR: abeille__n	FORMS: NCFP000 fureurs NCFS000 fureur
+APERTIUM: frugivore	PAR: livre__n	FORMS: NCMP000 frugivores NCMS000 frugivore
+   OTHER: frugivore	PAR: artiste__n	FORMS: NCCP000 frugivores NCCS000 frugivore
 
 APERTIUM: futur	PAR: livre__n	FORMS: NCMP000 futurs NCMS000 futur
    OTHER: futur	PAR: affecté__n	FORMS: NCFP000 futures NCFS000 future NCMP000 futurs NCMS000 futur
+
+APERTIUM: galactose	PAR: livre__n	FORMS: NCMP000 galactoses NCMS000 galactose
+   OTHER: galactose	PAR: artiste__n	FORMS: NCCP000 galactoses NCCS000 galactose
 
 APERTIUM: gangster	PAR: artiste__n	FORMS: NCCP000 gangsters NCCS000 gangster
    OTHER: gangster	PAR: livre__n	FORMS: NCMP000 gangsters NCMS000 gangster
@@ -774,12 +873,14 @@ APERTIUM: gorille	PAR: artiste__n	FORMS: NCCP000 gorilles NCCS000 gorille
 APERTIUM: gouvernant	PAR: livre__n	FORMS: NCMP000 gouvernants NCMS000 gouvernant
    OTHER: gouvernant	PAR: affecté__n	FORMS: NCFP000 gouvernantes NCFS000 gouvernante NCMP000 gouvernants NCMS000 gouvernant
 
-APERTIUM: gouverneur	PAR: livre__n	FORMS: NCMP000 gouverneurs NCMS000 gouverneur
-   OTHER: gouverneur	PAR: affecté__n	FORMS: NCFP000 gouverneures NCFS000 gouverneure NCMP000 gouverneurs NCMS000 gouverneur
-
 APERTIUM: graissage	PAR: abeille__n	FORMS: NCFP000 graissages NCFS000 graissage
    OTHER: graissage	PAR: livre__n	FORMS: NCMP000 graissages NCMS000 graissage
    OTHER: graissage	PAR: match__n	FORMS: NCMP000 graissages NCMS000 graissage
+
+APERTIUM: grand-duché	PAR: livre__n	FORMS: NCMP000 grand-duchés NCMS000 grand-duché
+   OTHER: grand-duché	PAR: BBVA__n	FORMS: NCMS000 grand-duché
+   OTHER: grand-duché	PAR: argent__n	FORMS: NCMS000 grand-duché
+   OTHER: grand-duché	PAR: personnel__n	FORMS: NCMS000 grand-duché
 
 APERTIUM: grand-père	PAR: grand/-père__n	FORMS: NCFP000 grand-mères NCFS000 grand-mère NCMP000 grands-parents NCMS000 grand-père
    OTHER: grand-père	PAR: BBVA__n	FORMS: NCMS000 grand-père
@@ -789,15 +890,8 @@ APERTIUM: grand-père	PAR: grand/-père__n	FORMS: NCFP000 grand-mères NCFS000 g
 APERTIUM: graphique	PAR: livre__n	FORMS: NCMP000 graphiques NCMS000 graphique
    OTHER: graphique	PAR: artiste__n	FORMS: NCCP000 graphiques NCCS000 graphique
 
-APERTIUM: graphisme	PAR: artiste__n	FORMS: NCCP000 graphismes NCCS000 graphisme
-   OTHER: graphisme	PAR: livre__n	FORMS: NCMP000 graphismes NCMS000 graphisme
-   OTHER: graphisme	PAR: match__n	FORMS: NCMP000 graphismes NCMS000 graphisme
-
 APERTIUM: greffe	PAR: abeille__n	FORMS: NCFP000 greffes NCFS000 greffe
    OTHER: greffe	PAR: artiste__n	FORMS: NCCP000 greffes NCCS000 greffe
-
-APERTIUM: grenadier	PAR: livre__n	FORMS: NCMP000 grenadiers NCMS000 grenadier
-   OTHER: grenadier	PAR: bouch/er__n	FORMS: NCFP000 grenadières NCFS000 grenadière NCMP000 grenadiers NCMS000 grenadier
 
 APERTIUM: gris	PAR: mois__n	FORMS: NCMN000 gris
    OTHER: gris	PAR: admis__n	FORMS: NCFP000 grises NCFS000 grise NCMN000 gris
@@ -839,6 +933,7 @@ APERTIUM: hectare	PAR: abeille__n	FORMS: NCFP000 hectares NCFS000 hectare
    OTHER: hectare	PAR: match__n	FORMS: NCMP000 hectares NCMS000 hectare
 
 APERTIUM: hockey	PAR: personnel__n	FORMS: NCMS000 hockey
+   OTHER: hockey	PAR: brand/y__n	FORMS: NCMP000 hockeys NCMS000 hockey
    OTHER: hockey	PAR: livre__n	FORMS: NCMP000 hockeys NCMS000 hockey
    OTHER: hockey	PAR: match__n	FORMS: NCMP000 hockeys NCMS000 hockey
 
@@ -847,6 +942,9 @@ APERTIUM: homicide	PAR: livre__n	FORMS: NCMP000 homicides NCMS000 homicide
 
 APERTIUM: horloger	PAR: livre__n	FORMS: NCMP000 horlogers NCMS000 horloger
    OTHER: horloger	PAR: bouch/er__n	FORMS: NCFP000 horlogères NCFS000 horlogère NCMP000 horlogers NCMS000 horloger
+
+APERTIUM: huilier	PAR: livre__n	FORMS: NCMP000 huiliers NCMS000 huilier
+   OTHER: huilier	PAR: bouch/er__n	FORMS: NCFP000 huilières NCFS000 huilière NCMP000 huiliers NCMS000 huilier
 
 APERTIUM: huissier	PAR: livre__n	FORMS: NCMP000 huissiers NCMS000 huissier
    OTHER: huissier	PAR: bouch/er__n	FORMS: NCFP000 huissières NCFS000 huissière NCMP000 huissiers NCMS000 huissier
@@ -860,15 +958,19 @@ APERTIUM: hussard	PAR: livre__n	FORMS: NCMP000 hussards NCMS000 hussard
 APERTIUM: hymne	PAR: livre__n	FORMS: NCMP000 hymnes NCMS000 hymne
    OTHER: hymne	PAR: artiste__n	FORMS: NCCP000 hymnes NCCS000 hymne
 
+APERTIUM: hébreu	PAR: hébreu__n	FORMS: NCCP000 hébreux NCCS000 hébreu
+   OTHER: hébreu	PAR: lieu__n	FORMS: NCMP000 hébreux NCMS000 hébreu
+
 APERTIUM: héros	PAR: héro/s__n	FORMS: NCFP000 héroïnes NCFS000 héroïne NCMN000 héros
    OTHER: héros	PAR: IRPF__n	FORMS: NCMN000 héros
+   OTHER: héros	PAR: graffiti__n	FORMS: NCMN000 héros
    OTHER: héros	PAR: mois__n	FORMS: NCMN000 héros
 
 APERTIUM: hôte	PAR: buffle__n	FORMS: NCFP000 hôtesses NCFS000 hôtesse NCMP000 hôtes NCMS000 hôte
    OTHER: hôte	PAR: artiste__n	FORMS: NCCP000 hôtes NCCS000 hôte
 
-APERTIUM: impasse	PAR: livre__n	FORMS: NCMP000 impasses NCMS000 impasse
-   OTHER: impasse	PAR: abeille__n	FORMS: NCFP000 impasses NCFS000 impasse
+APERTIUM: impair	PAR: livre__n	FORMS: NCMP000 impairs NCMS000 impair
+   OTHER: impair	PAR: affecté__n	FORMS: NCFP000 impaires NCFS000 impaire NCMP000 impairs NCMS000 impair
 
 APERTIUM: impayé	PAR: affecté__n	FORMS: NCFP000 impayées NCFS000 impayée NCMP000 impayés NCMS000 impayé
    OTHER: impayé	PAR: livre__n	FORMS: NCMP000 impayés NCMS000 impayé
@@ -918,20 +1020,31 @@ APERTIUM: islam	PAR: personnel__n	FORMS: NCMS000 islam
 APERTIUM: isolant	PAR: livre__n	FORMS: NCMP000 isolants NCMS000 isolant
    OTHER: isolant	PAR: affecté__n	FORMS: NCFP000 isolantes NCFS000 isolante NCMP000 isolants NCMS000 isolant
 
+APERTIUM: italique	PAR: livre__n	FORMS: NCMP000 italiques NCMS000 italique
+   OTHER: italique	PAR: artiste__n	FORMS: NCCP000 italiques NCCS000 italique
+
 APERTIUM: ivrogne	PAR: artiste__n	FORMS: NCCP000 ivrognes NCCS000 ivrogne
    OTHER: ivrogne	PAR: buffle__n	FORMS: NCFP000 ivrognesses NCFS000 ivrognesse NCMP000 ivrognes NCMS000 ivrogne
+   OTHER: ivrogne	PAR: bêta__n	FORMS: NCFP000 ivrognesses NCFS000 ivrognesse NCMP000 ivrognes NCMS000 ivrogne
    OTHER: ivrogne	PAR: maire__n	FORMS: NCFP000 ivrognesses NCFS000 ivrognesse NCMP000 ivrognes NCMS000 ivrogne
+
+APERTIUM: jaune	PAR: livre__n	FORMS: NCMP000 jaunes NCMS000 jaune
+   OTHER: jaune	PAR: artiste__n	FORMS: NCCP000 jaunes NCCS000 jaune
 
 APERTIUM: jeans	PAR: abords__n	FORMS: NCMP000 jeans
    OTHER: jeans	PAR: IRPF__n	FORMS: NCMN000 jeans
+   OTHER: jeans	PAR: graffiti__n	FORMS: NCMN000 jeans
    OTHER: jeans	PAR: mois__n	FORMS: NCMN000 jeans
 
 APERTIUM: juge	PAR: livre__n	FORMS: NCMP000 juges NCMS000 juge
    OTHER: juge	PAR: artiste__n	FORMS: NCCP000 juges NCCS000 juge
 
-APERTIUM: jus	PAR: livre__n	FORMS: NCMP000 juss NCMS000 jus
-   OTHER: jus	PAR: IRPF__n	FORMS: NCMN000 jus
-   OTHER: jus	PAR: mois__n	FORMS: NCMN000 jus
+APERTIUM: kirghiz	PAR: affecté__n	FORMS: NCFP000 kirghizes NCFS000 kirghize NCMP000 kirghizs NCMS000 kirghiz
+   OTHER: kirghiz	PAR: admis__n	FORMS: NCFP000 kirghizes NCFS000 kirghize NCMN000 kirghiz
+
+APERTIUM: koinè	PAR: abeille__n	FORMS: NCFP000 koinès NCFS000 koinè
+   OTHER: koinè	PAR: BBC__n	FORMS: NCFS000 koinè
+   OTHER: koinè	PAR: soif__n	FORMS: NCFS000 koinè
 
 APERTIUM: kéfir	PAR: personnel__n	FORMS: NCMS000 kéfir
    OTHER: kéfir	PAR: livre__n	FORMS: NCMP000 kéfirs NCMS000 kéfir
@@ -945,9 +1058,6 @@ APERTIUM: large	PAR: livre__n	FORMS: NCMP000 larges NCMS000 large
    OTHER: large	PAR: BBVA__n	FORMS: NCMS000 large
    OTHER: large	PAR: argent__n	FORMS: NCMS000 large
    OTHER: large	PAR: personnel__n	FORMS: NCMS000 large
-
-APERTIUM: latin	PAR: personnel__n	FORMS: NCMS000 latin
-   OTHER: latin	PAR: affecté__n	FORMS: NCFP000 latines NCFS000 latine NCMP000 latins NCMS000 latin
 
 APERTIUM: latte	PAR: livre__n	FORMS: NCMP000 lattes NCMS000 latte
    OTHER: latte	PAR: abeille__n	FORMS: NCFP000 lattes NCFS000 latte
@@ -972,6 +1082,10 @@ APERTIUM: long-métrage	PAR: livre__n	FORMS: NCMP000 long-métrages NCMS000 long
    OTHER: long-métrage	PAR: argent__n	FORMS: NCMS000 long-métrage
    OTHER: long-métrage	PAR: personnel__n	FORMS: NCMS000 long-métrage
 
+APERTIUM: loup	PAR: lou/p__n	FORMS: NCFP000 louves NCFS000 louve NCMP000 loups NCMS000 loup
+   OTHER: loup	PAR: livre__n	FORMS: NCMP000 loups NCMS000 loup
+   OTHER: loup	PAR: match__n	FORMS: NCMP000 loups NCMS000 loup
+
 APERTIUM: lutin	PAR: affecté__n	FORMS: NCFP000 lutines NCFS000 lutine NCMP000 lutins NCMS000 lutin
    OTHER: lutin	PAR: livre__n	FORMS: NCMP000 lutins NCMS000 lutin
    OTHER: lutin	PAR: match__n	FORMS: NCMP000 lutins NCMS000 lutin
@@ -986,8 +1100,12 @@ APERTIUM: machiste	PAR: artiste__n	FORMS: NCCP000 machistes NCCS000 machiste
    OTHER: machiste	PAR: livre__n	FORMS: NCMP000 machistes NCMS000 machiste
    OTHER: machiste	PAR: match__n	FORMS: NCMP000 machistes NCMS000 machiste
 
-APERTIUM: maghrébin	PAR: ancien__n	FORMS: NCFP000 maghrébinnes NCFS000 maghrébinne NCMP000 maghrébins NCMS000 maghrébin
-   OTHER: maghrébin	PAR: affecté__n	FORMS: NCFP000 maghrébines NCFS000 maghrébine NCMP000 maghrébins NCMS000 maghrébin
+APERTIUM: madame	PAR: m/adame__n	FORMS: NCFP000 mesdames NCFS000 madame
+   OTHER: madame	PAR: abeille__n	FORMS: NCFP000 madames NCFS000 madame
+
+APERTIUM: mademoiselle	PAR: m/ademoiselle__n	FORMS: NCFP000 mesdemoiselles NCFS000 mademoiselle
+   OTHER: mademoiselle	PAR: BBC__n	FORMS: NCFS000 mademoiselle
+   OTHER: mademoiselle	PAR: soif__n	FORMS: NCFS000 mademoiselle
 
 APERTIUM: maire	PAR: maire__n	FORMS: NCFP000 mairesses NCFS000 mairesse NCMP000 maires NCMS000 maire
    OTHER: maire	PAR: artiste__n	FORMS: NCCP000 maires NCCS000 maire
@@ -1001,14 +1119,11 @@ APERTIUM: manager	PAR: livre__n	FORMS: NCMP000 managers NCMS000 manager
 APERTIUM: manche	PAR: livre__n	FORMS: NCMP000 manches NCMS000 manche
    OTHER: manche	PAR: artiste__n	FORMS: NCCP000 manches NCCS000 manche
 
-APERTIUM: mannequin	PAR: livre__n	FORMS: NCMP000 mannequins NCMS000 mannequin
-   OTHER: mannequin	PAR: artiste__n	FORMS: NCCP000 mannequins NCCS000 mannequin
+APERTIUM: manille	PAR: abeille__n	FORMS: NCFP000 manilles NCFS000 manille
+   OTHER: manille	PAR: artiste__n	FORMS: NCCP000 manilles NCCS000 manille
 
-APERTIUM: manteau	PAR: livre__n	FORMS: NCMP000 manteaus NCMS000 manteau
-   OTHER: manteau	PAR: lieu__n	FORMS: NCMP000 manteaux NCMS000 manteau
-
-APERTIUM: marchand	PAR: livre__n	FORMS: NCMP000 marchands NCMS000 marchand
-   OTHER: marchand	PAR: affecté__n	FORMS: NCFP000 marchandes NCFS000 marchande NCMP000 marchands NCMS000 marchand
+APERTIUM: manœuvre	PAR: abeille__n	FORMS: NCFP000 manœuvres NCFS000 manœuvre
+   OTHER: manœuvre	PAR: artiste__n	FORMS: NCCP000 manœuvres NCCS000 manœuvre
 
 APERTIUM: marge	PAR: livre__n	FORMS: NCMP000 marges NCMS000 marge
    OTHER: marge	PAR: abeille__n	FORMS: NCFP000 marges NCFS000 marge
@@ -1027,15 +1142,15 @@ APERTIUM: marrant	PAR: livre__n	FORMS: NCMP000 marrants NCMS000 marrant
 APERTIUM: maréchal	PAR: livre__n	FORMS: NCMP000 maréchals NCMS000 maréchal
    OTHER: maréchal	PAR: commercia/l__n	FORMS: NCFP000 maréchales NCFS000 maréchale NCMP000 maréchaux NCMS000 maréchal
 
+APERTIUM: mat	PAR: livre__n	FORMS: NCMP000 mats NCMS000 mat
+   OTHER: mat	PAR: affecté__n	FORMS: NCFP000 mates NCFS000 mate NCMP000 mats NCMS000 mat
+
 APERTIUM: matériel	PAR: livre__n	FORMS: NCMP000 matériels NCMS000 matériel
    OTHER: matériel	PAR: colonel__n	FORMS: NCFP000 matérielles NCFS000 matérielle NCMP000 matériels NCMS000 matériel
 
-APERTIUM: maître	PAR: livre__n	FORMS: NCMP000 maîtres NCMS000 maître
-   OTHER: maître	PAR: buffle__n	FORMS: NCFP000 maîtresses NCFS000 maîtresse NCMP000 maîtres NCMS000 maître
-   OTHER: maître	PAR: maire__n	FORMS: NCFP000 maîtresses NCFS000 maîtresse NCMP000 maîtres NCMS000 maître
-
-APERTIUM: mendiant	PAR: livre__n	FORMS: NCMP000 mendiants NCMS000 mendiant
-   OTHER: mendiant	PAR: affecté__n	FORMS: NCFP000 mendiantes NCFS000 mendiante NCMP000 mendiants NCMS000 mendiant
+APERTIUM: mentor	PAR: affecté__n	FORMS: NCFP000 mentores NCFS000 mentore NCMP000 mentors NCMS000 mentor
+   OTHER: mentor	PAR: livre__n	FORMS: NCMP000 mentors NCMS000 mentor
+   OTHER: mentor	PAR: match__n	FORMS: NCMP000 mentors NCMS000 mentor
 
 APERTIUM: merci	PAR: livre__n	FORMS: NCMP000 mercis NCMS000 merci
    OTHER: merci	PAR: artiste__n	FORMS: NCCP000 mercis NCCS000 merci
@@ -1052,8 +1167,8 @@ APERTIUM: mini	PAR: livre__n	FORMS: NCMP000 minis NCMS000 mini
 APERTIUM: minime	PAR: abeille__n	FORMS: NCFP000 minimes NCFS000 minime
    OTHER: minime	PAR: artiste__n	FORMS: NCCP000 minimes NCCS000 minime
 
-APERTIUM: ministre	PAR: livre__n	FORMS: NCMP000 ministres NCMS000 ministre
-   OTHER: ministre	PAR: artiste__n	FORMS: NCCP000 ministres NCCS000 ministre
+APERTIUM: mire	PAR: abeille__n	FORMS: NCFP000 mires NCFS000 mire
+   OTHER: mire	PAR: artiste__n	FORMS: NCCP000 mires NCCS000 mire
 
 APERTIUM: missile	PAR: abeille__n	FORMS: NCFP000 missiles NCFS000 missile
    OTHER: missile	PAR: livre__n	FORMS: NCMP000 missiles NCMS000 missile
@@ -1070,6 +1185,11 @@ APERTIUM: modèle	PAR: livre__n	FORMS: NCMP000 modèles NCMS000 modèle
 
 APERTIUM: monoplace	PAR: livre__n	FORMS: NCMP000 monoplaces NCMS000 monoplace
    OTHER: monoplace	PAR: artiste__n	FORMS: NCCP000 monoplaces NCCS000 monoplace
+
+APERTIUM: monseigneur	PAR: /monseigneur__n	FORMS: NCMP000 messeigneurs NCMS000 monseigneur
+   OTHER: monseigneur	PAR: BBVA__n	FORMS: NCMS000 monseigneur
+   OTHER: monseigneur	PAR: argent__n	FORMS: NCMS000 monseigneur
+   OTHER: monseigneur	PAR: personnel__n	FORMS: NCMS000 monseigneur
 
 APERTIUM: monsieur	PAR: m/onsieur__n	FORMS: NCMP000 messieurs NCMS000 monsieur
    OTHER: monsieur	PAR: BBVA__n	FORMS: NCMS000 monsieur
@@ -1093,14 +1213,11 @@ APERTIUM: motocyclisme	PAR: personnel__n	FORMS: NCMS000 motocyclisme
 APERTIUM: moule	PAR: livre__n	FORMS: NCMP000 moules NCMS000 moule
    OTHER: moule	PAR: artiste__n	FORMS: NCCP000 moules NCCS000 moule
 
-APERTIUM: moustache	PAR: livre__n	FORMS: NCMP000 moustaches NCMS000 moustache
-   OTHER: moustache	PAR: abeille__n	FORMS: NCFP000 moustaches NCFS000 moustache
+APERTIUM: mousse	PAR: abeille__n	FORMS: NCFP000 mousses NCFS000 mousse
+   OTHER: mousse	PAR: artiste__n	FORMS: NCCP000 mousses NCCS000 mousse
 
 APERTIUM: moyen	PAR: livre__n	FORMS: NCMP000 moyens NCMS000 moyen
    OTHER: moyen	PAR: ancien__n	FORMS: NCFP000 moyennes NCFS000 moyenne NCMP000 moyens NCMS000 moyen
-
-APERTIUM: mystique	PAR: abeille__n	FORMS: NCFP000 mystiques NCFS000 mystique
-   OTHER: mystique	PAR: artiste__n	FORMS: NCCP000 mystiques NCCS000 mystique
 
 APERTIUM: méandre	PAR: abeille__n	FORMS: NCFP000 méandres NCFS000 méandre
    OTHER: méandre	PAR: livre__n	FORMS: NCMP000 méandres NCMS000 méandre
@@ -1145,23 +1262,22 @@ APERTIUM: nord-ouest	PAR: artiste__n	FORMS: NCCP000 nord-ouests NCCS000 nord-oue
    OTHER: nord-ouest	PAR: argent__n	FORMS: NCMS000 nord-ouest
    OTHER: nord-ouest	PAR: personnel__n	FORMS: NCMS000 nord-ouest
 
-APERTIUM: noyau	PAR: livre__n	FORMS: NCMP000 noyaus NCMS000 noyau
-   OTHER: noyau	PAR: lieu__n	FORMS: NCMP000 noyaux NCMS000 noyau
-
-APERTIUM: noël	PAR: mois__n	FORMS: NCMN000 noël
-   OTHER: noël	PAR: cie/l__n	FORMS: NCMP000 noëls NCMS000 noël
-   OTHER: noël	PAR: livre__n	FORMS: NCMP000 noëls NCMS000 noël
-   OTHER: noël	PAR: match__n	FORMS: NCMP000 noëls NCMS000 noël
-
 APERTIUM: négatif	PAR: livre__n	FORMS: NCMP000 négatifs NCMS000 négatif
    OTHER: négatif	PAR: jui/f__n	FORMS: NCFP000 négatives NCFS000 négative NCMP000 négatifs NCMS000 négatif
+
+APERTIUM: néo-colonialisme	PAR: livre__n	FORMS: NCMP000 néocolonialismes NCMS000 néocolonialisme
+   OTHER: néo-colonialisme	PAR: livre__n	FORMS: NCMP000 néo-colonialismes NCMS000 néo-colonialisme
+   OTHER: néo-colonialisme	PAR: match__n	FORMS: NCMP000 néo-colonialismes NCMS000 néo-colonialisme
+
+APERTIUM: néo-colonialiste	PAR: artiste__n	FORMS: NCCP000 néocolonialistes NCCS000 néocolonialiste
+   OTHER: néo-colonialiste	PAR: artiste__n	FORMS: NCCP000 néo-colonialistes NCCS000 néo-colonialiste
 
 APERTIUM: occident	PAR: personnel__n	FORMS: NCMS000 occident
    OTHER: occident	PAR: livre__n	FORMS: NCMP000 occidents NCMS000 occident
    OTHER: occident	PAR: match__n	FORMS: NCMP000 occidents NCMS000 occident
 
-APERTIUM: odeur	PAR: livre__n	FORMS: NCMP000 odeurs NCMS000 odeur
-   OTHER: odeur	PAR: abeille__n	FORMS: NCFP000 odeurs NCFS000 odeur
+APERTIUM: ocre	PAR: abeille__n	FORMS: NCFP000 ocres NCFS000 ocre
+   OTHER: ocre	PAR: artiste__n	FORMS: NCCP000 ocres NCCS000 ocre
 
 APERTIUM: office	PAR: livre__n	FORMS: NCMP000 offices NCMS000 office
    OTHER: office	PAR: artiste__n	FORMS: NCCP000 offices NCCS000 office
@@ -1172,8 +1288,8 @@ APERTIUM: olive	PAR: livre__n	FORMS: NCMP000 olives NCMS000 olive
 APERTIUM: ombre	PAR: abeille__n	FORMS: NCFP000 ombres NCFS000 ombre
    OTHER: ombre	PAR: artiste__n	FORMS: NCCP000 ombres NCCS000 ombre
 
-APERTIUM: opposant	PAR: livre__n	FORMS: NCMP000 opposants NCMS000 opposant
-   OTHER: opposant	PAR: affecté__n	FORMS: NCFP000 opposantes NCFS000 opposante NCMP000 opposants NCMS000 opposant
+APERTIUM: omnivore	PAR: livre__n	FORMS: NCMP000 omnivores NCMS000 omnivore
+   OTHER: omnivore	PAR: artiste__n	FORMS: NCCP000 omnivores NCCS000 omnivore
 
 APERTIUM: opérateur	PAR: débit/eur__n	FORMS: NCFP000 opérateuses NCFS000 opérateuse NCMP000 opérateurs NCMS000 opérateur
    OTHER: opérateur	PAR: administrat/eur__n	FORMS: NCFP000 opératrices NCFS000 opératrice NCMP000 opérateurs NCMS000 opérateur
@@ -1188,11 +1304,16 @@ APERTIUM: orient	PAR: personnel__n	FORMS: NCMS000 orient
    OTHER: orient	PAR: livre__n	FORMS: NCMP000 orients NCMS000 orient
    OTHER: orient	PAR: match__n	FORMS: NCMP000 orients NCMS000 orient
 
-APERTIUM: otage	PAR: livre__n	FORMS: NCMP000 otages NCMS000 otage
-   OTHER: otage	PAR: artiste__n	FORMS: NCCP000 otages NCCS000 otage
-
 APERTIUM: oto-rhino	PAR: livre__n	FORMS: NCMP000 oto-rhinos NCMS000 oto-rhino
    OTHER: oto-rhino	PAR: artiste__n	FORMS: NCCP000 oto-rhinos NCCS000 oto-rhino
+
+APERTIUM: outre-mer	PAR: mois__n	FORMS: NCMN000 outre-mer
+   OTHER: outre-mer	PAR: BBVA__n	FORMS: NCMS000 outre-mer
+   OTHER: outre-mer	PAR: argent__n	FORMS: NCMS000 outre-mer
+   OTHER: outre-mer	PAR: personnel__n	FORMS: NCMS000 outre-mer
+
+APERTIUM: ouïghour	PAR: affecté__n	FORMS: NCFP000 ouïghoures NCFS000 ouïghoure NCMP000 ouïghours NCMS000 ouïghour
+   OTHER: ouïghour	PAR: artiste__n	FORMS: NCCP000 ouïghours NCCS000 ouïghour
 
 APERTIUM: ozone	PAR: personnel__n	FORMS: NCMS000 ozone
    OTHER: ozone	PAR: livre__n	FORMS: NCMP000 ozones NCMS000 ozone
@@ -1200,9 +1321,6 @@ APERTIUM: ozone	PAR: personnel__n	FORMS: NCMS000 ozone
 
 APERTIUM: page	PAR: abeille__n	FORMS: NCFP000 pages NCFS000 page
    OTHER: page	PAR: artiste__n	FORMS: NCCP000 pages NCCS000 page
-
-APERTIUM: pakistanais	PAR: pakistanais__n	FORMS: NCFP000 pakistanaises NCFS000 pakistanaise
-   OTHER: pakistanais	PAR: admis__n	FORMS: NCFP000 pakistanaises NCFS000 pakistanaise NCMN000 pakistanais
 
 APERTIUM: palier	PAR: livre__n	FORMS: NCMP000 paliers NCMS000 palier
    OTHER: palier	PAR: bouch/er__n	FORMS: NCFP000 palières NCFS000 palière NCMP000 paliers NCMS000 palier
@@ -1214,8 +1332,12 @@ APERTIUM: panoramique	PAR: abeille__n	FORMS: NCFP000 panoramiques NCFS000 panora
    OTHER: panoramique	PAR: livre__n	FORMS: NCMP000 panoramiques NCMS000 panoramique
    OTHER: panoramique	PAR: match__n	FORMS: NCMP000 panoramiques NCMS000 panoramique
 
+APERTIUM: pantomime	PAR: livre__n	FORMS: NCMP000 pantomimes NCMS000 pantomime
+   OTHER: pantomime	PAR: artiste__n	FORMS: NCCP000 pantomimes NCCS000 pantomime
+
 APERTIUM: pape	PAR: livre__n	FORMS: NCMP000 papes NCMS000 pape
    OTHER: pape	PAR: buffle__n	FORMS: NCFP000 papesses NCFS000 papesse NCMP000 papes NCMS000 pape
+   OTHER: pape	PAR: bêta__n	FORMS: NCFP000 papesses NCFS000 papesse NCMP000 papes NCMS000 pape
    OTHER: pape	PAR: maire__n	FORMS: NCFP000 papesses NCFS000 papesse NCMP000 papes NCMS000 pape
 
 APERTIUM: parachutisme	PAR: personnel__n	FORMS: NCMS000 parachutisme
@@ -1225,18 +1347,14 @@ APERTIUM: parachutisme	PAR: personnel__n	FORMS: NCMS000 parachutisme
 APERTIUM: parallèle	PAR: livre__n	FORMS: NCMP000 parallèles NCMS000 parallèle
    OTHER: parallèle	PAR: artiste__n	FORMS: NCCP000 parallèles NCCS000 parallèle
 
-APERTIUM: parquet	PAR: personnel__n	FORMS: NCMS000 parquet
-   OTHER: parquet	PAR: livre__n	FORMS: NCMP000 parquets NCMS000 parquet
-   OTHER: parquet	PAR: match__n	FORMS: NCMP000 parquets NCMS000 parquet
-
 APERTIUM: part	PAR: abeille__n	FORMS: NCFP000 parts NCFS000 part
    OTHER: part	PAR: artiste__n	FORMS: NCCP000 parts NCCS000 part
 
-APERTIUM: partisan	PAR: chat__n	FORMS: NCFP000 partisantes NCFS000 partisante NCMP000 partisans NCMS000 partisan
-   OTHER: partisan	PAR: affecté__n	FORMS: NCFP000 partisanes NCFS000 partisane NCMP000 partisans NCMS000 partisan
-
 APERTIUM: passation	PAR: livre__n	FORMS: NCMP000 passations NCMS000 passation
    OTHER: passation	PAR: abeille__n	FORMS: NCFP000 passations NCFS000 passation
+
+APERTIUM: passe	PAR: livre__n	FORMS: NCMP000 passes NCMS000 passe
+   OTHER: passe	PAR: artiste__n	FORMS: NCCP000 passes NCCS000 passe
 
 APERTIUM: passé	PAR: livre__n	FORMS: NCMP000 passés NCMS000 passé
    OTHER: passé	PAR: affecté__n	FORMS: NCFP000 passées NCFS000 passée NCMP000 passés NCMS000 passé
@@ -1261,6 +1379,9 @@ APERTIUM: petit-fils	PAR: petit/-fils__n	FORMS: NCFP000 petites-filles NCFS000 p
    OTHER: petit-fils	PAR: argent__n	FORMS: NCMS000 petit-fils
    OTHER: petit-fils	PAR: personnel__n	FORMS: NCMS000 petit-fils
 
+APERTIUM: philo	PAR: soif__n	FORMS: NCFS000 philo
+   OTHER: philo	PAR: abeille__n	FORMS: NCFP000 philos NCFS000 philo
+
 APERTIUM: philologue	PAR: livre__n	FORMS: NCMP000 philologues NCMS000 philologue
    OTHER: philologue	PAR: artiste__n	FORMS: NCCP000 philologues NCCS000 philologue
 
@@ -1272,21 +1393,17 @@ APERTIUM: photocopieur	PAR: livre__n	FORMS: NCMP000 photocopieurs NCMS000 photoc
    OTHER: photocopieur	PAR: débit/eur__n	FORMS: NCFP000 photocopieuses NCFS000 photocopieuse NCMP000 photocopieurs NCMS000 photocopieur
    OTHER: photocopieur	PAR: vende/ur__n	FORMS: NCFP000 photocopieuses NCFS000 photocopieuse NCMP000 photocopieurs NCMS000 photocopieur
 
-APERTIUM: photon	PAR: artiste__n	FORMS: NCCP000 photons NCCS000 photon
-   OTHER: photon	PAR: livre__n	FORMS: NCMP000 photons NCMS000 photon
-   OTHER: photon	PAR: match__n	FORMS: NCMP000 photons NCMS000 photon
-
 APERTIUM: physique	PAR: abeille__n	FORMS: NCFP000 physiques NCFS000 physique
    OTHER: physique	PAR: artiste__n	FORMS: NCCP000 physiques NCCS000 physique
-
-APERTIUM: pigeonneau	PAR: livre__n	FORMS: NCMP000 pigeonneaus NCMS000 pigeonneau
-   OTHER: pigeonneau	PAR: lieu__n	FORMS: NCMP000 pigeonneaux NCMS000 pigeonneau
 
 APERTIUM: pique	PAR: abeille__n	FORMS: NCFP000 piques NCFS000 pique
    OTHER: pique	PAR: artiste__n	FORMS: NCCP000 piques NCCS000 pique
 
 APERTIUM: piqûre	PAR: livre__n	FORMS: NCMP000 piqûres NCMS000 piqûre
    OTHER: piqûre	PAR: abeille__n	FORMS: NCFP000 piqûres NCFS000 piqûre
+
+APERTIUM: piscivore	PAR: livre__n	FORMS: NCMP000 piscivores NCMS000 piscivore
+   OTHER: piscivore	PAR: artiste__n	FORMS: NCCP000 piscivores NCCS000 piscivore
 
 APERTIUM: piédestal	PAR: livre__n	FORMS: NCMP000 piédestals NCMS000 piédestal
    OTHER: piédestal	PAR: anima/l__n	FORMS: NCMP000 piédestaux NCMS000 piédestal
@@ -1298,6 +1415,9 @@ APERTIUM: plancton	PAR: personnel__n	FORMS: NCMS000 plancton
 APERTIUM: plastique	PAR: livre__n	FORMS: NCMP000 plastiques NCMS000 plastique
    OTHER: plastique	PAR: artiste__n	FORMS: NCCP000 plastiques NCCS000 plastique
 
+APERTIUM: plat	PAR: livre__n	FORMS: NCMP000 plats NCMS000 plat
+   OTHER: plat	PAR: affecté__n	FORMS: NCFP000 plates NCFS000 plate NCMP000 plats NCMS000 plat
+
 APERTIUM: plat-bord	PAR: livre__n	FORMS: NCMP000 plat-bords NCMS000 plat-bord
    OTHER: plat-bord	PAR: BBVA__n	FORMS: NCMS000 plat-bord
    OTHER: plat-bord	PAR: argent__n	FORMS: NCMS000 plat-bord
@@ -1306,9 +1426,6 @@ APERTIUM: plat-bord	PAR: livre__n	FORMS: NCMP000 plat-bords NCMS000 plat-bord
 APERTIUM: plate-forme	PAR: abeille__n	FORMS: NCFP000 plate-formes NCFS000 plate-forme
    OTHER: plate-forme	PAR: BBC__n	FORMS: NCFS000 plate-forme
    OTHER: plate-forme	PAR: soif__n	FORMS: NCFS000 plate-forme
-
-APERTIUM: plateau	PAR: livre__n	FORMS: NCMP000 plateaus NCMS000 plateau
-   OTHER: plateau	PAR: lieu__n	FORMS: NCMP000 plateaux NCMS000 plateau
 
 APERTIUM: platine	PAR: livre__n	FORMS: NCMP000 platines NCMS000 platine
    OTHER: platine	PAR: artiste__n	FORMS: NCCP000 platines NCCS000 platine
@@ -1328,6 +1445,12 @@ APERTIUM: pop	PAR: personnel__n	FORMS: NCMS000 pop
 APERTIUM: poste	PAR: livre__n	FORMS: NCMP000 postes NCMS000 poste
    OTHER: poste	PAR: artiste__n	FORMS: NCCP000 postes NCCS000 poste
 
+APERTIUM: poulain	PAR: livre__n	FORMS: NCMP000 poulains NCMS000 poulain
+   OTHER: poulain	PAR: affecté__n	FORMS: NCFP000 poulaines NCFS000 poulaine NCMP000 poulains NCMS000 poulain
+
+APERTIUM: pourpre	PAR: livre__n	FORMS: NCMP000 pourpres NCMS000 pourpre
+   OTHER: pourpre	PAR: artiste__n	FORMS: NCCP000 pourpres NCCS000 pourpre
+
 APERTIUM: poussin	PAR: livre__n	FORMS: NCMP000 poussins NCMS000 poussin
    OTHER: poussin	PAR: affecté__n	FORMS: NCFP000 poussines NCFS000 poussine NCMP000 poussins NCMS000 poussin
 
@@ -1335,7 +1458,7 @@ APERTIUM: poète	PAR: po/ète__n	FORMS: NCFP000 poétesses NCFS000 poétesse NCM
    OTHER: poète	PAR: livre__n	FORMS: NCMP000 poètes NCMS000 poète
    OTHER: poète	PAR: match__n	FORMS: NCMP000 poètes NCMS000 poète
 
-APERTIUM: poêle	PAR: abeille__n	FORMS: NCFP000 poêles NCFS000 poêle
+APERTIUM: poêle	PAR: livre__n	FORMS: NCMP000 poêles NCMS000 poêle
    OTHER: poêle	PAR: artiste__n	FORMS: NCCP000 poêles NCCS000 poêle
 
 APERTIUM: premier	PAR: livre__n	FORMS: NCMP000 premiers NCMS000 premier
@@ -1366,14 +1489,15 @@ APERTIUM: prophète	PAR: po/ète__n	FORMS: NCFP000 prophétesses NCFS000 prophé
    OTHER: prophète	PAR: livre__n	FORMS: NCMP000 prophètes NCMS000 prophète
    OTHER: prophète	PAR: match__n	FORMS: NCMP000 prophètes NCMS000 prophète
 
-APERTIUM: propriétaire	PAR: livre__n	FORMS: NCMP000 propriétaires NCMS000 propriétaire
-   OTHER: propriétaire	PAR: artiste__n	FORMS: NCCP000 propriétaires NCCS000 propriétaire
-
 APERTIUM: prune	PAR: abeille__n	FORMS: NCFP000 prunes NCFS000 prune
    OTHER: prune	PAR: artiste__n	FORMS: NCCP000 prunes NCCS000 prune
 
 APERTIUM: précédent	PAR: livre__n	FORMS: NCMP000 précédents NCMS000 précédent
    OTHER: précédent	PAR: affecté__n	FORMS: NCFP000 précédentes NCFS000 précédente NCMP000 précédents NCMS000 précédent
+
+APERTIUM: prédécesseur	PAR: affecté__n	FORMS: NCFP000 prédécesseures NCFS000 prédécesseure NCMP000 prédécesseurs NCMS000 prédécesseur
+   OTHER: prédécesseur	PAR: livre__n	FORMS: NCMP000 prédécesseurs NCMS000 prédécesseur
+   OTHER: prédécesseur	PAR: match__n	FORMS: NCMP000 prédécesseurs NCMS000 prédécesseur
 
 APERTIUM: présent	PAR: livre__n	FORMS: NCMP000 présents NCMS000 présent
    OTHER: présent	PAR: affecté__n	FORMS: NCFP000 présentes NCFS000 présente NCMP000 présents NCMS000 présent
@@ -1386,14 +1510,8 @@ APERTIUM: prêt-à-porter	PAR: mois__n	FORMS: NCMN000 prêt-à-porter
 APERTIUM: pub	PAR: livre__n	FORMS: NCMP000 pubs NCMS000 pub
    OTHER: pub	PAR: artiste__n	FORMS: NCCP000 pubs NCCS000 pub
 
-APERTIUM: publiciste	PAR: livre__n	FORMS: NCMP000 publicistes NCMS000 publiciste
-   OTHER: publiciste	PAR: artiste__n	FORMS: NCCP000 publicistes NCCS000 publiciste
-
 APERTIUM: punk	PAR: ex__n	FORMS: NCCN000 punk
    OTHER: punk	PAR: artiste__n	FORMS: NCCP000 punks NCCS000 punk
-
-APERTIUM: pupille	PAR: abeille__n	FORMS: NCFP000 pupilles NCFS000 pupille
-   OTHER: pupille	PAR: artiste__n	FORMS: NCCP000 pupilles NCCS000 pupille
 
 APERTIUM: pyromane	PAR: livre__n	FORMS: NCMP000 pyromanes NCMS000 pyromane
    OTHER: pyromane	PAR: artiste__n	FORMS: NCCP000 pyromanes NCCS000 pyromane
@@ -1404,11 +1522,19 @@ APERTIUM: pédagogue	PAR: livre__n	FORMS: NCMP000 pédagogues NCMS000 pédagogue
 APERTIUM: pédale	PAR: livre__n	FORMS: NCMP000 pédales NCMS000 pédale
    OTHER: pédale	PAR: abeille__n	FORMS: NCFP000 pédales NCFS000 pédale
 
+APERTIUM: pérestroïka	PAR: abeille__n	FORMS: NCFP000 pérestroïkas NCFS000 pérestroïka
+   OTHER: pérestroïka	PAR: BBC__n	FORMS: NCFS000 pérestroïka
+   OTHER: pérestroïka	PAR: soif__n	FORMS: NCFS000 pérestroïka
+
 APERTIUM: période	PAR: abeille__n	FORMS: NCFP000 périodes NCFS000 période
    OTHER: période	PAR: artiste__n	FORMS: NCCP000 périodes NCCS000 période
 
 APERTIUM: pétrolier	PAR: livre__n	FORMS: NCMP000 pétroliers NCMS000 pétrolier
    OTHER: pétrolier	PAR: bouch/er__n	FORMS: NCFP000 pétrolières NCFS000 pétrolière NCMP000 pétroliers NCMS000 pétrolier
+
+APERTIUM: quaker	PAR: clown__n	FORMS: NCFP000 quakeresses NCFS000 quakeresse NCMP000 quakers NCMS000 quaker
+   OTHER: quaker	PAR: livre__n	FORMS: NCMP000 quakers NCMS000 quaker
+   OTHER: quaker	PAR: match__n	FORMS: NCMP000 quakers NCMS000 quaker
 
 APERTIUM: quart	PAR: livre__n	FORMS: NCMP000 quarts NCMS000 quart
    OTHER: quart	PAR: affecté__n	FORMS: NCFP000 quartes NCFS000 quarte NCMP000 quarts NCMS000 quart
@@ -1426,8 +1552,12 @@ APERTIUM: rapprochement	PAR: abeille__n	FORMS: NCFP000 rapprochements NCFS000 ra
 APERTIUM: rat	PAR: livre__n	FORMS: NCMP000 rats NCMS000 rat
    OTHER: rat	PAR: affecté__n	FORMS: NCFP000 rates NCFS000 rate NCMP000 rats NCMS000 rat
 
+APERTIUM: ravin	PAR: livre__n	FORMS: NCMP000 ravins NCMS000 ravin
+   OTHER: ravin	PAR: affecté__n	FORMS: NCFP000 ravines NCFS000 ravine NCMP000 ravins NCMS000 ravin
+
 APERTIUM: raz-de-marée	PAR: livre__n	FORMS: NCMP000 raz-de-marées NCMS000 raz-de-marée
    OTHER: raz-de-marée	PAR: IRPF__n	FORMS: NCMN000 raz-de-marée
+   OTHER: raz-de-marée	PAR: graffiti__n	FORMS: NCMN000 raz-de-marée
    OTHER: raz-de-marée	PAR: mois__n	FORMS: NCMN000 raz-de-marée
 
 APERTIUM: rejeton	PAR: livre__n	FORMS: NCMP000 rejetons NCMS000 rejeton
@@ -1436,7 +1566,7 @@ APERTIUM: rejeton	PAR: livre__n	FORMS: NCMP000 rejetons NCMS000 rejeton
 APERTIUM: renard	PAR: livre__n	FORMS: NCMP000 renards NCMS000 renard
    OTHER: renard	PAR: affecté__n	FORMS: NCFP000 renardes NCFS000 renarde NCMP000 renards NCMS000 renard
 
-APERTIUM: reporter	PAR: livre__n	FORMS: NCMP000 reporters NCMS000 reporter
+APERTIUM: reporter	PAR: bouch/er__n	FORMS: NCFP000 reportères NCFS000 reportère NCMP000 reporters NCMS000 reporter
    OTHER: reporter	PAR: artiste__n	FORMS: NCCP000 reporters NCCS000 reporter
 
 APERTIUM: retrait	PAR: livre__n	FORMS: NCMP000 retraits NCMS000 retrait
@@ -1456,9 +1586,6 @@ APERTIUM: roi	PAR: r/oi__n	FORMS: NCFP000 reines NCFS000 reine NCMP000 rois NCMS
    OTHER: roi	PAR: livre__n	FORMS: NCMP000 rois NCMS000 roi
    OTHER: roi	PAR: match__n	FORMS: NCMP000 rois NCMS000 roi
 
-APERTIUM: romain	PAR: livre__n	FORMS: NCMP000 romains NCMS000 romain
-   OTHER: romain	PAR: affecté__n	FORMS: NCFP000 romaines NCFS000 romaine NCMP000 romains NCMS000 romain
-
 APERTIUM: rond	PAR: livre__n	FORMS: NCMP000 ronds NCMS000 rond
    OTHER: rond	PAR: affecté__n	FORMS: NCFP000 rondes NCFS000 ronde NCMP000 ronds NCMS000 rond
 
@@ -1471,39 +1598,84 @@ APERTIUM: rosier	PAR: livre__n	FORMS: NCMP000 rosiers NCMS000 rosier
 APERTIUM: rouge	PAR: livre__n	FORMS: NCMP000 rouges NCMS000 rouge
    OTHER: rouge	PAR: artiste__n	FORMS: NCCP000 rouges NCCS000 rouge
 
+APERTIUM: rouille	PAR: abeille__n	FORMS: NCFP000 rouilles NCFS000 rouille
+   OTHER: rouille	PAR: artiste__n	FORMS: NCCP000 rouilles NCCS000 rouille
+
 APERTIUM: rugby	PAR: personnel__n	FORMS: NCMS000 rugby
+   OTHER: rugby	PAR: brand/y__n	FORMS: NCMP000 rugbys NCMS000 rugby
    OTHER: rugby	PAR: livre__n	FORMS: NCMP000 rugbys NCMS000 rugby
    OTHER: rugby	PAR: match__n	FORMS: NCMP000 rugbys NCMS000 rugby
-
-APERTIUM: rumeur	PAR: livre__n	FORMS: NCMP000 rumeurs NCMS000 rumeur
-   OTHER: rumeur	PAR: abeille__n	FORMS: NCFP000 rumeurs NCFS000 rumeur
-
-APERTIUM: réaction	PAR: livre__n	FORMS: NCMP000 réactions NCMS000 réaction
-   OTHER: réaction	PAR: abeille__n	FORMS: NCFP000 réactions NCFS000 réaction
 
 APERTIUM: récepteur	PAR: livre__n	FORMS: NCMP000 récepteurs NCMS000 récepteur
    OTHER: récepteur	PAR: administrat/eur__n	FORMS: NCFP000 réceptrices NCFS000 réceptrice NCMP000 récepteurs NCMS000 récepteur
 
-APERTIUM: réussite	PAR: livre__n	FORMS: NCMP000 réussites NCMS000 réussite
-   OTHER: réussite	PAR: abeille__n	FORMS: NCFP000 réussites NCFS000 réussite
+APERTIUM: sacristain	PAR: affecté__n	FORMS: NCFP000 sacristaines NCFS000 sacristaine NCMP000 sacristains NCMS000 sacristain
+   OTHER: sacristain	PAR: livre__n	FORMS: NCMP000 sacristains NCMS000 sacristain
+   OTHER: sacristain	PAR: match__n	FORMS: NCMP000 sacristains NCMS000 sacristain
+
+APERTIUM: sacré	PAR: livre__n	FORMS: NCMP000 sacrés NCMS000 sacré
+   OTHER: sacré	PAR: BBVA__n	FORMS: NCMS000 sacré
+   OTHER: sacré	PAR: argent__n	FORMS: NCMS000 sacré
+   OTHER: sacré	PAR: personnel__n	FORMS: NCMS000 sacré
+
+APERTIUM: salaud	PAR: affecté__n	FORMS: NCFP000 salaudes NCFS000 salaude NCMP000 salauds NCMS000 salaud
+   OTHER: salaud	PAR: livre__n	FORMS: NCMP000 salauds NCMS000 salaud
+   OTHER: salaud	PAR: match__n	FORMS: NCMP000 salauds NCMS000 salaud
+
+APERTIUM: sapeur-pompier	PAR: abords__n	FORMS: NCMP000 sapeurs-pompiers
+   OTHER: sapeur-pompier	PAR: BBVA__n	FORMS: NCMS000 sapeur-pompier
+   OTHER: sapeur-pompier	PAR: argent__n	FORMS: NCMS000 sapeur-pompier
+   OTHER: sapeur-pompier	PAR: personnel__n	FORMS: NCMS000 sapeur-pompier
 
 APERTIUM: sceau	PAR: eau__n	FORMS: NCFP000 sceaux NCFS000 sceau
    OTHER: sceau	PAR: lieu__n	FORMS: NCMP000 sceaux NCMS000 sceau
 
+APERTIUM: scolastique	PAR: livre__n	FORMS: NCMP000 scolastiques NCMS000 scolastique
+   OTHER: scolastique	PAR: artiste__n	FORMS: NCCP000 scolastiques NCCS000 scolastique
+
+APERTIUM: secret	PAR: livre__n	FORMS: NCMP000 secrets NCMS000 secret
+   OTHER: secret	PAR: préf/et__n	FORMS: NCFP000 secrètes NCFS000 secrète NCMP000 secrets NCMS000 secret
+
+APERTIUM: semi-remorque	PAR: livre__n	FORMS: NCMP000 semi-remorques NCMS000 semi-remorque
+   OTHER: semi-remorque	PAR: artiste__n	FORMS: NCCP000 semi-remorques NCCS000 semi-remorque
+
+APERTIUM: septum	PAR: latifundi/um__n	FORMS: NCMP000 septums NCMS000 septum
+   OTHER: septum	PAR: BBVA__n	FORMS: NCMS000 septum
+   OTHER: septum	PAR: argent__n	FORMS: NCMS000 septum
+   OTHER: septum	PAR: personnel__n	FORMS: NCMS000 septum
+
+APERTIUM: serf	PAR: jui/f__n	FORMS: NCFP000 serves NCFS000 serve NCMP000 serfs NCMS000 serf
+   OTHER: serf	PAR: livre__n	FORMS: NCMP000 serfs NCMS000 serf
+   OTHER: serf	PAR: match__n	FORMS: NCMP000 serfs NCMS000 serf
+
 APERTIUM: sergent	PAR: livre__n	FORMS: NCMP000 sergents NCMS000 sergent
    OTHER: sergent	PAR: affecté__n	FORMS: NCFP000 sergentes NCFS000 sergente NCMP000 sergents NCMS000 sergent
+
+APERTIUM: serpentin	PAR: livre__n	FORMS: NCMP000 serpentins NCMS000 serpentin
+   OTHER: serpentin	PAR: affecté__n	FORMS: NCFP000 serpentines NCFS000 serpentine NCMP000 serpentins NCMS000 serpentin
 
 APERTIUM: serviteur	PAR: serv/iteur__n	FORMS: NCFP000 servantes NCFS000 servante NCMP000 serviteurs NCMS000 serviteur
    OTHER: serviteur	PAR: livre__n	FORMS: NCMP000 serviteurs NCMS000 serviteur
    OTHER: serviteur	PAR: match__n	FORMS: NCMP000 serviteurs NCMS000 serviteur
+
+APERTIUM: sgraffite	PAR: livre__n	FORMS: NCMP000 sgraffites NCMS000 sgraffite
+   OTHER: sgraffite	PAR: artiste__n	FORMS: NCCP000 sgraffites NCCS000 sgraffite
 
 APERTIUM: sida	PAR: livre__n	FORMS: NCMP000 sidas NCMS000 sida
    OTHER: sida	PAR: BBVA__n	FORMS: NCMS000 sida
    OTHER: sida	PAR: argent__n	FORMS: NCMS000 sida
    OTHER: sida	PAR: personnel__n	FORMS: NCMS000 sida
 
+APERTIUM: silicone	PAR: livre__n	FORMS: NCMP000 silicones NCMS000 silicone
+   OTHER: silicone	PAR: artiste__n	FORMS: NCCP000 silicones NCCS000 silicone
+
 APERTIUM: skipper	PAR: livre__n	FORMS: NCMP000 skippers NCMS000 skipper
    OTHER: skipper	PAR: artiste__n	FORMS: NCCP000 skippers NCCS000 skipper
+
+APERTIUM: social-démocrate	PAR: soci/al-démocrate__n	FORMS: NCFP000 sociales-démocrates NCFS000 sociale-démocrate NCMP000 sociaux-démocrates NCMS000 social-démocrate
+   OTHER: social-démocrate	PAR: BBVA__n	FORMS: NCMS000 social-démocrate
+   OTHER: social-démocrate	PAR: argent__n	FORMS: NCMS000 social-démocrate
+   OTHER: social-démocrate	PAR: personnel__n	FORMS: NCMS000 social-démocrate
 
 APERTIUM: soif	PAR: soif__n	FORMS: NCFS000 soif
    OTHER: soif	PAR: abeille__n	FORMS: NCFP000 soifs NCFS000 soif
@@ -1524,11 +1696,9 @@ APERTIUM: somme	PAR: abeille__n	FORMS: NCFP000 sommes NCFS000 somme
 APERTIUM: soufflé	PAR: livre__n	FORMS: NCMP000 soufflés NCMS000 soufflé
    OTHER: soufflé	PAR: affecté__n	FORMS: NCFP000 soufflées NCFS000 soufflée NCMP000 soufflés NCMS000 soufflé
 
-APERTIUM: sous-lieutenant	PAR: livre__n	FORMS: NCMP000 sous-lieutenants NCMS000 sous-lieutenant
-   OTHER: sous-lieutenant	PAR: affecté__n	FORMS: NCFP000 sous-lieutenantes NCFS000 sous-lieutenante NCMP000 sous-lieutenants NCMS000 sous-lieutenant
-
-APERTIUM: stabilisation	PAR: livre__n	FORMS: NCMP000 stabilisations NCMS000 stabilisation
-   OTHER: stabilisation	PAR: abeille__n	FORMS: NCFP000 stabilisations NCFS000 stabilisation
+APERTIUM: sous-gouverneur	PAR: affecté__n	FORMS: NCFP000 sous-gouverneures NCFS000 sous-gouverneure NCMP000 sous-gouverneurs NCMS000 sous-gouverneur
+   OTHER: sous-gouverneur	PAR: livre__n	FORMS: NCMP000 sous-gouverneurs NCMS000 sous-gouverneur
+   OTHER: sous-gouverneur	PAR: match__n	FORMS: NCMP000 sous-gouverneurs NCMS000 sous-gouverneur
 
 APERTIUM: station-service	PAR: abeille__n	FORMS: NCFP000 station-services NCFS000 station-service
    OTHER: station-service	PAR: BBC__n	FORMS: NCFS000 station-service
@@ -1542,20 +1712,40 @@ APERTIUM: successeur	PAR: causeu/r__n	FORMS: NCFP000 successeuses NCFS000 succes
    OTHER: successeur	PAR: livre__n	FORMS: NCMP000 successeurs NCMS000 successeur
    OTHER: successeur	PAR: match__n	FORMS: NCMP000 successeurs NCMS000 successeur
 
+APERTIUM: sucrier	PAR: livre__n	FORMS: NCMP000 sucriers NCMS000 sucrier
+   OTHER: sucrier	PAR: bouch/er__n	FORMS: NCFP000 sucrières NCFS000 sucrière NCMP000 sucriers NCMS000 sucrier
+
 APERTIUM: sujet	PAR: livre__n	FORMS: NCMP000 sujets NCMS000 sujet
    OTHER: sujet	PAR: chat__n	FORMS: NCFP000 sujettes NCFS000 sujette NCMP000 sujets NCMS000 sujet
 
-APERTIUM: superviseur	PAR: livre__n	FORMS: NCMP000 superviseurs NCMS000 superviseur
-   OTHER: superviseur	PAR: causeu/r__n	FORMS: NCFP000 superviseuses NCFS000 superviseuse NCMP000 superviseurs NCMS000 superviseur
-   OTHER: superviseur	PAR: débit/eur__n	FORMS: NCFP000 superviseuses NCFS000 superviseuse NCMP000 superviseurs NCMS000 superviseur
-   OTHER: superviseur	PAR: vende/ur__n	FORMS: NCFP000 superviseuses NCFS000 superviseuse NCMP000 superviseurs NCMS000 superviseur
+APERTIUM: super-héros	PAR: héro/s__n	FORMS: NCFP000 super-héroïnes NCFS000 super-héroïne NCMN000 super-héros
+   OTHER: super-héros	PAR: IRPF__n	FORMS: NCMN000 super-héros
+   OTHER: super-héros	PAR: graffiti__n	FORMS: NCMN000 super-héros
+   OTHER: super-héros	PAR: mois__n	FORMS: NCMN000 super-héros
+
+APERTIUM: supporter	PAR: support/er__n	FORMS: NCFP000 supportrices NCFS000 supportrice NCMP000 supporters NCMS000 supporter
+   OTHER: supporter	PAR: artiste__n	FORMS: NCCP000 supporters NCCS000 supporter
 
 APERTIUM: sursis	PAR: livre__n	FORMS: NCMP000 sursiss NCMS000 sursis
    OTHER: sursis	PAR: IRPF__n	FORMS: NCMN000 sursis
+   OTHER: sursis	PAR: graffiti__n	FORMS: NCMN000 sursis
    OTHER: sursis	PAR: mois__n	FORMS: NCMN000 sursis
 
 APERTIUM: suspense	PAR: livre__n	FORMS: NCMP000 suspenses NCMS000 suspense
    OTHER: suspense	PAR: artiste__n	FORMS: NCCP000 suspenses NCCS000 suspense
+
+APERTIUM: syndic	PAR: tur/c__n	FORMS: NCFP000 syndiques NCFS000 syndique NCMP000 syndics NCMS000 syndic
+   OTHER: syndic	PAR: livre__n	FORMS: NCMP000 syndics NCMS000 syndic
+   OTHER: syndic	PAR: match__n	FORMS: NCMP000 syndics NCMS000 syndic
+
+APERTIUM: syphilis	PAR: soif__n	FORMS: NCFS000 syphilis
+   OTHER: syphilis	PAR: OPA__n	FORMS: NCFN000 syphilis
+   OTHER: syphilis	PAR: fois__n	FORMS: NCFN000 syphilis
+
+APERTIUM: sécheur	PAR: livre__n	FORMS: NCMP000 sécheurs NCMS000 sécheur
+   OTHER: sécheur	PAR: causeu/r__n	FORMS: NCFP000 sécheuses NCFS000 sécheuse NCMP000 sécheurs NCMS000 sécheur
+   OTHER: sécheur	PAR: débit/eur__n	FORMS: NCFP000 sécheuses NCFS000 sécheuse NCMP000 sécheurs NCMS000 sécheur
+   OTHER: sécheur	PAR: vende/ur__n	FORMS: NCFP000 sécheuses NCFS000 sécheuse NCMP000 sécheurs NCMS000 sécheur
 
 APERTIUM: séisme	PAR: abeille__n	FORMS: NCFP000 séismes NCFS000 séisme
    OTHER: séisme	PAR: livre__n	FORMS: NCMP000 séismes NCMS000 séisme
@@ -1563,14 +1753,6 @@ APERTIUM: séisme	PAR: abeille__n	FORMS: NCFP000 séismes NCFS000 séisme
 
 APERTIUM: sénateur	PAR: livre__n	FORMS: NCMP000 sénateurs NCMS000 sénateur
    OTHER: sénateur	PAR: administrat/eur__n	FORMS: NCFP000 sénatrices NCFS000 sénatrice NCMP000 sénateurs NCMS000 sénateur
-
-APERTIUM: tableau	PAR: livre__n	FORMS: NCMP000 tableaus NCMS000 tableau
-   OTHER: tableau	PAR: lieu__n	FORMS: NCMP000 tableaux NCMS000 tableau
-
-APERTIUM: tailleur	PAR: livre__n	FORMS: NCMP000 tailleurs NCMS000 tailleur
-   OTHER: tailleur	PAR: causeu/r__n	FORMS: NCFP000 tailleuses NCFS000 tailleuse NCMP000 tailleurs NCMS000 tailleur
-   OTHER: tailleur	PAR: débit/eur__n	FORMS: NCFP000 tailleuses NCFS000 tailleuse NCMP000 tailleurs NCMS000 tailleur
-   OTHER: tailleur	PAR: vende/ur__n	FORMS: NCFP000 tailleuses NCFS000 tailleuse NCMP000 tailleurs NCMS000 tailleur
 
 APERTIUM: taliban	PAR: ancien__n	FORMS: NCFP000 talibannes NCFS000 talibanne NCMP000 talibans NCMS000 taliban
    OTHER: taliban	PAR: affecté__n	FORMS: NCFP000 talibanes NCFS000 talibane NCMP000 talibans NCMS000 taliban
@@ -1588,10 +1770,6 @@ APERTIUM: terminal	PAR: anima/l__n	FORMS: NCMP000 terminaux NCMS000 terminal
 APERTIUM: thermos	PAR: mois__n	FORMS: NCMN000 thermos
    OTHER: thermos	PAR: ATS__n	FORMS: NCCN000 thermos
    OTHER: thermos	PAR: ex__n	FORMS: NCCN000 thermos
-
-APERTIUM: tigre	PAR: livre__n	FORMS: NCMP000 tigres NCMS000 tigre
-   OTHER: tigre	PAR: buffle__n	FORMS: NCFP000 tigresses NCFS000 tigresse NCMP000 tigres NCMS000 tigre
-   OTHER: tigre	PAR: maire__n	FORMS: NCFP000 tigresses NCFS000 tigresse NCMP000 tigres NCMS000 tigre
 
 APERTIUM: tirelire	PAR: livre__n	FORMS: NCMP000 tirelires NCMS000 tirelire
    OTHER: tirelire	PAR: abeille__n	FORMS: NCFP000 tirelires NCFS000 tirelire
@@ -1614,6 +1792,9 @@ APERTIUM: transporteur	PAR: livre__n	FORMS: NCMP000 transporteurs NCMS000 transp
    OTHER: transporteur	PAR: débit/eur__n	FORMS: NCFP000 transporteuses NCFS000 transporteuse NCMP000 transporteurs NCMS000 transporteur
    OTHER: transporteur	PAR: vende/ur__n	FORMS: NCFP000 transporteuses NCFS000 transporteuse NCMP000 transporteurs NCMS000 transporteur
 
+APERTIUM: travers	PAR: mois__n	FORMS: NCMN000 travers
+   OTHER: travers	PAR: admis__n	FORMS: NCFP000 traverses NCFS000 traverse NCMN000 travers
+
 APERTIUM: traître	PAR: buffle__n	FORMS: NCFP000 traîtresses NCFS000 traîtresse NCMP000 traîtres NCMS000 traître
    OTHER: traître	PAR: artiste__n	FORMS: NCCP000 traîtres NCCS000 traître
 
@@ -1623,6 +1804,14 @@ APERTIUM: trekking	PAR: personnel__n	FORMS: NCMS000 trekking
 
 APERTIUM: trompette	PAR: abeille__n	FORMS: NCFP000 trompettes NCFS000 trompette
    OTHER: trompette	PAR: artiste__n	FORMS: NCCP000 trompettes NCCS000 trompette
+
+APERTIUM: troubadour	PAR: clown__n	FORMS: NCFP000 troubadouresses NCFS000 troubadouresse NCMP000 troubadours NCMS000 troubadour
+   OTHER: troubadour	PAR: livre__n	FORMS: NCMP000 troubadours NCMS000 troubadour
+   OTHER: troubadour	PAR: match__n	FORMS: NCMP000 troubadours NCMS000 troubadour
+
+APERTIUM: témoin	PAR: artiste__n	FORMS: NCCP000 témoins NCCS000 témoin
+   OTHER: témoin	PAR: livre__n	FORMS: NCMP000 témoins NCMS000 témoin
+   OTHER: témoin	PAR: match__n	FORMS: NCMP000 témoins NCMS000 témoin
 
 APERTIUM: urgence	PAR: livre__n	FORMS: NCMP000 urgences NCMS000 urgence
    OTHER: urgence	PAR: abeille__n	FORMS: NCFP000 urgences NCFS000 urgence
@@ -1649,13 +1838,17 @@ APERTIUM: vase	PAR: livre__n	FORMS: NCMP000 vases NCMS000 vase
 APERTIUM: vert	PAR: livre__n	FORMS: NCMP000 verts NCMS000 vert
    OTHER: vert	PAR: affecté__n	FORMS: NCFP000 vertes NCFS000 verte NCMP000 verts NCMS000 vert
 
-APERTIUM: veto	PAR: personnel__n	FORMS: NCMS000 veto
-   OTHER: veto	PAR: IRPF__n	FORMS: NCMN000 veto
-   OTHER: veto	PAR: mois__n	FORMS: NCMN000 veto
+APERTIUM: vice-roi	PAR: r/oi__n	FORMS: NCFP000 vice-reines NCFS000 vice-reine NCMP000 vice-rois NCMS000 vice-roi
+   OTHER: vice-roi	PAR: livre__n	FORMS: NCMP000 vice-rois NCMS000 vice-roi
+   OTHER: vice-roi	PAR: match__n	FORMS: NCMP000 vice-rois NCMS000 vice-roi
 
 APERTIUM: vicomte	PAR: livre__n	FORMS: NCMP000 vicomtes NCMS000 vicomte
    OTHER: vicomte	PAR: buffle__n	FORMS: NCFP000 vicomtesses NCFS000 vicomtesse NCMP000 vicomtes NCMS000 vicomte
+   OTHER: vicomte	PAR: bêta__n	FORMS: NCFP000 vicomtesses NCFS000 vicomtesse NCMP000 vicomtes NCMS000 vicomte
    OTHER: vicomte	PAR: maire__n	FORMS: NCFP000 vicomtesses NCFS000 vicomtesse NCMP000 vicomtes NCMS000 vicomte
+
+APERTIUM: vicomté	PAR: livre__n	FORMS: NCMP000 vicomtés NCMS000 vicomté
+   OTHER: vicomté	PAR: abeille__n	FORMS: NCFP000 vicomtés NCFS000 vicomté
 
 APERTIUM: vidéo	PAR: livre__n	FORMS: NCMP000 vidéos NCMS000 vidéo
    OTHER: vidéo	PAR: abeille__n	FORMS: NCFP000 vidéos NCFS000 vidéo
@@ -1666,22 +1859,17 @@ APERTIUM: vieillard	PAR: livre__n	FORMS: NCMP000 vieillards NCMS000 vieillard
 APERTIUM: vigile	PAR: livre__n	FORMS: NCMP000 vigiles NCMS000 vigile
    OTHER: vigile	PAR: artiste__n	FORMS: NCCP000 vigiles NCCS000 vigile
 
-APERTIUM: vigueur	PAR: livre__n	FORMS: NCMP000 vigueurs NCMS000 vigueur
-   OTHER: vigueur	PAR: abeille__n	FORMS: NCFP000 vigueurs NCFS000 vigueur
-
 APERTIUM: violet	PAR: livre__n	FORMS: NCMP000 violets NCMS000 violet
    OTHER: violet	PAR: chat__n	FORMS: NCFP000 violettes NCFS000 violette NCMP000 violets NCMS000 violet
 
 APERTIUM: viticulteur	PAR: débit/eur__n	FORMS: NCFP000 viticulteuses NCFS000 viticulteuse NCMP000 viticulteurs NCMS000 viticulteur
    OTHER: viticulteur	PAR: administrat/eur__n	FORMS: NCFP000 viticultrices NCFS000 viticultrice NCMP000 viticulteurs NCMS000 viticulteur
 
-APERTIUM: vitre	PAR: livre__n	FORMS: NCMP000 vitres NCMS000 vitre
-   OTHER: vitre	PAR: abeille__n	FORMS: NCFP000 vitres NCFS000 vitre
-
 APERTIUM: voile	PAR: livre__n	FORMS: NCMP000 voiles NCMS000 voile
    OTHER: voile	PAR: artiste__n	FORMS: NCCP000 voiles NCCS000 voile
 
 APERTIUM: volley	PAR: personnel__n	FORMS: NCMS000 volley
+   OTHER: volley	PAR: brand/y__n	FORMS: NCMP000 volleys NCMS000 volley
    OTHER: volley	PAR: livre__n	FORMS: NCMP000 volleys NCMS000 volley
    OTHER: volley	PAR: match__n	FORMS: NCMP000 volleys NCMS000 volley
 
@@ -1711,6 +1899,9 @@ APERTIUM: éboueur	PAR: livre__n	FORMS: NCMP000 éboueurs NCMS000 éboueur
 APERTIUM: écarlate	PAR: abeille__n	FORMS: NCFP000 écarlates NCFS000 écarlate
    OTHER: écarlate	PAR: artiste__n	FORMS: NCCP000 écarlates NCCS000 écarlate
 
+APERTIUM: écuyer	PAR: livre__n	FORMS: NCMP000 écuyers NCMS000 écuyer
+   OTHER: écuyer	PAR: bouch/er__n	FORMS: NCFP000 écuyères NCFS000 écuyère NCMP000 écuyers NCMS000 écuyer
+
 APERTIUM: émeraude	PAR: abeille__n	FORMS: NCFP000 émeraudes NCFS000 émeraude
    OTHER: émeraude	PAR: artiste__n	FORMS: NCCP000 émeraudes NCCS000 émeraude
 
@@ -1722,40 +1913,62 @@ APERTIUM: épilateur	PAR: livre__n	FORMS: NCMP000 épilateurs NCMS000 épilateur
 
 APERTIUM: époux	PAR: épou/x__n	FORMS: NCFP000 épouses NCFS000 épouse NCMN000 époux
    OTHER: époux	PAR: IRPF__n	FORMS: NCMN000 époux
+   OTHER: époux	PAR: graffiti__n	FORMS: NCMN000 époux
    OTHER: époux	PAR: mois__n	FORMS: NCMN000 époux
 
 APERTIUM: évêque	PAR: livre__n	FORMS: NCMP000 évêques NCMS000 évêque
    OTHER: évêque	PAR: artiste__n	FORMS: NCCP000 évêques NCCS000 évêque
 
+APERTIUM: œuvre	PAR: abeille__n	FORMS: NCFP000 œuvres NCFS000 œuvre
+   OTHER: œuvre	PAR: artiste__n	FORMS: NCCP000 œuvres NCCS000 œuvre
+
 APERTIUM: F	PAR: mois__n	FORMS: NCMN000 F
    OTHER: F	PAR: ??????????????	FORMS: NCMN000 EF NCMN000 F NCMN000 GF NCMN000 MF NCMN000 PF NCMN000 TF NCMN000 YF NCMN000 ZF NCMN000 aF NCMN000 cF NCMN000 dF NCMN000 daF NCMN000 fF NCMN000 hF NCMN000 kF NCMN000 mF NCMN000 nF NCMN000 pF NCMN000 yF NCMN000 zF NCMN000 µF
+
+APERTIUM: Hz	PAR: mois__n	FORMS: NCMN000 Hz
+   OTHER: Hz	PAR: ??????????????	FORMS: NCMN000 EHz NCMN000 GHz NCMN000 Hz NCMN000 MHz NCMN000 PHz NCMN000 THz NCMN000 YHz NCMN000 ZHz NCMN000 aHz NCMN000 cHz NCMN000 dHz NCMN000 daHz NCMN000 fHz NCMN000 hHz NCMN000 kHz NCMN000 mHz NCMN000 nHz NCMN000 pHz NCMN000 yHz NCMN000 zHz NCMN000 µHz
 
 APERTIUM: addenda	PAR: livre__n	FORMS: NCMP000 addendas NCMS000 addenda
    OTHER: addenda	PAR: ??????????????	FORMS: NCMN000 addenda NCMP000 addendas NCMS000 addenda
 
-APERTIUM: agneau	PAR: livre__n	FORMS: NCMP000 agneaus NCMS000 agneau
+APERTIUM: agneau	PAR: lieu__n	FORMS: NCMP000 agneaux NCMS000 agneau
    OTHER: agneau	PAR: ??????????????	FORMS: NCFP000 agnelles NCFS000 agnelle NCMP000 agneaux NCMS000 agneau
+
+APERTIUM: alpha	PAR: livre__n	FORMS: NCMP000 alphas NCMS000 alpha
+   OTHER: alpha	PAR: ??????????????	FORMS: NCMN000 alpha NCMP000 alphas NCMS000 alpha
+
+APERTIUM: ampère	PAR: livre__n	FORMS: NCMP000 ampères NCMS000 ampère
+   OTHER: ampère	PAR: ??????????????	FORMS: NCMP000 ampères NCMP000 attoampères NCMP000 centiampères NCMP000 décaampères NCMP000 déciampères NCMP000 exaampères NCMP000 femtoampères NCMP000 gigaampères NCMP000 hectoampères NCMP000 kiloampères NCMP000 microampères NCMP000 milliampères NCMP000 mégaampères NCMP000 nanoampères NCMP000 petaampères NCMP000 picoampères NCMP000 pétaampères NCMP000 téraampères NCMP000 yoctoampères NCMP000 yottaampères NCMP000 zeptoampères NCMP000 zettaampères NCMS000 ampère NCMS000 attoampère NCMS000 centiampère NCMS000 décaampère NCMS000 déciampère NCMS000 exaampère NCMS000 femtoampère NCMS000 gigaampère NCMS000 hectoampère NCMS000 kiloampère NCMS000 microampère NCMS000 milliampère NCMS000 mégaampère NCMS000 nanoampère NCMS000 petaampère NCMS000 picoampère NCMS000 pétaampère NCMS000 téraampère NCMS000 yoctoampère NCMS000 yottaampère NCMS000 zeptoampère NCMS000 zettaampère
 
 APERTIUM: amuse-gueule	PAR: livre__n	FORMS: NCMP000 amuse-gueules NCMS000 amuse-gueule
    OTHER: amuse-gueule	PAR: ??????????????	FORMS: NCMN000 amuse-gueule NCMP000 amuse-gueules NCMS000 amuse-gueule
 
-APERTIUM: après-midi	PAR: mois__n	FORMS: NCMN000 après-midi
+APERTIUM: après-midi	PAR: livre__n	FORMS: NCMP000 après-midis NCMS000 après-midi
    OTHER: après-midi	PAR: ??????????????	FORMS: NCCN000 après-midi NCCP000 après-midis NCCS000 après-midi
 
 APERTIUM: bar	PAR: livre__n	FORMS: NCMP000 bars NCMS000 bar
    OTHER: bar	PAR: ??????????????	FORMS: NCMN000 bar NCMP000 bars NCMS000 bar
 
+APERTIUM: bas	PAR: mois__n	FORMS: NCMN000 bas
+   OTHER: bas	PAR: ??????????????	FORMS: NCFP000 basses NCFS000 basse NCMN000 bas
+
 APERTIUM: bit	PAR: livre__n	FORMS: NCMP000 bits NCMS000 bit
    OTHER: bit	PAR: ??????????????	FORMS: NCMN000 bit NCMP000 bits NCMS000 bit
 
-APERTIUM: blaireau	PAR: livre__n	FORMS: NCMP000 blaireaus NCMS000 blaireau
+APERTIUM: blaireau	PAR: lieu__n	FORMS: NCMP000 blaireaux NCMS000 blaireau
    OTHER: blaireau	PAR: ??????????????	FORMS: NCFP000 blairelles NCFS000 blairelle NCMP000 blaireaux NCMS000 blaireau
 
-APERTIUM: blanc	PAR: livre__n	FORMS: NCMP000 blancs NCMS000 blanc
-   OTHER: blanc	PAR: ??????????????	FORMS: NCFP000 blanches NCFS000 blanche NCMP000 blancs NCMS000 blanc
-
-APERTIUM: brandy	PAR: brand/y__n	FORMS: NCMP000 brandies NCMS000 brandy
+APERTIUM: brandy	PAR: brand/y__n	FORMS: NCMP000 brandys NCMS000 brandy
    OTHER: brandy	PAR: ??????????????	FORMS: NCMP000 brandies NCMP000 brandys NCMS000 brandy
+
+APERTIUM: bêta	PAR: livre__n	FORMS: NCMP000 bêtas NCMS000 bêta
+   OTHER: bêta	PAR: ??????????????	FORMS: NCMN000 bêta NCMP000 bêtas NCMS000 bêta
+
+APERTIUM: calorie	PAR: abeille__n	FORMS: NCFP000 calories NCFS000 calorie
+   OTHER: calorie	PAR: ??????????????	FORMS: NCFP000 attocalories NCFP000 calories NCFP000 centicalories NCFP000 décacalories NCFP000 décicalories NCFP000 exacalories NCFP000 femtocalories NCFP000 gigacalories NCFP000 hectocalories NCFP000 kilocalories NCFP000 microcalories NCFP000 millicalories NCFP000 mégacalories NCFP000 nanocalories NCFP000 petacalories NCFP000 picocalories NCFP000 pétacalories NCFP000 téracalories NCFP000 yoctocalories NCFP000 yottacalories NCFP000 zeptocalories NCFP000 zettacalories NCFS000 attocalorie NCFS000 calorie NCFS000 centicalorie NCFS000 décacalorie NCFS000 décicalorie NCFS000 exacalorie NCFS000 femtocalorie NCFS000 gigacalorie NCFS000 hectocalorie NCFS000 kilocalorie NCFS000 microcalorie NCFS000 millicalorie NCFS000 mégacalorie NCFS000 nanocalorie NCFS000 petacalorie NCFS000 picocalorie NCFS000 pétacalorie NCFS000 téracalorie NCFS000 yoctocalorie NCFS000 yottacalorie NCFS000 zeptocalorie NCFS000 zettacalorie
+
+APERTIUM: casse-tête	PAR: livre__n	FORMS: NCMP000 casse-têtes NCMS000 casse-tête
+   OTHER: casse-tête	PAR: ??????????????	FORMS: NCMN000 casse-tête NCMP000 casse-têtes NCMS000 casse-tête
 
 APERTIUM: clavier	PAR: livre__n	FORMS: NCMP000 claviers NCMS000 clavier
    OTHER: clavier	PAR: ??????????????	FORMS: NCFP000 clavières NCFS000 clavière NCMP000 claviers NCMP000 claviers NCMS000 clavier NCMS000 clavier
@@ -1763,22 +1976,40 @@ APERTIUM: clavier	PAR: livre__n	FORMS: NCMP000 claviers NCMS000 clavier
 APERTIUM: coach	PAR: match__n	FORMS: NCMP000 coachs NCMS000 coach
    OTHER: coach	PAR: ??????????????	FORMS: NCCP000 coaches NCCP000 coachs NCCS000 coach
 
+APERTIUM: coulomb	PAR: livre__n	FORMS: NCMP000 coulombs NCMS000 coulomb
+   OTHER: coulomb	PAR: ??????????????	FORMS: NCMP000 attocoulombs NCMP000 centicoulombs NCMP000 coulombs NCMP000 décacoulombs NCMP000 décicoulombs NCMP000 exacoulombs NCMP000 femtocoulombs NCMP000 gigacoulombs NCMP000 hectocoulombs NCMP000 kilocoulombs NCMP000 microcoulombs NCMP000 millicoulombs NCMP000 mégacoulombs NCMP000 nanocoulombs NCMP000 petacoulombs NCMP000 picocoulombs NCMP000 pétacoulombs NCMP000 téracoulombs NCMP000 yoctocoulombs NCMP000 yottacoulombs NCMP000 zeptocoulombs NCMP000 zettacoulombs NCMS000 attocoulomb NCMS000 centicoulomb NCMS000 coulomb NCMS000 décacoulomb NCMS000 décicoulomb NCMS000 exacoulomb NCMS000 femtocoulomb NCMS000 gigacoulomb NCMS000 hectocoulomb NCMS000 kilocoulomb NCMS000 microcoulomb NCMS000 millicoulomb NCMS000 mégacoulomb NCMS000 nanocoulomb NCMS000 petacoulomb NCMS000 picocoulomb NCMS000 pétacoulomb NCMS000 téracoulomb NCMS000 yoctocoulomb NCMS000 yottacoulomb NCMS000 zeptocoulomb NCMS000 zettacoulomb
+
 APERTIUM: coupe-feu	PAR: mois__n	FORMS: NCMN000 coupe-feu
    OTHER: coupe-feu	PAR: ??????????????	FORMS: NCMN000 coupe-feu NCMP000 coupe-feux NCMS000 coupe-feu
+
+APERTIUM: cross-country	PAR: brand/y__n	FORMS: NCMP000 cross-countrys NCMS000 cross-country
+   OTHER: cross-country	PAR: ??????????????	FORMS: NCMP000 cross-countries NCMP000 cross-countrys NCMS000 cross-country
+
+APERTIUM: curie	PAR: livre__n	FORMS: NCMP000 curies NCMS000 curie
+   OTHER: curie	PAR: ??????????????	FORMS: NCFP000 curies NCFS000 curie NCMP000 attocuries NCMP000 centicuries NCMP000 curies NCMP000 décacuries NCMP000 décicuries NCMP000 exacuries NCMP000 femtocuries NCMP000 gigacuries NCMP000 hectocuries NCMP000 kilocuries NCMP000 microcuries NCMP000 millicuries NCMP000 mégacuries NCMP000 nanocuries NCMP000 petacuries NCMP000 picocuries NCMP000 pétacuries NCMP000 téracuries NCMP000 yoctocuries NCMP000 yottacuries NCMP000 zeptocuries NCMP000 zettacuries NCMS000 attocurie NCMS000 centicurie NCMS000 curie NCMS000 décacurie NCMS000 décicurie NCMS000 exacurie NCMS000 femtocurie NCMS000 gigacurie NCMS000 hectocurie NCMS000 kilocurie NCMS000 microcurie NCMS000 millicurie NCMS000 mégacurie NCMS000 nanocurie NCMS000 petacurie NCMS000 picocurie NCMS000 pétacurie NCMS000 téracurie NCMS000 yoctocurie NCMS000 yottacurie NCMS000 zeptocurie NCMS000 zettacurie
 
 APERTIUM: curriculum	PAR: mois__n	FORMS: NCMN000 curriculum
    OTHER: curriculum	PAR: ??????????????	FORMS: NCMP000 curricula NCMP000 curriculums NCMS000 curriculum
 
-APERTIUM: cyclo-cross	PAR: mois__n	FORMS: NCMN000 cyclo-cross
-   OTHER: cyclo-cross	PAR: ??????????????	FORMS: NCMN000 cyclo-cross NCMP000 cyclo-crosses
-
 APERTIUM: d	PAR: mois__n	FORMS: NCMN000 d
    OTHER: d	PAR: ??????????????	FORMS: NCMN000 d NCMN000 d
+
+APERTIUM: delta	PAR: livre__n	FORMS: NCMP000 deltas NCMS000 delta
+   OTHER: delta	PAR: ??????????????	FORMS: NCMN000 delta NCMP000 deltas NCMS000 delta
+
+APERTIUM: descripteur	PAR: livre__n	FORMS: NCMP000 descripteurs NCMS000 descripteur
+   OTHER: descripteur	PAR: ??????????????	FORMS: NCFP000 descriptrices NCFS000 descriptrice NCMP000 descripteurs NCMP000 descripteurs NCMS000 descripteur NCMS000 descripteur
+
+APERTIUM: duplicata	PAR: livre__n	FORMS: NCMP000 duplicatas NCMS000 duplicata
+   OTHER: duplicata	PAR: ??????????????	FORMS: NCMN000 duplicata NCMP000 duplicatas NCMS000 duplicata
 
 APERTIUM: faune	PAR: abeille__n	FORMS: NCFP000 faunes NCFS000 faune
    OTHER: faune	PAR: ??????????????	FORMS: NCFP000 faunes NCFP000 faunesses NCFS000 faune NCFS000 faunesse NCMP000 faunes NCMS000 faune
 
-APERTIUM: ferry	PAR: brand/y__n	FORMS: NCMP000 ferries NCMS000 ferry
+APERTIUM: faux	PAR: fois__n	FORMS: NCFN000 faux
+   OTHER: faux	PAR: ??????????????	FORMS: NCCN000 faux NCFP000 fausses NCFS000 fausse NCMN000 faux
+
+APERTIUM: ferry	PAR: brand/y__n	FORMS: NCMP000 ferrys NCMS000 ferry
    OTHER: ferry	PAR: ??????????????	FORMS: NCMP000 ferries NCMP000 ferrys NCMS000 ferry
 
 APERTIUM: fin	PAR: abeille__n	FORMS: NCFP000 fins NCFS000 fin
@@ -1790,29 +2021,59 @@ APERTIUM: flash	PAR: flash__n	FORMS: NCMP000 flashes NCMS000 flash
 APERTIUM: g	PAR: mois__n	FORMS: NCMN000 g
    OTHER: g	PAR: ??????????????	FORMS: NCMN000 Eg NCMN000 Gg NCMN000 Mg NCMN000 Pg NCMN000 Tg NCMN000 Yg NCMN000 Zg NCMN000 ag NCMN000 cg NCMN000 dag NCMN000 dg NCMN000 fg NCMN000 g NCMN000 g NCMN000 hg NCMN000 kg NCMN000 mg NCMN000 ng NCMN000 pg NCMN000 yg NCMN000 zg NCMN000 µg
 
+APERTIUM: gamin	PAR: affecté__n	FORMS: NCFP000 gamines NCFS000 gamine NCMP000 gamins NCMS000 gamin
+   OTHER: gamin	PAR: ??????????????	FORMS: NCFP000 gamines NCFS000 gamine NCMP000 gamins NCMP000 gamins NCMS000 gamin NCMS000 gamin
+
 APERTIUM: garde-manger	PAR: livre__n	FORMS: NCMP000 garde-mangers NCMS000 garde-manger
    OTHER: garde-manger	PAR: ??????????????	FORMS: NCMN000 garde-manger NCMP000 garde-mangers NCMS000 garde-manger
 
 APERTIUM: gens	PAR: abords__n	FORMS: NCMP000 gens
    OTHER: gens	PAR: ??????????????	FORMS: NCCP000 gens
 
+APERTIUM: graffiti	PAR: graffiti__n	FORMS: NCMN000 graffiti
+   OTHER: graffiti	PAR: ??????????????	FORMS: NCMN000 graffiti NCMP000 graffitis NCMS000 graffiti
+
 APERTIUM: gramme	PAR: livre__n	FORMS: NCMP000 grammes NCMS000 gramme
    OTHER: gramme	PAR: ??????????????	FORMS: NCMP000 attogrammes NCMP000 centigrammes NCMP000 décagrammes NCMP000 décigrammes NCMP000 exagrammes NCMP000 femtogrammes NCMP000 gigagrammes NCMP000 grammes NCMP000 hectogrammes NCMP000 kilogrammes NCMP000 microgrammes NCMP000 milligrammes NCMP000 mégagrammes NCMP000 nanogrammes NCMP000 petagrammes NCMP000 picogrammes NCMP000 pétagrammes NCMP000 téragrammes NCMP000 yoctogrammes NCMP000 yottagrammes NCMP000 zeptogrammes NCMP000 zettagrammes NCMS000 attogramme NCMS000 centigramme NCMS000 décagramme NCMS000 décigramme NCMS000 exagramme NCMS000 femtogramme NCMS000 gigagramme NCMS000 gramme NCMS000 hectogramme NCMS000 kilogramme NCMS000 microgramme NCMS000 milligramme NCMS000 mégagramme NCMS000 nanogramme NCMS000 petagramme NCMS000 picogramme NCMS000 pétagramme NCMS000 téragramme NCMS000 yoctogramme NCMS000 yottagramme NCMS000 zeptogramme NCMS000 zettagramme
+
+APERTIUM: grand-route	PAR: abeille__n	FORMS: NCFP000 grand-routes NCFS000 grand-route
+   OTHER: grand-route	PAR: ??????????????	FORMS: NCFP000 grand-routes NCFS000 grand-route NCFS000 grand-route
 
 APERTIUM: gratte-ciel	PAR: mois__n	FORMS: NCMN000 gratte-ciel
    OTHER: gratte-ciel	PAR: ??????????????	FORMS: NCMN000 gratte-ciel NCMP000 gratte-ciels NCMS000 gratte-ciel
 
-APERTIUM: h	PAR: mois__n	FORMS: NCMN000 h
+APERTIUM: h	PAR: fois__n	FORMS: NCFN000 h
    OTHER: h	PAR: ??????????????	FORMS: NCFN000 h NCMN000 h
+
+APERTIUM: hertz	PAR: livre__n	FORMS: NCMP000 hertzs NCMS000 hertz
+   OTHER: hertz	PAR: ??????????????	FORMS: NCMN000 attohertz NCMN000 centihertz NCMN000 décahertz NCMN000 décihertz NCMN000 exahertz NCMN000 femtohertz NCMN000 gigahertz NCMN000 hectohertz NCMN000 hertz NCMN000 kilohertz NCMN000 microhertz NCMN000 millihertz NCMN000 mégahertz NCMN000 nanohertz NCMN000 petahertz NCMN000 picohertz NCMN000 pétahertz NCMN000 térahertz NCMN000 yoctohertz NCMN000 yottahertz NCMN000 zeptohertz NCMN000 zettahertz
+
+APERTIUM: hobby	PAR: brand/y__n	FORMS: NCMP000 hobbys NCMS000 hobby
+   OTHER: hobby	PAR: ??????????????	FORMS: NCMP000 hobbies NCMP000 hobbys NCMS000 hobby
+
+APERTIUM: hors-jeu	PAR: mois__n	FORMS: NCMN000 hors-jeu
+   OTHER: hors-jeu	PAR: ??????????????	FORMS: NCMN000 hors-jeu NCMP000 hors-jeux NCMS000 hors-jeu
 
 APERTIUM: iota	PAR: livre__n	FORMS: NCMP000 iotas NCMS000 iota
    OTHER: iota	PAR: ??????????????	FORMS: NCMN000 iota NCMP000 iotas NCMS000 iota
 
+APERTIUM: joule	PAR: livre__n	FORMS: NCMP000 joules NCMS000 joule
+   OTHER: joule	PAR: ??????????????	FORMS: NCMP000 attojoules NCMP000 centijoules NCMP000 décajoules NCMP000 décijoules NCMP000 exajoules NCMP000 femtojoules NCMP000 gigajoules NCMP000 hectojoules NCMP000 joules NCMP000 kilojoules NCMP000 microjoules NCMP000 millijoules NCMP000 mégajoules NCMP000 nanojoules NCMP000 petajoules NCMP000 picojoules NCMP000 pétajoules NCMP000 térajoules NCMP000 yoctojoules NCMP000 yottajoules NCMP000 zeptojoules NCMP000 zettajoules NCMS000 attojoule NCMS000 centijoule NCMS000 décajoule NCMS000 décijoule NCMS000 exajoule NCMS000 femtojoule NCMS000 gigajoule NCMS000 hectojoule NCMS000 joule NCMS000 kilojoule NCMS000 microjoule NCMS000 millijoule NCMS000 mégajoule NCMS000 nanojoule NCMS000 petajoule NCMS000 picojoule NCMS000 pétajoule NCMS000 térajoule NCMS000 yoctojoule NCMS000 yottajoule NCMS000 zeptojoule NCMS000 zettajoule
+
 APERTIUM: jumeau	PAR: lieu__n	FORMS: NCMP000 jumeaux NCMS000 jumeau
    OTHER: jumeau	PAR: ??????????????	FORMS: NCFP000 jumelles NCFS000 jumelle NCMP000 jumeaux NCMS000 jumeau
 
+APERTIUM: kelvin	PAR: livre__n	FORMS: NCMP000 kelvins NCMS000 kelvin
+   OTHER: kelvin	PAR: ??????????????	FORMS: NCMP000 attokelvins NCMP000 centikelvins NCMP000 décakelvins NCMP000 décikelvins NCMP000 exakelvins NCMP000 femtokelvins NCMP000 gigakelvins NCMP000 hectokelvins NCMP000 kelvins NCMP000 kilokelvins NCMP000 microkelvins NCMP000 millikelvins NCMP000 mégakelvins NCMP000 nanokelvins NCMP000 petakelvins NCMP000 picokelvins NCMP000 pétakelvins NCMP000 térakelvins NCMP000 yoctokelvins NCMP000 yottakelvins NCMP000 zeptokelvins NCMP000 zettakelvins NCMS000 attokelvin NCMS000 centikelvin NCMS000 décakelvin NCMS000 décikelvin NCMS000 exakelvin NCMS000 femtokelvin NCMS000 gigakelvin NCMS000 hectokelvin NCMS000 kelvin NCMS000 kilokelvin NCMS000 microkelvin NCMS000 millikelvin NCMS000 mégakelvin NCMS000 nanokelvin NCMS000 petakelvin NCMS000 picokelvin NCMS000 pétakelvin NCMS000 térakelvin NCMS000 yoctokelvin NCMS000 yottakelvin NCMS000 zeptokelvin NCMS000 zettakelvin
+
 APERTIUM: l	PAR: mois__n	FORMS: NCMN000 l
    OTHER: l	PAR: ??????????????	FORMS: NCMN000 El NCMN000 Gl NCMN000 Ml NCMN000 Pl NCMN000 Tl NCMN000 Yl NCMN000 Zl NCMN000 al NCMN000 cl NCMN000 dal NCMN000 dl NCMN000 fl NCMN000 hl NCMN000 kl NCMN000 l NCMN000 l NCMN000 ml NCMN000 nl NCMN000 pl NCMN000 yl NCMN000 zl NCMN000 µl
+
+APERTIUM: lambda	PAR: livre__n	FORMS: NCMP000 lambdas NCMS000 lambda
+   OTHER: lambda	PAR: ??????????????	FORMS: NCMN000 lambda NCMP000 lambdas NCMS000 lambda
+
+APERTIUM: latifundium	PAR: latifundi/um__n	FORMS: NCMP000 latifundiums NCMS000 latifundium
+   OTHER: latifundium	PAR: ??????????????	FORMS: NCMP000 latifundia NCMP000 latifundiums NCMS000 latifundium
 
 APERTIUM: lave-vaisselle	PAR: livre__n	FORMS: NCMP000 lave-vaisselles NCMS000 lave-vaisselle
    OTHER: lave-vaisselle	PAR: ??????????????	FORMS: NCMN000 lave-vaisselle NCMP000 lave-vaisselles NCMS000 lave-vaisselle
@@ -1826,11 +2087,20 @@ APERTIUM: lieu	PAR: lieu__n	FORMS: NCMP000 lieux NCMS000 lieu
 APERTIUM: litre	PAR: livre__n	FORMS: NCMP000 litres NCMS000 litre
    OTHER: litre	PAR: ??????????????	FORMS: NCFP000 litres NCFS000 litre NCMP000 attolitres NCMP000 centilitres NCMP000 décalitres NCMP000 décilitres NCMP000 exalitres NCMP000 femtolitres NCMP000 gigalitres NCMP000 hectolitres NCMP000 kilolitres NCMP000 litres NCMP000 microlitres NCMP000 millilitres NCMP000 mégalitres NCMP000 nanolitres NCMP000 petalitres NCMP000 picolitres NCMP000 pétalitres NCMP000 téralitres NCMP000 yoctolitres NCMP000 yottalitres NCMP000 zeptolitres NCMP000 zettalitres NCMS000 attolitre NCMS000 centilitre NCMS000 décalitre NCMS000 décilitre NCMS000 exalitre NCMS000 femtolitre NCMS000 gigalitre NCMS000 hectolitre NCMS000 kilolitre NCMS000 litre NCMS000 microlitre NCMS000 millilitre NCMS000 mégalitre NCMS000 nanolitre NCMS000 petalitre NCMS000 picolitre NCMS000 pétalitre NCMS000 téralitre NCMS000 yoctolitre NCMS000 yottalitre NCMS000 zeptolitre NCMS000 zettalitre
 
+APERTIUM: lobby	PAR: brand/y__n	FORMS: NCMP000 lobbys NCMS000 lobby
+   OTHER: lobby	PAR: ??????????????	FORMS: NCMP000 lobbies NCMP000 lobbys NCMS000 lobby
+
+APERTIUM: lèche-cul	PAR: artiste__n	FORMS: NCCP000 lèche-culs NCCS000 lèche-cul
+   OTHER: lèche-cul	PAR: ??????????????	FORMS: NCCN000 lèche-cul NCCP000 lèche-culs NCCS000 lèche-cul
+
 APERTIUM: m	PAR: mois__n	FORMS: NCMN000 m
    OTHER: m	PAR: ??????????????	FORMS: NCMN000 Em NCMN000 Gm NCMN000 Mm NCMN000 Pm NCMN000 Tm NCMN000 Ym NCMN000 Zm NCMN000 am NCMN000 cm NCMN000 dam NCMN000 dm NCMN000 fm NCMN000 hm NCMN000 km NCMN000 m NCMN000 m NCMN000 mm NCMN000 nm NCMN000 pm NCMN000 ym NCMN000 zm NCMN000 µm
 
-APERTIUM: match	PAR: livre__n	FORMS: NCMP000 matchs NCMS000 match
+APERTIUM: match	PAR: match__n	FORMS: NCMP000 matchs NCMS000 match
    OTHER: match	PAR: ??????????????	FORMS: NCMP000 matches NCMP000 matchs NCMS000 match
+
+APERTIUM: mole	PAR: livre__n	FORMS: NCMP000 moles NCMS000 mole
+   OTHER: mole	PAR: ??????????????	FORMS: NCFP000 attomoles NCFP000 centimoles NCFP000 décamoles NCFP000 décimoles NCFP000 examoles NCFP000 femtomoles NCFP000 gigamoles NCFP000 hectomoles NCFP000 kilomoles NCFP000 micromoles NCFP000 millimoles NCFP000 moles NCFP000 mégamoles NCFP000 nanomoles NCFP000 petamoles NCFP000 picomoles NCFP000 pétamoles NCFP000 téramoles NCFP000 yoctomoles NCFP000 yottamoles NCFP000 zeptomoles NCFP000 zettamoles NCFS000 attomole NCFS000 centimole NCFS000 décamole NCFS000 décimole NCFS000 examole NCFS000 femtomole NCFS000 gigamole NCFS000 hectomole NCFS000 kilomole NCFS000 micromole NCFS000 millimole NCFS000 mole NCFS000 mégamole NCFS000 nanomole NCFS000 petamole NCFS000 picomole NCFS000 pétamole NCFS000 téramole NCFS000 yoctomole NCFS000 yottamole NCFS000 zeptomole NCFS000 zettamole
 
 APERTIUM: mollet	PAR: livre__n	FORMS: NCMP000 mollets NCMS000 mollet
    OTHER: mollet	PAR: ??????????????	FORMS: NCFP000 mollettes NCFS000 mollette NCMP000 mollets NCMP000 mollets NCMS000 mollet NCMS000 mollet
@@ -1841,14 +2111,35 @@ APERTIUM: mort	PAR: livre__n	FORMS: NCMP000 morts NCMS000 mort
 APERTIUM: mètre	PAR: livre__n	FORMS: NCMP000 mètres NCMS000 mètre
    OTHER: mètre	PAR: ??????????????	FORMS: NCMP000 attomètres NCMP000 centimètres NCMP000 décamètres NCMP000 décimètres NCMP000 examètres NCMP000 femtomètres NCMP000 gigamètres NCMP000 hectomètres NCMP000 kilomètres NCMP000 micromètres NCMP000 millimètres NCMP000 mètres NCMP000 mégamètres NCMP000 nanomètres NCMP000 petamètres NCMP000 picomètres NCMP000 pétamètres NCMP000 téramètres NCMP000 yoctomètres NCMP000 yottamètres NCMP000 zeptomètres NCMP000 zettamètres NCMS000 attomètre NCMS000 centimètre NCMS000 décamètre NCMS000 décimètre NCMS000 examètre NCMS000 femtomètre NCMS000 gigamètre NCMS000 hectomètre NCMS000 kilomètre NCMS000 micromètre NCMS000 millimètre NCMS000 mètre NCMS000 mégamètre NCMS000 nanomètre NCMS000 petamètre NCMS000 picomètre NCMS000 pétamètre NCMS000 téramètre NCMS000 yoctomètre NCMS000 yottamètre NCMS000 zeptomètre NCMS000 zettamètre
 
+APERTIUM: métis	PAR: admis__n	FORMS: NCFP000 métises NCFS000 métise NCMN000 métis
+   OTHER: métis	PAR: ??????????????	FORMS: NCFP000 métisses NCFS000 métisse NCMN000 métis
+
+APERTIUM: national-socialiste	PAR: nationa/l-socialiste__n	FORMS: NCFP000 nationales-socialistes NCFS000 nationale-socialiste NCMP000 nationaux-socialistes NCMS000 national-socialiste
+   OTHER: national-socialiste	PAR: ??????????????	FORMS: NCCS000 national-socialiste
+
+APERTIUM: newton	PAR: livre__n	FORMS: NCMP000 newtons NCMS000 newton
+   OTHER: newton	PAR: ??????????????	FORMS: NCMP000 attonewtons NCMP000 centinewtons NCMP000 décanewtons NCMP000 décinewtons NCMP000 exanewtons NCMP000 femtonewtons NCMP000 giganewtons NCMP000 hectonewtons NCMP000 kilonewtons NCMP000 micronewtons NCMP000 millinewtons NCMP000 méganewtons NCMP000 nanonewtons NCMP000 newtons NCMP000 petanewtons NCMP000 piconewtons NCMP000 pétanewtons NCMP000 téranewtons NCMP000 yoctonewtons NCMP000 yottanewtons NCMP000 zeptonewtons NCMP000 zettanewtons NCMS000 attonewton NCMS000 centinewton NCMS000 décanewton NCMS000 décinewton NCMS000 exanewton NCMS000 femtonewton NCMS000 giganewton NCMS000 hectonewton NCMS000 kilonewton NCMS000 micronewton NCMS000 millinewton NCMS000 méganewton NCMS000 nanonewton NCMS000 newton NCMS000 petanewton NCMS000 piconewton NCMS000 pétanewton NCMS000 téranewton NCMS000 yoctonewton NCMS000 yottanewton NCMS000 zeptonewton NCMS000 zettanewton
+
+APERTIUM: nova	PAR: abeille__n	FORMS: NCFP000 novas NCFS000 nova
+   OTHER: nova	PAR: ??????????????	FORMS: NCFP000 novas NCFS000 nova NCFS000 nova
+
+APERTIUM: ohm	PAR: livre__n	FORMS: NCMP000 ohms NCMS000 ohm
+   OTHER: ohm	PAR: ??????????????	FORMS: NCMP000 attoohms NCMP000 centiohms NCMP000 décaohms NCMP000 déciohms NCMP000 exaohms NCMP000 femtoohms NCMP000 gigaohms NCMP000 hectoohms NCMP000 kiloohms NCMP000 microohms NCMP000 milliohms NCMP000 mégaohms NCMP000 nanoohms NCMP000 ohms NCMP000 petaohms NCMP000 picoohms NCMP000 pétaohms NCMP000 téraohms NCMP000 yoctoohms NCMP000 yottaohms NCMP000 zeptoohms NCMP000 zettaohms NCMS000 attoohm NCMS000 centiohm NCMS000 décaohm NCMS000 déciohm NCMS000 exaohm NCMS000 femtoohm NCMS000 gigaohm NCMS000 hectoohm NCMS000 kiloohm NCMS000 microohm NCMS000 milliohm NCMS000 mégaohm NCMS000 nanoohm NCMS000 ohm NCMS000 petaohm NCMS000 picoohm NCMS000 pétaohm NCMS000 téraohm NCMS000 yoctoohm NCMS000 yottaohm NCMS000 zeptoohm NCMS000 zettaohm
+
 APERTIUM: ordinateur	PAR: livre__n	FORMS: NCMP000 ordinateurs NCMS000 ordinateur
    OTHER: ordinateur	PAR: ??????????????	FORMS: NCFP000 ordinatrices NCFS000 ordinatrice NCMP000 ordinateurs NCMP000 ordinateurs NCMS000 ordinateur NCMS000 ordinateur
 
 APERTIUM: pare-brise	PAR: mois__n	FORMS: NCMN000 pare-brise
    OTHER: pare-brise	PAR: ??????????????	FORMS: NCMN000 pare-brise NCMP000 pare-brises NCMS000 pare-brise
 
+APERTIUM: pascal	PAR: livre__n	FORMS: NCMP000 pascals NCMS000 pascal
+   OTHER: pascal	PAR: ??????????????	FORMS: NCMP000 attopascals NCMP000 centipascals NCMP000 décapascals NCMP000 décipascals NCMP000 exapascals NCMP000 femtopascals NCMP000 gigapascals NCMP000 hectopascals NCMP000 kilopascals NCMP000 micropascals NCMP000 millipascals NCMP000 mégapascals NCMP000 nanopascals NCMP000 pascals NCMP000 petapascals NCMP000 picopascals NCMP000 pétapascals NCMP000 térapascals NCMP000 yoctopascals NCMP000 yottapascals NCMP000 zeptopascals NCMP000 zettapascals NCMS000 attopascal NCMS000 centipascal NCMS000 décapascal NCMS000 décipascal NCMS000 exapascal NCMS000 femtopascal NCMS000 gigapascal NCMS000 hectopascal NCMS000 kilopascal NCMS000 micropascal NCMS000 millipascal NCMS000 mégapascal NCMS000 nanopascal NCMS000 pascal NCMS000 petapascal NCMS000 picopascal NCMS000 pétapascal NCMS000 térapascal NCMS000 yoctopascal NCMS000 yottapascal NCMS000 zeptopascal NCMS000 zettapascal
+
 APERTIUM: penalty	PAR: livre__n	FORMS: NCMP000 penaltys NCMS000 penalty
    OTHER: penalty	PAR: ??????????????	FORMS: NCMP000 penalties NCMP000 penaltys NCMS000 penalty
+
+APERTIUM: penny	PAR: brand/y__n	FORMS: NCMP000 pennys NCMS000 penny
+   OTHER: penny	PAR: ??????????????	FORMS: NCMP000 pennies NCMP000 pennys NCMS000 penny
 
 APERTIUM: plan	PAR: livre__n	FORMS: NCMP000 plans NCMS000 plan
    OTHER: plan	PAR: ??????????????	FORMS: NCFP000 planes NCFS000 plane NCMP000 plans NCMP000 plans NCMS000 plan NCMS000 plan
@@ -1856,11 +2147,20 @@ APERTIUM: plan	PAR: livre__n	FORMS: NCMP000 plans NCMS000 plan
 APERTIUM: porte-parole	PAR: ex__n	FORMS: NCCN000 porte-parole
    OTHER: porte-parole	PAR: ??????????????	FORMS: NCCN000 porte-parole NCCP000 porte-paroles NCCS000 porte-parole
 
-APERTIUM: préfet	PAR: livre__n	FORMS: NCMP000 préfets NCMS000 préfet
-   OTHER: préfet	PAR: ??????????????	FORMS: NCFP000 préfètes NCFS000 préfète NCMP000 préfets NCMS000 préfet
+APERTIUM: radian	PAR: livre__n	FORMS: NCMP000 radians NCMS000 radian
+   OTHER: radian	PAR: ??????????????	FORMS: NCMP000 attoradians NCMP000 centiradians NCMP000 décaradians NCMP000 déciradians NCMP000 exaradians NCMP000 femtoradians NCMP000 gigaradians NCMP000 hectoradians NCMP000 kiloradians NCMP000 microradians NCMP000 milliradians NCMP000 mégaradians NCMP000 nanoradians NCMP000 petaradians NCMP000 picoradians NCMP000 pétaradians NCMP000 radians NCMP000 téraradians NCMP000 yoctoradians NCMP000 yottaradians NCMP000 zeptoradians NCMP000 zettaradians NCMS000 attoradian NCMS000 centiradian NCMS000 décaradian NCMS000 déciradian NCMS000 exaradian NCMS000 femtoradian NCMS000 gigaradian NCMS000 hectoradian NCMS000 kiloradian NCMS000 microradian NCMS000 milliradian NCMS000 mégaradian NCMS000 nanoradian NCMS000 petaradian NCMS000 picoradian NCMS000 pétaradian NCMS000 radian NCMS000 téraradian NCMS000 yoctoradian NCMS000 yottaradian NCMS000 zeptoradian NCMS000 zettaradian
+
+APERTIUM: recordman	PAR: record/man__n	FORMS: NCFP000 recordwomen NCFS000 recordwoman NCMP000 recordmen NCMS000 recordman
+   OTHER: recordman	PAR: ??????????????	FORMS: NCMP000 recordmans NCMP000 recordmen NCMS000 recordman
+
+APERTIUM: rifle	PAR: livre__n	FORMS: NCMP000 rifles NCMS000 rifle
+   OTHER: rifle	PAR: ??????????????	FORMS: NCMP000 rifles NCMP000 rifles NCMS000 rifle NCMS000 rifle
 
 APERTIUM: s	PAR: mois__n	FORMS: NCMN000 s
    OTHER: s	PAR: ??????????????	FORMS: NCFN000 Es NCFN000 Gs NCFN000 Ms NCFN000 Ps NCFN000 Ts NCFN000 Ys NCFN000 Zs NCFN000 as NCFN000 cs NCFN000 das NCFN000 ds NCFN000 fs NCFN000 hs NCFN000 ks NCFN000 ms NCFN000 ns NCFN000 ps NCFN000 s NCFN000 ys NCFN000 zs NCFN000 µs NCMN000 s
+
+APERTIUM: sanatorium	PAR: livre__n	FORMS: NCMP000 sanatoriums NCMS000 sanatorium
+   OTHER: sanatorium	PAR: ??????????????	FORMS: NCMP000 sanatoria NCMP000 sanatoriums NCMS000 sanatorium
 
 APERTIUM: sandwich	PAR: livre__n	FORMS: NCMP000 sandwichs NCMS000 sandwich
    OTHER: sandwich	PAR: ??????????????	FORMS: NCMP000 sandwiches NCMP000 sandwichs NCMS000 sandwich
@@ -1874,14 +2174,14 @@ APERTIUM: sauveur	PAR: administrat/eur__n	FORMS: NCFP000 sauvrices NCFS000 sauvr
 APERTIUM: seconde	PAR: abeille__n	FORMS: NCFP000 secondes NCFS000 seconde
    OTHER: seconde	PAR: ??????????????	FORMS: NCFP000 attosecondes NCFP000 centisecondes NCFP000 décasecondes NCFP000 décisecondes NCFP000 exasecondes NCFP000 femtosecondes NCFP000 gigasecondes NCFP000 hectosecondes NCFP000 kilosecondes NCFP000 microsecondes NCFP000 millisecondes NCFP000 mégasecondes NCFP000 nanosecondes NCFP000 petasecondes NCFP000 picosecondes NCFP000 pétasecondes NCFP000 secondes NCFP000 térasecondes NCFP000 yoctosecondes NCFP000 yottasecondes NCFP000 zeptosecondes NCFP000 zettasecondes NCFS000 attoseconde NCFS000 centiseconde NCFS000 décaseconde NCFS000 déciseconde NCFS000 exaseconde NCFS000 femtoseconde NCFS000 gigaseconde NCFS000 hectoseconde NCFS000 kiloseconde NCFS000 microseconde NCFS000 milliseconde NCFS000 mégaseconde NCFS000 nanoseconde NCFS000 petaseconde NCFS000 picoseconde NCFS000 pétaseconde NCFS000 seconde NCFS000 téraseconde NCFS000 yoctoseconde NCFS000 yottaseconde NCFS000 zeptoseconde NCFS000 zettaseconde
 
-APERTIUM: secret	PAR: livre__n	FORMS: NCMP000 secrets NCMS000 secret
-   OTHER: secret	PAR: ??????????????	FORMS: NCFP000 secrètes NCFS000 secrète NCMP000 secrets NCMS000 secret
-
 APERTIUM: sketch	PAR: match__n	FORMS: NCMP000 sketchs NCMS000 sketch
    OTHER: sketch	PAR: ??????????????	FORMS: NCMP000 sketches NCMP000 sketchs NCMS000 sketch
 
 APERTIUM: sol	PAR: livre__n	FORMS: NCMP000 sols NCMS000 sol
    OTHER: sol	PAR: ??????????????	FORMS: NCMN000 sol NCMP000 sols NCMS000 sol
+
+APERTIUM: solo	PAR: livre__n	FORMS: NCMP000 solos NCMS000 solo
+   OTHER: solo	PAR: ??????????????	FORMS: NCMP000 soli NCMP000 solos NCMS000 solo
 
 APERTIUM: soprano	PAR: abeille__n	FORMS: NCFP000 sopranos NCFS000 soprano
    OTHER: soprano	PAR: ??????????????	FORMS: NCCP000 soprani NCCP000 sopranos NCCP000 sopranos NCCS000 soprano NCCS000 soprano
@@ -1892,11 +2192,26 @@ APERTIUM: souris	PAR: fois__n	FORMS: NCFN000 souris
 APERTIUM: standard	PAR: livre__n	FORMS: NCMP000 standards NCMS000 standard
    OTHER: standard	PAR: ??????????????	FORMS: NCMP000 standards NCMP000 standards NCMS000 standard NCMS000 standard
 
+APERTIUM: stimulus	PAR: stimul/us__n	FORMS: NCMN000 stimulus
+   OTHER: stimulus	PAR: ??????????????	FORMS: NCMN000 stimulus NCMP000 stimuli
+
+APERTIUM: supernova	PAR: abeille__n	FORMS: NCFP000 supernovas NCFS000 supernova
+   OTHER: supernova	PAR: ??????????????	FORMS: NCFP000 supernovas NCFS000 supernova NCFS000 supernova
+
+APERTIUM: symposium	PAR: livre__n	FORMS: NCMP000 symposiums NCMS000 symposium
+   OTHER: symposium	PAR: ??????????????	FORMS: NCMP000 symposia NCMP000 symposiums NCMS000 symposium
+
 APERTIUM: sèche-linge	PAR: livre__n	FORMS: NCMP000 sèche-linges NCMS000 sèche-linge
    OTHER: sèche-linge	PAR: ??????????????	FORMS: NCMN000 sèche-linge NCMP000 sèche-linges NCMS000 sèche-linge
 
+APERTIUM: séraphin	PAR: livre__n	FORMS: NCMP000 séraphins NCMS000 séraphin
+   OTHER: séraphin	PAR: ??????????????	FORMS: NCFP000 séraphines NCFS000 séraphine NCMP000 séraphins NCMP000 séraphins NCMS000 séraphin NCMS000 séraphin
+
 APERTIUM: t	PAR: mois__n	FORMS: NCMN000 t
    OTHER: t	PAR: ??????????????	FORMS: NCFN000 t NCMN000 t
+
+APERTIUM: taille-crayon	PAR: livre__n	FORMS: NCMP000 taille-crayons NCMS000 taille-crayon
+   OTHER: taille-crayon	PAR: ??????????????	FORMS: NCMN000 taille-crayon NCMP000 taille-crayons NCMS000 taille-crayon
 
 APERTIUM: tome	PAR: livre__n	FORMS: NCMP000 tomes NCMS000 tome
    OTHER: tome	PAR: ??????????????	FORMS: NCFP000 tomes NCFS000 tome NCMP000 tomes NCMS000 tome
@@ -1907,10 +2222,13 @@ APERTIUM: triplicata	PAR: livre__n	FORMS: NCMP000 triplicatas NCMS000 triplicata
 APERTIUM: turbo	PAR: livre__n	FORMS: NCMP000 turbos NCMS000 turbo
    OTHER: turbo	PAR: ??????????????	FORMS: NCCP000 turbos NCCS000 turbo NCMN000 turbo
 
+APERTIUM: volt	PAR: livre__n	FORMS: NCMP000 volts NCMS000 volt
+   OTHER: volt	PAR: ??????????????	FORMS: NCMP000 attovolts NCMP000 centivolts NCMP000 décavolts NCMP000 décivolts NCMP000 exavolts NCMP000 femtovolts NCMP000 gigavolts NCMP000 hectovolts NCMP000 kilovolts NCMP000 microvolts NCMP000 millivolts NCMP000 mégavolts NCMP000 nanovolts NCMP000 petavolts NCMP000 picovolts NCMP000 pétavolts NCMP000 téravolts NCMP000 volts NCMP000 yoctovolts NCMP000 yottavolts NCMP000 zeptovolts NCMP000 zettavolts NCMS000 attovolt NCMS000 centivolt NCMS000 décavolt NCMS000 décivolt NCMS000 exavolt NCMS000 femtovolt NCMS000 gigavolt NCMS000 hectovolt NCMS000 kilovolt NCMS000 microvolt NCMS000 millivolt NCMS000 mégavolt NCMS000 nanovolt NCMS000 petavolt NCMS000 picovolt NCMS000 pétavolt NCMS000 téravolt NCMS000 volt NCMS000 yoctovolt NCMS000 yottavolt NCMS000 zeptovolt NCMS000 zettavolt
+
 APERTIUM: watt	PAR: livre__n	FORMS: NCMP000 watts NCMS000 watt
    OTHER: watt	PAR: ??????????????	FORMS: NCMP000 attowatts NCMP000 centiwatts NCMP000 décawatts NCMP000 déciwatts NCMP000 exawatts NCMP000 femtowatts NCMP000 gigawatts NCMP000 hectowatts NCMP000 kilowatts NCMP000 microwatts NCMP000 milliwatts NCMP000 mégawatts NCMP000 nanowatts NCMP000 petawatts NCMP000 picowatts NCMP000 pétawatts NCMP000 térawatts NCMP000 watts NCMP000 yoctowatts NCMP000 yottawatts NCMP000 zeptowatts NCMP000 zettawatts NCMS000 attowatt NCMS000 centiwatt NCMS000 décawatt NCMS000 déciwatt NCMS000 exawatt NCMS000 femtowatt NCMS000 gigawatt NCMS000 hectowatt NCMS000 kilowatt NCMS000 microwatt NCMS000 milliwatt NCMS000 mégawatt NCMS000 nanowatt NCMS000 petawatt NCMS000 picowatt NCMS000 pétawatt NCMS000 térawatt NCMS000 watt NCMS000 yoctowatt NCMS000 yottawatt NCMS000 zeptowatt NCMS000 zettawatt
 
-APERTIUM: whisky	PAR: brand/y__n	FORMS: NCMP000 whiskies NCMS000 whisky
+APERTIUM: whisky	PAR: brand/y__n	FORMS: NCMP000 whiskys NCMS000 whisky
    OTHER: whisky	PAR: ??????????????	FORMS: NCMP000 whiskies NCMP000 whiskys NCMS000 whisky
 
 APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 ânes NCMS000 âne
@@ -1927,7 +2245,6 @@ APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 â
 <e lm="Grisons"><i>Grisons</i><par n="??????????"/></e>
 <e lm="Gy"><i>Gy</i><par n="??????????"/></e>
 <e lm="H"><i>H</i><par n="??????????"/></e>
-<e lm="Hz"><i>Hz</i><par n="??????????"/></e>
 <e lm="J"><i>J</i><par n="??????????"/></e>
 <e lm="K"><i>K</i><par n="??????????"/></e>
 <e lm="L"><i>L</i><par n="??????????"/></e>
@@ -1961,9 +2278,7 @@ APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 â
 <e lm="aides-comptables"><i>aides-comptables</i><par n="??????????"/></e>
 <e lm="aiguise-crayon"><i>aiguise-crayon</i><par n="??????????"/></e>
 <e lm="allume-feu"><i>allume-feu</i><par n="??????????"/></e>
-<e lm="alpha"><i>alpha</i><par n="??????????"/></e>
 <e lm="amish"><i>amish</i><par n="??????????"/></e>
-<e lm="ampère"><i>ampère</i><par n="??????????"/></e>
 <e lm="amuse-bouche"><i>amuse-bouche</i><par n="??????????"/></e>
 <e lm="ana"><i>ana</i><par n="??????????"/></e>
 <e lm="antiparasitage"><i>antiparasitage</i><par n="??????????"/></e>
@@ -1992,7 +2307,6 @@ APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 â
 <e lm="barbet"><i>barbet</i><par n="??????????"/></e>
 <e lm="barge"><i>barge</i><par n="??????????"/></e>
 <e lm="barman"><i>barman</i><par n="??????????"/></e>
-<e lm="bas"><i>bas</i><par n="??????????"/></e>
 <e lm="basse-taille"><i>basse-taille</i><par n="??????????"/></e>
 <e lm="basses-tailles"><i>basses-tailles</i><par n="??????????"/></e>
 <e lm="bat-flanc"><i>bat-flanc</i><par n="??????????"/></e>
@@ -2028,7 +2342,6 @@ APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 â
 <e lm="bushman"><i>bushman</i><par n="??????????"/></e>
 <e lm="businessman"><i>businessman</i><par n="??????????"/></e>
 <e lm="businesswoman"><i>businesswoman</i><par n="??????????"/></e>
-<e lm="bêta"><i>bêta</i><par n="??????????"/></e>
 <e lm="cache-brassière"><i>cache-brassière</i><par n="??????????"/></e>
 <e lm="cache-col"><i>cache-col</i><par n="??????????"/></e>
 <e lm="cache-corset"><i>cache-corset</i><par n="??????????"/></e>
@@ -2050,7 +2363,6 @@ APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 â
 <e lm="cailleteau"><i>cailleteau</i><par n="??????????"/></e>
 <e lm="cal"><i>cal</i><par n="??????????"/></e>
 <e lm="cale-pied"><i>cale-pied</i><par n="??????????"/></e>
-<e lm="calorie"><i>calorie</i><par n="??????????"/></e>
 <e lm="cameraman"><i>cameraman</i><par n="??????????"/></e>
 <e lm="canada"><i>canada</i><par n="??????????"/></e>
 <e lm="candela"><i>candela</i><par n="??????????"/></e>
@@ -2067,7 +2379,6 @@ APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 â
 <e lm="casse-gueule"><i>casse-gueule</i><par n="??????????"/></e>
 <e lm="casse-pierre"><i>casse-pierre</i><par n="??????????"/></e>
 <e lm="casse-pipe"><i>casse-pipe</i><par n="??????????"/></e>
-<e lm="casse-tête"><i>casse-tête</i><par n="??????????"/></e>
 <e lm="cd"><i>cd</i><par n="??????????"/></e>
 <e lm="centre-avant"><i>centre-avant</i><par n="??????????"/></e>
 <e lm="centres-avant"><i>centres-avant</i><par n="??????????"/></e>
@@ -2098,7 +2409,6 @@ APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 â
 <e lm="concetti"><i>concetti</i><par n="??????????"/></e>
 <e lm="condottiere"><i>condottiere</i><par n="??????????"/></e>
 <e lm="consulteur"><i>consulteur</i><par n="??????????"/></e>
-<e lm="coulomb"><i>coulomb</i><par n="??????????"/></e>
 <e lm="coupe-batterie"><i>coupe-batterie</i><par n="??????????"/></e>
 <e lm="coupe-circuit"><i>coupe-circuit</i><par n="??????????"/></e>
 <e lm="coupe-faim"><i>coupe-faim</i><par n="??????????"/></e>
@@ -2113,26 +2423,22 @@ APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 â
 <e lm="crash"><i>crash</i><par n="??????????"/></e>
 <e lm="crescendo"><i>crescendo</i><par n="??????????"/></e>
 <e lm="criterium"><i>criterium</i><par n="??????????"/></e>
-<e lm="cross-country"><i>cross-country</i><par n="??????????"/></e>
 <e lm="crève-cœur"><i>crève-cœur</i><par n="??????????"/></e>
 <e lm="crève-tonneau"><i>crève-tonneau</i><par n="??????????"/></e>
 <e lm="crève-vessie"><i>crève-vessie</i><par n="??????????"/></e>
 <e lm="cucul"><i>cucul</i><par n="??????????"/></e>
 <e lm="cure-oreille"><i>cure-oreille</i><par n="??????????"/></e>
-<e lm="curie"><i>curie</i><par n="??????????"/></e>
+<e lm="cyclo-cross"><i>cyclo-cross</i><par n="??????????"/></e>
 <e lm="célébrant"><i>célébrant</i><par n="??????????"/></e>
 <e lm="cérite"><i>cérite</i><par n="??????????"/></e>
 <e lm="dalton"><i>dalton</i><par n="??????????"/></e>
 <e lm="dandy"><i>dandy</i><par n="??????????"/></e>
 <e lm="decrescendo"><i>decrescendo</i><par n="??????????"/></e>
-<e lm="delta"><i>delta</i><par n="??????????"/></e>
 <e lm="demi-solde"><i>demi-solde</i><par n="??????????"/></e>
-<e lm="descripteur"><i>descripteur</i><par n="??????????"/></e>
 <e lm="desideratum"><i>desideratum</i><par n="??????????"/></e>
 <e lm="digamma"><i>digamma</i><par n="??????????"/></e>
 <e lm="diminuendo"><i>diminuendo</i><par n="??????????"/></e>
 <e lm="dinghy"><i>dinghy</i><par n="??????????"/></e>
-<e lm="discret"><i>discret</i><par n="??????????"/></e>
 <e lm="disque-jockey"><i>disque-jockey</i><par n="??????????"/></e>
 <e lm="disques-jockeys"><i>disques-jockeys</i><par n="??????????"/></e>
 <e lm="dissimilarité"><i>dissimilarité</i><par n="??????????"/></e>
@@ -2140,7 +2446,6 @@ APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 â
 <e lm="doux"><i>doux</i><par n="??????????"/></e>
 <e lm="dry"><i>dry</i><par n="??????????"/></e>
 <e lm="duetto"><i>duetto</i><par n="??????????"/></e>
-<e lm="duplicata"><i>duplicata</i><par n="??????????"/></e>
 <e lm="dzêta"><i>dzêta</i><par n="??????????"/></e>
 <e lm="défendeur"><i>défendeur</i><par n="??????????"/></e>
 <e lm="eV"><i>eV</i><par n="??????????"/></e>
@@ -2165,10 +2470,8 @@ APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 â
 <e lm="farad"><i>farad</i><par n="??????????"/></e>
 <e lm="farfalle"><i>farfalle</i><par n="??????????"/></e>
 <e lm="fatma"><i>fatma</i><par n="??????????"/></e>
-<e lm="faux"><i>faux</i><par n="??????????"/></e>
 <e lm="favela"><i>favela</i><par n="??????????"/></e>
 <e lm="fedayin"><i>fedayin</i><par n="??????????"/></e>
-<e lm="fesse-mathieu"><i>fesse-mathieu</i><par n="??????????"/></e>
 <e lm="fettucine"><i>fettucine</i><par n="??????????"/></e>
 <e lm="finish"><i>finish</i><par n="??????????"/></e>
 <e lm="finisseur"><i>finisseur</i><par n="??????????"/></e>
@@ -2186,7 +2489,6 @@ APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 â
 <e lm="gagman"><i>gagman</i><par n="??????????"/></e>
 <e lm="gagne-pain"><i>gagne-pain</i><par n="??????????"/></e>
 <e lm="gal"><i>gal</i><par n="??????????"/></e>
-<e lm="gamin"><i>gamin</i><par n="??????????"/></e>
 <e lm="gamma"><i>gamma</i><par n="??????????"/></e>
 <e lm="garde-barrière"><i>garde-barrière</i><par n="??????????"/></e>
 <e lm="garde-boue"><i>garde-boue</i><par n="??????????"/></e>
@@ -2223,8 +2525,6 @@ APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 â
 <e lm="gnocchi"><i>gnocchi</i><par n="??????????"/></e>
 <e lm="goyim"><i>goyim</i><par n="??????????"/></e>
 <e lm="goïm"><i>goïm</i><par n="??????????"/></e>
-<e lm="graffiti"><i>graffiti</i><par n="??????????"/></e>
-<e lm="grand-route"><i>grand-route</i><par n="??????????"/></e>
 <e lm="gratte-cul"><i>gratte-cul</i><par n="??????????"/></e>
 <e lm="gratte-papier"><i>gratte-papier</i><par n="??????????"/></e>
 <e lm="gray"><i>gray</i><par n="??????????"/></e>
@@ -2244,17 +2544,14 @@ APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 â
 <e lm="haute-contre"><i>haute-contre</i><par n="??????????"/></e>
 <e lm="hautes-contre"><i>hautes-contre</i><par n="??????????"/></e>
 <e lm="henry"><i>henry</i><par n="??????????"/></e>
-<e lm="hertz"><i>hertz</i><par n="??????????"/></e>
 <e lm="hic"><i>hic</i><par n="??????????"/></e>
 <e lm="hippy"><i>hippy</i><par n="??????????"/></e>
 <e lm="hiragana"><i>hiragana</i><par n="??????????"/></e>
-<e lm="hobby"><i>hobby</i><par n="??????????"/></e>
 <e lm="homo"><i>homo</i><par n="??????????"/></e>
 <e lm="hors-bilan"><i>hors-bilan</i><par n="??????????"/></e>
 <e lm="hors-bord"><i>hors-bord</i><par n="??????????"/></e>
 <e lm="hors-champ"><i>hors-champ</i><par n="??????????"/></e>
 <e lm="hors-cote"><i>hors-cote</i><par n="??????????"/></e>
-<e lm="hors-jeu"><i>hors-jeu</i><par n="??????????"/></e>
 <e lm="hors-ligne"><i>hors-ligne</i><par n="??????????"/></e>
 <e lm="hors-média"><i>hors-média</i><par n="??????????"/></e>
 <e lm="hors-piste"><i>hors-piste</i><par n="??????????"/></e>
@@ -2271,12 +2568,9 @@ APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 â
 <e lm="impresario"><i>impresario</i><par n="??????????"/></e>
 <e lm="imprimatur"><i>imprimatur</i><par n="??????????"/></e>
 <e lm="incipit"><i>incipit</i><par n="??????????"/></e>
-<e lm="incomplet"><i>incomplet</i><par n="??????????"/></e>
-<e lm="indiscret"><i>indiscret</i><par n="??????????"/></e>
 <e lm="jazzman"><i>jazzman</i><par n="??????????"/></e>
 <e lm="jet-society"><i>jet-society</i><par n="??????????"/></e>
 <e lm="job"><i>job</i><par n="??????????"/></e>
-<e lm="joule"><i>joule</i><par n="??????????"/></e>
 <e lm="juke-box"><i>juke-box</i><par n="??????????"/></e>
 <e lm="junky"><i>junky</i><par n="??????????"/></e>
 <e lm="kakemono"><i>kakemono</i><par n="??????????"/></e>
@@ -2286,7 +2580,6 @@ APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 â
 <e lm="kat"><i>kat</i><par n="??????????"/></e>
 <e lm="katakana"><i>katakana</i><par n="??????????"/></e>
 <e lm="katal"><i>katal</i><par n="??????????"/></e>
-<e lm="kelvin"><i>kelvin</i><par n="??????????"/></e>
 <e lm="khi"><i>khi</i><par n="??????????"/></e>
 <e lm="kibboutznik"><i>kibboutznik</i><par n="??????????"/></e>
 <e lm="kitch"><i>kitch</i><par n="??????????"/></e>
@@ -2294,13 +2587,11 @@ APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 â
 <e lm="kshatriya"><i>kshatriya</i><par n="??????????"/></e>
 <e lm="ksi"><i>ksi</i><par n="??????????"/></e>
 <e lm="lady"><i>lady</i><par n="??????????"/></e>
-<e lm="lambda"><i>lambda</i><par n="??????????"/></e>
 <e lm="land"><i>land</i><par n="??????????"/></e>
 <e lm="lapilli"><i>lapilli</i><par n="??????????"/></e>
 <e lm="lapon"><i>lapon</i><par n="??????????"/></e>
 <e lm="largo"><i>largo</i><par n="??????????"/></e>
 <e lm="lasagne"><i>lasagne</i><par n="??????????"/></e>
-<e lm="latifundium"><i>latifundium</i><par n="??????????"/></e>
 <e lm="lavatory"><i>lavatory</i><par n="??????????"/></e>
 <e lm="lave-auto"><i>lave-auto</i><par n="??????????"/></e>
 <e lm="lave-glace"><i>lave-glace</i><par n="??????????"/></e>
@@ -2315,13 +2606,11 @@ APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 â
 <e lm="linga"><i>linga</i><par n="??????????"/></e>
 <e lm="lingam"><i>lingam</i><par n="??????????"/></e>
 <e lm="lm"><i>lm</i><par n="??????????"/></e>
-<e lm="lobby"><i>lobby</i><par n="??????????"/></e>
 <e lm="lorry"><i>lorry</i><par n="??????????"/></e>
 <e lm="lumen"><i>lumen</i><par n="??????????"/></e>
 <e lm="lunch"><i>lunch</i><par n="??????????"/></e>
 <e lm="lux"><i>lux</i><par n="??????????"/></e>
 <e lm="lx"><i>lx</i><par n="??????????"/></e>
-<e lm="lèche-cul"><i>lèche-cul</i><par n="??????????"/></e>
 <e lm="lèse-majesté"><i>lèse-majesté</i><par n="??????????"/></e>
 <e lm="lève-glace"><i>lève-glace</i><par n="??????????"/></e>
 <e lm="lève-vitre"><i>lève-vitre</i><par n="??????????"/></e>
@@ -2354,7 +2643,6 @@ APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 â
 <e lm="miss"><i>miss</i><par n="??????????"/></e>
 <e lm="moderato"><i>moderato</i><par n="??????????"/></e>
 <e lm="mol"><i>mol</i><par n="??????????"/></e>
-<e lm="mole"><i>mole</i><par n="??????????"/></e>
 <e lm="monsignore"><i>monsignore</i><par n="??????????"/></e>
 <e lm="monte-charge"><i>monte-charge</i><par n="??????????"/></e>
 <e lm="monte-glace"><i>monte-glace</i><par n="??????????"/></e>
@@ -2363,20 +2651,15 @@ APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 â
 <e lm="mu"><i>mu</i><par n="??????????"/></e>
 <e lm="multicomposant"><i>multicomposant</i><par n="??????????"/></e>
 <e lm="méthacrylate"><i>méthacrylate</i><par n="??????????"/></e>
-<e lm="métis"><i>métis</i><par n="??????????"/></e>
-<e lm="national-socialiste"><i>national-socialiste</i><par n="??????????"/></e>
 <e lm="nationaux-socialistes"><i>nationaux-socialistes</i><par n="??????????"/></e>
 <e lm="neu-neu"><i>neu-neu</i><par n="??????????"/></e>
 <e lm="neux-neux"><i>neux-neux</i><par n="??????????"/></e>
-<e lm="newton"><i>newton</i><par n="??????????"/></e>
 <e lm="nippon"><i>nippon</i><par n="??????????"/></e>
 <e lm="nouvel"><i>nouvel</i><par n="??????????"/></e>
-<e lm="nova"><i>nova</i><par n="??????????"/></e>
 <e lm="nuraghe"><i>nuraghe</i><par n="??????????"/></e>
 <e lm="nursery"><i>nursery</i><par n="??????????"/></e>
 <e lm="o"><i>o</i><par n="??????????"/></e>
 <e lm="oculus"><i>oculus</i><par n="??????????"/></e>
-<e lm="ohm"><i>ohm</i><par n="??????????"/></e>
 <e lm="oligo-élément"><i>oligo-élément</i><par n="??????????"/></e>
 <e lm="oligoélément"><i>oligoélément</i><par n="??????????"/></e>
 <e lm="olim"><i>olim</i><par n="??????????"/></e>
@@ -2388,7 +2671,6 @@ APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 â
 <e lm="oppidum"><i>oppidum</i><par n="??????????"/></e>
 <e lm="optimum"><i>optimum</i><par n="??????????"/></e>
 <e lm="ordo"><i>ordo</i><par n="??????????"/></e>
-<e lm="ouzbek"><i>ouzbek</i><par n="??????????"/></e>
 <e lm="paddy"><i>paddy</i><par n="??????????"/></e>
 <e lm="pagus"><i>pagus</i><par n="??????????"/></e>
 <e lm="palazzo"><i>palazzo</i><par n="??????????"/></e>
@@ -2405,7 +2687,6 @@ APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 â
 <e lm="pare-vapeur"><i>pare-vapeur</i><par n="??????????"/></e>
 <e lm="pare-vent"><i>pare-vent</i><par n="??????????"/></e>
 <e lm="partita"><i>partita</i><par n="??????????"/></e>
-<e lm="pascal"><i>pascal</i><par n="??????????"/></e>
 <e lm="passe-coupe"><i>passe-coupe</i><par n="??????????"/></e>
 <e lm="passe-crassane"><i>passe-crassane</i><par n="??????????"/></e>
 <e lm="passe-droit"><i>passe-droit</i><par n="??????????"/></e>
@@ -2420,7 +2701,6 @@ APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 â
 <e lm="peau-rouge"><i>peau-rouge</i><par n="??????????"/></e>
 <e lm="peaux-rouges"><i>peaux-rouges</i><par n="??????????"/></e>
 <e lm="pecorino"><i>pecorino</i><par n="??????????"/></e>
-<e lm="penny"><i>penny</i><par n="??????????"/></e>
 <e lm="perce-muraille"><i>perce-muraille</i><par n="??????????"/></e>
 <e lm="perce-neige"><i>perce-neige</i><par n="??????????"/></e>
 <e lm="perce-oreille"><i>perce-oreille</i><par n="??????????"/></e>
@@ -2538,7 +2818,6 @@ APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 â
 <e lm="rabat-joie"><i>rabat-joie</i><par n="??????????"/></e>
 <e lm="rabat-vent"><i>rabat-vent</i><par n="??????????"/></e>
 <e lm="rad"><i>rad</i><par n="??????????"/></e>
-<e lm="radian"><i>radian</i><par n="??????????"/></e>
 <e lm="raideur"><i>raideur</i><par n="??????????"/></e>
 <e lm="ramasse-monnaie"><i>ramasse-monnaie</i><par n="??????????"/></e>
 <e lm="ramasse-poussière"><i>ramasse-poussière</i><par n="??????????"/></e>
@@ -2548,7 +2827,6 @@ APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 â
 <e lm="rave-party"><i>rave-party</i><par n="??????????"/></e>
 <e lm="ravioli"><i>ravioli</i><par n="??????????"/></e>
 <e lm="ready-made"><i>ready-made</i><par n="??????????"/></e>
-<e lm="recordman"><i>recordman</i><par n="??????????"/></e>
 <e lm="recordwoman"><i>recordwoman</i><par n="??????????"/></e>
 <e lm="relish"><i>relish</i><par n="??????????"/></e>
 <e lm="remix"><i>remix</i><par n="??????????"/></e>
@@ -2556,12 +2834,10 @@ APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 â
 <e lm="remue-ménage"><i>remue-ménage</i><par n="??????????"/></e>
 <e lm="repose-tête"><i>repose-tête</i><par n="??????????"/></e>
 <e lm="ricercare"><i>ricercare</i><par n="??????????"/></e>
-<e lm="rifle"><i>rifle</i><par n="??????????"/></e>
 <e lm="rigolo"><i>rigolo</i><par n="??????????"/></e>
 <e lm="rigolote"><i>rigolote</i><par n="??????????"/></e>
 <e lm="rince-bouche"><i>rince-bouche</i><par n="??????????"/></e>
 <e lm="ripieno"><i>ripieno</i><par n="??????????"/></e>
-<e lm="ripou"><i>ripou</i><par n="??????????"/></e>
 <e lm="ripous"><i>ripous</i><par n="??????????"/></e>
 <e lm="robinetier"><i>robinetier</i><par n="??????????"/></e>
 <e lm="robinétier"><i>robinétier</i><par n="??????????"/></e>
@@ -2579,7 +2855,6 @@ APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 â
 <e lm="röntgen"><i>röntgen</i><par n="??????????"/></e>
 <e lm="salonnard"><i>salonnard</i><par n="??????????"/></e>
 <e lm="sampi"><i>sampi</i><par n="??????????"/></e>
-<e lm="sanatorium"><i>sanatorium</i><par n="??????????"/></e>
 <e lm="sangs-mêlés"><i>sangs-mêlés</i><par n="??????????"/></e>
 <e lm="sans-culotte"><i>sans-culotte</i><par n="??????????"/></e>
 <e lm="sans-cœur"><i>sans-cœur</i><par n="??????????"/></e>
@@ -2618,12 +2893,9 @@ APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 â
 <e lm="sigma"><i>sigma</i><par n="??????????"/></e>
 <e lm="slash"><i>slash</i><par n="??????????"/></e>
 <e lm="smash"><i>smash</i><par n="??????????"/></e>
-<e lm="snoreau"><i>snoreau</i><par n="??????????"/></e>
-<e lm="solo"><i>solo</i><par n="??????????"/></e>
 <e lm="souffre-douleur"><i>souffre-douleur</i><par n="??????????"/></e>
 <e lm="sous-gorge"><i>sous-gorge</i><par n="??????????"/></e>
 <e lm="sous-main"><i>sous-main</i><par n="??????????"/></e>
-<e lm="sous-préfet"><i>sous-préfet</i><par n="??????????"/></e>
 <e lm="sous-seing"><i>sous-seing</i><par n="??????????"/></e>
 <e lm="sous-verge"><i>sous-verge</i><par n="??????????"/></e>
 <e lm="sous-verre"><i>sous-verre</i><par n="??????????"/></e>
@@ -2634,20 +2906,15 @@ APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 â
 <e lm="sportswoman"><i>sportswoman</i><par n="??????????"/></e>
 <e lm="sr"><i>sr</i><par n="??????????"/></e>
 <e lm="staccato"><i>staccato</i><par n="??????????"/></e>
-<e lm="stimulus"><i>stimulus</i><par n="??????????"/></e>
 <e lm="stups"><i>stups</i><par n="??????????"/></e>
 <e lm="stéradian"><i>stéradian</i><par n="??????????"/></e>
 <e lm="sulky"><i>sulky</i><par n="??????????"/></e>
 <e lm="super"><i>super</i><par n="??????????"/></e>
 <e lm="superman"><i>superman</i><par n="??????????"/></e>
-<e lm="supernova"><i>supernova</i><par n="??????????"/></e>
 <e lm="superwoman"><i>superwoman</i><par n="??????????"/></e>
 <e lm="surmoi"><i>surmoi</i><par n="??????????"/></e>
-<e lm="symposium"><i>symposium</i><par n="??????????"/></e>
-<e lm="séraphin"><i>séraphin</i><par n="??????????"/></e>
 <e lm="sétaire"><i>sétaire</i><par n="??????????"/></e>
 <e lm="tagliatelle"><i>tagliatelle</i><par n="??????????"/></e>
-<e lm="taille-crayon"><i>taille-crayon</i><par n="??????????"/></e>
 <e lm="taille-mer"><i>taille-mer</i><par n="??????????"/></e>
 <e lm="taille-vent"><i>taille-vent</i><par n="??????????"/></e>
 <e lm="tam-tam"><i>tam-tam</i><par n="??????????"/></e>
@@ -2729,7 +2996,6 @@ APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 â
 <e lm="vide-vite"><i>vide-vite</i><par n="??????????"/></e>
 <e lm="vieil"><i>vieil</i><par n="??????????"/></e>
 <e lm="vocero"><i>vocero</i><par n="??????????"/></e>
-<e lm="volt"><i>volt</i><par n="??????????"/></e>
 <e lm="voltampère"><i>voltampère</i><par n="??????????"/></e>
 <e lm="wallaby"><i>wallaby</i><par n="??????????"/></e>
 <e lm="wattheure"><i>wattheure</i><par n="??????????"/></e>

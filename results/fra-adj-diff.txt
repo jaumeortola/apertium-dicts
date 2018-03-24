@@ -1,10 +1,4 @@
 
-APERTIUM: abyssal	PAR: abaissant__adj	FORMS: AQ0FP0 abyssales AQ0FS0 abyssale AQ0MP0 abyssals AQ0MS0 abyssal
-   OTHER: abyssal	PAR: amica/l__adj	FORMS: AQ0FP0 abyssales AQ0FS0 abyssale AQ0MP0 abyssaux AQ0MS0 abyssal
-
-APERTIUM: angolais	PAR: bas__adj	FORMS: AQ0FP0 angolaisses AQ0FS0 angolaisse AQ0MN0 angolais
-   OTHER: angolais	PAR: anglais__adj	FORMS: AQ0FP0 angolaises AQ0FS0 angolaise AQ0MN0 angolais
-
 APERTIUM: animal	PAR: abaissant__adj	FORMS: AQ0FP0 animales AQ0FS0 animale AQ0MP0 animals AQ0MS0 animal
    OTHER: animal	PAR: amica/l__adj	FORMS: AQ0FP0 animales AQ0FS0 animale AQ0MP0 animaux AQ0MS0 animal
 
@@ -21,8 +15,9 @@ APERTIUM: austral	PAR: abaissant__adj	FORMS: AQ0FP0 australes AQ0FS0 australe AQ
 APERTIUM: aérospatial	PAR: abaissant__adj	FORMS: AQ0FP0 aérospatiales AQ0FS0 aérospatiale AQ0MP0 aérospatials AQ0MS0 aérospatial
    OTHER: aérospatial	PAR: amica/l__adj	FORMS: AQ0FP0 aérospatiales AQ0FS0 aérospatiale AQ0MP0 aérospatiaux AQ0MS0 aérospatial
 
-APERTIUM: barcelonais	PAR: bas__adj	FORMS: AQ0FP0 barcelonaisses AQ0FS0 barcelonaisse AQ0MN0 barcelonais
-   OTHER: barcelonais	PAR: anglais__adj	FORMS: AQ0FP0 barcelonaises AQ0FS0 barcelonaise AQ0MN0 barcelonais
+APERTIUM: burkinabé	PAR: abaissant__adj	FORMS: AQ0FP0 burkinabées AQ0FS0 burkinabée AQ0MP0 burkinabés AQ0MS0 burkinabé
+   OTHER: burkinabé	PAR: académique__adj	FORMS: AQ0CP0 burkinabés AQ0CS0 burkinabé
+   OTHER: burkinabé	PAR: même__adj	FORMS: AQ0CP0 burkinabés AQ0CS0 burkinabé
 
 APERTIUM: cadastral	PAR: abaissant__adj	FORMS: AQ0FP0 cadastrales AQ0FS0 cadastrale AQ0MP0 cadastrals AQ0MS0 cadastral
    OTHER: cadastral	PAR: amica/l__adj	FORMS: AQ0FP0 cadastrales AQ0FS0 cadastrale AQ0MP0 cadastraux AQ0MS0 cadastral
@@ -59,29 +54,33 @@ APERTIUM: global	PAR: abaissant__adj	FORMS: AQ0FP0 globales AQ0FS0 globale AQ0MP
 APERTIUM: idéal	PAR: abaissant__adj	FORMS: AQ0FP0 idéales AQ0FS0 idéale AQ0MP0 idéals AQ0MS0 idéal
    OTHER: idéal	PAR: amica/l__adj	FORMS: AQ0FP0 idéales AQ0FS0 idéale AQ0MP0 idéaux AQ0MS0 idéal
 
+APERTIUM: kirghiz	PAR: abaissant__adj	FORMS: AQ0FP0 kirghizes AQ0FS0 kirghize AQ0MP0 kirghizs AQ0MS0 kirghiz
+   OTHER: kirghiz	PAR: anglais__adj	FORMS: AQ0FP0 kirghizes AQ0FS0 kirghize AQ0MN0 kirghiz
+
 APERTIUM: littéral	PAR: abaissant__adj	FORMS: AQ0FP0 littérales AQ0FS0 littérale AQ0MP0 littérals AQ0MS0 littéral
    OTHER: littéral	PAR: amica/l__adj	FORMS: AQ0FP0 littérales AQ0FS0 littérale AQ0MP0 littéraux AQ0MS0 littéral
-
-APERTIUM: mondial	PAR: abaissant__adj	FORMS: AQ0FP0 mondiales AQ0FS0 mondiale AQ0MP0 mondials AQ0MS0 mondial
-   OTHER: mondial	PAR: amica/l__adj	FORMS: AQ0FP0 mondiales AQ0FS0 mondiale AQ0MP0 mondiaux AQ0MS0 mondial
 
 APERTIUM: multimédia	PAR: arrière__adj	FORMS: AQ0CN0 multimédia
    OTHER: multimédia	PAR: académique__adj	FORMS: AQ0CP0 multimédias AQ0CS0 multimédia
    OTHER: multimédia	PAR: même__adj	FORMS: AQ0CP0 multimédias AQ0CS0 multimédia
 
 APERTIUM: multirisque	PAR: arrière__adj	FORMS: AQ0CN0 multirisque
+   OTHER: multirisque	PAR: II/e__adj	FORMS: AQ0CP0 multirisques AQ0CS0 multirisque
    OTHER: multirisque	PAR: académique__adj	FORMS: AQ0CP0 multirisques AQ0CS0 multirisque
    OTHER: multirisque	PAR: même__adj	FORMS: AQ0CP0 multirisques AQ0CS0 multirisque
 
-APERTIUM: nominal	PAR: abaissant__adj	FORMS: AQ0FP0 nominales AQ0FS0 nominale AQ0MP0 nominals AQ0MS0 nominal
-   OTHER: nominal	PAR: amica/l__adj	FORMS: AQ0FP0 nominales AQ0FS0 nominale AQ0MP0 nominaux AQ0MS0 nominal
+APERTIUM: métis	PAR: anglais__adj	FORMS: AQ0FP0 métises AQ0FS0 métise AQ0MN0 métis
+   OTHER: métis	PAR: bas__adj	FORMS: AQ0FP0 métisses AQ0FS0 métisse AQ0MN0 métis
+
+APERTIUM: néo-colonialiste	PAR: académique__adj	FORMS: AQ0CP0 néocolonialistes AQ0CS0 néocolonialiste
+   OTHER: néo-colonialiste	PAR: II/e__adj	FORMS: AQ0CP0 néo-colonialistes AQ0CS0 néo-colonialiste
+   OTHER: néo-colonialiste	PAR: académique__adj	FORMS: AQ0CP0 néo-colonialistes AQ0CS0 néo-colonialiste
+   OTHER: néo-colonialiste	PAR: même__adj	FORMS: AQ0CP0 néo-colonialistes AQ0CS0 néo-colonialiste
 
 APERTIUM: pire	PAR: arrière__adj	FORMS: AQ0CN0 pire
+   OTHER: pire	PAR: II/e__adj	FORMS: AQ0CP0 pires AQ0CS0 pire
    OTHER: pire	PAR: académique__adj	FORMS: AQ0CP0 pires AQ0CS0 pire
    OTHER: pire	PAR: même__adj	FORMS: AQ0CP0 pires AQ0CS0 pire
-
-APERTIUM: polyvalent	PAR: académique__adj	FORMS: AQ0CP0 polyvalents AQ0CS0 polyvalent
-   OTHER: polyvalent	PAR: abaissant__adj	FORMS: AQ0FP0 polyvalentes AQ0FS0 polyvalente AQ0MP0 polyvalents AQ0MS0 polyvalent
 
 APERTIUM: purificateur	PAR: causeu/r__adj	FORMS: AQ0FP0 purificateuses AQ0FS0 purificateuse AQ0MP0 purificateurs AQ0MS0 purificateur
    OTHER: purificateur	PAR: conduct/eur__adj	FORMS: AQ0FP0 purificatrices AQ0FS0 purificatrice AQ0MP0 purificateurs AQ0MS0 purificateur
@@ -92,13 +91,6 @@ APERTIUM: sino-japonais	PAR: bas__adj	FORMS: AQ0FP0 sino-japonaisses AQ0FS0 sino
 APERTIUM: ultraviolet	PAR: académique__adj	FORMS: AQ0CP0 ultraviolets AQ0CS0 ultraviolet
    OTHER: ultraviolet	PAR: favori__adj	FORMS: AQ0FP0 ultraviolettes AQ0FS0 ultraviolette AQ0MP0 ultraviolets AQ0MS0 ultraviolet
 
-APERTIUM: végétal	PAR: abaissant__adj	FORMS: AQ0FP0 végétales AQ0FS0 végétale AQ0MP0 végétals AQ0MS0 végétal
-   OTHER: végétal	PAR: amica/l__adj	FORMS: AQ0FP0 végétales AQ0FS0 végétale AQ0MP0 végétaux AQ0MS0 végétal
-
-APERTIUM: énième	PAR: arrière__adj	FORMS: AQ0CN0 énième
-   OTHER: énième	PAR: académique__adj	FORMS: AQ0CP0 énièmes AQ0CS0 énième
-   OTHER: énième	PAR: même__adj	FORMS: AQ0CP0 énièmes AQ0CS0 énième
-
 APERTIUM: épais	PAR: anglais__adj	FORMS: AQ0FP0 épaises AQ0FS0 épaise AQ0MN0 épais
    OTHER: épais	PAR: bas__adj	FORMS: AQ0FP0 épaisses AQ0FS0 épaisse AQ0MN0 épais
 
@@ -108,10 +100,10 @@ APERTIUM: étouffant	PAR: abaissant__adj	FORMS: AQ0FP0 étoufantes AQ0FS0 étouf
 APERTIUM: aigre-doux	PAR: dou/x__adj	FORMS: AQ0FP0 aigre-douces AQ0FS0 aigre-douce AQ0MN0 aigre-doux
    OTHER: aigre-doux	PAR: ??????????????	FORMS: AQ0MS0 aigre-doux
 
-APERTIUM: aigu	PAR: abaissant__adj	FORMS: AQ0FP0 aigues AQ0FS0 aigue AQ0MP0 aigus AQ0MS0 aigu
+APERTIUM: aigu	PAR: aig/u__adj	FORMS: AQ0FP0 aigües AQ0FS0 aigüe AQ0MP0 aigus AQ0MS0 aigu
    OTHER: aigu	PAR: ??????????????	FORMS: AQ0FP0 aiguës AQ0FP0 aigües AQ0FS0 aiguë AQ0FS0 aigüe AQ0MP0 aigus AQ0MP0 aigus AQ0MS0 aigu AQ0MS0 aigu
 
-APERTIUM: ambigu	PAR: ambigu__adj	FORMS: AQ0FP0 ambiguës AQ0FS0 ambiguë AQ0MP0 ambigus AQ0MS0 ambigu
+APERTIUM: ambigu	PAR: aig/u__adj	FORMS: AQ0FP0 ambigües AQ0FS0 ambigüe AQ0MP0 ambigus AQ0MS0 ambigu
    OTHER: ambigu	PAR: ??????????????	FORMS: AQ0FP0 ambiguës AQ0FP0 ambigües AQ0FS0 ambiguë AQ0FS0 ambigüe AQ0MP0 ambigus AQ0MP0 ambigus AQ0MS0 ambigu AQ0MS0 ambigu
 
 APERTIUM: andalou	PAR: andalou__adj	FORMS: AQ0FP0 andalouses AQ0FS0 andalouse AQ0MP0 andalous AQ0MS0 andalou
@@ -135,11 +127,20 @@ APERTIUM: banal	PAR: abaissant__adj	FORMS: AQ0FP0 banales AQ0FS0 banale AQ0MP0 b
 APERTIUM: beau	PAR: be/au__adj	FORMS: AQ0FP0 belles AQ0FS0 belle AQ0MP0 beaux AQ0MS0 beau
    OTHER: beau	PAR: ??????????????	FORMS: AQ0FP0 belles AQ0FS0 belle AQ0MP0 beaux AQ0MP0 bels AQ0MS0 beau AQ0MS0 bel
 
+APERTIUM: bidimensionnel	PAR: annuel__adj	FORMS: AQ0FP0 bidimensionnelles AQ0FS0 bidimensionnelle AQ0MP0 bidimensionnels AQ0MS0 bidimensionnel
+   OTHER: bidimensionnel	PAR: ??????????????	FORMS: AQ0FP0 bidimensionnelles AQ0FP0 bidimensionnelles AQ0FS0 bidimensionnelle AQ0FS0 bidimensionnelle AQ0MP0 bidimensionnels AQ0MP0 bidimensionnels AQ0MS0 bidimensionnel AQ0MS0 bidimensionnel
+
 APERTIUM: bio	PAR: arrière__adj	FORMS: AQ0CN0 bio
    OTHER: bio	PAR: ??????????????	FORMS: AQ0CN0 bio AQ0CP0 bios AQ0CS0 bio
 
+APERTIUM: bénin	PAR: mali/n__adj	FORMS: AQ0FP0 béniges AQ0FS0 bénigne AQ0MP0 bénins AQ0MS0 bénin
+   OTHER: bénin	PAR: ??????????????	FORMS: AQ0FP0 bénignes AQ0FS0 bénigne AQ0MP0 bénins AQ0MS0 bénin
+
 APERTIUM: design	PAR: arrière__adj	FORMS: AQ0CN0 design
    OTHER: design	PAR: ??????????????	FORMS: AQ0CN0 design AQ0CP0 designs AQ0CS0 design
+
+APERTIUM: extra	PAR: arrière__adj	FORMS: AQ0CN0 extra
+   OTHER: extra	PAR: ??????????????	FORMS: AQ0CN0 extra AQ0CP0 extras AQ0CS0 extra
 
 APERTIUM: faux	PAR: affectueu/x__adj	FORMS: AQ0FP0 fauses AQ0FS0 fause AQ0MN0 faux
    OTHER: faux	PAR: ??????????????	FORMS: AQ0FP0 fausses AQ0FS0 fausse AQ0MN0 faux
@@ -150,23 +151,35 @@ APERTIUM: fier	PAR: ch/er__adj	FORMS: AQ0FP0 fières AQ0FS0 fière AQ0MP0 fiers 
 APERTIUM: frais	PAR: fra/is__adj	FORMS: AQ0FP0 fraîches AQ0FS0 fraîche AQ0MN0 frais
    OTHER: frais	PAR: ??????????????	FORMS: AQ0FP0 fraiches AQ0FP0 fraîches AQ0FS0 fraiche AQ0FS0 fraîche AQ0MN0 frais AQ0MN0 frais
 
-APERTIUM: franc	PAR: fran/c__adj	FORMS: AQ0FP0 franches AQ0FS0 franche AQ0MP0 francs AQ0MS0 franc
+APERTIUM: franc	PAR: fran/c_peuple__adj	FORMS: AQ0FP0 franques AQ0FS0 franque AQ0MP0 francs AQ0MS0 franc
    OTHER: franc	PAR: ??????????????	FORMS: AQ0MP0 francs AQ0MS0 franc
+
+APERTIUM: gay	PAR: académique__adj	FORMS: AQ0CP0 gays AQ0CS0 gay
+   OTHER: gay	PAR: ??????????????	FORMS: AQ0CN0 gay AQ0CP0 gays AQ0CS0 gay
+
+APERTIUM: hébreu	PAR: hébreu__adj	FORMS: AQ0CP0 hébreux AQ0CS0 hébreu
+   OTHER: hébreu	PAR: ??????????????	FORMS: AQ0MP0 hébreux AQ0MS0 hébreu
+
+APERTIUM: laïc	PAR: publi/c__adj	FORMS: AQ0FP0 laïques AQ0FS0 laïque AQ0MP0 laïcs AQ0MS0 laïc
+   OTHER: laïc	PAR: ??????????????	FORMS: AQ0MP0 laïcs AQ0MS0 laïc
 
 APERTIUM: letton	PAR: ancien__adj	FORMS: AQ0FP0 lettonnes AQ0FS0 lettonne AQ0MP0 lettons AQ0MS0 letton
    OTHER: letton	PAR: ??????????????	FORMS: AQ0FP0 lettones AQ0FP0 lettonnes AQ0FS0 lettone AQ0FS0 lettonne AQ0MP0 lettons AQ0MP0 lettons AQ0MS0 letton AQ0MS0 letton
 
+APERTIUM: lilas	PAR: arrière__adj	FORMS: AQ0CN0 lilas
+   OTHER: lilas	PAR: ??????????????	FORMS: AQ0MN0 lilas
+
 APERTIUM: malin	PAR: mali/n__adj	FORMS: AQ0FP0 maliges AQ0FS0 maligne AQ0MP0 malins AQ0MS0 malin
    OTHER: malin	PAR: ??????????????	FORMS: AQ0FP0 malignes AQ0FS0 maligne AQ0MP0 malins AQ0MS0 malin
 
-APERTIUM: marron	PAR: ancien__adj	FORMS: AQ0FP0 marronnes AQ0FS0 marronne AQ0MP0 marrons AQ0MS0 marron
+APERTIUM: marron	PAR: arrière__adj	FORMS: AQ0CN0 marron
    OTHER: marron	PAR: ??????????????	FORMS: AQ0CN0 marron AQ0FP0 marronnes AQ0FS0 marronne AQ0MP0 marrons AQ0MS0 marron
 
-APERTIUM: mûr	PAR: abaissant__adj	FORMS: AQ0FP0 mûres AQ0FS0 mûre AQ0MP0 mûrs AQ0MS0 mûr
+APERTIUM: mûr	PAR: m/ûr__adj	FORMS: AQ0FP0 mures AQ0FS0 mure AQ0MP0 murs AQ0MS0 mûr
    OTHER: mûr	PAR: ??????????????	FORMS: AQ0FP0 mûres AQ0FS0 mûre AQ0MP0 mûrs AQ0MS0 mûr AQ0MS0 mûr
 
-APERTIUM: nouveau	PAR: nouve/au__adj	FORMS: AQ0FP0 nouvelles AQ0FS0 nouvelle AQ0MP0 nouveaux AQ0MS0 nouveau
-   OTHER: nouveau	PAR: ??????????????	FORMS: AQ0FP0 nouvelles AQ0FS0 nouvelle AQ0MP0 nouveaux AQ0MP0 nouvels AQ0MS0 nouveau AQ0MS0 nouvel AQ0MS0 nouvel
+APERTIUM: nippon	PAR: ancien__adj	FORMS: AQ0FP0 nipponnes AQ0FS0 nipponne AQ0MP0 nippons AQ0MS0 nippon
+   OTHER: nippon	PAR: ??????????????	FORMS: AQ0FP0 nippones AQ0FP0 nipponnes AQ0FS0 nippone AQ0FS0 nipponne AQ0MP0 nippons AQ0MP0 nippons AQ0MS0 nippon AQ0MS0 nippon
 
 APERTIUM: open	PAR: arrière__adj	FORMS: AQ0CN0 open
    OTHER: open	PAR: ??????????????	FORMS: AQ0CN0 open AQ0CP0 opens AQ0CS0 open
@@ -177,6 +190,9 @@ APERTIUM: pluridisciplinaire	PAR: académique__adj	FORMS: AQ0CP0 pluridisciplina
 APERTIUM: punk	PAR: arrière__adj	FORMS: AQ0CN0 punk
    OTHER: punk	PAR: ??????????????	FORMS: AQ0CN0 punk AQ0CP0 punks AQ0CS0 punk
 
+APERTIUM: répresseur	PAR: causeu/r__adj	FORMS: AQ0FP0 répresseuses AQ0FS0 répresseuse AQ0MP0 répresseurs AQ0MS0 répresseur
+   OTHER: répresseur	PAR: ??????????????	FORMS: AQ0MP0 répresseurs AQ0MS0 répresseur
+
 APERTIUM: sans-fil	PAR: académique__adj	FORMS: AQ0CP0 sans-fils AQ0CS0 sans-fil
    OTHER: sans-fil	PAR: ??????????????	FORMS: AQ0CN0 sans-fil AQ0CP0 sans-fils AQ0CS0 sans-fil
 
@@ -186,13 +202,16 @@ APERTIUM: saoudite	PAR: académique__adj	FORMS: AQ0CP0 saoudites AQ0CS0 saoudite
 APERTIUM: sexy	PAR: académique__adj	FORMS: AQ0CP0 sexys AQ0CS0 sexy
    OTHER: sexy	PAR: ??????????????	FORMS: AQ0CN0 sexy AQ0CP0 sexys AQ0CS0 sexy
 
+APERTIUM: social-démocrate	PAR: soci/al-démocrate__adj	FORMS: AQ0FP0 sociales-démocrates AQ0FS0 sociale-démocrate AQ0MP0 sociaux-démocrates AQ0MS0 social-démocrate
+   OTHER: social-démocrate	PAR: ??????????????	FORMS: AQ0MS0 social-démocrate
+
 APERTIUM: standard	PAR: académique__adj	FORMS: AQ0CP0 standards AQ0CS0 standard
    OTHER: standard	PAR: ??????????????	FORMS: AQ0CN0 standard AQ0CP0 standards AQ0CS0 standard
 
 APERTIUM: sympa	PAR: arrière__adj	FORMS: AQ0CN0 sympa
    OTHER: sympa	PAR: ??????????????	FORMS: AQ0CN0 sympa AQ0CP0 sympas AQ0CS0 sympa
 
-APERTIUM: sûr	PAR: abaissant__adj	FORMS: AQ0FP0 sûres AQ0FS0 sûre AQ0MP0 sûrs AQ0MS0 sûr
+APERTIUM: sûr	PAR: m/ûr__adj	FORMS: AQ0FP0 sures AQ0FS0 sure AQ0MP0 surs AQ0MS0 sûr
    OTHER: sûr	PAR: ??????????????	FORMS: AQ0FP0 sûres AQ0FS0 sûre AQ0MP0 sûrs AQ0MS0 sûr AQ0MS0 sûr
 
 APERTIUM: vainqueur	PAR: causeu/r__adj	FORMS: AQ0FP0 vainqueuses AQ0FS0 vainqueuse AQ0MP0 vainqueurs AQ0MS0 vainqueur
@@ -203,6 +222,9 @@ APERTIUM: vieil	PAR: vie/il__adj	FORMS: AQ0FP0 vieilles AQ0FS0 vieille AQ0MP0 vi
 
 APERTIUM: zen	PAR: arrière__adj	FORMS: AQ0CN0 zen
    OTHER: zen	PAR: ??????????????	FORMS: AQ0CN0 zen AQ0CP0 zens AQ0CS0 zen
+
+APERTIUM: équatorial	PAR: amica/l__adj	FORMS: AQ0FP0 équatoriales AQ0FS0 équatoriale AQ0MP0 équatoriaux AQ0MS0 équatorial
+   OTHER: équatorial	PAR: ??????????????	FORMS: AQ0CP0 équatoriaux AQ0CS0 équatorial AQ0FP0 équatoriales AQ0FS0 équatoriale AQ0MP0 équatoriaux AQ0MS0 équatorial
 <e lm="1er"><i>1er</i><par n="??????????"/></e>
 <e lm="1ers"><i>1ers</i><par n="??????????"/></e>
 <e lm="1re"><i>1re</i><par n="??????????"/></e>
@@ -392,7 +414,6 @@ APERTIUM: zen	PAR: arrière__adj	FORMS: AQ0CN0 zen
 <e lm="autopropulseur"><i>autopropulseur</i><par n="??????????"/></e>
 <e lm="bardé"><i>bardé</i><par n="??????????"/></e>
 <e lm="becqueté"><i>becqueté</i><par n="??????????"/></e>
-<e lm="bidimensionnel"><i>bidimensionnel</i><par n="??????????"/></e>
 <e lm="bigouden"><i>bigouden</i><par n="??????????"/></e>
 <e lm="biphasique"><i>biphasique</i><par n="??????????"/></e>
 <e lm="boréals"><i>boréals</i><par n="??????????"/></e>
@@ -400,7 +421,6 @@ APERTIUM: zen	PAR: arrière__adj	FORMS: AQ0CN0 zen
 <e lm="brèche-dent"><i>brèche-dent</i><par n="??????????"/></e>
 <e lm="bée"><i>bée</i><par n="??????????"/></e>
 <e lm="bégu"><i>bégu</i><par n="??????????"/></e>
-<e lm="bénin"><i>bénin</i><par n="??????????"/></e>
 <e lm="bêta"><i>bêta</i><par n="??????????"/></e>
 <e lm="bêtasse"><i>bêtasse</i><par n="??????????"/></e>
 <e lm="cabus"><i>cabus</i><par n="??????????"/></e>
@@ -455,7 +475,6 @@ APERTIUM: zen	PAR: arrière__adj	FORMS: AQ0CN0 zen
 <e lm="duals"><i>duals</i><par n="??????????"/></e>
 <e lm="dus"><i>dus</i><par n="??????????"/></e>
 <e lm="déchaux"><i>déchaux</i><par n="??????????"/></e>
-<e lm="dégueu"><i>dégueu</i><par n="??????????"/></e>
 <e lm="démocrate-chrétien"><i>démocrate-chrétien</i><par n="??????????"/></e>
 <e lm="démocrate-chrétienne"><i>démocrate-chrétienne</i><par n="??????????"/></e>
 <e lm="démocrates-chrétiennes"><i>démocrates-chrétiennes</i><par n="??????????"/></e>
@@ -464,12 +483,10 @@ APERTIUM: zen	PAR: arrière__adj	FORMS: AQ0CN0 zen
 <e lm="désajusté"><i>désajusté</i><par n="??????????"/></e>
 <e lm="enchanteur"><i>enchanteur</i><par n="??????????"/></e>
 <e lm="endocrine"><i>endocrine</i><par n="??????????"/></e>
-<e lm="esquimau"><i>esquimau</i><par n="??????????"/></e>
 <e lm="exigu"><i>exigu</i><par n="??????????"/></e>
 <e lm="expresse"><i>expresse</i><par n="??????????"/></e>
 <e lm="exprès"><i>exprès</i><par n="??????????"/></e>
 <e lm="extenseur"><i>extenseur</i><par n="??????????"/></e>
-<e lm="extra"><i>extra</i><par n="??????????"/></e>
 <e lm="finaux"><i>finaux</i><par n="??????????"/></e>
 <e lm="flood"><i>flood</i><par n="??????????"/></e>
 <e lm="fol"><i>fol</i><par n="??????????"/></e>
@@ -486,7 +503,6 @@ APERTIUM: zen	PAR: arrière__adj	FORMS: AQ0CN0 zen
 <e lm="funk"><i>funk</i><par n="??????????"/></e>
 <e lm="funky"><i>funky</i><par n="??????????"/></e>
 <e lm="férals"><i>férals</i><par n="??????????"/></e>
-<e lm="gay"><i>gay</i><par n="??????????"/></e>
 <e lm="gestatoire"><i>gestatoire</i><par n="??????????"/></e>
 <e lm="glacials"><i>glacials</i><par n="??????????"/></e>
 <e lm="glyconien"><i>glyconien</i><par n="??????????"/></e>
@@ -516,7 +532,6 @@ APERTIUM: zen	PAR: arrière__adj	FORMS: AQ0CN0 zen
 <e lm="hypertenseur"><i>hypertenseur</i><par n="??????????"/></e>
 <e lm="hypodorien"><i>hypodorien</i><par n="??????????"/></e>
 <e lm="hypotenseur"><i>hypotenseur</i><par n="??????????"/></e>
-<e lm="hébreu"><i>hébreu</i><par n="??????????"/></e>
 <e lm="idéals"><i>idéals</i><par n="??????????"/></e>
 <e lm="immunodépresseur"><i>immunodépresseur</i><par n="??????????"/></e>
 <e lm="immunosuppresseur"><i>immunosuppresseur</i><par n="??????????"/></e>
@@ -534,19 +549,14 @@ APERTIUM: zen	PAR: arrière__adj	FORMS: AQ0CN0 zen
 <e lm="lapon"><i>lapon</i><par n="??????????"/></e>
 <e lm="latina"><i>latina</i><par n="??????????"/></e>
 <e lm="lauracée"><i>lauracée</i><par n="??????????"/></e>
-<e lm="laïc"><i>laïc</i><par n="??????????"/></e>
 <e lm="light"><i>light</i><par n="??????????"/></e>
-<e lm="lilas"><i>lilas</i><par n="??????????"/></e>
 <e lm="lipizzan"><i>lipizzan</i><par n="??????????"/></e>
 <e lm="live"><i>live</i><par n="??????????"/></e>
 <e lm="long-courrier"><i>long-courrier</i><par n="??????????"/></e>
 <e lm="lèche-cul"><i>lèche-cul</i><par n="??????????"/></e>
-<e lm="maitre"><i>maitre</i><par n="??????????"/></e>
 <e lm="marengo"><i>marengo</i><par n="??????????"/></e>
 <e lm="marials"><i>marials</i><par n="??????????"/></e>
 <e lm="marlou"><i>marlou</i><par n="??????????"/></e>
-<e lm="marteau"><i>marteau</i><par n="??????????"/></e>
-<e lm="maître"><i>maître</i><par n="??????????"/></e>
 <e lm="melba"><i>melba</i><par n="??????????"/></e>
 <e lm="menante"><i>menante</i><par n="??????????"/></e>
 <e lm="mercureux"><i>mercureux</i><par n="??????????"/></e>
@@ -564,7 +574,7 @@ APERTIUM: zen	PAR: arrière__adj	FORMS: AQ0CN0 zen
 <e lm="ménopausée"><i>ménopausée</i><par n="??????????"/></e>
 <e lm="neu-neu"><i>neu-neu</i><par n="??????????"/></e>
 <e lm="neux-neux"><i>neux-neux</i><par n="??????????"/></e>
-<e lm="nippon"><i>nippon</i><par n="??????????"/></e>
+<e lm="nouveau"><i>nouveau</i><par n="??????????"/></e>
 <e lm="nympho"><i>nympho</i><par n="??????????"/></e>
 <e lm="océane"><i>océane</i><par n="??????????"/></e>
 <e lm="offset"><i>offset</i><par n="??????????"/></e>
@@ -572,7 +582,6 @@ APERTIUM: zen	PAR: arrière__adj	FORMS: AQ0CN0 zen
 <e lm="ombrien"><i>ombrien</i><par n="??????????"/></e>
 <e lm="operandi"><i>operandi</i><par n="??????????"/></e>
 <e lm="opérandi"><i>opérandi</i><par n="??????????"/></e>
-<e lm="ouzbek"><i>ouzbek</i><par n="??????????"/></e>
 <e lm="papabile"><i>papabile</i><par n="??????????"/></e>
 <e lm="pare-feu"><i>pare-feu</i><par n="??????????"/></e>
 <e lm="paroxyton"><i>paroxyton</i><par n="??????????"/></e>
@@ -620,7 +629,6 @@ APERTIUM: zen	PAR: arrière__adj	FORMS: AQ0CN0 zen
 <e lm="reparti"><i>reparti</i><par n="??????????"/></e>
 <e lm="rigolo"><i>rigolo</i><par n="??????????"/></e>
 <e lm="rigolote"><i>rigolote</i><par n="??????????"/></e>
-<e lm="ripou"><i>ripou</i><par n="??????????"/></e>
 <e lm="ripous"><i>ripous</i><par n="??????????"/></e>
 <e lm="riquiqui"><i>riquiqui</i><par n="??????????"/></e>
 <e lm="rouverain"><i>rouverain</i><par n="??????????"/></e>
@@ -628,14 +636,12 @@ APERTIUM: zen	PAR: arrière__adj	FORMS: AQ0CN0 zen
 <e lm="roux"><i>roux</i><par n="??????????"/></e>
 <e lm="rubican"><i>rubican</i><par n="??????????"/></e>
 <e lm="réglo"><i>réglo</i><par n="??????????"/></e>
-<e lm="répresseur"><i>répresseur</i><par n="??????????"/></e>
 <e lm="résolu"><i>résolu</i><par n="??????????"/></e>
 <e lm="sacramental"><i>sacramental</i><par n="??????????"/></e>
 <e lm="salaud"><i>salaud</i><par n="??????????"/></e>
 <e lm="sans-cœur"><i>sans-cœur</i><par n="??????????"/></e>
 <e lm="scratch"><i>scratch</i><par n="??????????"/></e>
 <e lm="social-chrétien"><i>social-chrétien</i><par n="??????????"/></e>
-<e lm="social-démocrate"><i>social-démocrate</i><par n="??????????"/></e>
 <e lm="social-révolutionnaire"><i>social-révolutionnaire</i><par n="??????????"/></e>
 <e lm="sociale-chrétienne"><i>sociale-chrétienne</i><par n="??????????"/></e>
 <e lm="sociale-démocrate"><i>sociale-démocrate</i><par n="??????????"/></e>
@@ -706,7 +712,6 @@ APERTIUM: zen	PAR: arrière__adj	FORMS: AQ0CN0 zen
 <e lm="zain"><i>zain</i><par n="??????????"/></e>
 <e lm="æquo"><i>æquo</i><par n="??????????"/></e>
 <e lm="épinière"><i>épinière</i><par n="??????????"/></e>
-<e lm="équatorial"><i>équatorial</i><par n="??????????"/></e>
 <e lm="équipolé"><i>équipolé</i><par n="??????????"/></e>
 <e lm="étésien"><i>étésien</i><par n="??????????"/></e>
 <e lm="œconomicus"><i>œconomicus</i><par n="??????????"/></e>

@@ -24,7 +24,16 @@ if ($gram_cat =~ /^adj$/) {
     $lt_prev = "AQ0";
     $lt_post = "0";
     $lt_tag_start = "A.0";
-} 
+}
+
+if ($gram_cat =~ /^adv$/) {
+    $apertium_gramcat = "adv";
+    $dicollecte_gramcat = "adv";
+    $lt_prev = "RG";
+    $lt_post = "";
+    $lt_tag_start = "RG";
+}
+
 if ($gram_cat =~ /^noun$/) {
     $apertium_gramcat = "n";
     $dicollecte_gramcat = "nom";
@@ -71,7 +80,10 @@ while (my $line = <$fh>) {
             my $afig=$2;
             $afig =~ s/<l>(.*)/$1/;
             my $postag="UNDEFINED";
-            if ($lang =~ /^eng$/) {
+            if ($apertium_gramcat =~ /^adv$/ ) {
+                $postag= $lt_prev;
+            }
+            elsif ($lang =~ /^eng$/) {
                 if ($etiquetes =~ /<s n="adj"\/><s n="sint"\/><s n="sup"\/>/) {$postag="JJS";}
                 elsif ($etiquetes =~ /<s n="adj"\/><s n="sint"\/><s n="comp"\/>/) {$postag="JJR";}
                 elsif ($etiquetes =~ /<s n="adj"\/><s n="sint"\/>/) {$postag="JJ";}
@@ -154,6 +166,9 @@ if ($lang =~ /^fra$/) {
                  if ($tags =~ /\bpl\b/) { $nombre = "P"; } 
                  if ($tags =~ /\bsg\b/) { $nombre = "S"; } 
                  my $newtag = $lt_prev.$genere.$nombre.$lt_post;
+                 if ($dicollecte_gramcat =~ /^adv$/) {
+                    $newtag = $lt_prev;
+                 }
                  push (@adjs_lt, "$lemme $newtag $flexion");    #lemma tags wordform
                  #print "$lemme $newtag $flexion\n";
              }

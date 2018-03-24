@@ -1,0 +1,20 @@
+
+APERTIUM: caricaturalement	PAR: hier__adv	FORMS: RG caricaturalment
+   OTHER: caricaturalement	PAR: comment__adv	FORMS: RG caricaturalement
+   OTHER: caricaturalement	PAR: hier__adv	FORMS: RG caricaturalement
+
+APERTIUM: dessous	PAR: hier__adv	FORMS: RG dessous
+   OTHER: dessous	PAR: ??????????????	FORMS: RG dessous RG dessous
+
+APERTIUM: dessus	PAR: hier__adv	FORMS: RG dessus
+   OTHER: dessus	PAR: ??????????????	FORMS: RG dessus RG dessus
+
+APERTIUM: devant	PAR: hier__adv	FORMS: RG devant
+   OTHER: devant	PAR: ??????????????	FORMS: RG devant RG devant
+
+APERTIUM: inconstamment	PAR: hier__adv	FORMS: RG inconstamment
+   OTHER: inconstamment	PAR: ??????????????	FORMS: RG inconstamment RG inconstamment
+<e lm="brumeusement"><i>brumeusement</i><par n="??????????"/></e>
+<e lm="hospitalièrement"><i>hospitalièrement</i><par n="??????????"/></e>
+<e lm="par-devant"><i>par-devant</i><par n="??????????"/></e>
+<e lm="pâlement"><i>pâlement</i><par n="??????????"/></e>
