@@ -166,6 +166,7 @@ if ($lang =~ /^fra$/) {
                  if ($tags =~ /\bpl\b/) { $nombre = "P"; } 
                  if ($tags =~ /\bsg\b/) { $nombre = "S"; } 
                  my $newtag = $lt_prev.$genere.$nombre.$lt_post;
+                 if ($tags =~ /\bloc\.\b/) { $newtag = "loc_".$newtag; } 
                  if ($dicollecte_gramcat =~ /^adv$/) {
                     $newtag = $lt_prev;
                  }

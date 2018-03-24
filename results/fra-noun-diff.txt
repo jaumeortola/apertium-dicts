@@ -87,10 +87,6 @@ APERTIUM: FBI	PAR: BBVA__n	FORMS: NCMS000 FBI
    OTHER: FBI	PAR: graffiti__n	FORMS: NCMN000 FBI
    OTHER: FBI	PAR: mois__n	FORMS: NCMN000 FBI
 
-APERTIUM: GMT	PAR: BBC__n	FORMS: NCFS000 GMT
-   OTHER: GMT	PAR: ATS__n	FORMS: NCCN000 GMT
-   OTHER: GMT	PAR: ex__n	FORMS: NCCN000 GMT
-
 APERTIUM: GPS	PAR: BBVA__n	FORMS: NCMS000 GPS
    OTHER: GPS	PAR: IRPF__n	FORMS: NCMN000 GPS
    OTHER: GPS	PAR: graffiti__n	FORMS: NCMN000 GPS
@@ -1925,6 +1921,9 @@ APERTIUM: œuvre	PAR: abeille__n	FORMS: NCFP000 œuvres NCFS000 œuvre
 APERTIUM: F	PAR: mois__n	FORMS: NCMN000 F
    OTHER: F	PAR: ??????????????	FORMS: NCMN000 EF NCMN000 F NCMN000 GF NCMN000 MF NCMN000 PF NCMN000 TF NCMN000 YF NCMN000 ZF NCMN000 aF NCMN000 cF NCMN000 dF NCMN000 daF NCMN000 fF NCMN000 hF NCMN000 kF NCMN000 mF NCMN000 nF NCMN000 pF NCMN000 yF NCMN000 zF NCMN000 µF
 
+APERTIUM: GMT	PAR: BBC__n	FORMS: NCFS000 GMT
+   OTHER: GMT	PAR: ??????????????	FORMS: loc_NCCN000 GMT
+
 APERTIUM: Hz	PAR: mois__n	FORMS: NCMN000 Hz
    OTHER: Hz	PAR: ??????????????	FORMS: NCMN000 EHz NCMN000 GHz NCMN000 Hz NCMN000 MHz NCMN000 PHz NCMN000 THz NCMN000 YHz NCMN000 ZHz NCMN000 aHz NCMN000 cHz NCMN000 dHz NCMN000 daHz NCMN000 fHz NCMN000 hHz NCMN000 kHz NCMN000 mHz NCMN000 nHz NCMN000 pHz NCMN000 yHz NCMN000 zHz NCMN000 µHz
 
@@ -2313,6 +2312,7 @@ APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 â
 <e lm="becquerel"><i>becquerel</i><par n="??????????"/></e>
 <e lm="bel"><i>bel</i><par n="??????????"/></e>
 <e lm="belcanto"><i>belcanto</i><par n="??????????"/></e>
+<e lm="bene"><i>bene</i><par n="??????????"/></e>
 <e lm="biffeton"><i>biffeton</i><par n="??????????"/></e>
 <e lm="bigouden"><i>bigouden</i><par n="??????????"/></e>
 <e lm="biogenèse"><i>biogenèse</i><par n="??????????"/></e>
@@ -2397,6 +2397,7 @@ APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 â
 <e lm="chevaucheur"><i>chevaucheur</i><par n="??????????"/></e>
 <e lm="chitosan(e)"><i>chitosan(e)</i><par n="??????????"/></e>
 <e lm="chitosan(e)"><i>chitosan(e)</i><par n="??????????"/></e>
+<e lm="cit"><i>cit</i><par n="??????????"/></e>
 <e lm="clash"><i>clash</i><par n="??????????"/></e>
 <e lm="clergyman"><i>clergyman</i><par n="??????????"/></e>
 <e lm="cnidaire"><i>cnidaire</i><par n="??????????"/></e>
@@ -2427,6 +2428,7 @@ APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 â
 <e lm="crève-tonneau"><i>crève-tonneau</i><par n="??????????"/></e>
 <e lm="crève-vessie"><i>crève-vessie</i><par n="??????????"/></e>
 <e lm="cucul"><i>cucul</i><par n="??????????"/></e>
+<e lm="cujus"><i>cujus</i><par n="??????????"/></e>
 <e lm="cure-oreille"><i>cure-oreille</i><par n="??????????"/></e>
 <e lm="cyclo-cross"><i>cyclo-cross</i><par n="??????????"/></e>
 <e lm="célébrant"><i>célébrant</i><par n="??????????"/></e>
@@ -2568,6 +2570,7 @@ APERTIUM: âne	PAR: buffle__n	FORMS: NCFP000 ânesses NCFS000 ânesse NCMP000 â
 <e lm="impresario"><i>impresario</i><par n="??????????"/></e>
 <e lm="imprimatur"><i>imprimatur</i><par n="??????????"/></e>
 <e lm="incipit"><i>incipit</i><par n="??????????"/></e>
+<e lm="incognita"><i>incognita</i><par n="??????????"/></e>
 <e lm="jazzman"><i>jazzman</i><par n="??????????"/></e>
 <e lm="jet-society"><i>jet-society</i><par n="??????????"/></e>
 <e lm="job"><i>job</i><par n="??????????"/></e>

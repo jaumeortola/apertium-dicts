@@ -4232,7 +4232,6 @@
 <e lm="belître"><i>belître</i><par n="livre__n"/></e>
 <e lm="benchmark"><i>benchmark</i><par n="livre__n"/></e>
 <e lm="bendir"><i>bendir</i><par n="livre__n"/></e>
-<e lm="bene"><i>bene</i><par n="IRPF__n"/></e>
 <e lm="benedictus"><i>benedictus</i><par n="IRPF__n"/></e>
 <e lm="benjoin"><i>benjoin</i><par n="livre__n"/></e>
 <e lm="bennage"><i>bennage</i><par n="livre__n"/></e>
@@ -7934,7 +7933,6 @@
 <e lm="cistron"><i>cistron</i><par n="livre__n"/></e>
 <e lm="cistude"><i>cistude</i><par n="abeille__n"/></e>
 <e lm="cisèlement"><i>cisèlement</i><par n="livre__n"/></e>
-<e lm="cit"><i>cit</i><par n="ATS__n"/></e>
 <e lm="citadin"><i>citadin</i><par n="affecté__n"/></e>
 <e lm="citateur"><i>citat</i><par n="administrat/eur__n"/></e>
 <e lm="citernier"><i>citerni</i><par n="bouch/er__n"/></e>
@@ -10078,7 +10076,6 @@
 <e lm="cuite"><i>cuite</i><par n="abeille__n"/></e>
 <e lm="cuivrage"><i>cuivrage</i><par n="livre__n"/></e>
 <e lm="cuivrerie"><i>cuivrerie</i><par n="abeille__n"/></e>
-<e lm="cujus"><i>cujus</i><par n="IRPF__n"/></e>
 <e lm="cul-de-basse-fosse"><i>cul-de-basse-fosse</i><par n="BBVA__n"/></e>
 <e lm="cul-de-bassefosse"><i>cul-de-bassefosse</i><par n="BBVA__n"/></e>
 <e lm="cul-de-jatte"><i>cul-de-jatte</i><par n="BBVA__n"/></e>
@@ -18616,7 +18613,6 @@
 <e lm="inclinomètre"><i>inclinomètre</i><par n="livre__n"/></e>
 <e lm="inclusivité"><i>inclusivité</i><par n="abeille__n"/></e>
 <e lm="incoercibilité"><i>incoercibilité</i><par n="abeille__n"/></e>
-<e lm="incognita"><i>incognita</i><par n="OPA__n"/></e>
 <e lm="incognito"><i>incognito</i><par n="livre__n"/></e>
 <e lm="incombustibilité"><i>incombustibilité</i><par n="abeille__n"/></e>
 <e lm="incommensurabilité"><i>incommensurabilité</i><par n="abeille__n"/></e>

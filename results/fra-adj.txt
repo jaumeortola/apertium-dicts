@@ -13,7 +13,6 @@
 <e lm="HD"><i>HD</i><par n="arrière__adj"/></e>
 <e lm="HDMI"><i>HDMI</i><par n="arrière__adj"/></e>
 <e lm="HS"><i>HS</i><par n="arrière__adj"/></e>
-<e lm="HT"><i>HT</i><par n="arrière__adj"/></e>
 <e lm="IP"><i>IP</i><par n="arrière__adj"/></e>
 <e lm="ISO"><i>ISO</i><par n="arrière__adj"/></e>
 <e lm="K-O"><i>K-O</i><par n="arrière__adj"/></e>
@@ -28,7 +27,6 @@
 <e lm="SCSI"><i>SCSI</i><par n="arrière__adj"/></e>
 <e lm="San"><i>San</i><par n="arrière__adj"/></e>
 <e lm="Sri"><i>Sri</i><par n="arrière__adj"/></e>
-<e lm="TTC"><i>TTC</i><par n="arrière__adj"/></e>
 <e lm="USB"><i>USB</i><par n="arrière__adj"/></e>
 <e lm="WASP"><i>WASP</i><par n="arrière__adj"/></e>
 <e lm="Wi-Fi"><i>Wi-Fi</i><par n="arrière__adj"/></e>
@@ -947,7 +945,6 @@
 <e lm="apeuré"><i>apeuré</i><par n="abaissant__adj"/></e>
 <e lm="aphotique"><i>aphotiqu</i><par n="II/e__adj"/></e>
 <e lm="aphylle"><i>aphyll</i><par n="II/e__adj"/></e>
-<e lm="api"><i>api</i><par n="arrière__adj"/></e>
 <e lm="apiqué"><i>apiqué</i><par n="abaissant__adj"/></e>
 <e lm="apitoyé"><i>apitoyé</i><par n="abaissant__adj"/></e>
 <e lm="apivore"><i>apivor</i><par n="II/e__adj"/></e>
@@ -2480,7 +2477,6 @@
 <e lm="capahuté"><i>capahuté</i><par n="abaissant__adj"/></e>
 <e lm="caparaçonné"><i>caparaçonné</i><par n="abaissant__adj"/></e>
 <e lm="capelé"><i>capelé</i><par n="abaissant__adj"/></e>
-<e lm="capella"><i>capella</i><par n="arrière__adj"/></e>
 <e lm="capillotracté"><i>capillotracté</i><par n="abaissant__adj"/></e>
 <e lm="capitalisable"><i>capitalisabl</i><par n="II/e__adj"/></e>
 <e lm="capitalisant"><i>capitalisant</i><par n="abaissant__adj"/></e>
@@ -2495,7 +2491,6 @@
 <e lm="capité"><i>capité</i><par n="abaissant__adj"/></e>
 <e lm="caporalisé"><i>caporalisé</i><par n="abaissant__adj"/></e>
 <e lm="capoté"><i>capoté</i><par n="abaissant__adj"/></e>
-<e lm="cappella"><i>cappella</i><par n="arrière__adj"/></e>
 <e lm="capricant"><i>capricant</i><par n="abaissant__adj"/></e>
 <e lm="caprifoliacée"><i>caprifoliacé</i><par n="II/e__adj"/></e>
 <e lm="caprique"><i>capriqu</i><par n="II/e__adj"/></e>
@@ -2692,7 +2687,6 @@
 <e lm="caulescent"><i>caulescent</i><par n="abaissant__adj"/></e>
 <e lm="caulicole"><i>caulicol</i><par n="II/e__adj"/></e>
 <e lm="caulinaire"><i>caulinair</i><par n="II/e__adj"/></e>
-<e lm="causa"><i>causa</i><par n="arrière__adj"/></e>
 <e lm="causalgique"><i>causalgiqu</i><par n="II/e__adj"/></e>
 <e lm="causatif"><i>causati</i><par n="affirmati/f__adj"/></e>
 <e lm="causé"><i>causé</i><par n="abaissant__adj"/></e>
@@ -3673,7 +3667,6 @@
 <e lm="contrapuntique"><i>contrapuntiqu</i><par n="II/e__adj"/></e>
 <e lm="contrariant"><i>contrariant</i><par n="abaissant__adj"/></e>
 <e lm="contrarié"><i>contrarié</i><par n="abaissant__adj"/></e>
-<e lm="contrario"><i>contrario</i><par n="arrière__adj"/></e>
 <e lm="contrarotatif"><i>contrarotati</i><par n="affirmati/f__adj"/></e>
 <e lm="contrastant"><i>contrastant</i><par n="abaissant__adj"/></e>
 <e lm="contrasté"><i>contrasté</i><par n="abaissant__adj"/></e>
@@ -6204,7 +6197,6 @@
 <e lm="emplâtré"><i>emplâtré</i><par n="abaissant__adj"/></e>
 <e lm="empoché"><i>empoché</i><par n="abaissant__adj"/></e>
 <e lm="empoignant"><i>empoignant</i><par n="abaissant__adj"/></e>
-<e lm="empoigne"><i>empoigne</i><par n="arrière__adj"/></e>
 <e lm="empoigné"><i>empoigné</i><par n="abaissant__adj"/></e>
 <e lm="empoisonnant"><i>empoisonnant</i><par n="abaissant__adj"/></e>
 <e lm="empoisonné"><i>empoisonné</i><par n="abaissant__adj"/></e>
@@ -8499,7 +8491,6 @@
 <e lm="holophrastique"><i>holophrastiqu</i><par n="II/e__adj"/></e>
 <e lm="homicidaire"><i>homicidair</i><par n="II/e__adj"/></e>
 <e lm="homilétique"><i>homilétiqu</i><par n="II/e__adj"/></e>
-<e lm="hominem"><i>hominem</i><par n="arrière__adj"/></e>
 <e lm="hominisé"><i>hominisé</i><par n="abaissant__adj"/></e>
 <e lm="hommasse"><i>hommass</i><par n="II/e__adj"/></e>
 <e lm="homo"><i>homo</i><par n="académique__adj"/></e>
@@ -8549,7 +8540,6 @@
 <e lm="hongré"><i>hongré</i><par n="abaissant__adj"/></e>
 <e lm="hongroyé"><i>hongroyé</i><par n="abaissant__adj"/></e>
 <e lm="honni"><i>honni</i><par n="abaissant__adj"/></e>
-<e lm="honoris"><i>honoris</i><par n="arrière__adj"/></e>
 <e lm="horloger"><i>horlog</i><par n="ch/er__adj"/></e>
 <e lm="horlogique"><i>horlogiqu</i><par n="II/e__adj"/></e>
 <e lm="hormoné"><i>hormoné</i><par n="abaissant__adj"/></e>
@@ -10175,7 +10165,6 @@
 <e lm="jersiais"><i>jersiais</i><par n="anglais__adj"/></e>
 <e lm="jetable"><i>jetabl</i><par n="II/e__adj"/></e>
 <e lm="jeté"><i>jeté</i><par n="abaissant__adj"/></e>
-<e lm="jeun"><i>jeun</i><par n="arrière__adj"/></e>
 <e lm="jeunet"><i>jeunet</i><par n="favori__adj"/></e>
 <e lm="jeuniste"><i>jeunist</i><par n="II/e__adj"/></e>
 <e lm="jeunot"><i>jeunot</i><par n="favori__adj"/></e>
@@ -11580,7 +11569,6 @@
 <e lm="morphématique"><i>morphématiqu</i><par n="II/e__adj"/></e>
 <e lm="mort-né"><i>mort-né</i><par n="abaissant__adj"/></e>
 <e lm="mortaisé"><i>mortaisé</i><par n="abaissant__adj"/></e>
-<e lm="mortem"><i>mortem</i><par n="arrière__adj"/></e>
 <e lm="mortifiant"><i>mortifiant</i><par n="abaissant__adj"/></e>
 <e lm="mortifié"><i>mortifié</i><par n="abaissant__adj"/></e>
 <e lm="mortifère"><i>mortifèr</i><par n="II/e__adj"/></e>
@@ -13476,7 +13464,6 @@
 <e lm="piailleur"><i>piailleu</i><par n="causeu/r__adj"/></e>
 <e lm="pianistique"><i>pianistiqu</i><par n="II/e__adj"/></e>
 <e lm="pianoté"><i>pianoté</i><par n="abaissant__adj"/></e>
-<e lm="pible"><i>pible</i><par n="arrière__adj"/></e>
 <e lm="picaresque"><i>picaresqu</i><par n="II/e__adj"/></e>
 <e lm="picolé"><i>picolé</i><par n="abaissant__adj"/></e>
 <e lm="picoré"><i>picoré</i><par n="abaissant__adj"/></e>
@@ -13892,7 +13879,6 @@
 <e lm="possessionné"><i>possessionné</i><par n="abaissant__adj"/></e>
 <e lm="possédant"><i>possédant</i><par n="abaissant__adj"/></e>
 <e lm="possédé"><i>possédé</i><par n="abaissant__adj"/></e>
-<e lm="post"><i>post</i><par n="arrière__adj"/></e>
 <e lm="post-colonial"><i>post-colonia</i><par n="amica/l__adj"/></e>
 <e lm="post-coïtal"><i>post-coïta</i><par n="amica/l__adj"/></e>
 <e lm="post-doctoral"><i>post-doctora</i><par n="amica/l__adj"/></e>
@@ -13911,7 +13897,6 @@
 <e lm="postdaté"><i>postdaté</i><par n="abaissant__adj"/></e>
 <e lm="postdoctoral"><i>postdoctora</i><par n="amica/l__adj"/></e>
 <e lm="posté"><i>posté</i><par n="abaissant__adj"/></e>
-<e lm="posteriori"><i>posteriori</i><par n="arrière__adj"/></e>
 <e lm="postfacé"><i>postfacé</i><par n="abaissant__adj"/></e>
 <e lm="postformé"><i>postformé</i><par n="abaissant__adj"/></e>
 <e lm="postglaciaire"><i>postglaciair</i><par n="II/e__adj"/></e>
@@ -13934,7 +13919,6 @@
 <e lm="postulant"><i>postulant</i><par n="abaissant__adj"/></e>
 <e lm="postulé"><i>postulé</i><par n="abaissant__adj"/></e>
 <e lm="postérieur"><i>postérieur</i><par n="abaissant__adj"/></e>
-<e lm="postériori"><i>postériori</i><par n="arrière__adj"/></e>
 <e lm="potache"><i>potach</i><par n="II/e__adj"/></e>
 <e lm="potager"><i>potag</i><par n="ch/er__adj"/></e>
 <e lm="potamodrome"><i>potamodrom</i><par n="II/e__adj"/></e>
@@ -14019,7 +14003,6 @@
 <e lm="princeps"><i>princeps</i><par n="arrière__adj"/></e>
 <e lm="principautaire"><i>principautair</i><par n="II/e__adj"/></e>
 <e lm="principiel"><i>principiel</i><par n="annuel__adj"/></e>
-<e lm="priori"><i>priori</i><par n="arrière__adj"/></e>
 <e lm="priorisé"><i>priorisé</i><par n="abaissant__adj"/></e>
 <e lm="privateur"><i>privat</i><par n="conduct/eur__adj"/></e>
 <e lm="privatif"><i>privati</i><par n="affirmati/f__adj"/></e>
@@ -18196,7 +18179,6 @@
 <e lm="tourtelé"><i>tourtelé</i><par n="abaissant__adj"/></e>
 <e lm="tousseur"><i>tousseu</i><par n="causeu/r__adj"/></e>
 <e lm="toussoteux"><i>toussoteu</i><par n="affectueu/x__adj"/></e>
-<e lm="tout-va"><i>tout-va</i><par n="arrière__adj"/></e>
 <e lm="touvain"><i>touvain</i><par n="abaissant__adj"/></e>
 <e lm="toxi-infectieux"><i>toxi-infectieu</i><par n="affectueu/x__adj"/></e>
 <e lm="toxicodépendant"><i>toxicodépendant</i><par n="abaissant__adj"/></e>
@@ -18866,12 +18848,10 @@
 <e lm="usuraire"><i>usurair</i><par n="II/e__adj"/></e>
 <e lm="usurpatoire"><i>usurpatoir</i><par n="II/e__adj"/></e>
 <e lm="usurpé"><i>usurpé</i><par n="abaissant__adj"/></e>
-<e lm="utero"><i>utero</i><par n="arrière__adj"/></e>
 <e lm="utilisé"><i>utilisé</i><par n="abaissant__adj"/></e>
 <e lm="uto-aztèque"><i>uto-aztèqu</i><par n="II/e__adj"/></e>
 <e lm="utriculaire"><i>utriculair</i><par n="II/e__adj"/></e>
 <e lm="utriculeux"><i>utriculeu</i><par n="affectueu/x__adj"/></e>
-<e lm="utéro"><i>utéro</i><par n="arrière__adj"/></e>
 <e lm="uval"><i>uva</i><par n="amica/l__adj"/></e>
 <e lm="uvulaire"><i>uvulair</i><par n="II/e__adj"/></e>
 <e lm="uxorilocal"><i>uxoriloca</i><par n="amica/l__adj"/></e>
