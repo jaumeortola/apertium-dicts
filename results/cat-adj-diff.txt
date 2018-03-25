@@ -38,17 +38,8 @@ APERTIUM: barroc	PAR: acadèmi/c__adj	FORMS: AQ0FP0 barroques AQ0FS0 barroca AQ0
 APERTIUM: beat	PAR: absolut__adj	FORMS: AQ0FP0 beates AQ0FS0 beata AQ0MP0 beats AQ0MS0 beat
    OTHER: beat	PAR: alt__adj	FORMS: AQ0FP0 beates AQ0FP0 beatíssimes AQ0FS0 beata AQ0FS0 beatíssima AQ0MP0 beats AQ0MP0 beatíssims AQ0MS0 beat AQ0MS0 beatíssim
 
-APERTIUM: beneit	PAR: triparti/t__adj	FORMS: AQ0FP0 beneides AQ0FS0 beneida AQ0MP0 beneits AQ0MS0 beneit
-   OTHER: beneit	PAR: absolut__adj	FORMS: AQ0FP0 beneites AQ0FS0 beneita AQ0MP0 beneits AQ0MS0 beneit
-   OTHER: beneit	PAR: poquet__adj	FORMS: AQ0FP0 beneites AQ0FS0 beneita AQ0MP0 beneits AQ0MS0 beneit
-   OTHER: beneit	PAR: quant__adj	FORMS: AQ0FP0 beneites AQ0FS0 beneita AQ0MP0 beneits AQ0MS0 beneit
-   OTHER: beneit	PAR: superlatiu__adj	FORMS: AQ0FP0 beneites AQ0FS0 beneita AQ0MP0 beneits AQ0MS0 beneit
-
 APERTIUM: bengalí	PAR: alacant/í__adj	FORMS: AQ0FP0 bengalines AQ0FS0 bengalina AQ0MP0 bengalins AQ0MS0 bengalí
    OTHER: bengalí	PAR: abdominal__adj	FORMS: AQ0CP0 bengalís AQ0CS0 bengalí
-
-APERTIUM: biscaí	PAR: alacant/í__adj	FORMS: AQ0FP0 biscaines AQ0FS0 biscaina AQ0MP0 biscains AQ0MS0 biscaí
-   OTHER: biscaí	PAR: genu/í__adj	FORMS: AQ0FP0 biscaïnes AQ0FS0 biscaïna AQ0MP0 biscaïns AQ0MS0 biscaí
 
 APERTIUM: bisector	PAR: abdominal__adj	FORMS: AQ0CP0 bisectors AQ0CS0 bisector
    OTHER: bisector	PAR: absolut__adj	FORMS: AQ0FP0 bisectores AQ0FS0 bisectora AQ0MP0 bisectors AQ0MS0 bisector
@@ -89,9 +80,6 @@ APERTIUM: clau	PAR: abdominal__adj	FORMS: AQ0CP0 claus AQ0CS0 clau
 
 APERTIUM: conegut	PAR: triparti/t__adj	FORMS: AQ0FP0 conegudes AQ0FS0 coneguda AQ0MP0 coneguts AQ0MS0 conegut
    OTHER: conegut	PAR: afortuna/t__adj	FORMS: AQ0FP0 conegudes AQ0FP0 conegudíssimes AQ0FS0 coneguda AQ0FS0 conegudíssima AQ0MP0 conegudíssims AQ0MP0 coneguts AQ0MS0 conegudíssim AQ0MS0 conegut
-
-APERTIUM: confés	PAR: conf/és__adj	FORMS: AQ0FP0 confeses AQ0FS0 confesa AQ0MP0 confesos AQ0MS0 confés
-   OTHER: confés	PAR: expr/és__adj	FORMS: AQ0FP0 confesses AQ0FS0 confessa AQ0MP0 confessos AQ0MS0 confés
 
 APERTIUM: convenient	PAR: abdominal__adj	FORMS: AQ0CP0 convenients AQ0CS0 convenient
    OTHER: convenient	PAR: important__adj	FORMS: AQ0CP0 convenients AQ0CS0 convenient AQ0FP0 convenientíssimes AQ0FS0 convenientíssima AQ0MP0 convenientíssims AQ0MS0 convenientíssim
@@ -183,9 +171,6 @@ APERTIUM: fidel	PAR: abdominal__adj	FORMS: AQ0CP0 fidels AQ0CS0 fidel
 APERTIUM: florit	PAR: triparti/t__adj	FORMS: AQ0FP0 florides AQ0FS0 florida AQ0MP0 florits AQ0MS0 florit
    OTHER: florit	PAR: afortuna/t__adj	FORMS: AQ0FP0 florides AQ0FP0 floridíssimes AQ0FS0 florida AQ0FS0 floridíssima AQ0MP0 floridíssims AQ0MP0 florits AQ0MS0 floridíssim AQ0MS0 florit
 
-APERTIUM: fort	PAR: absolut__adj	FORMS: AQ0FP0 fortes AQ0FS0 forta AQ0MP0 forts AQ0MS0 fort
-   OTHER: fort	PAR: alt__adj	FORMS: AQ0FP0 fortes AQ0FP0 fortíssimes AQ0FS0 forta AQ0FS0 fortíssima AQ0MP0 forts AQ0MP0 fortíssims AQ0MS0 fort AQ0MS0 fortíssim
-
 APERTIUM: furibund	PAR: absolut__adj	FORMS: AQ0FP0 furibundes AQ0FS0 furibunda AQ0MP0 furibunds AQ0MS0 furibund
    OTHER: furibund	PAR: alt__adj	FORMS: AQ0FP0 furibundes AQ0FP0 furibundíssimes AQ0FS0 furibunda AQ0FS0 furibundíssima AQ0MP0 furibunds AQ0MP0 furibundíssims AQ0MS0 furibund AQ0MS0 furibundíssim
 
@@ -255,9 +240,6 @@ APERTIUM: malva	PAR: agrícol/a__adj	FORMS: AQ0CP0 malves AQ0CS0 malva
 
 APERTIUM: mateix	PAR: annex__adj	FORMS: AQ0FP0 mateixes AQ0FS0 mateixa AQ0MP0 mateixos AQ0MS0 mateix
    OTHER: mateix	PAR: complex__adj	FORMS: AQ0FP0 mateixes AQ0FP0 mateixíssimes AQ0FS0 mateixa AQ0FS0 mateixíssima AQ0MP0 mateixos AQ0MP0 mateixíssims AQ0MS0 mateix AQ0MS0 mateixíssim
-
-APERTIUM: mediocre	PAR: abdominal__adj	FORMS: AQ0CP0 mediocres AQ0CS0 mediocre
-   OTHER: mediocre	PAR: alegr/e__adj	FORMS: AQ0CP0 mediocres AQ0CS0 mediocre AQ0FP0 mediocríssimes AQ0FS0 mediocríssima AQ0MP0 mediocríssims AQ0MS0 mediocríssim
 
 APERTIUM: moix	PAR: absolut__adj	FORMS: AQ0FP0 moixes AQ0FS0 moixa AQ0MP0 moixs AQ0MS0 moix
    OTHER: moix	PAR: annex__adj	FORMS: AQ0FP0 moixes AQ0FS0 moixa AQ0MP0 moixos AQ0MS0 moix
