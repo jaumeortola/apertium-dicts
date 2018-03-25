@@ -2493,7 +2493,7 @@
 <e lm="barater"><i>barater</i><par n="absolut__adj"/></e>
 <e lm="barba-reveixí"><i>barba-reveix</i><par n="alacant/í__adj"/></e>
 <e lm="barba-roig"><i>barba-ro</i><par n="infraro/ig__adj"/></e>
-<e lm="barba-ros"><i>barba-ros</i><par n="ros__adj"/></e>
+<e lm="barba-ros"><i>barba-ros</i><par n="rus__adj"/></e>
 <e lm="barba-serrat"><i>barba-serra</i><par n="triparti/t__adj"/></e>
 <e lm="barbablanc"><i>barbablan</i><par n="acadèmi/c__adj"/></e>
 <e lm="barbabrut"><i>barbabrut</i><par n="absolut__adj"/></e>
@@ -3989,7 +3989,7 @@
 <e lm="celebratiu"><i>celebrati</i><par n="abusi/u__adj"/></e>
 <e lm="celebèrrim"><i>celebèrrim</i><par n="absolut__adj"/></e>
 <e lm="celestí"><i>celest</i><par n="alacant/í__adj"/></e>
-<e lm="cella-ros"><i>cella-ros</i><par n="ros__adj"/></e>
+<e lm="cella-ros"><i>cella-ros</i><par n="rus__adj"/></e>
 <e lm="cellablanc"><i>cellablan</i><par n="acadèmi/c__adj"/></e>
 <e lm="cellacanut"><i>cellacanu</i><par n="triparti/t__adj"/></e>
 <e lm="cellajunt"><i>cellajunt</i><par n="absolut__adj"/></e>
@@ -4926,7 +4926,7 @@
 <e lm="craniomètric"><i>craniomètri</i><par n="acadèmi/c__adj"/></e>
 <e lm="cranià"><i>crani</i><par n="afric/à__adj"/></e>
 <e lm="crapulós"><i>crapul</i><par n="aliment/ós__adj"/></e>
-<e lm="cras"><i>cras</i><par n="ros__adj"/></e>
+<e lm="cras"><i>cras</i><par n="rus__adj"/></e>
 <e lm="crassifoli"><i>crassif</i><par n="caducif/oli__adj"/></e>
 <e lm="crassinucel·lat"><i>crassinucel·la</i><par n="triparti/t__adj"/></e>
 <e lm="cratogènic"><i>cratogèni</i><par n="acadèmi/c__adj"/></e>
@@ -10671,7 +10671,7 @@
 <e lm="larvícola"><i>larvícol</i><par n="agrícol/a__adj"/></e>
 <e lm="larvípar"><i>larvípar</i><par n="absolut__adj"/></e>
 <e lm="larvívor"><i>larvívor</i><par n="absolut__adj"/></e>
-<e lm="las"><i>las</i><par n="ros__adj"/></e>
+<e lm="las"><i>las</i><par n="rus__adj"/></e>
 <e lm="lasciviós"><i>lascivi</i><par n="aliment/ós__adj"/></e>
 <e lm="lat"><i>lat</i><par n="absolut__adj"/></e>
 <e lm="latdorfià"><i>latdorfi</i><par n="afric/à__adj"/></e>
@@ -10888,7 +10888,7 @@
 <e lm="llardissós"><i>llardiss</i><par n="aliment/ós__adj"/></e>
 <e lm="llardó"><i>llardó</i><par n="multimèdia__adj"/></e>
 <e lm="llarguer"><i>llarguer</i><par n="absolut__adj"/></e>
-<e lm="llas"><i>llas</i><par n="ros__adj"/></e>
+<e lm="llas"><i>llas</i><par n="rus__adj"/></e>
 <e lm="llastimós"><i>llastim</i><par n="aliment/ós__adj"/></e>
 <e lm="llatinitzant"><i>llatinitzant</i><par n="abdominal__adj"/></e>
 <e lm="llatzerat"><i>llatzera</i><par n="triparti/t__adj"/></e>

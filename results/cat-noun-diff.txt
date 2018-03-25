@@ -942,9 +942,6 @@ APERTIUM: gospel	PAR: atletisme__n	FORMS: NCMS000 gospel
 APERTIUM: governador	PAR: senyor__n	FORMS: NCFP000 governadores NCFS000 governadora NCMP000 governadors NCMS000 governador
    OTHER: governador	PAR: abric__n	FORMS: NCMP000 governadors NCMS000 governador
 
-APERTIUM: governant	PAR: senyor__n	FORMS: NCFP000 governantes NCFS000 governanta NCMP000 governants NCMS000 governant
-   OTHER: governant	PAR: acompanyant__n	FORMS: NCCP000 governants NCCS000 governant
-
 APERTIUM: graduat	PAR: advoca/t__n	FORMS: NCFP000 graduades NCFS000 graduada NCMP000 graduats NCMS000 graduat
    OTHER: graduat	PAR: abric__n	FORMS: NCMP000 graduats NCMS000 graduat
 
@@ -2290,6 +2287,9 @@ APERTIUM: salvadoreny	PAR: senyor__n	FORMS: NCFP000 salvadorenyes NCFS000 salvad
 
 APERTIUM: saquejador	PAR: senyor__n	FORMS: NCFP000 saquejadores NCFS000 saquejadora NCMP000 saquejadors NCMS000 saquejador
    OTHER: saquejador	PAR: abric__n	FORMS: NCMP000 saquejadors NCMS000 saquejador
+
+APERTIUM: saragossà	PAR: americ/à__n	FORMS: NCFP000 saragossanes NCFS000 saragossana NCMP000 saragossans NCMS000 saragossà
+   OTHER: saragossà	PAR: bacall/à__n	FORMS: NCMP000 saragossans NCMS000 saragossà
 
 APERTIUM: sarment	PAR: abric__n	FORMS: NCMP000 sarments NCMS000 sarment
    OTHER: sarment	PAR: acompanyant__n	FORMS: NCCP000 sarments NCCS000 sarment

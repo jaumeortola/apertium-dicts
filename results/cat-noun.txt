@@ -41633,7 +41633,6 @@
 <e lm="saragata"><i>saragat</i><par n="abell/a__n"/></e>
 <e lm="saragatona"><i>saragaton</i><par n="abell/a__n"/></e>
 <e lm="saragossana"><i>saragossan</i><par n="abell/a__n"/></e>
-<e lm="saragossà"><i>saragoss</i><par n="bacall/à__n"/></e>
 <e lm="saragüells"><i>saragüells</i><par n="EUA__n"/></e>
 <e lm="saranda"><i>sarand</i><par n="abell/a__n"/></e>
 <e lm="sarangui"><i>sarangui</i><par n="abric__n"/></e>
