@@ -23,7 +23,7 @@ if ($gram_cat =~ /^adj$/) {
     $dicollecte_gramcat = "adj";
     $lt_prev = "AQ0";
     $lt_post = "0";
-    $lt_tag_start = "A.0";
+    $lt_tag_start = "A.[0A]";
 }
 
 if ($gram_cat =~ /^adv$/) {
@@ -180,7 +180,9 @@ if ($lang =~ /^fra$/) {
         chomp($line);
         if ($line =~ /(.*)[ \t](.*)[ \t]($lt_tag_start.*)/) {
             #print "$2 $3 $1\n";
-            push (@adjs_lt, "$2 $3 $1")
+            my $mystring = "$2 $3 $1";
+            $mystring =~ s/ (AQA|AO0)/ AQ0/g;
+            push (@adjs_lt, $mystring)
         }
     }
 }
@@ -212,7 +214,8 @@ close ($fh);
 $line = "";
 my $lema = "";
 my $prevlema = "-1";
-for my $line_adj (@adjs_lt) {     
+my @sorted_adjs_lt = sort { lc($a) cmp lc($b) } @adjs_lt;
+for my $line_adj (@sorted_adjs_lt) {     
     if ($line_adj =~ /(.*) (.*) (.*)/) {
         $lema = $1; 
         my $postag = $2;

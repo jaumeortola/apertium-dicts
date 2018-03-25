@@ -613,7 +613,6 @@ ordenat ordenada [sup. ordenadíssim]=categories:A; font:apertium;
 desdentegat desdentegada [sup. desdentegadíssim]=categories:A; font:apertium;
 simple [sup. simplíssim]=categories:A; font:apertium;
 vanitós vanitosa [sup. vanitosíssim]=categories:A; font:apertium;
-sabonós sabonosa [sup. sabonosíssim]=categories:A; font:apertium;
 pastós pastosa [sup. pastosíssim]=categories:A; font:apertium;
 metzinós metzinosa [sup. metzinosíssim]=categories:A; font:apertium;
 escumós escumosa [sup. escumosíssim]=categories:A; font:apertium;
