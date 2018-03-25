@@ -1971,8 +1971,6 @@
 <e lm="americanització"><i>americanitzaci</i><par n="acci/ó__n"/></e>
 <e lm="americanística"><i>americanísti</i><par n="acústi/ca__n"/></e>
 <e lm="amerim"><i>amerim</i><par n="abric__n"/></e>
-<e lm="amerindi"><i>amerindi</i><par n="abric__n"/></e>
-<e lm="ameríndia"><i>ameríndi</i><par n="abell/a__n"/></e>
 <e lm="ametistacitrina"><i>ametistacitrin</i><par n="abell/a__n"/></e>
 <e lm="ametlenca"><i>ametlen</i><par n="acústi/ca__n"/></e>
 <e lm="ametlerar"><i>ametlerar</i><par n="abric__n"/></e>
@@ -12395,7 +12393,6 @@
 <e lm="cresolera"><i>cresoler</i><par n="abell/a__n"/></e>
 <e lm="cresp"><i>cresp</i><par n="abric__n"/></e>
 <e lm="crespador"><i>crespador</i><par n="abric__n"/></e>
-<e lm="crespell"><i>crespell</i><par n="abric__n"/></e>
 <e lm="crespella"><i>crespell</i><par n="abell/a__n"/></e>
 <e lm="crespianenc"><i>crespianen</i><par n="asiàti/c__n"/></e>
 <e lm="crespinell"><i>crespinell</i><par n="abric__n"/></e>
@@ -41632,7 +41629,6 @@
 <e lm="sarabandista"><i>sarabandist</i><par n="accionist/a__n"/></e>
 <e lm="saragata"><i>saragat</i><par n="abell/a__n"/></e>
 <e lm="saragatona"><i>saragaton</i><par n="abell/a__n"/></e>
-<e lm="saragossana"><i>saragossan</i><par n="abell/a__n"/></e>
 <e lm="saragüells"><i>saragüells</i><par n="EUA__n"/></e>
 <e lm="saranda"><i>sarand</i><par n="abell/a__n"/></e>
 <e lm="sarangui"><i>sarangui</i><par n="abric__n"/></e>

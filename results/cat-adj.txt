@@ -12016,7 +12016,6 @@
 <e lm="monista"><i>monist</i><par n="agrícol/a__adj"/></e>
 <e lm="monistrolenc"><i>monistrolen</i><par n="acadèmi/c__adj"/></e>
 <e lm="monitori"><i>monit</i><par n="access/ori__adj"/></e>
-<e lm="mono"><i>mon</i><par n="guap/o__adj"/></e>
 <e lm="monoaural"><i>monoaural</i><par n="abdominal__adj"/></e>
 <e lm="monoaxial"><i>monoaxial</i><par n="abdominal__adj"/></e>
 <e lm="monobloc"><i>monobloc</i><par n="abdominal__adj"/></e>
@@ -18297,6 +18296,7 @@
 <e lm="túngstic"><i>túngsti</i><par n="acadèmi/c__adj"/></e>
 <e lm="túrgid"><i>túrgid</i><par n="absolut__adj"/></e>
 <e lm="túron"><i>túron</i><par n="abdominal__adj"/></e>
+<e lm="u"><i>u</i><par n="multimèdia__adj"/></e>
 <e lm="ubangià"><i>ubangi</i><par n="afric/à__adj"/></e>
 <e lm="ubanguià"><i>ubangui</i><par n="afric/à__adj"/></e>
 <e lm="uberós"><i>uber</i><par n="aliment/ós__adj"/></e>

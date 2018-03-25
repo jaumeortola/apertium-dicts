@@ -47,6 +47,9 @@ APERTIUM: nou	PAR: abusi/u__adj	FORMS: AQ0FP0 noves AQ0FS0 nova AQ0MP0 nous AQ0M
 APERTIUM: porno	PAR: multimèdia__adj	FORMS: AQ0CN0 porno
    OTHER: porno	PAR: abdominal__adj	FORMS: AQ0CP0 pornos AQ0CS0 porno
 
+APERTIUM: privatitzat	PAR: afortuna/t__adj	FORMS: AQ0FP0 privatitzades AQ0FP0 privatitzadíssimes AQ0FS0 privatitzada AQ0FS0 privatitzadíssima AQ0MP0 privatitzadíssims AQ0MP0 privatitzats AQ0MS0 privatitzadíssim AQ0MS0 privatitzat
+   OTHER: privatitzat	PAR: triparti/t__adj	FORMS: AQ0FP0 privatitzades AQ0FS0 privatitzada AQ0MP0 privatitzats AQ0MS0 privatitzat
+
 APERTIUM: rosa	PAR: agrícol/a__adj	FORMS: AQ0CP0 roses AQ0CS0 rosa
    OTHER: rosa	PAR: multimèdia__adj	FORMS: AQ0CN0 rosa
 
