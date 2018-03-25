@@ -167,9 +167,6 @@ APERTIUM: besavi	PAR: /avi__n	FORMS: NCFP000 besàvies NCFS000 besàvia NCMP000 
 APERTIUM: bescanviador	PAR: abric__n	FORMS: NCMP000 bescanviadors NCMS000 bescanviador
    OTHER: bescanviador	PAR: senyor__n	FORMS: NCFP000 bescanviadores NCFS000 bescanviadora NCMP000 bescanviadors NCMS000 bescanviador
 
-APERTIUM: bessó	PAR: amfitri/ó__n	FORMS: NCFP000 bessones NCFS000 bessona NCMP000 bessons NCMS000 bessó
-   OTHER: bessó	PAR: aband/ó__n	FORMS: NCMP000 bessons NCMS000 bessó
-
 APERTIUM: bestiari	PAR: adjudicat/ari__n	FORMS: NCFP000 bestiàries NCFS000 bestiària NCMP000 bestiaris NCMS000 bestiari
    OTHER: bestiari	PAR: abric__n	FORMS: NCMP000 bestiaris NCMS000 bestiari
 
@@ -424,9 +421,6 @@ APERTIUM: convertidor	PAR: abric__n	FORMS: NCMP000 convertidors NCMS000 converti
 APERTIUM: copilot	PAR: abric__n	FORMS: NCMP000 copilots NCMS000 copilot
    OTHER: copilot	PAR: acompanyant__n	FORMS: NCCP000 copilots NCCS000 copilot
 
-APERTIUM: copropietari	PAR: adjudicat/ari__n	FORMS: NCFP000 copropietàries NCFS000 copropietària NCMP000 copropietaris NCMS000 copropietari
-   OTHER: copropietari	PAR: abric__n	FORMS: NCMP000 copropietaris NCMS000 copropietari
-
 APERTIUM: copríncep	PAR: pr/íncep__n	FORMS: NCFP000 coprinceses NCFS000 coprincesa NCMP000 coprínceps NCMS000 copríncep
    OTHER: copríncep	PAR: abric__n	FORMS: NCMP000 coprínceps NCMS000 copríncep
 
@@ -538,9 +532,6 @@ APERTIUM: doble	PAR: abric__n	FORMS: NCMP000 dobles NCMS000 doble
 
 APERTIUM: dolor	PAR: abric__n	FORMS: NCMP000 dolors NCMS000 dolor
    OTHER: dolor	PAR: acompanyant__n	FORMS: NCCP000 dolors NCCS000 dolor
-
-APERTIUM: donatari	PAR: adjudicat/ari__n	FORMS: NCFP000 donatàries NCFS000 donatària NCMP000 donataris NCMS000 donatari
-   OTHER: donatari	PAR: abric__n	FORMS: NCMP000 donataris NCMS000 donatari
 
 APERTIUM: dors	PAR: abast__n	FORMS: NCMP000 dorsos NCMP000 dorss NCMS000 dors
    OTHER: dors	PAR: as__n	FORMS: NCMP000 dorsos NCMS000 dors
@@ -670,9 +661,6 @@ APERTIUM: fenici	PAR: l/ici__n	FORMS: NCFP000 fenícies NCFS000 fenícia NCMP000
 
 APERTIUM: fervor	PAR: abric__n	FORMS: NCMP000 fervors NCMS000 fervor
    OTHER: fervor	PAR: acompanyant__n	FORMS: NCCP000 fervors NCCS000 fervor
-
-APERTIUM: fideïcomissari	PAR: adjudicat/ari__n	FORMS: NCFP000 fideïcomissàries NCFS000 fideïcomissària NCMP000 fideïcomissaris NCMS000 fideïcomissari
-   OTHER: fideïcomissari	PAR: abric__n	FORMS: NCMP000 fideïcomissaris NCMS000 fideïcomissari
 
 APERTIUM: fillastre	PAR: addict/e__n	FORMS: NCCP000 fillastres NCFS000 fillastra NCMS000 fillastre
    OTHER: fillastre	PAR: abric__n	FORMS: NCMP000 fillastres NCMS000 fillastre
@@ -839,9 +827,6 @@ APERTIUM: intendent	PAR: senyor__n	FORMS: NCFP000 intendentes NCFS000 intendenta
 APERTIUM: interlingua	PAR: abell/a__n	FORMS: NCFP000 interlingues NCFS000 interlingua
    OTHER: interlingua	PAR: aig/ua__n	FORMS: NCFP000 interlingües NCFS000 interlingua
 
-APERTIUM: intermediari	PAR: adjudicat/ari__n	FORMS: NCFP000 intermediàries NCFS000 intermediària NCMP000 intermediaris NCMS000 intermediari
-   OTHER: intermediari	PAR: abric__n	FORMS: NCMP000 intermediaris NCMS000 intermediari
-
 APERTIUM: IPC	PAR: BBVA__n	FORMS: NCMS000 IPC
    OTHER: IPC	PAR: IRPF__n	FORMS: NCMN000 IPC
    OTHER: IPC	PAR: campus__n	FORMS: NCMN000 IPC
@@ -891,12 +876,6 @@ APERTIUM: lateral	PAR: abric__n	FORMS: NCMP000 laterals NCMS000 lateral
 APERTIUM: legionari	PAR: adjudicat/ari__n	FORMS: NCFP000 legionàries NCFS000 legionària NCMP000 legionaris NCMS000 legionari
    OTHER: legionari	PAR: abric__n	FORMS: NCMP000 legionaris NCMS000 legionari
 
-APERTIUM: leprós	PAR: religi/ós__n	FORMS: NCFP000 leproses NCFS000 leprosa NCMP000 leprosos NCMS000 leprós
-   OTHER: leprós	PAR: contenci/ós__n	FORMS: NCMP000 leprosos NCMS000 leprós
-
-APERTIUM: letó	PAR: amfitri/ó__n	FORMS: NCFP000 letones NCFS000 letona NCMP000 letons NCMS000 letó
-   OTHER: letó	PAR: aband/ó__n	FORMS: NCMP000 letons NCMS000 letó
-
 APERTIUM: levodopa	PAR: abell/a__n	FORMS: NCFP000 levodopes NCFS000 levodopa
    OTHER: levodopa	PAR: carism/a__n	FORMS: NCMP000 levodopes NCMS000 levodopa
 
@@ -905,9 +884,6 @@ APERTIUM: libi	PAR: l/ibi__n	FORMS: NCFP000 líbies NCFS000 líbia NCMP000 libis
 
 APERTIUM: linier	PAR: abric__n	FORMS: NCMP000 liniers NCMS000 linier
    OTHER: linier	PAR: acompanyant__n	FORMS: NCCP000 liniers NCCS000 linier
-
-APERTIUM: lisosoma	PAR: abell/a__n	FORMS: NCFP000 lisosomes NCFS000 lisosoma
-   OTHER: lisosoma	PAR: carism/a__n	FORMS: NCMP000 lisosomes NCMS000 lisosoma
 
 APERTIUM: llama	PAR: abell/a__n	FORMS: NCFP000 llames NCFS000 llama
    OTHER: llama	PAR: accionist/a__n	FORMS: NCCP000 llames NCCS000 llama
@@ -924,12 +900,6 @@ APERTIUM: llavaplats	PAR: campus__n	FORMS: NCMN000 llavaplats
 
 APERTIUM: llec	PAR: ami/c__n	FORMS: NCFP000 llegues NCFS000 llega NCMP000 llecs NCMS000 llec
    OTHER: llec	PAR: abric__n	FORMS: NCMP000 llecs NCMS000 llec
-
-APERTIUM: lleó	PAR: amfitri/ó__n	FORMS: NCFP000 lleones NCFS000 lleona NCMP000 lleons NCMS000 lleó
-   OTHER: lleó	PAR: aband/ó__n	FORMS: NCMP000 lleons NCMS000 lleó
-
-APERTIUM: llibertari	PAR: adjudicat/ari__n	FORMS: NCFP000 llibertàries NCFS000 llibertària NCMP000 llibertaris NCMS000 llibertari
-   OTHER: llibertari	PAR: abric__n	FORMS: NCMP000 llibertaris NCMS000 llibertari
 
 APERTIUM: lligabosc	PAR: abric__n	FORMS: NCMP000 lligaboscs NCMS000 lligabosc
    OTHER: lligabosc	PAR: abast__n	FORMS: NCMP000 lligaboscos NCMP000 lligaboscs NCMS000 lligabosc
@@ -986,12 +956,6 @@ APERTIUM: manxec	PAR: ami/c__n	FORMS: NCFP000 manxegues NCFS000 manxega NCMP000 
 APERTIUM: marcador	PAR: abric__n	FORMS: NCMP000 marcadors NCMS000 marcador
    OTHER: marcador	PAR: senyor__n	FORMS: NCFP000 marcadores NCFS000 marcadora NCMP000 marcadors NCMS000 marcador
 
-APERTIUM: marmitó	PAR: amfitri/ó__n	FORMS: NCFP000 marmitones NCFS000 marmitona NCMP000 marmitons NCMS000 marmitó
-   OTHER: marmitó	PAR: aband/ó__n	FORMS: NCMP000 marmitons NCMS000 marmitó
-
-APERTIUM: marquès	PAR: angl/ès__n	FORMS: NCFP000 marqueses NCFS000 marquesa NCMP000 marquesos NCMS000 marquès NCMS000 marqués
-   OTHER: marquès	PAR: impr/ès__n	FORMS: NCMP000 marquesos NCMS000 marquès NCMS000 marqués
-
 APERTIUM: marroquí	PAR: alacant/í__n	FORMS: NCFP000 marroquines NCFS000 marroquina NCMP000 marroquins NCMS000 marroquí
    OTHER: marroquí	PAR: boc/í__n	FORMS: NCMP000 marroquins NCMS000 marroquí
 
@@ -1006,9 +970,6 @@ APERTIUM: megahertz	PAR: campus__n	FORMS: NCMN000 megahertz
 
 APERTIUM: menorquí	PAR: alacant/í__n	FORMS: NCFP000 menorquines NCFS000 menorquina NCMP000 menorquins NCMS000 menorquí
    OTHER: menorquí	PAR: boc/í__n	FORMS: NCMP000 menorquins NCMS000 menorquí
-
-APERTIUM: mercenari	PAR: adjudicat/ari__n	FORMS: NCFP000 mercenàries NCFS000 mercenària NCMP000 mercenaris NCMS000 mercenari
-   OTHER: mercenari	PAR: abric__n	FORMS: NCMP000 mercenaris NCMS000 mercenari
 
 APERTIUM: merenga	PAR: abell/a__n	FORMS: NCFP000 merenges NCFS000 merenga
    OTHER: merenga	PAR: alg/a__n	FORMS: NCFP000 merengues NCFS000 merenga
@@ -1025,14 +986,8 @@ APERTIUM: mico	PAR: acompanyant__n	FORMS: NCCP000 micos NCCS000 mico
 APERTIUM: microvellositat	PAR: abric__n	FORMS: NCMP000 microvellositats NCMS000 microvellositat
    OTHER: microvellositat	PAR: accessibilitat__n	FORMS: NCFP000 microvellositats NCFS000 microvellositat
 
-APERTIUM: milionari	PAR: adjudicat/ari__n	FORMS: NCFP000 milionàries NCFS000 milionària NCMP000 milionaris NCMS000 milionari
-   OTHER: milionari	PAR: abric__n	FORMS: NCMP000 milionaris NCMS000 milionari
-
 APERTIUM: minorista	PAR: accionist/a__n	FORMS: NCCP000 minoristes NCCS000 minorista
    OTHER: minorista	PAR: carism/a__n	FORMS: NCMP000 minoristes NCMS000 minorista
-
-APERTIUM: minyó	PAR: amfitri/ó__n	FORMS: NCFP000 minyones NCFS000 minyona NCMP000 minyons NCMS000 minyó
-   OTHER: minyó	PAR: aband/ó__n	FORMS: NCMP000 minyons NCMS000 minyó
 
 APERTIUM: model	PAR: abric__n	FORMS: NCMP000 models NCMS000 model
    OTHER: model	PAR: acompanyant__n	FORMS: NCCP000 models NCCS000 model
@@ -1076,9 +1031,6 @@ APERTIUM: multilateralisme	PAR: abric__n	FORMS: NCMP000 multilateralismes NCMS00
    OTHER: multilateralisme	PAR: BBVA__n	FORMS: NCMS000 multilateralisme
    OTHER: multilateralisme	PAR: atletisme__n	FORMS: NCMS000 multilateralisme
 
-APERTIUM: multimilionari	PAR: adjudicat/ari__n	FORMS: NCFP000 multimilionàries NCFS000 multimilionària NCMP000 multimilionaris NCMS000 multimilionari
-   OTHER: multimilionari	PAR: abric__n	FORMS: NCMP000 multimilionaris NCMS000 multimilionari
-
 APERTIUM: multimèdia	PAR: carism/a__n	FORMS: NCMP000 multimèdies NCMS000 multimèdia
    OTHER: multimèdia	PAR: IRPF__n	FORMS: NCMN000 multimèdia
    OTHER: multimèdia	PAR: campus__n	FORMS: NCMN000 multimèdia
@@ -1102,9 +1054,6 @@ APERTIUM: neula	PAR: abell/a__n	FORMS: NCFP000 neules NCFS000 neula
 APERTIUM: nigerí	PAR: alacant/í__n	FORMS: NCFP000 nigerines NCFS000 nigerina NCMP000 nigerins NCMS000 nigerí
    OTHER: nigerí	PAR: boc/í__n	FORMS: NCMP000 nigerins NCMS000 nigerí
 
-APERTIUM: nipó	PAR: amfitri/ó__n	FORMS: NCFP000 nipones NCFS000 nipona NCMP000 nipons NCMS000 nipó
-   OTHER: nipó	PAR: aband/ó__n	FORMS: NCMP000 nipons NCMS000 nipó
-
 APERTIUM: noruec	PAR: ami/c__n	FORMS: NCFP000 noruegues NCFS000 noruega NCMP000 noruecs NCMS000 noruec
    OTHER: noruec	PAR: abric__n	FORMS: NCMP000 noruecs NCMS000 noruec
 
@@ -1114,9 +1063,6 @@ APERTIUM: nou	PAR: accessibilitat__n	FORMS: NCFP000 nous NCFS000 nou
 
 APERTIUM: occident	PAR: atletisme__n	FORMS: NCMS000 occident
    OTHER: occident	PAR: abric__n	FORMS: NCMP000 occidents NCMS000 occident
-
-APERTIUM: operari	PAR: adjudicat/ari__n	FORMS: NCFP000 operàries NCFS000 operària NCMP000 operaris NCMS000 operari
-   OTHER: operari	PAR: abric__n	FORMS: NCMP000 operaris NCMS000 operari
 
 APERTIUM: ordenant	PAR: acompanyant__n	FORMS: NCCP000 ordenants NCCS000 ordenant
    OTHER: ordenant	PAR: abric__n	FORMS: NCMP000 ordenants NCMS000 ordenant
@@ -1144,9 +1090,6 @@ APERTIUM: papagai	PAR: acompanyant__n	FORMS: NCCP000 papagais NCCS000 papagai
 
 APERTIUM: parellada	PAR: abell/a__n	FORMS: NCFP000 parellades NCFS000 parellada
    OTHER: parellada	PAR: accionist/a__n	FORMS: NCCP000 parellades NCCS000 parellada
-
-APERTIUM: partidari	PAR: adjudicat/ari__n	FORMS: NCFP000 partidàries NCFS000 partidària NCMP000 partidaris NCMS000 partidari
-   OTHER: partidari	PAR: abric__n	FORMS: NCMP000 partidaris NCMS000 partidari
 
 APERTIUM: paràsit	PAR: senyor__n	FORMS: NCFP000 paràsites NCFS000 paràsita NCMP000 paràsits NCMS000 paràsit
    OTHER: paràsit	PAR: abric__n	FORMS: NCMP000 paràsits NCMS000 paràsit
@@ -1188,9 +1131,6 @@ APERTIUM: periquito	PAR: gitan/o__n	FORMS: NCFP000 periquites NCFS000 periquita 
 APERTIUM: personal	PAR: abric__n	FORMS: NCMP000 personals NCMS000 personal
    OTHER: personal	PAR: acompanyant__n	FORMS: NCCP000 personals NCCS000 personal
 
-APERTIUM: peticionari	PAR: adjudicat/ari__n	FORMS: NCFP000 peticionàries NCFS000 peticionària NCMP000 peticionaris NCMS000 peticionari
-   OTHER: peticionari	PAR: abric__n	FORMS: NCMP000 peticionaris NCMS000 peticionari
-
 APERTIUM: peça	PAR: adre/ça__n	FORMS: NCFP000 peces NCFS000 peça
    OTHER: peça	PAR: ordenan/ça__n	FORMS: NCCP000 peces NCCS000 peça
 
@@ -1212,6 +1152,9 @@ APERTIUM: plebeu	PAR: ate/u__n	FORMS: NCFP000 plebees NCFS000 plebea NCMP000 ple
 APERTIUM: polipropilè	PAR: abric__n	FORMS: NCMP000 polipropilès NCMS000 polipropilè
    OTHER: polipropilè	PAR: acetil/è__n	FORMS: NCMP000 polipropilens NCMS000 polipropilè NCMS000 polipropilé
    OTHER: polipropilè	PAR: al/è__n	FORMS: NCMP000 polipropilens NCMS000 polipropilè NCMS000 polipropilé
+
+APERTIUM: polissó	PAR: aband/ó__n	FORMS: NCMP000 polissons NCMS000 polissó
+   OTHER: polissó	PAR: amfitri/ó__n	FORMS: NCFP000 polissones NCFS000 polissona NCMP000 polissons NCMS000 polissó
 
 APERTIUM: pollet	PAR: abric__n	FORMS: NCMP000 pollets NCMS000 pollet
    OTHER: pollet	PAR: senyor__n	FORMS: NCFP000 polletes NCFS000 polleta NCMP000 pollets NCMS000 pollet
@@ -1239,20 +1182,11 @@ APERTIUM: premolar	PAR: acompanyant__n	FORMS: NCCP000 premolars NCCS000 premolar
 APERTIUM: prestador	PAR: senyor__n	FORMS: NCFP000 prestadores NCFS000 prestadora NCMP000 prestadors NCMS000 prestador
    OTHER: prestador	PAR: abric__n	FORMS: NCMP000 prestadors NCMS000 prestador
 
-APERTIUM: prestatari	PAR: adjudicat/ari__n	FORMS: NCFP000 prestatàries NCFS000 prestatària NCMP000 prestataris NCMS000 prestatari
-   OTHER: prestatari	PAR: abric__n	FORMS: NCMP000 prestataris NCMS000 prestatari
-
 APERTIUM: probòscide	PAR: abric__n	FORMS: NCMP000 probòscides NCMS000 probòscide
    OTHER: probòscide	PAR: accessibilitat__n	FORMS: NCFP000 probòscides NCFS000 probòscide
 
 APERTIUM: processador	PAR: abric__n	FORMS: NCMP000 processadors NCMS000 processador
    OTHER: processador	PAR: senyor__n	FORMS: NCFP000 processadores NCFS000 processadora NCMP000 processadors NCMS000 processador
-
-APERTIUM: proletari	PAR: adjudicat/ari__n	FORMS: NCFP000 proletàries NCFS000 proletària NCMP000 proletaris NCMS000 proletari
-   OTHER: proletari	PAR: abric__n	FORMS: NCMP000 proletaris NCMS000 proletari
-
-APERTIUM: propietari	PAR: adjudicat/ari__n	FORMS: NCFP000 propietàries NCFS000 propietària NCMP000 propietaris NCMS000 propietari
-   OTHER: propietari	PAR: abric__n	FORMS: NCMP000 propietaris NCMS000 propietari
 
 APERTIUM: protest	PAR: abric__n	FORMS: NCMP000 protests NCMS000 protest
    OTHER: protest	PAR: abast__n	FORMS: NCMP000 protestos NCMP000 protests NCMS000 protest
@@ -1309,9 +1243,6 @@ APERTIUM: rata	PAR: abell/a__n	FORMS: NCFP000 rates NCFS000 rata
 APERTIUM: re	PAR: campus__n	FORMS: NCMN000 re
    OTHER: re	PAR: abric__n	FORMS: NCMP000 res NCMS000 re
 
-APERTIUM: reaccionari	PAR: adjudicat/ari__n	FORMS: NCFP000 reaccionàries NCFS000 reaccionària NCMP000 reaccionaris NCMS000 reaccionari
-   OTHER: reaccionari	PAR: abric__n	FORMS: NCMP000 reaccionaris NCMS000 reaccionari
-
 APERTIUM: reactor	PAR: senyor__n	FORMS: NCFP000 reactores NCFS000 reactora NCMP000 reactors NCMS000 reactor
    OTHER: reactor	PAR: abric__n	FORMS: NCMP000 reactors NCMS000 reactor
 
@@ -1350,9 +1281,6 @@ APERTIUM: restant	PAR: acompanyant__n	FORMS: NCCP000 restants NCCS000 restant
 APERTIUM: revers	PAR: abast__n	FORMS: NCMP000 reversos NCMP000 reverss NCMS000 revers
    OTHER: revers	PAR: as__n	FORMS: NCMP000 reversos NCMS000 revers
 
-APERTIUM: revolucionari	PAR: adjudicat/ari__n	FORMS: NCFP000 revolucionàries NCFS000 revolucionària NCMP000 revolucionaris NCMS000 revolucionari
-   OTHER: revolucionari	PAR: abric__n	FORMS: NCMP000 revolucionaris NCMS000 revolucionari
-
 APERTIUM: rigor	PAR: abric__n	FORMS: NCMP000 rigors NCMS000 rigor
    OTHER: rigor	PAR: acompanyant__n	FORMS: NCCP000 rigors NCCS000 rigor
 
@@ -1388,6 +1316,9 @@ APERTIUM: sacseig	PAR: abric__n	FORMS: NCMP000 sacseigs NCMS000 sacseig
    OTHER: sacseig	PAR: assa/ig__n	FORMS: NCMP000 sacseigs NCMP000 sacsejos NCMS000 sacseig
    OTHER: sacseig	PAR: ra/ig__n	FORMS: NCMP000 sacseigs NCMP000 sacsejos NCMS000 sacseig
 
+APERTIUM: sagitari	PAR: abric__n	FORMS: NCMP000 sagitaris NCMS000 sagitari
+   OTHER: sagitari	PAR: adjudicat/ari__n	FORMS: NCFP000 sagitàries NCFS000 sagitària NCMP000 sagitaris NCMS000 sagitari
+
 APERTIUM: sarment	PAR: abric__n	FORMS: NCMP000 sarments NCMS000 sarment
    OTHER: sarment	PAR: acompanyant__n	FORMS: NCCP000 sarments NCCS000 sarment
 
@@ -1402,9 +1333,6 @@ APERTIUM: saxofon	PAR: abric__n	FORMS: NCMP000 saxofons NCMS000 saxofon
 
 APERTIUM: saxòfon	PAR: abric__n	FORMS: NCMP000 saxòfons NCMS000 saxòfon
    OTHER: saxòfon	PAR: acompanyant__n	FORMS: NCCP000 saxòfons NCCS000 saxòfon
-
-APERTIUM: sedentari	PAR: adjudicat/ari__n	FORMS: NCFP000 sedentàries NCFS000 sedentària NCMP000 sedentaris NCMS000 sedentari
-   OTHER: sedentari	PAR: abric__n	FORMS: NCMP000 sedentaris NCMS000 sedentari
 
 APERTIUM: senyoret	PAR: senyor__n	FORMS: NCFP000 senyoretes NCFS000 senyoreta NCMP000 senyorets NCMS000 senyoret
    OTHER: senyoret	PAR: abric__n	FORMS: NCMP000 senyorets NCMS000 senyoret
@@ -1425,9 +1353,6 @@ APERTIUM: set	PAR: q__n	FORMS: NCFS000 set
    OTHER: set	PAR: ATS__n	FORMS: NCCN000 set
    OTHER: set	PAR: guardaespatlles__n	FORMS: NCCN000 set
 
-APERTIUM: signatari	PAR: adjudicat/ari__n	FORMS: NCFP000 signatàries NCFS000 signatària NCMP000 signataris NCMS000 signatari
-   OTHER: signatari	PAR: abric__n	FORMS: NCMP000 signataris NCMS000 signatari
-
 APERTIUM: sinusoide	PAR: accessibilitat__n	FORMS: NCFP000 sinusoides NCFS000 sinusoide
    OTHER: sinusoide	PAR: acompanyant__n	FORMS: NCCP000 sinusoides NCCS000 sinusoide
 
@@ -1445,9 +1370,6 @@ APERTIUM: solter	PAR: senyor__n	FORMS: NCFP000 solteres NCFS000 soltera NCMP000 
 
 APERTIUM: sotscap	PAR: acompanyant__n	FORMS: NCCP000 sotscaps NCCS000 sotscap
    OTHER: sotscap	PAR: abric__n	FORMS: NCMP000 sotscaps NCMS000 sotscap
-
-APERTIUM: subcampió	PAR: amfitri/ó__n	FORMS: NCFP000 subcampiones NCFS000 subcampiona NCMP000 subcampions NCMS000 subcampió
-   OTHER: subcampió	PAR: aband/ó__n	FORMS: NCMP000 subcampions NCMS000 subcampió
 
 APERTIUM: subcomandant	PAR: acompanyant__n	FORMS: NCCP000 subcomandants NCCS000 subcomandant
    OTHER: subcomandant	PAR: senyor__n	FORMS: NCFP000 subcomandantes NCFS000 subcomandanta NCMP000 subcomandants NCMS000 subcomandant
@@ -1578,17 +1500,11 @@ APERTIUM: URL	PAR: BBC__n	FORMS: NCFS000 URL
    OTHER: URL	PAR: IRPF__n	FORMS: NCMN000 URL
    OTHER: URL	PAR: campus__n	FORMS: NCMN000 URL
 
-APERTIUM: usuari	PAR: adjudicat/ari__n	FORMS: NCFP000 usuàries NCFS000 usuària NCMP000 usuaris NCMS000 usuari
-   OTHER: usuari	PAR: abric__n	FORMS: NCMP000 usuaris NCMS000 usuari
-
 APERTIUM: vailet	PAR: abric__n	FORMS: NCMP000 vailets NCMS000 vailet
    OTHER: vailet	PAR: senyor__n	FORMS: NCFP000 vailetes NCFS000 vaileta NCMP000 vailets NCMS000 vailet
 
 APERTIUM: valor	PAR: abric__n	FORMS: NCMP000 valors NCMS000 valor
    OTHER: valor	PAR: acompanyant__n	FORMS: NCCP000 valors NCCS000 valor
-
-APERTIUM: való	PAR: amfitri/ó__n	FORMS: NCFP000 valones NCFS000 valona NCMP000 valons NCMS000 való
-   OTHER: való	PAR: aband/ó__n	FORMS: NCMP000 valons NCMS000 való
 
 APERTIUM: vampir	PAR: abric__n	FORMS: NCMP000 vampirs NCMS000 vampir
    OTHER: vampir	PAR: senyor__n	FORMS: NCFP000 vampires NCFS000 vampira NCMP000 vampirs NCMS000 vampir
@@ -1604,9 +1520,6 @@ APERTIUM: vescomte	PAR: alcalde__n	FORMS: NCFP000 vescomtesses NCFS000 vescomtes
 
 APERTIUM: vessant	PAR: abric__n	FORMS: NCMP000 vessants NCMS000 vessant
    OTHER: vessant	PAR: acompanyant__n	FORMS: NCCP000 vessants NCCS000 vessant
-
-APERTIUM: veterinari	PAR: adjudicat/ari__n	FORMS: NCFP000 veterinàries NCFS000 veterinària NCMP000 veterinaris NCMS000 veterinari
-   OTHER: veterinari	PAR: abric__n	FORMS: NCMP000 veterinaris NCMS000 veterinari
 
 APERTIUM: veïnat	PAR: abric__n	FORMS: NCMP000 veïnats NCMS000 veïnat
    OTHER: veïnat	PAR: advoca/t__n	FORMS: NCFP000 veïnades NCFS000 veïnada NCMP000 veïnats NCMS000 veïnat
@@ -1659,9 +1572,6 @@ APERTIUM: vodka	PAR: carism/a__n	FORMS: NCMP000 vodkes NCMS000 vodka
 
 APERTIUM: voleibol	PAR: atletisme__n	FORMS: NCMS000 voleibol
    OTHER: voleibol	PAR: abric__n	FORMS: NCMP000 voleibols NCMS000 voleibol
-
-APERTIUM: voluntari	PAR: adjudicat/ari__n	FORMS: NCFP000 voluntàries NCFS000 voluntària NCMP000 voluntaris NCMS000 voluntari
-   OTHER: voluntari	PAR: abric__n	FORMS: NCMP000 voluntaris NCMS000 voluntari
 
 APERTIUM: voyeurisme	PAR: atletisme__n	FORMS: NCMS000 voyeurisme
    OTHER: voyeurisme	PAR: abric__n	FORMS: NCMP000 voyeurismes NCMS000 voyeurisme
