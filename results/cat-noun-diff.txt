@@ -1457,9 +1457,6 @@ APERTIUM: timbal	PAR: abric__n	FORMS: NCMP000 timbals NCMS000 timbal
 APERTIUM: tiroide	PAR: accessibilitat__n	FORMS: NCFP000 tiroides NCFS000 tiroide
    OTHER: tiroide	PAR: acompanyant__n	FORMS: NCCP000 tiroides NCCS000 tiroide
 
-APERTIUM: torero	PAR: gitan/o__n	FORMS: NCFP000 toreres NCFS000 torera NCMP000 toreros NCMS000 torero
-   OTHER: torero	PAR: abric__n	FORMS: NCMP000 toreros NCMS000 torero
-
 APERTIUM: torsimany	PAR: abric__n	FORMS: NCMP000 torsimanys NCMS000 torsimany
    OTHER: torsimany	PAR: acompanyant__n	FORMS: NCCP000 torsimanys NCCS000 torsimany
 
@@ -2046,4 +2043,5 @@ APERTIUM: whisky	PAR: abric__n	FORMS: NCMP000 whiskys NCMS000 whisky
 <e lm="vuit1"><i>vuit1</i><par n="??????????"/></e>
 <e lm="xapó1"><i>xapó1</i><par n="??????????"/></e>
 <e lm="xapó2"><i>xapó2</i><par n="??????????"/></e>
+<e lm="xarnego"><i>xarnego</i><par n="??????????"/></e>
 <e lm="zero1"><i>zero1</i><par n="??????????"/></e>

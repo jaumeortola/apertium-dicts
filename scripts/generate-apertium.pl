@@ -289,7 +289,12 @@ sub check_adjective {
             if ($flexio_ap =~ /^$flexio_lt$/) {
                 # generate only non existent words
                 if (!exists $apertium_dict{$lema}) {
-                    print "<e lm=\"$lema\"><i>$arrel</i><par n=\"$rule_name\"/></e>\n";
+                    my $no_spaces = 16 - length $lema;
+                    my $whitespace = "";
+                    if ($no_spaces > 0) {
+                        $whitespace = " " x $no_spaces;
+                    }
+                    print "<e lm=\"$lema\" a=\"jaumeortola\">$whitespace<i>$arrel</i><par n=\"$rule_name\"/></e>\n";
                     return;
                 } else {     # check paradigm
                     if ($apertium_dict{$lema} !~ /^$flexio_lt$/ ) {
