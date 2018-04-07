@@ -2007,9 +2007,6 @@ APERTIUM: religioso	PAR: abstract/o__adj	FORMS: AQ0FP0 religiosas AQ0FP0 religio
    OTHER: religioso	PAR: mí/o__adj	FORMS: AQ0FP0 religiosas AQ0FS0 religiosa AQ0MP0 religiosos AQ0MS0 religioso
    OTHER: religioso	PAR: otr/o__adj	FORMS: AQ0FP0 religiosas AQ0FS0 religiosa AQ0MP0 religiosos AQ0MS0 religioso
 
-APERTIUM: rellenable	PAR: abdominal__adj	FORMS: AQ0CP0 rellenablees AQ0CS0 rellenable
-   OTHER: rellenable	PAR: abundante__adj	FORMS: AQ0CP0 rellenables AQ0CS0 rellenable
-
 APERTIUM: relleno	PAR: abstract/o__adj	FORMS: AQ0FP0 rellenas AQ0FP0 rellenísimas AQ0FS0 rellena AQ0FS0 rellenísima AQ0MP0 rellenos AQ0MP0 rellenísimos AQ0MS0 relleno AQ0MS0 rellenísimo
    OTHER: relleno	PAR: absolut/o__adj	FORMS: AQ0FP0 rellenas AQ0FS0 rellena AQ0MP0 rellenos AQ0MS0 relleno
    OTHER: relleno	PAR: cuánt/o__adj	FORMS: AQ0FP0 rellenas AQ0FS0 rellena AQ0MP0 rellenos AQ0MS0 relleno

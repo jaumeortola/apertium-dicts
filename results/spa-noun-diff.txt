@@ -321,9 +321,6 @@ APERTIUM: biopolímero	PAR: abismo__n	FORMS: NCMP000 biopolímeros NCMS000 biopo
 APERTIUM: bioquímica	PAR: cuaresma__n	FORMS: NCFS000 bioquímica
    OTHER: bioquímica	PAR: abeja__n	FORMS: NCFP000 bioquímicas NCFS000 bioquímica
 
-APERTIUM: biorreactor	PAR: abismo__n	FORMS: NCMP000 biorreactors NCMS000 biorreactor
-   OTHER: biorreactor	PAR: abril__n	FORMS: NCMP000 biorreactores NCMS000 biorreactor
-
 APERTIUM: bisturí	PAR: abismo__n	FORMS: NCMP000 bisturís NCMS000 bisturí
    OTHER: bisturí	PAR: club__n	FORMS: NCMP000 bisturíes NCMP000 bisturís NCMS000 bisturí
 
@@ -1618,10 +1615,6 @@ APERTIUM: oriente	PAR: atletismo__n	FORMS: NCMS000 oriente
 APERTIUM: oxímoron	PAR: abismo__n	FORMS: NCMP000 oxímorons NCMS000 oxímoron
    OTHER: oxímoron	PAR: abril__n	FORMS: NCMP000 oxímorones NCMS000 oxímoron
 
-APERTIUM: pH	PAR: campus__n	FORMS: NCMN000 pH
-   OTHER: pH	PAR: BBVA__n	FORMS: NCMS000 pH
-   OTHER: pH	PAR: atletismo__n	FORMS: NCMS000 pH
-
 APERTIUM: pakistaní	PAR: albañil__n	FORMS: NCCP000 pakistaníes NCCS000 pakistaní
    OTHER: pakistaní	PAR: maniquí__n	FORMS: NCCP000 pakistaníes NCCP000 pakistanís NCCS000 pakistaní
 
@@ -1720,6 +1713,10 @@ APERTIUM: petrolero	PAR: abismo__n	FORMS: NCMP000 petroleros NCMS000 petrolero
 
 APERTIUM: peón	PAR: anfitri/ón__n	FORMS: NCFP000 peonas NCFS000 peona NCMP000 peones NCMS000 peón
    OTHER: peón	PAR: aluvi/ón__n	FORMS: NCMP000 peones NCMS000 peón
+
+APERTIUM: pH	PAR: campus__n	FORMS: NCMN000 pH
+   OTHER: pH	PAR: BBVA__n	FORMS: NCMS000 pH
+   OTHER: pH	PAR: atletismo__n	FORMS: NCMS000 pH
 
 APERTIUM: pichón	PAR: aluvi/ón__n	FORMS: NCMP000 pichones NCMS000 pichón
    OTHER: pichón	PAR: anfitri/ón__n	FORMS: NCFP000 pichonas NCFS000 pichona NCMP000 pichones NCMS000 pichón
@@ -1879,9 +1876,6 @@ APERTIUM: reactor	PAR: señor__n	FORMS: NCFP000 reactoras NCFS000 reactora NCMP0
 
 APERTIUM: reboteador	PAR: señor__n	FORMS: NCFP000 reboteadoras NCFS000 reboteadora NCMP000 reboteadores NCMS000 reboteador
    OTHER: reboteador	PAR: abril__n	FORMS: NCMP000 reboteadores NCMS000 reboteador
-
-APERTIUM: recogedor	PAR: club__n	FORMS: NCMP000 recogedores NCMP000 recogedors NCMS000 recogedor
-   OTHER: recogedor	PAR: abril__n	FORMS: NCMP000 recogedores NCMS000 recogedor
 
 APERTIUM: recogepelotas	PAR: gilipollas__n	FORMS: NCCN000 recogepelotas
    OTHER: recogepelotas	PAR: IRPF__n	FORMS: NCMN000 recogepelotas
