@@ -40,8 +40,14 @@ APERTIUM: alcalde	PAR: alcalde__n	FORMS: NCFP000 alcaldesses NCFS000 alcaldessa 
 APERTIUM: aler	PAR: abric__n	FORMS: NCMP000 alers NCMS000 aler
    OTHER: aler	PAR: senyor__n	FORMS: NCFP000 aleres NCFS000 alera NCMP000 alers NCMS000 aler
 
+APERTIUM: algerí	PAR: alacant/í__n	FORMS: NCFP000 algerines NCFS000 algerina NCMP000 algerins NCMS000 algerí
+   OTHER: algerí	PAR: boc/í__n	FORMS: NCMP000 algerins NCMS000 algerí
+
 APERTIUM: algicida	PAR: accionist/a__n	FORMS: NCCP000 algicides NCCS000 algicida
    OTHER: algicida	PAR: carism/a__n	FORMS: NCMP000 algicides NCMS000 algicida
+
+APERTIUM: algonquí	PAR: alacant/í__n	FORMS: NCFP000 algonquines NCFS000 algonquina NCMP000 algonquins NCMS000 algonquí
+   OTHER: algonquí	PAR: boc/í__n	FORMS: NCMP000 algonquins NCMS000 algonquí
 
 APERTIUM: alimentador	PAR: abric__n	FORMS: NCMP000 alimentadors NCMS000 alimentador
    OTHER: alimentador	PAR: senyor__n	FORMS: NCFP000 alimentadores NCFS000 alimentadora NCMP000 alimentadors NCMS000 alimentador
@@ -692,6 +698,9 @@ APERTIUM: furor	PAR: abric__n	FORMS: NCMP000 furors NCMS000 furor
 
 APERTIUM: futbol	PAR: atletisme__n	FORMS: NCMS000 futbol
    OTHER: futbol	PAR: abric__n	FORMS: NCMP000 futbols NCMS000 futbol
+
+APERTIUM: fúcsia	PAR: carism/a__n	FORMS: NCMP000 fúcsies NCMS000 fúcsia
+   OTHER: fúcsia	PAR: accionist/a__n	FORMS: NCCP000 fúcsies NCCS000 fúcsia
 
 APERTIUM: fúting	PAR: atletisme__n	FORMS: NCMS000 fúting
    OTHER: fúting	PAR: abric__n	FORMS: NCMP000 fútings NCMS000 fúting
@@ -1618,9 +1627,6 @@ APERTIUM: babuí	PAR: boc/í__n	FORMS: NCMP000 babuins NCMS000 babuí
 APERTIUM: baixó	PAR: aband/ó__n	FORMS: NCMP000 baixons NCMS000 baixó
    OTHER: baixó	PAR: ??????????????	FORMS: NCCP000 baixons NCCS000 baixó
 
-APERTIUM: benentès	PAR: atletisme__n	FORMS: NCMS000 benentés
-   OTHER: benentès	PAR: ??????????????	FORMS: NCMS000 benentès NCMS000 benentés
-
 APERTIUM: contrabaix	PAR: abast__n	FORMS: NCMP000 contrabaixos NCMP000 contrabaixs NCMS000 contrabaix
    OTHER: contrabaix	PAR: ??????????????	FORMS: NCCP000 contrabaixos NCCS000 contrabaix
 
@@ -1726,6 +1732,7 @@ APERTIUM: whisky	PAR: abric__n	FORMS: NCMP000 whiskys NCMS000 whisky
 <e lm="be1"><i>be1</i><par n="??????????"/></e>
 <e lm="be2"><i>be2</i><par n="??????????"/></e>
 <e lm="beja"><i>beja</i><par n="??????????"/></e>
+<e lm="benentès"><i>benentès</i><par n="??????????"/></e>
 <e lm="bleda-rave"><i>bleda-rave</i><par n="??????????"/></e>
 <e lm="bluesman"><i>bluesman</i><par n="??????????"/></e>
 <e lm="bocadolça"><i>bocadolça</i><par n="??????????"/></e>
