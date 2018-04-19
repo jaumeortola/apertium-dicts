@@ -1510,7 +1510,6 @@
 <e lm="algepseria" a="jaumeortola">      <i>algepseri</i><par n="abell/a__n"/></e>
 <e lm="algepsot" a="jaumeortola">        <i>algepsot</i><par n="abric__n"/></e>
 <e lm="algepsó" a="jaumeortola">         <i>algeps</i><par n="aband/ó__n"/></e>
-<e lm="algerina" a="jaumeortola">        <i>algerin</i><par n="abell/a__n"/></e>
 <e lm="algerrià" a="jaumeortola">        <i>algerri</i><par n="americ/à__n"/></e>
 <e lm="algiditat" a="jaumeortola">       <i>algiditat</i><par n="accessibilitat__n"/></e>
 <e lm="alginat" a="jaumeortola">         <i>alginat</i><par n="abric__n"/></e>
@@ -1522,7 +1521,6 @@
 <e lm="algologia" a="jaumeortola">       <i>algologi</i><par n="abell/a__n"/></e>
 <e lm="algomania" a="jaumeortola">       <i>algomani</i><par n="abell/a__n"/></e>
 <e lm="algometria" a="jaumeortola">      <i>algometri</i><par n="abell/a__n"/></e>
-<e lm="algonquina" a="jaumeortola">      <i>algonquin</i><par n="abell/a__n"/></e>
 <e lm="algonquià" a="jaumeortola">       <i>algonqui</i><par n="bacall/à__n"/></e>
 <e lm="algor" a="jaumeortola">           <i>algor</i><par n="accessibilitat__n"/></e>
 <e lm="algorfa" a="jaumeortola">         <i>algorf</i><par n="abell/a__n"/></e>
@@ -13424,7 +13422,6 @@
 <e lm="desferracavalls" a="jaumeortola"> <i>desferracavalls</i><par n="IRPF__n"/></e>
 <e lm="desfet" a="jaumeortola">          <i>desfet</i><par n="abric__n"/></e>
 <e lm="desfibrament" a="jaumeortola">    <i>desfibrament</i><par n="abric__n"/></e>
-<e lm="desficaci" a="jaumeortola">       <i>desficaci</i><par n="abric__n"/></e>
 <e lm="desficaciament" a="jaumeortola">  <i>desficaciament</i><par n="abric__n"/></e>
 <e lm="desfiguració" a="jaumeortola">    <i>desfiguraci</i><par n="acci/ó__n"/></e>
 <e lm="desfigurament" a="jaumeortola">   <i>desfigurament</i><par n="abric__n"/></e>

@@ -40,14 +40,8 @@ APERTIUM: alcalde	PAR: alcalde__n	FORMS: NCFP000 alcaldesses NCFS000 alcaldessa 
 APERTIUM: aler	PAR: abric__n	FORMS: NCMP000 alers NCMS000 aler
    OTHER: aler	PAR: senyor__n	FORMS: NCFP000 aleres NCFS000 alera NCMP000 alers NCMS000 aler
 
-APERTIUM: algerí	PAR: alacant/í__n	FORMS: NCFP000 algerines NCFS000 algerina NCMP000 algerins NCMS000 algerí
-   OTHER: algerí	PAR: boc/í__n	FORMS: NCMP000 algerins NCMS000 algerí
-
 APERTIUM: algicida	PAR: accionist/a__n	FORMS: NCCP000 algicides NCCS000 algicida
    OTHER: algicida	PAR: carism/a__n	FORMS: NCMP000 algicides NCMS000 algicida
-
-APERTIUM: algonquí	PAR: alacant/í__n	FORMS: NCFP000 algonquines NCFS000 algonquina NCMP000 algonquins NCMS000 algonquí
-   OTHER: algonquí	PAR: boc/í__n	FORMS: NCMP000 algonquins NCMS000 algonquí
 
 APERTIUM: alimentador	PAR: abric__n	FORMS: NCMP000 alimentadors NCMS000 alimentador
    OTHER: alimentador	PAR: senyor__n	FORMS: NCFP000 alimentadores NCFS000 alimentadora NCMP000 alimentadors NCMS000 alimentador
@@ -985,6 +979,9 @@ APERTIUM: merenga	PAR: abell/a__n	FORMS: NCFP000 merenges NCFS000 merenga
 
 APERTIUM: mestís	PAR: mest/ís__n	FORMS: NCFP000 mestisses NCFS000 mestissa NCMP000 mestissos NCMS000 mestís
    OTHER: mestís	PAR: passad/ís__n	FORMS: NCMP000 mestissos NCMS000 mestís
+
+APERTIUM: metec	PAR: senyor__n	FORMS: NCFP000 metees NCFS000 metea NCMP000 metes NCMS000 mete
+   OTHER: metec	PAR: asiàti/c__n	FORMS: NCFP000 meteques NCFS000 meteca NCMP000 metecs NCMS000 metec
 
 APERTIUM: metge	PAR: alcalde__n	FORMS: NCFP000 metgesses NCFS000 metgessa NCMP000 metges NCMS000 metge
    OTHER: metge	PAR: acompanyant__n	FORMS: NCCP000 metges NCCS000 metge
