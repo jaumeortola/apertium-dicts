@@ -55,6 +55,9 @@ APERTIUM: almogàver	PAR: acompanyant__n	FORMS: NCCP000 almogàvers NCCS000 almo
 APERTIUM: alzheimer	PAR: atletisme__n	FORMS: NCMS000 alzheimer
    OTHER: alzheimer	PAR: abric__n	FORMS: NCMP000 alzheimers NCMS000 alzheimer
 
+APERTIUM: amarrador	PAR: abric__n	FORMS: NCMP000 amarradors NCMS000 amarrador
+   OTHER: amarrador	PAR: senyor__n	FORMS: NCFP000 amarradores NCFS000 amarradora NCMP000 amarradors NCMS000 amarrador
+
 APERTIUM: ametista	PAR: abell/a__n	FORMS: NCFP000 ametistes NCFS000 ametista
    OTHER: ametista	PAR: accionist/a__n	FORMS: NCCP000 ametistes NCCS000 ametista
 
@@ -272,6 +275,9 @@ APERTIUM: canalla	PAR: q__n	FORMS: NCFS000 canalla
 APERTIUM: canapè	PAR: abric__n	FORMS: NCMP000 canapès NCMS000 canapè
    OTHER: canapè	PAR: caf/è__n	FORMS: NCMP000 canapès NCMP000 canapés NCMS000 canapè NCMS000 canapé
 
+APERTIUM: candeler	PAR: abric__n	FORMS: NCMP000 candelers NCMS000 candeler
+   OTHER: candeler	PAR: senyor__n	FORMS: NCFP000 candeleres NCFS000 candelera NCMP000 candelers NCMS000 candeler
+
 APERTIUM: cantiga	PAR: abell/a__n	FORMS: NCFP000 cantiges NCFS000 cantiga
    OTHER: cantiga	PAR: alg/a__n	FORMS: NCFP000 cantigues NCFS000 cantiga
 
@@ -381,9 +387,6 @@ APERTIUM: compilador	PAR: abric__n	FORMS: NCMP000 compiladors NCMS000 compilador
 
 APERTIUM: complex	PAR: abast__n	FORMS: NCMP000 complexos NCMP000 complexs NCMS000 complex
    OTHER: complex	PAR: as__n	FORMS: NCMP000 complexos NCMS000 complex
-
-APERTIUM: component	PAR: abric__n	FORMS: NCMP000 components NCMS000 component
-   OTHER: component	PAR: acompanyant__n	FORMS: NCCP000 components NCCS000 component
 
 APERTIUM: comptador	PAR: abric__n	FORMS: NCMP000 comptadors NCMS000 comptador
    OTHER: comptador	PAR: senyor__n	FORMS: NCFP000 comptadores NCFS000 comptadora NCMP000 comptadors NCMS000 comptador
@@ -599,6 +602,9 @@ APERTIUM: esquaix	PAR: atletisme__n	FORMS: NCMS000 esquaix
 APERTIUM: esquetx	PAR: abast__n	FORMS: NCMP000 esquetxos NCMP000 esquetxs NCMS000 esquetx
    OTHER: esquetx	PAR: as__n	FORMS: NCMP000 esquetxos NCMS000 esquetx
 
+APERTIUM: estilògraf	PAR: abric__n	FORMS: NCMP000 estilògrafs NCMS000 estilògraf
+   OTHER: estilògraf	PAR: senyor__n	FORMS: NCFP000 estilògrafes NCFS000 estilògrafa NCMP000 estilògrafs NCMS000 estilògraf
+
 APERTIUM: estira-i-arronsa	PAR: campus__n	FORMS: NCMN000 estira-i-arronsa
    OTHER: estira-i-arronsa	PAR: carism/a__n	FORMS: NCMP000 estira-i-arronses NCMS000 estira-i-arronsa
 
@@ -698,6 +704,9 @@ APERTIUM: fúcsia	PAR: carism/a__n	FORMS: NCMP000 fúcsies NCMS000 fúcsia
 
 APERTIUM: fúting	PAR: atletisme__n	FORMS: NCMS000 fúting
    OTHER: fúting	PAR: abric__n	FORMS: NCMP000 fútings NCMS000 fúting
+
+APERTIUM: gai	PAR: acompanyant__n	FORMS: NCCP000 gais NCCS000 gai
+   OTHER: gai	PAR: abric__n	FORMS: NCMP000 gais NCMS000 gai
 
 APERTIUM: gaig	PAR: abric__n	FORMS: NCMP000 gaigs NCMS000 gaig
    OTHER: gaig	PAR: assa/ig__n	FORMS: NCMP000 gaigs NCMP000 gajos NCMS000 gaig
@@ -867,9 +876,6 @@ APERTIUM: kabuki	PAR: abric__n	FORMS: NCMP000 kabukis NCMS000 kabuki
 APERTIUM: krausisme	PAR: atletisme__n	FORMS: NCMS000 krausisme
    OTHER: krausisme	PAR: abric__n	FORMS: NCMP000 krausismes NCMS000 krausisme
 
-APERTIUM: lacai	PAR: senyor__n	FORMS: NCFP000 lacaies NCFS000 lacaia NCMP000 lacais NCMS000 lacai
-   OTHER: lacai	PAR: abric__n	FORMS: NCMP000 lacais NCMS000 lacai
-
 APERTIUM: ladí	PAR: alacant/í__n	FORMS: NCFP000 ladines NCFS000 ladina NCMP000 ladins NCMS000 ladí
    OTHER: ladí	PAR: boc/í__n	FORMS: NCMP000 ladins NCMS000 ladí
 
@@ -946,9 +952,6 @@ APERTIUM: malvolença	PAR: abell/a__n	FORMS: NCFP000 malvolençes NCFS000 malvol
 APERTIUM: mandra	PAR: abell/a__n	FORMS: NCFP000 mandres NCFS000 mandra
    OTHER: mandra	PAR: accionist/a__n	FORMS: NCCP000 mandres NCCS000 mandra
 
-APERTIUM: manobre	PAR: acompanyant__n	FORMS: NCCP000 manobres NCCS000 manobre
-   OTHER: manobre	PAR: abric__n	FORMS: NCMP000 manobres NCMS000 manobre
-
 APERTIUM: manx	PAR: manx__n	FORMS: NCFP000 manxes NCFS000 manx NCMP000 manxos NCMS000 manx
    OTHER: manx	PAR: BBVA__n	FORMS: NCMS000 manx
    OTHER: manx	PAR: atletisme__n	FORMS: NCMS000 manx
@@ -979,9 +982,6 @@ APERTIUM: merenga	PAR: abell/a__n	FORMS: NCFP000 merenges NCFS000 merenga
 
 APERTIUM: mestís	PAR: mest/ís__n	FORMS: NCFP000 mestisses NCFS000 mestissa NCMP000 mestissos NCMS000 mestís
    OTHER: mestís	PAR: passad/ís__n	FORMS: NCMP000 mestissos NCMS000 mestís
-
-APERTIUM: metec	PAR: senyor__n	FORMS: NCFP000 metees NCFS000 metea NCMP000 metes NCMS000 mete
-   OTHER: metec	PAR: asiàti/c__n	FORMS: NCFP000 meteques NCFS000 meteca NCMP000 metecs NCMS000 metec
 
 APERTIUM: metge	PAR: alcalde__n	FORMS: NCFP000 metgesses NCFS000 metgessa NCMP000 metges NCMS000 metge
    OTHER: metge	PAR: acompanyant__n	FORMS: NCCP000 metges NCCS000 metge
@@ -1143,9 +1143,6 @@ APERTIUM: peça	PAR: adre/ça__n	FORMS: NCFP000 peces NCFS000 peça
 APERTIUM: pirata	PAR: accionist/a__n	FORMS: NCCP000 pirates NCCS000 pirata
    OTHER: pirata	PAR: carism/a__n	FORMS: NCMP000 pirates NCMS000 pirata
 
-APERTIUM: pivot	PAR: abric__n	FORMS: NCMP000 pivots NCMS000 pivot
-   OTHER: pivot	PAR: acompanyant__n	FORMS: NCCP000 pivots NCCS000 pivot
-
 APERTIUM: plaguicida	PAR: accionist/a__n	FORMS: NCCP000 plaguicides NCCS000 plaguicida
    OTHER: plaguicida	PAR: carism/a__n	FORMS: NCMP000 plaguicides NCMS000 plaguicida
 
@@ -1303,6 +1300,9 @@ APERTIUM: rosa	PAR: carism/a__n	FORMS: NCMP000 roses NCMS000 rosa
 APERTIUM: rubor	PAR: abric__n	FORMS: NCMP000 rubors NCMS000 rubor
    OTHER: rubor	PAR: acompanyant__n	FORMS: NCCP000 rubors NCCS000 rubor
 
+APERTIUM: rugbi	PAR: atletisme__n	FORMS: NCMS000 rugbi
+   OTHER: rugbi	PAR: abric__n	FORMS: NCMP000 rugbis NCMS000 rugbi
+
 APERTIUM: rumor	PAR: abric__n	FORMS: NCMP000 rumors NCMS000 rumor
    OTHER: rumor	PAR: acompanyant__n	FORMS: NCCP000 rumors NCCS000 rumor
 
@@ -1388,9 +1388,6 @@ APERTIUM: sultà	PAR: americ/à__n	FORMS: NCFP000 sultanes NCFS000 sultana NCMP0
 
 APERTIUM: sumeri	PAR: sum/eri__n	FORMS: NCFP000 sumèries NCFS000 sumèria NCMP000 sumeris NCMS000 sumeri
    OTHER: sumeri	PAR: abric__n	FORMS: NCMP000 sumeris NCMS000 sumeri
-
-APERTIUM: superintendent	PAR: acompanyant__n	FORMS: NCCP000 superintendents NCCS000 superintendent
-   OTHER: superintendent	PAR: abric__n	FORMS: NCMP000 superintendents NCMS000 superintendent
 
 APERTIUM: supernumerari	PAR: abric__n	FORMS: NCMP000 supernumeraris NCMS000 supernumerari
    OTHER: supernumerari	PAR: adjudicat/ari__n	FORMS: NCFP000 supernumeràries NCFS000 supernumerària NCMP000 supernumeraris NCMS000 supernumerari

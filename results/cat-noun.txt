@@ -680,7 +680,6 @@
 <e lm="adverbialitat" a="jaumeortola">   <i>adverbialitat</i><par n="accessibilitat__n"/></e>
 <e lm="adverbialització" a="jaumeortola"><i>adverbialitzaci</i><par n="acci/ó__n"/></e>
 <e lm="advertidor" a="jaumeortola">      <i>advertidor</i><par n="senyor__n"/></e>
-<e lm="advocació" a="jaumeortola">       <i>advocaci</i><par n="acci/ó__n"/></e>
 <e lm="advocadessa" a="jaumeortola">     <i>advocadess</i><par n="abell/a__n"/></e>
 <e lm="adèfag" a="jaumeortola">          <i>adèfag</i><par n="abric__n"/></e>
 <e lm="adèlfia" a="jaumeortola">         <i>adèlfi</i><par n="abell/a__n"/></e>
@@ -1650,7 +1649,6 @@
 <e lm="almussa" a="jaumeortola">         <i>almuss</i><par n="abell/a__n"/></e>
 <e lm="almàixera" a="jaumeortola">       <i>almàixer</i><par n="abell/a__n"/></e>
 <e lm="almàrtec" a="jaumeortola">        <i>almàrtec</i><par n="abric__n"/></e>
-<e lm="almàssera" a="jaumeortola">       <i>almàsser</i><par n="abell/a__n"/></e>
 <e lm="alnico" a="jaumeortola">          <i>alnico</i><par n="abric__n"/></e>
 <e lm="aloc" a="jaumeortola">            <i>aloc</i><par n="abric__n"/></e>
 <e lm="alocar" a="jaumeortola">          <i>alocar</i><par n="abric__n"/></e>
@@ -1900,7 +1898,6 @@
 <e lm="ambiciositat" a="jaumeortola">    <i>ambiciositat</i><par n="accessibilitat__n"/></e>
 <e lm="ambidexteritat" a="jaumeortola">  <i>ambidexteritat</i><par n="accessibilitat__n"/></e>
 <e lm="ambidextrisme" a="jaumeortola">   <i>ambidextrisme</i><par n="abric__n"/></e>
-<e lm="ambientador" a="jaumeortola">     <i>ambientador</i><par n="abric__n"/></e>
 <e lm="ambientalista" a="jaumeortola">   <i>ambientalist</i><par n="accionist/a__n"/></e>
 <e lm="ambientalització" a="jaumeortola"><i>ambientalitzaci</i><par n="acci/ó__n"/></e>
 <e lm="ambigú" a="jaumeortola">          <i>ambigú</i><par n="abric__n"/></e>
@@ -4258,7 +4255,6 @@
 <e lm="autoqualificació" a="jaumeortola"><i>autoqualificaci</i><par n="acci/ó__n"/></e>
 <e lm="autoradiografia" a="jaumeortola"> <i>autoradiografi</i><par n="abell/a__n"/></e>
 <e lm="autoraïl" a="jaumeortola">        <i>autoraïl</i><par n="abric__n"/></e>
-<e lm="autorealització" a="jaumeortola"> <i>autorealitzaci</i><par n="acci/ó__n"/></e>
 <e lm="autoreconeixement" a="jaumeortola"><i>autoreconeixement</i><par n="abric__n"/></e>
 <e lm="autoreducció" a="jaumeortola">    <i>autoreducci</i><par n="acci/ó__n"/></e>
 <e lm="autoregistre" a="jaumeortola">    <i>autoregistre</i><par n="abric__n"/></e>
@@ -4745,7 +4741,6 @@
 <e lm="balum" a="jaumeortola">           <i>balum</i><par n="abric__n"/></e>
 <e lm="baluma" a="jaumeortola">          <i>balum</i><par n="abell/a__n"/></e>
 <e lm="balun" a="jaumeortola">           <i>balun</i><par n="abric__n"/></e>
-<e lm="balustrada" a="jaumeortola">      <i>balustrad</i><par n="abell/a__n"/></e>
 <e lm="balustrat" a="jaumeortola">       <i>balustrat</i><par n="abric__n"/></e>
 <e lm="balutxi" a="jaumeortola">         <i>balutxi</i><par n="acompanyant__n"/></e>
 <e lm="bal·lisme" a="jaumeortola">       <i>bal·lisme</i><par n="abric__n"/></e>
@@ -5722,7 +5717,6 @@
 <e lm="binarització" a="jaumeortola">    <i>binaritzaci</i><par n="acci/ó__n"/></e>
 <e lm="binauralitat" a="jaumeortola">    <i>binauralitat</i><par n="accessibilitat__n"/></e>
 <e lm="bingarda" a="jaumeortola">        <i>bingard</i><par n="abell/a__n"/></e>
-<e lm="bingo" a="jaumeortola">           <i>bingo</i><par n="abric__n"/></e>
 <e lm="binicarlando" a="jaumeortola">    <i>binicarland</i><par n="gitan/o__n"/></e>
 <e lm="binocle" a="jaumeortola">         <i>binocle</i><par n="abric__n"/></e>
 <e lm="binocular" a="jaumeortola">       <i>binocular</i><par n="abric__n"/></e>
@@ -6776,7 +6770,6 @@
 <e lm="bringuera" a="jaumeortola">       <i>bringuer</i><par n="abell/a__n"/></e>
 <e lm="brio" a="jaumeortola">            <i>brio</i><par n="abric__n"/></e>
 <e lm="briofil·le" a="jaumeortola">      <i>briofil·le</i><par n="abric__n"/></e>
-<e lm="brioix" a="jaumeortola">          <i>brioix</i><par n="as__n"/></e>
 <e lm="briol" a="jaumeortola">           <i>briol</i><par n="abric__n"/></e>
 <e lm="briologia" a="jaumeortola">       <i>briologi</i><par n="abell/a__n"/></e>
 <e lm="briolí" a="jaumeortola">          <i>briol</i><par n="boc/í__n"/></e>
@@ -6940,7 +6933,6 @@
 <e lm="bruixonada" a="jaumeortola">      <i>bruixonad</i><par n="abell/a__n"/></e>
 <e lm="bruixota" a="jaumeortola">        <i>bruixot</i><par n="abell/a__n"/></e>
 <e lm="bruixó" a="jaumeortola">          <i>bruix</i><par n="aband/ó__n"/></e>
-<e lm="brull" a="jaumeortola">           <i>brull</i><par n="abric__n"/></e>
 <e lm="brulla" a="jaumeortola">          <i>brull</i><par n="abell/a__n"/></e>
 <e lm="brullanenc" a="jaumeortola">      <i>brullanen</i><par n="asiàti/c__n"/></e>
 <e lm="brullenc" a="jaumeortola">        <i>brullen</i><par n="asiàti/c__n"/></e>
@@ -7163,7 +7155,6 @@
 <e lm="bursitis" a="jaumeortola">        <i>bursitis</i><par n="MTS__n"/></e>
 <e lm="bursícula" a="jaumeortola">       <i>bursícul</i><par n="abell/a__n"/></e>
 <e lm="burxa" a="jaumeortola">           <i>burx</i><par n="accionist/a__n"/></e>
-<e lm="burxador" a="jaumeortola">        <i>burxador</i><par n="senyor__n"/></e>
 <e lm="burxanc" a="jaumeortola">         <i>burxanc</i><par n="abric__n"/></e>
 <e lm="burxeta" a="jaumeortola">         <i>burxet</i><par n="accionist/a__n"/></e>
 <e lm="burxó" a="jaumeortola">           <i>burx</i><par n="aband/ó__n"/></e>
@@ -7362,7 +7353,6 @@
 <e lm="cabler" a="jaumeortola">          <i>cabler</i><par n="abric__n"/></e>
 <e lm="cablevisió" a="jaumeortola">      <i>cablevisi</i><par n="acci/ó__n"/></e>
 <e lm="caboclo" a="jaumeortola">         <i>cabocl</i><par n="gitan/o__n"/></e>
-<e lm="caboixó" a="jaumeortola">         <i>caboix</i><par n="aband/ó__n"/></e>
 <e lm="cabomba" a="jaumeortola">         <i>cabomb</i><par n="abell/a__n"/></e>
 <e lm="cabonès" a="jaumeortola">         <i>cabon</i><par n="angl/ès__n"/></e>
 <e lm="cabot" a="jaumeortola">           <i>cabot</i><par n="abric__n"/></e>
@@ -7838,7 +7828,6 @@
 <e lm="camallonga" a="jaumeortola">      <i>camallong</i><par n="alg/a__n"/></e>
 <e lm="camallot" a="jaumeortola">        <i>camallot</i><par n="abric__n"/></e>
 <e lm="camalluent" a="jaumeortola">      <i>camalluent</i><par n="senyor__n"/></e>
-<e lm="camamil·la" a="jaumeortola">      <i>camamil·l</i><par n="abell/a__n"/></e>
 <e lm="camanduler" a="jaumeortola">      <i>camanduler</i><par n="senyor__n"/></e>
 <e lm="camanduleria" a="jaumeortola">    <i>camanduleri</i><par n="abell/a__n"/></e>
 <e lm="camaraderia" a="jaumeortola">     <i>camaraderi</i><par n="abell/a__n"/></e>
@@ -7986,7 +7975,6 @@
 <e lm="cancrinita" a="jaumeortola">      <i>cancrinit</i><par n="abell/a__n"/></e>
 <e lm="cancroide" a="jaumeortola">       <i>cancroide</i><par n="abric__n"/></e>
 <e lm="candalissa" a="jaumeortola">      <i>candaliss</i><par n="abell/a__n"/></e>
-<e lm="candeler" a="jaumeortola">        <i>candeler</i><par n="senyor__n"/></e>
 <e lm="candelers" a="jaumeortola">       <i>candelers</i><par n="EUA__n"/></e>
 <e lm="candeleta" a="jaumeortola">       <i>candelet</i><par n="abell/a__n"/></e>
 <e lm="candelilla" a="jaumeortola">      <i>candelill</i><par n="abell/a__n"/></e>
@@ -8632,7 +8620,6 @@
 <e lm="carmelitana" a="jaumeortola">     <i>carmelitan</i><par n="abell/a__n"/></e>
 <e lm="carmelità" a="jaumeortola">       <i>carmelit</i><par n="bacall/à__n"/></e>
 <e lm="carmenador" a="jaumeortola">      <i>carmenador</i><par n="senyor__n"/></e>
-<e lm="carmesí" a="jaumeortola">         <i>carmes</i><par n="boc/í__n"/></e>
 <e lm="carmetà" a="jaumeortola">         <i>carmet</i><par n="americ/à__n"/></e>
 <e lm="carminatiu" a="jaumeortola">      <i>carminatiu</i><par n="abric__n"/></e>
 <e lm="carmí" a="jaumeortola">           <i>carm</i><par n="boc/í__n"/></e>
@@ -9356,7 +9343,6 @@
 <e lm="centrífuga" a="jaumeortola">      <i>centrífug</i><par n="alg/a__n"/></e>
 <e lm="centumvir" a="jaumeortola">       <i>centumvir</i><par n="abric__n"/></e>
 <e lm="centumvirat" a="jaumeortola">     <i>centumvirat</i><par n="abric__n"/></e>
-<e lm="centuriació" a="jaumeortola">     <i>centuriaci</i><par n="acci/ó__n"/></e>
 <e lm="centàurea" a="jaumeortola">       <i>centàure</i><par n="abell/a__n"/></e>
 <e lm="cenur" a="jaumeortola">           <i>cenur</i><par n="abric__n"/></e>
 <e lm="cenurosi" a="jaumeortola">        <i>cenurosi</i><par n="accessibilitat__n"/></e>
@@ -9464,7 +9450,6 @@
 <e lm="cernos" a="jaumeortola">          <i>cernos</i><par n="IRPF__n"/></e>
 <e lm="cernuda" a="jaumeortola">         <i>cernud</i><par n="abell/a__n"/></e>
 <e lm="cero" a="jaumeortola">            <i>cero</i><par n="abric__n"/></e>
-<e lm="ceroferari" a="jaumeortola">      <i>cerofer</i><par n="adjudicat/ari__n"/></e>
 <e lm="cerol" a="jaumeortola">           <i>cerol</i><par n="abric__n"/></e>
 <e lm="ceroplàstia" a="jaumeortola">     <i>ceroplàsti</i><par n="abell/a__n"/></e>
 <e lm="cerot" a="jaumeortola">           <i>cerot</i><par n="abric__n"/></e>
@@ -9729,7 +9714,6 @@
 <e lm="cincí" a="jaumeortola">           <i>cinc</i><par n="boc/í__n"/></e>
 <e lm="cindri" a="jaumeortola">          <i>cindri</i><par n="abric__n"/></e>
 <e lm="cine" a="jaumeortola">            <i>cine</i><par n="abric__n"/></e>
-<e lm="cinefília" a="jaumeortola">       <i>cinefíli</i><par n="abell/a__n"/></e>
 <e lm="cinefòrum" a="jaumeortola">       <i>cinefòrum</i><par n="abric__n"/></e>
 <e lm="cinegètica" a="jaumeortola">      <i>cinegèti</i><par n="acústi/ca__n"/></e>
 <e lm="cinell" a="jaumeortola">          <i>cinell</i><par n="abric__n"/></e>
@@ -9986,7 +9970,6 @@
 <e lm="claqué" a="jaumeortola">          <i>claqué</i><par n="abric__n"/></e>
 <e lm="clara" a="jaumeortola">           <i>clar</i><par n="abell/a__n"/></e>
 <e lm="clarell" a="jaumeortola">         <i>clarell</i><par n="abric__n"/></e>
-<e lm="claret" a="jaumeortola">          <i>claret</i><par n="abric__n"/></e>
 <e lm="claretià" a="jaumeortola">        <i>clareti</i><par n="americ/à__n"/></e>
 <e lm="clariana" a="jaumeortola">        <i>clarian</i><par n="abell/a__n"/></e>
 <e lm="clarianenc" a="jaumeortola">      <i>clarianen</i><par n="asiàti/c__n"/></e>
@@ -10027,7 +10010,7 @@
 <e lm="clava" a="jaumeortola">           <i>clav</i><par n="abell/a__n"/></e>
 <e lm="clavador" a="jaumeortola">        <i>clavador</i><par n="senyor__n"/></e>
 <e lm="clavament" a="jaumeortola">       <i>clavament</i><par n="abric__n"/></e>
-<e lm="clavari" a="jaumeortola">         <i>clavari</i><par n="senyor__n"/></e>
+<e lm="clavaria" a="jaumeortola">        <i>clavari</i><par n="abell/a__n"/></e>
 <e lm="clavariat" a="jaumeortola">       <i>clavariat</i><par n="abric__n"/></e>
 <e lm="clavariessa" a="jaumeortola">     <i>clavariess</i><par n="abell/a__n"/></e>
 <e lm="clavariàcia" a="jaumeortola">     <i>clavariàci</i><par n="abell/a__n"/></e>
@@ -10060,7 +10043,6 @@
 <e lm="claviller" a="jaumeortola">       <i>claviller</i><par n="abric__n"/></e>
 <e lm="clavilló" a="jaumeortola">        <i>clavill</i><par n="aband/ó__n"/></e>
 <e lm="claviorgue" a="jaumeortola">      <i>clavi</i><par n="/orgue__n"/></e>
-<e lm="clavària" a="jaumeortola">        <i>clavàri</i><par n="abell/a__n"/></e>
 <e lm="clavícep" a="jaumeortola">        <i>clavícep</i><par n="abric__n"/></e>
 <e lm="clavó" a="jaumeortola">           <i>clav</i><par n="aband/ó__n"/></e>
 <e lm="clec" a="jaumeortola">            <i>clec</i><par n="abric__n"/></e>
@@ -10255,7 +10237,6 @@
 <e lm="cnidoblast" a="jaumeortola">      <i>cnidoblast</i><par n="abast__n"/></e>
 <e lm="cnidocist" a="jaumeortola">       <i>cnidocist</i><par n="abast__n"/></e>
 <e lm="coa" a="jaumeortola">             <i>co</i><par n="abell/a__n"/></e>
-<e lm="coacervat" a="jaumeortola">       <i>coacervat</i><par n="abric__n"/></e>
 <e lm="coactivitat" a="jaumeortola">     <i>coactivitat</i><par n="accessibilitat__n"/></e>
 <e lm="coaddicció" a="jaumeortola">      <i>coaddicci</i><par n="acci/ó__n"/></e>
 <e lm="coaddicte" a="jaumeortola">       <i>coaddict</i><par n="addict/e__n"/></e>
@@ -10518,7 +10499,6 @@
 <e lm="colleró" a="jaumeortola">         <i>coller</i><par n="aband/ó__n"/></e>
 <e lm="collferro" a="jaumeortola">       <i>collferro</i><par n="abric__n"/></e>
 <e lm="collidor" a="jaumeortola">        <i>collidor</i><par n="senyor__n"/></e>
-<e lm="colliter" a="jaumeortola">        <i>colliter</i><par n="senyor__n"/></e>
 <e lm="collitor" a="jaumeortola">        <i>collitor</i><par n="abric__n"/></e>
 <e lm="collonada" a="jaumeortola">       <i>collonad</i><par n="abell/a__n"/></e>
 <e lm="collonera" a="jaumeortola">       <i>colloner</i><par n="abell/a__n"/></e>
@@ -10781,7 +10761,6 @@
 <e lm="comptapeces" a="jaumeortola">     <i>comptapeces</i><par n="IRPF__n"/></e>
 <e lm="comptavoltes" a="jaumeortola">    <i>comptavoltes</i><par n="IRPF__n"/></e>
 <e lm="comptecorrentista" a="jaumeortola"><i>comptecorrentist</i><par n="accionist/a__n"/></e>
-<e lm="comptedant" a="jaumeortola">      <i>comptedant</i><par n="acompanyant__n"/></e>
 <e lm="comptedonant" a="jaumeortola">    <i>comptedonant</i><par n="acompanyant__n"/></e>
 <e lm="comptepartícip" a="jaumeortola">  <i>comptepartícip</i><par n="acompanyant__n"/></e>
 <e lm="compulsació" a="jaumeortola">     <i>compulsaci</i><par n="acci/ó__n"/></e>
@@ -11311,7 +11290,6 @@
 <e lm="contrasemble" a="jaumeortola">    <i>contrasemble</i><par n="abric__n"/></e>
 <e lm="contrasignatura" a="jaumeortola"> <i>contrasignatur</i><par n="abell/a__n"/></e>
 <e lm="contrasola" a="jaumeortola">      <i>contrasol</i><par n="abell/a__n"/></e>
-<e lm="contrastació" a="jaumeortola">    <i>contrastaci</i><par n="acci/ó__n"/></e>
 <e lm="contrastament" a="jaumeortola">   <i>contrastament</i><par n="abric__n"/></e>
 <e lm="contrastant" a="jaumeortola">     <i>contrastant</i><par n="acompanyant__n"/></e>
 <e lm="contrastia" a="jaumeortola">      <i>contrasti</i><par n="abell/a__n"/></e>
@@ -11733,7 +11711,6 @@
 <e lm="cortinari" a="jaumeortola">       <i>cortinari</i><par n="abric__n"/></e>
 <e lm="cortinarial" a="jaumeortola">     <i>cortinarial</i><par n="accessibilitat__n"/></e>
 <e lm="cortinariàcia" a="jaumeortola">   <i>cortinariàci</i><par n="abell/a__n"/></e>
-<e lm="cortinatge" a="jaumeortola">      <i>cortinatge</i><par n="abric__n"/></e>
 <e lm="cortiol" a="jaumeortola">         <i>cortiol</i><par n="abric__n"/></e>
 <e lm="cortsavinenc" a="jaumeortola">    <i>cortsavinen</i><par n="asiàti/c__n"/></e>
 <e lm="cortsenc" a="jaumeortola">        <i>cortsen</i><par n="asiàti/c__n"/></e>
@@ -11814,7 +11791,6 @@
 <e lm="costojà" a="jaumeortola">         <i>costoj</i><par n="americ/à__n"/></e>
 <e lm="costumari" a="jaumeortola">       <i>costumari</i><par n="abric__n"/></e>
 <e lm="costumisme" a="jaumeortola">      <i>costumisme</i><par n="abric__n"/></e>
-<e lm="costurer" a="jaumeortola">        <i>costurer</i><par n="senyor__n"/></e>
 <e lm="costàlgia" a="jaumeortola">       <i>costàlgi</i><par n="abell/a__n"/></e>
 <e lm="cosó" a="jaumeortola">            <i>cos</i><par n="aband/ó__n"/></e>
 <e lm="cot" a="jaumeortola">             <i>cot</i><par n="abric__n"/></e>
@@ -12129,14 +12105,12 @@
 <e lm="crisògraf" a="jaumeortola">       <i>crisògraf</i><par n="senyor__n"/></e>
 <e lm="crisòlit" a="jaumeortola">        <i>crisòlit</i><par n="abric__n"/></e>
 <e lm="crisòpid" a="jaumeortola">        <i>crisòpid</i><par n="abric__n"/></e>
-<e lm="crisòtil" a="jaumeortola">        <i>crisòtil</i><par n="abric__n"/></e>
 <e lm="criteriologia" a="jaumeortola">   <i>criteriologi</i><par n="abell/a__n"/></e>
 <e lm="criticador" a="jaumeortola">      <i>criticador</i><par n="senyor__n"/></e>
 <e lm="criticaire" a="jaumeortola">      <i>criticaire</i><par n="acompanyant__n"/></e>
 <e lm="criticastra" a="jaumeortola">     <i>criticastr</i><par n="abell/a__n"/></e>
 <e lm="criticastre" a="jaumeortola">     <i>criticastre</i><par n="abric__n"/></e>
 <e lm="criticista" a="jaumeortola">      <i>criticist</i><par n="accionist/a__n"/></e>
-<e lm="criticitat" a="jaumeortola">      <i>criticitat</i><par n="accessibilitat__n"/></e>
 <e lm="critiquejador" a="jaumeortola">   <i>critiquejador</i><par n="senyor__n"/></e>
 <e lm="critèrium" a="jaumeortola">       <i>critèrium</i><par n="abric__n"/></e>
 <e lm="crivell" a="jaumeortola">         <i>crivell</i><par n="abric__n"/></e>
@@ -12405,7 +12379,6 @@
 <e lm="cuniculicultor" a="jaumeortola">  <i>cuniculicultor</i><par n="senyor__n"/></e>
 <e lm="cuniculicultura" a="jaumeortola"> <i>cuniculicultur</i><par n="abell/a__n"/></e>
 <e lm="cunicultor" a="jaumeortola">      <i>cunicultor</i><par n="senyor__n"/></e>
-<e lm="cunicultura" a="jaumeortola">     <i>cunicultur</i><par n="abell/a__n"/></e>
 <e lm="cunitenc" a="jaumeortola">        <i>cuniten</i><par n="asiàti/c__n"/></e>
 <e lm="cunnilinció" a="jaumeortola">     <i>cunnilinci</i><par n="acci/ó__n"/></e>
 <e lm="cunnilingus" a="jaumeortola">     <i>cunnilingus</i><par n="IRPF__n"/></e>
@@ -12415,7 +12388,6 @@
 <e lm="cup" a="jaumeortola">             <i>cup</i><par n="abric__n"/></e>
 <e lm="cupcake" a="jaumeortola">         <i>cupcake</i><par n="abric__n"/></e>
 <e lm="cupiditat" a="jaumeortola">       <i>cupiditat</i><par n="accessibilitat__n"/></e>
-<e lm="cuplet" a="jaumeortola">          <i>cuplet</i><par n="abric__n"/></e>
 <e lm="cupletista" a="jaumeortola">      <i>cupletist</i><par n="accionist/a__n"/></e>
 <e lm="cuprat" a="jaumeortola">          <i>cuprat</i><par n="abric__n"/></e>
 <e lm="cupressàcia" a="jaumeortola">     <i>cupressàci</i><par n="abell/a__n"/></e>
@@ -12887,7 +12859,6 @@
 <e lm="degollador" a="jaumeortola">      <i>degollador</i><par n="senyor__n"/></e>
 <e lm="degolladura" a="jaumeortola">     <i>degolladur</i><par n="abell/a__n"/></e>
 <e lm="degollat" a="jaumeortola">        <i>degollat</i><par n="abric__n"/></e>
-<e lm="degollatge" a="jaumeortola">      <i>degollatge</i><par n="abric__n"/></e>
 <e lm="degoller" a="jaumeortola">        <i>degoller</i><par n="abric__n"/></e>
 <e lm="degotall" a="jaumeortola">        <i>degotall</i><par n="abric__n"/></e>
 <e lm="degotament" a="jaumeortola">      <i>degotament</i><par n="abric__n"/></e>
@@ -12993,7 +12964,6 @@
 <e lm="dendrometria" a="jaumeortola">    <i>dendrometri</i><par n="abell/a__n"/></e>
 <e lm="dendroquirot" a="jaumeortola">    <i>dendroquirot</i><par n="abric__n"/></e>
 <e lm="dendròfor" a="jaumeortola">       <i>dendròfor</i><par n="abric__n"/></e>
-<e lm="dendròmetre" a="jaumeortola">     <i>dendròmetre</i><par n="abric__n"/></e>
 <e lm="denejament" a="jaumeortola">      <i>denejament</i><par n="abric__n"/></e>
 <e lm="dener" a="jaumeortola">           <i>dener</i><par n="abric__n"/></e>
 <e lm="dengue" a="jaumeortola">          <i>dengue</i><par n="abric__n"/></e>
@@ -13320,7 +13290,6 @@
 <e lm="desembolcallament" a="jaumeortola"><i>desembolcallament</i><par n="abric__n"/></e>
 <e lm="desembolic" a="jaumeortola">      <i>desembolic</i><par n="abric__n"/></e>
 <e lm="desemborrament" a="jaumeortola">  <i>desemborrament</i><par n="abric__n"/></e>
-<e lm="desembosc" a="jaumeortola">       <i>desembosc</i><par n="abast__n"/></e>
 <e lm="desemboscador" a="jaumeortola">   <i>desemboscador</i><par n="senyor__n"/></e>
 <e lm="desembossada" a="jaumeortola">    <i>desembossad</i><par n="abell/a__n"/></e>
 <e lm="desembossador" a="jaumeortola">   <i>desembossador</i><par n="abric__n"/></e>
@@ -13659,7 +13628,6 @@
 <e lm="desprofit" a="jaumeortola">       <i>desprofit</i><par n="abric__n"/></e>
 <e lm="desproporcionació" a="jaumeortola"><i>desproporcionaci</i><par n="acci/ó__n"/></e>
 <e lm="despull" a="jaumeortola">         <i>despull</i><par n="abric__n"/></e>
-<e lm="despullament" a="jaumeortola">    <i>despullament</i><par n="abric__n"/></e>
 <e lm="despumació" a="jaumeortola">      <i>despumaci</i><par n="acci/ó__n"/></e>
 <e lm="desrapadora" a="jaumeortola">     <i>desrapador</i><par n="abell/a__n"/></e>
 <e lm="desrapament" a="jaumeortola">     <i>desrapament</i><par n="abric__n"/></e>
@@ -13812,7 +13780,6 @@
 <e lm="diac" a="jaumeortola">            <i>diac</i><par n="abric__n"/></e>
 <e lm="diacetil" a="jaumeortola">        <i>diacetil</i><par n="abric__n"/></e>
 <e lm="diacinesi" a="jaumeortola">       <i>diacinesi</i><par n="accessibilitat__n"/></e>
-<e lm="diaclasament" a="jaumeortola">    <i>diaclasament</i><par n="abric__n"/></e>
 <e lm="diaconat" a="jaumeortola">        <i>diaconat</i><par n="abric__n"/></e>
 <e lm="diaconessa" a="jaumeortola">      <i>diaconess</i><par n="abell/a__n"/></e>
 <e lm="diaconia" a="jaumeortola">        <i>diaconi</i><par n="abell/a__n"/></e>
@@ -13953,7 +13920,6 @@
 <e lm="didascàlia" a="jaumeortola">      <i>didascàli</i><par n="abell/a__n"/></e>
 <e lm="didatge" a="jaumeortola">         <i>didatge</i><par n="abric__n"/></e>
 <e lm="didimi" a="jaumeortola">          <i>didimi</i><par n="abric__n"/></e>
-<e lm="didjeridú" a="jaumeortola">       <i>didjeridú</i><par n="abric__n"/></e>
 <e lm="dido" a="jaumeortola">            <i>dido</i><par n="abric__n"/></e>
 <e lm="didodecaedre" a="jaumeortola">    <i>didodecaedre</i><par n="abric__n"/></e>
 <e lm="didodecàedre" a="jaumeortola">    <i>didodecàedre</i><par n="abric__n"/></e>
@@ -13989,7 +13955,6 @@
 <e lm="difusibilitat" a="jaumeortola">   <i>difusibilitat</i><par n="accessibilitat__n"/></e>
 <e lm="difusionista" a="jaumeortola">    <i>difusionist</i><par n="accionist/a__n"/></e>
 <e lm="difusivitat" a="jaumeortola">     <i>difusivitat</i><par n="accessibilitat__n"/></e>
-<e lm="difusor" a="jaumeortola">         <i>difusor</i><par n="senyor__n"/></e>
 <e lm="difusòmetre" a="jaumeortola">     <i>difusòmetre</i><par n="abric__n"/></e>
 <e lm="digamma" a="jaumeortola">         <i>digamm</i><par n="abell/a__n"/></e>
 <e lm="digeni" a="jaumeortola">          <i>digeni</i><par n="abric__n"/></e>
@@ -14275,7 +14240,6 @@
 <e lm="distoma" a="jaumeortola">         <i>distom</i><par n="carism/a__n"/></e>
 <e lm="distomatosi" a="jaumeortola">     <i>distomatosi</i><par n="accessibilitat__n"/></e>
 <e lm="distonia" a="jaumeortola">        <i>distoni</i><par n="abell/a__n"/></e>
-<e lm="distopia" a="jaumeortola">        <i>distopi</i><par n="abell/a__n"/></e>
 <e lm="distorsiòmetre" a="jaumeortola">  <i>distorsiòmetre</i><par n="abric__n"/></e>
 <e lm="distractibilitat" a="jaumeortola"><i>distractibilitat</i><par n="accessibilitat__n"/></e>
 <e lm="distractor" a="jaumeortola">      <i>distractor</i><par n="abric__n"/></e>
@@ -14288,7 +14252,6 @@
 <e lm="distímia" a="jaumeortola">        <i>distími</i><par n="abell/a__n"/></e>
 <e lm="distòcia" a="jaumeortola">        <i>distòci</i><par n="abell/a__n"/></e>
 <e lm="distòmid" a="jaumeortola">        <i>distòmid</i><par n="abric__n"/></e>
-<e lm="distòpia" a="jaumeortola">        <i>distòpi</i><par n="abell/a__n"/></e>
 <e lm="disulfat" a="jaumeortola">        <i>disulfat</i><par n="abric__n"/></e>
 <e lm="disulfiram" a="jaumeortola">      <i>disulfiram</i><par n="abric__n"/></e>
 <e lm="disutilitat" a="jaumeortola">     <i>disutilitat</i><par n="accessibilitat__n"/></e>
@@ -14334,7 +14297,6 @@
 <e lm="divulsió" a="jaumeortola">        <i>divulsi</i><par n="acci/ó__n"/></e>
 <e lm="divís" a="jaumeortola">           <i>div</i><par n="av/ís__n"/></e>
 <e lm="dixi" a="jaumeortola">            <i>dixi</i><par n="accessibilitat__n"/></e>
-<e lm="diàclasi" a="jaumeortola">        <i>diàclasi</i><par n="accessibilitat__n"/></e>
 <e lm="diàcrisi" a="jaumeortola">        <i>diàcrisi</i><par n="accessibilitat__n"/></e>
 <e lm="diàdoc" a="jaumeortola">          <i>diàdoc</i><par n="abric__n"/></e>
 <e lm="diàfisi" a="jaumeortola">         <i>diàfisi</i><par n="accessibilitat__n"/></e>
@@ -14449,7 +14411,6 @@
 <e lm="dominical" a="jaumeortola">       <i>dominical</i><par n="abric__n"/></e>
 <e lm="dominicatura" a="jaumeortola">    <i>dominicatur</i><par n="abell/a__n"/></e>
 <e lm="dominància" a="jaumeortola">      <i>dominànci</i><par n="abell/a__n"/></e>
-<e lm="dominó" a="jaumeortola">          <i>dominó</i><par n="abric__n"/></e>
 <e lm="domita" a="jaumeortola">          <i>domit</i><par n="abell/a__n"/></e>
 <e lm="domna" a="jaumeortola">           <i>domn</i><par n="abell/a__n"/></e>
 <e lm="dompedrer" a="jaumeortola">       <i>dompedrer</i><par n="abric__n"/></e>
@@ -14505,7 +14466,6 @@
 <e lm="doset" a="jaumeortola">           <i>doset</i><par n="abric__n"/></e>
 <e lm="doseta" a="jaumeortola">          <i>doset</i><par n="abell/a__n"/></e>
 <e lm="dosificador" a="jaumeortola">     <i>dosificador</i><par n="abric__n"/></e>
-<e lm="dosimetria" a="jaumeortola">      <i>dosimetri</i><par n="abell/a__n"/></e>
 <e lm="dospeus" a="jaumeortola">         <i>dospeus</i><par n="IRPF__n"/></e>
 <e lm="dosriuenc" a="jaumeortola">       <i>dosriuen</i><par n="asiàti/c__n"/></e>
 <e lm="dosser" a="jaumeortola">          <i>dosser</i><par n="abric__n"/></e>
@@ -14612,7 +14572,6 @@
 <e lm="duaner" a="jaumeortola">          <i>duaner</i><par n="senyor__n"/></e>
 <e lm="duar" a="jaumeortola">            <i>duar</i><par n="abric__n"/></e>
 <e lm="duatleta" a="jaumeortola">        <i>duatlet</i><par n="accionist/a__n"/></e>
-<e lm="duatló" a="jaumeortola">          <i>duatl</i><par n="aband/ó__n"/></e>
 <e lm="dublinès" a="jaumeortola">        <i>dublin</i><par n="angl/ès__n"/></e>
 <e lm="dublé" a="jaumeortola">           <i>dublé</i><par n="abric__n"/></e>
 <e lm="dubni" a="jaumeortola">           <i>dubni</i><par n="abric__n"/></e>
@@ -14764,7 +14723,6 @@
 <e lm="ecopacifisme" a="jaumeortola">    <i>ecopacifisme</i><par n="abric__n"/></e>
 <e lm="ecopràxia" a="jaumeortola">       <i>ecopràxi</i><par n="abell/a__n"/></e>
 <e lm="ecosocialisme" a="jaumeortola">   <i>ecosocialisme</i><par n="abric__n"/></e>
-<e lm="ecotip" a="jaumeortola">          <i>ecotip</i><par n="abric__n"/></e>
 <e lm="ecotipus" a="jaumeortola">        <i>ecotipus</i><par n="IRPF__n"/></e>
 <e lm="ecotoxicologia" a="jaumeortola">  <i>ecotoxicologi</i><par n="abell/a__n"/></e>
 <e lm="ecoturisme" a="jaumeortola">      <i>ecoturisme</i><par n="abric__n"/></e>
@@ -14982,7 +14940,6 @@
 <e lm="electrocapil·laritat" a="jaumeortola"><i>electrocapil·laritat</i><par n="accessibilitat__n"/></e>
 <e lm="electrocardioencefalograma" a="jaumeortola"><i>electrocardioencefalogram</i><par n="carism/a__n"/></e>
 <e lm="electrocardiografia" a="jaumeortola"><i>electrocardiografi</i><par n="abell/a__n"/></e>
-<e lm="electrocardiògraf" a="jaumeortola"><i>electrocardiògraf</i><par n="abric__n"/></e>
 <e lm="electrocauteri" a="jaumeortola">  <i>electrocauteri</i><par n="abric__n"/></e>
 <e lm="electrocinesi" a="jaumeortola">   <i>electrocinesi</i><par n="accessibilitat__n"/></e>
 <e lm="electrocirurgia" a="jaumeortola"> <i>electrocirurgi</i><par n="abell/a__n"/></e>
@@ -15392,7 +15349,6 @@
 <e lm="empíric" a="jaumeortola">         <i>empíri</i><par n="asiàti/c__n"/></e>
 <e lm="empòsit" a="jaumeortola">         <i>empòsit</i><par n="abric__n"/></e>
 <e lm="emulsina" a="jaumeortola">        <i>emulsin</i><par n="abell/a__n"/></e>
-<e lm="emulsionament" a="jaumeortola">   <i>emulsionament</i><par n="abric__n"/></e>
 <e lm="emulsiu" a="jaumeortola">         <i>emulsiu</i><par n="BBVA__n"/></e>
 <e lm="emulsor" a="jaumeortola">         <i>emulsor</i><par n="abric__n"/></e>
 <e lm="emundació" a="jaumeortola">       <i>emundaci</i><par n="acci/ó__n"/></e>
@@ -15601,7 +15557,6 @@
 <e lm="encunyament" a="jaumeortola">     <i>encunyament</i><par n="abric__n"/></e>
 <e lm="encuriosiment" a="jaumeortola">   <i>encuriosiment</i><par n="abric__n"/></e>
 <e lm="encàustic" a="jaumeortola">       <i>encàustic</i><par n="BBVA__n"/></e>
-<e lm="encíclica" a="jaumeortola">       <i>encícli</i><par n="acústi/ca__n"/></e>
 <e lm="endari-endari" a="jaumeortola">   <i>endari-endari</i><par n="abric__n"/></e>
 <e lm="endarreriatges" a="jaumeortola">  <i>endarreriatges</i><par n="EUA__n"/></e>
 <e lm="endegament" a="jaumeortola">      <i>endegament</i><par n="abric__n"/></e>
@@ -16507,7 +16462,6 @@
 <e lm="eritromelàlgia" a="jaumeortola">  <i>eritromelàlgi</i><par n="abell/a__n"/></e>
 <e lm="eritromicina" a="jaumeortola">    <i>eritromicin</i><par n="abell/a__n"/></e>
 <e lm="eritromèlia" a="jaumeortola">     <i>eritromèli</i><par n="abell/a__n"/></e>
-<e lm="eritropoesi" a="jaumeortola">     <i>eritropoesi</i><par n="accessibilitat__n"/></e>
 <e lm="eritrosa" a="jaumeortola">        <i>eritros</i><par n="abell/a__n"/></e>
 <e lm="eritrosi" a="jaumeortola">        <i>eritrosi</i><par n="accessibilitat__n"/></e>
 <e lm="eritrosina" a="jaumeortola">      <i>eritrosin</i><par n="abell/a__n"/></e>
@@ -16998,7 +16952,6 @@
 <e lm="escopeteig" a="jaumeortola">      <i>escopete</i><par n="assa/ig__n"/></e>
 <e lm="escopeter" a="jaumeortola">       <i>escopeter</i><par n="senyor__n"/></e>
 <e lm="escopeteria" a="jaumeortola">     <i>escopeteri</i><par n="abell/a__n"/></e>
-<e lm="escopidora" a="jaumeortola">      <i>escopidor</i><par n="abell/a__n"/></e>
 <e lm="escopina" a="jaumeortola">        <i>escopin</i><par n="abell/a__n"/></e>
 <e lm="escopofília" a="jaumeortola">     <i>escopofíli</i><par n="abell/a__n"/></e>
 <e lm="escopolamina" a="jaumeortola">    <i>escopolamin</i><par n="abell/a__n"/></e>
@@ -17321,7 +17274,6 @@
 <e lm="esofagitis" a="jaumeortola">      <i>esofagitis</i><par n="MTS__n"/></e>
 <e lm="esofagoscopi" a="jaumeortola">    <i>esofagoscopi</i><par n="abric__n"/></e>
 <e lm="esonàrtex" a="jaumeortola">       <i>esonàrtex</i><par n="abric__n"/></e>
-<e lm="espacialisme" a="jaumeortola">    <i>espacialisme</i><par n="abric__n"/></e>
 <e lm="espacialitat" a="jaumeortola">    <i>espacialitat</i><par n="accessibilitat__n"/></e>
 <e lm="espadador" a="jaumeortola">       <i>espadador</i><par n="senyor__n"/></e>
 <e lm="espadanya" a="jaumeortola">       <i>espadany</i><par n="abell/a__n"/></e>
@@ -18646,7 +18598,6 @@
 <e lm="exoascal" a="jaumeortola">        <i>exoascal</i><par n="accessibilitat__n"/></e>
 <e lm="exobasidi" a="jaumeortola">       <i>exobasidi</i><par n="abric__n"/></e>
 <e lm="exobasidiàcia" a="jaumeortola">   <i>exobasidiàci</i><par n="abell/a__n"/></e>
-<e lm="exobiologia" a="jaumeortola">     <i>exobiologi</i><par n="abell/a__n"/></e>
 <e lm="exocarst" a="jaumeortola">        <i>exocarst</i><par n="abast__n"/></e>
 <e lm="exocètid" a="jaumeortola">        <i>exocètid</i><par n="abric__n"/></e>
 <e lm="exoderma" a="jaumeortola">        <i>exoderm</i><par n="carism/a__n"/></e>
@@ -18681,7 +18632,6 @@
 <e lm="expandiment" a="jaumeortola">     <i>expandiment</i><par n="abric__n"/></e>
 <e lm="expansibilitat" a="jaumeortola">  <i>expansibilitat</i><par n="accessibilitat__n"/></e>
 <e lm="expansionista" a="jaumeortola">   <i>expansionist</i><par n="accionist/a__n"/></e>
-<e lm="exparella" a="jaumeortola">       <i>exparell</i><par n="abell/a__n"/></e>
 <e lm="exparlamentari" a="jaumeortola">  <i>exparlament</i><par n="adjudicat/ari__n"/></e>
 <e lm="expastor" a="jaumeortola">        <i>expastor</i><par n="senyor__n"/></e>
 <e lm="expatriarca" a="jaumeortola">     <i>expatriar</i><par n="patriar/ca__n"/></e>
@@ -18792,7 +18742,6 @@
 <e lm="exvicepresidenta" a="jaumeortola"><i>exvicepresident</i><par n="abell/a__n"/></e>
 <e lm="exvirrei" a="jaumeortola">        <i>exvirrei</i><par n="abric__n"/></e>
 <e lm="exvirreina" a="jaumeortola">      <i>exvirrein</i><par n="abell/a__n"/></e>
-<e lm="exvot" a="jaumeortola">           <i>exvot</i><par n="abric__n"/></e>
 <e lm="exvotant" a="jaumeortola">        <i>exvotant</i><par n="acompanyant__n"/></e>
 <e lm="exwaterpolista" a="jaumeortola">  <i>exwaterpolist</i><par n="accionist/a__n"/></e>
 <e lm="exèresi" a="jaumeortola">         <i>exèresi</i><par n="accessibilitat__n"/></e>
@@ -18927,7 +18876,6 @@
 <e lm="faldiller" a="jaumeortola">       <i>faldiller</i><par n="abric__n"/></e>
 <e lm="faldilletes" a="jaumeortola">     <i>faldilletes</i><par n="IRPF__n"/></e>
 <e lm="faldona" a="jaumeortola">         <i>faldon</i><par n="abell/a__n"/></e>
-<e lm="faldó" a="jaumeortola">           <i>fald</i><par n="aband/ó__n"/></e>
 <e lm="falena" a="jaumeortola">          <i>falen</i><par n="abell/a__n"/></e>
 <e lm="falern" a="jaumeortola">          <i>falern</i><par n="abric__n"/></e>
 <e lm="falgar" a="jaumeortola">          <i>falgar</i><par n="abric__n"/></e>
@@ -19230,7 +19178,6 @@
 <e lm="femerada" a="jaumeortola">        <i>femerad</i><par n="abell/a__n"/></e>
 <e lm="femeró" a="jaumeortola">          <i>femer</i><par n="aband/ó__n"/></e>
 <e lm="femineïtat" a="jaumeortola">      <i>femineïtat</i><par n="accessibilitat__n"/></e>
-<e lm="feminicidi" a="jaumeortola">      <i>feminicidi</i><par n="abric__n"/></e>
 <e lm="fenacetina" a="jaumeortola">      <i>fenacetin</i><par n="abell/a__n"/></e>
 <e lm="fenal" a="jaumeortola">           <i>fenal</i><par n="abric__n"/></e>
 <e lm="fenalar" a="jaumeortola">         <i>fenalar</i><par n="abric__n"/></e>
@@ -19433,7 +19380,6 @@
 <e lm="fibrinolisina" a="jaumeortola">   <i>fibrinolisin</i><par n="abell/a__n"/></e>
 <e lm="fibrinolític" a="jaumeortola">    <i>fibrinolític</i><par n="abric__n"/></e>
 <e lm="fibrinèmia" a="jaumeortola">      <i>fibrinèmi</i><par n="abell/a__n"/></e>
-<e lm="fibrinòlisi" a="jaumeortola">     <i>fibrinòlisi</i><par n="accessibilitat__n"/></e>
 <e lm="fibrinúria" a="jaumeortola">      <i>fibrinúri</i><par n="abell/a__n"/></e>
 <e lm="fibroadenoma" a="jaumeortola">    <i>fibroadenom</i><par n="carism/a__n"/></e>
 <e lm="fibroblast" a="jaumeortola">      <i>fibroblast</i><par n="abast__n"/></e>
@@ -20079,7 +20025,6 @@
 <e lm="forceig" a="jaumeortola">         <i>force</i><par n="assa/ig__n"/></e>
 <e lm="forces" a="jaumeortola">          <i>forces</i><par n="FARC__n"/></e>
 <e lm="forcipressió" a="jaumeortola">    <i>forcipressi</i><par n="acci/ó__n"/></e>
-<e lm="forcípula" a="jaumeortola">       <i>forcípul</i><par n="abell/a__n"/></e>
 <e lm="forcó" a="jaumeortola">           <i>forc</i><par n="aband/ó__n"/></e>
 <e lm="fordisme" a="jaumeortola">        <i>fordisme</i><par n="abric__n"/></e>
 <e lm="forestació" a="jaumeortola">      <i>forestaci</i><par n="acci/ó__n"/></e>
@@ -20335,7 +20280,6 @@
 <e lm="fractonimbus" a="jaumeortola">    <i>fractonimbus</i><par n="IRPF__n"/></e>
 <e lm="fractostrat" a="jaumeortola">     <i>fractostrat</i><par n="abric__n"/></e>
 <e lm="fractostratus" a="jaumeortola">   <i>fractostratus</i><par n="IRPF__n"/></e>
-<e lm="fracturació" a="jaumeortola">     <i>fracturaci</i><par n="acci/ó__n"/></e>
 <e lm="fraga" a="jaumeortola">           <i>frag</i><par n="alg/a__n"/></e>
 <e lm="fragassa" a="jaumeortola">        <i>fragass</i><par n="abell/a__n"/></e>
 <e lm="fragatí" a="jaumeortola">         <i>fragat</i><par n="alacant/í__n"/></e>
@@ -20354,7 +20298,6 @@
 <e lm="framenor" a="jaumeortola">        <i>framenor</i><par n="abric__n"/></e>
 <e lm="framiré" a="jaumeortola">         <i>framiré</i><par n="accessibilitat__n"/></e>
 <e lm="francalet" a="jaumeortola">       <i>francalet</i><par n="abric__n"/></e>
-<e lm="francbord" a="jaumeortola">       <i>francbord</i><par n="abric__n"/></e>
 <e lm="franccantó" a="jaumeortola">      <i>franccant</i><par n="aband/ó__n"/></e>
 <e lm="francesada" a="jaumeortola">      <i>francesad</i><par n="abell/a__n"/></e>
 <e lm="francesilla" a="jaumeortola">     <i>francesill</i><par n="abell/a__n"/></e>
@@ -20531,7 +20474,6 @@
 <e lm="frígola" a="jaumeortola">         <i>frígol</i><par n="abell/a__n"/></e>
 <e lm="frívola" a="jaumeortola">         <i>frívol</i><par n="abell/a__n"/></e>
 <e lm="frústul" a="jaumeortola">         <i>frústul</i><par n="abric__n"/></e>
-<e lm="ftalat" a="jaumeortola">          <i>ftalat</i><par n="abric__n"/></e>
 <e lm="ftaleïna" a="jaumeortola">        <i>ftaleïn</i><par n="abell/a__n"/></e>
 <e lm="ftalida" a="jaumeortola">         <i>ftalid</i><par n="abell/a__n"/></e>
 <e lm="ftalimida" a="jaumeortola">       <i>ftalimid</i><par n="abell/a__n"/></e>
@@ -21586,7 +21528,6 @@
 <e lm="ginomonoècia" a="jaumeortola">    <i>ginomonoèci</i><par n="abell/a__n"/></e>
 <e lm="ginopigi" a="jaumeortola">        <i>ginopigi</i><par n="abric__n"/></e>
 <e lm="ginostem" a="jaumeortola">        <i>ginostem</i><par n="abric__n"/></e>
-<e lm="ginseng" a="jaumeortola">         <i>ginseng</i><par n="abric__n"/></e>
 <e lm="gintònic" a="jaumeortola">        <i>gintònic</i><par n="abric__n"/></e>
 <e lm="ginàndria" a="jaumeortola">       <i>ginàndri</i><par n="abell/a__n"/></e>
 <e lm="ginòfor" a="jaumeortola">         <i>ginòfor</i><par n="abric__n"/></e>
@@ -21594,7 +21535,6 @@
 <e lm="giobertita" a="jaumeortola">      <i>giobertit</i><par n="abell/a__n"/></e>
 <e lm="giponer" a="jaumeortola">         <i>giponer</i><par n="abric__n"/></e>
 <e lm="gipsoteca" a="jaumeortola">       <i>gipsote</i><par n="acústi/ca__n"/></e>
-<e lm="gipó" a="jaumeortola">            <i>gip</i><par n="aband/ó__n"/></e>
 <e lm="giraboix" a="jaumeortola">        <i>giraboix</i><par n="as__n"/></e>
 <e lm="giracamises" a="jaumeortola">     <i>giracamises</i><par n="ATS__n"/></e>
 <e lm="giracasaques" a="jaumeortola">    <i>giracasaques</i><par n="ATS__n"/></e>
@@ -22145,7 +22085,6 @@
 <e lm="grauer" a="jaumeortola">          <i>grauer</i><par n="senyor__n"/></e>
 <e lm="grausina" a="jaumeortola">        <i>grausin</i><par n="abell/a__n"/></e>
 <e lm="grausí" a="jaumeortola">          <i>graus</i><par n="boc/í__n"/></e>
-<e lm="grauvaca" a="jaumeortola">        <i>grauva</i><par n="acústi/ca__n"/></e>
 <e lm="grauxa" a="jaumeortola">          <i>graux</i><par n="abell/a__n"/></e>
 <e lm="gravadura" a="jaumeortola">       <i>gravadur</i><par n="abell/a__n"/></e>
 <e lm="gravelot" a="jaumeortola">        <i>gravelot</i><par n="abric__n"/></e>
@@ -22308,7 +22247,6 @@
 <e lm="grívia" a="jaumeortola">          <i>grívi</i><par n="abell/a__n"/></e>
 <e lm="gróndola" a="jaumeortola">        <i>gróndol</i><par n="abell/a__n"/></e>
 <e lm="grúmol" a="jaumeortola">          <i>grúmol</i><par n="abric__n"/></e>
-<e lm="guacamole" a="jaumeortola">       <i>guacamole</i><par n="abric__n"/></e>
 <e lm="guadamassil" a="jaumeortola">     <i>guadamassil</i><par n="abric__n"/></e>
 <e lm="guadamassiler" a="jaumeortola">   <i>guadamassiler</i><par n="abric__n"/></e>
 <e lm="guadanyeria" a="jaumeortola">     <i>guadanyeri</i><par n="abell/a__n"/></e>
@@ -22543,7 +22481,6 @@
 <e lm="güelf" a="jaumeortola">           <i>güelf</i><par n="senyor__n"/></e>
 <e lm="güell" a="jaumeortola">           <i>güell</i><par n="abric__n"/></e>
 <e lm="habilior" a="jaumeortola">        <i>habilior</i><par n="accessibilitat__n"/></e>
-<e lm="habitacionista" a="jaumeortola">  <i>habitacionist</i><par n="accionist/a__n"/></e>
 <e lm="habitança" a="jaumeortola">       <i>habitan</i><par n="adre/ça__n"/></e>
 <e lm="habitualitat" a="jaumeortola">    <i>habitualitat</i><par n="accessibilitat__n"/></e>
 <e lm="habituament" a="jaumeortola">     <i>habituament</i><par n="abric__n"/></e>
@@ -22997,7 +22934,6 @@
 <e lm="heteronemertí" a="jaumeortola">   <i>heteronemert</i><par n="boc/í__n"/></e>
 <e lm="heteroneure" a="jaumeortola">     <i>heteroneure</i><par n="abric__n"/></e>
 <e lm="heteronomia" a="jaumeortola">     <i>heteronomi</i><par n="abell/a__n"/></e>
-<e lm="heteronormativitat" a="jaumeortola"><i>heteronormativitat</i><par n="accessibilitat__n"/></e>
 <e lm="heteronímia" a="jaumeortola">     <i>heteroními</i><par n="abell/a__n"/></e>
 <e lm="heteroparentalitat" a="jaumeortola"><i>heteroparentalitat</i><par n="accessibilitat__n"/></e>
 <e lm="heteropatriarcat" a="jaumeortola"><i>heteropatriarcat</i><par n="abric__n"/></e>
@@ -23173,7 +23109,6 @@
 <e lm="hidroperòxid" a="jaumeortola">    <i>hidroperòxid</i><par n="abric__n"/></e>
 <e lm="hidroplà" a="jaumeortola">        <i>hidropl</i><par n="bacall/à__n"/></e>
 <e lm="hidropneumotòrax" a="jaumeortola"><i>hidropneumotòrax</i><par n="abric__n"/></e>
-<e lm="hidroponia" a="jaumeortola">      <i>hidroponi</i><par n="abell/a__n"/></e>
 <e lm="hidroport" a="jaumeortola">       <i>hidroport</i><par n="abric__n"/></e>
 <e lm="hidropteridal" a="jaumeortola">   <i>hidropteridal</i><par n="accessibilitat__n"/></e>
 <e lm="hidroptèrida" a="jaumeortola">    <i>hidroptèrid</i><par n="abell/a__n"/></e>
@@ -23218,7 +23153,6 @@
 <e lm="hidròfita" a="jaumeortola">       <i>hidròfit</i><par n="abell/a__n"/></e>
 <e lm="hidròfob" a="jaumeortola">        <i>hidròfob</i><par n="senyor__n"/></e>
 <e lm="hidròfon" a="jaumeortola">        <i>hidròfon</i><par n="abric__n"/></e>
-<e lm="hidròleg" a="jaumeortola">        <i>hidròl</i><par n="biòl/eg__n"/></e>
 <e lm="hidròmetre" a="jaumeortola">      <i>hidròmetre</i><par n="abric__n"/></e>
 <e lm="hidrònim" a="jaumeortola">        <i>hidrònim</i><par n="abric__n"/></e>
 <e lm="hidròpata" a="jaumeortola">       <i>hidròpat</i><par n="carism/a__n"/></e>
@@ -23670,7 +23604,6 @@
 <e lm="hospitalisme" a="jaumeortola">    <i>hospitalisme</i><par n="abric__n"/></e>
 <e lm="hospitalocentrisme" a="jaumeortola"><i>hospitalocentrisme</i><par n="abric__n"/></e>
 <e lm="hostalenc" a="jaumeortola">       <i>hostalen</i><par n="asiàti/c__n"/></e>
-<e lm="hostaler" a="jaumeortola">        <i>hostaler</i><par n="senyor__n"/></e>
 <e lm="hostaletenc" a="jaumeortola">     <i>hostaleten</i><par n="asiàti/c__n"/></e>
 <e lm="hostalriquenc" a="jaumeortola">   <i>hostalriquen</i><par n="asiàti/c__n"/></e>
 <e lm="hostatger" a="jaumeortola">       <i>hostatger</i><par n="senyor__n"/></e>
@@ -24167,7 +24100,6 @@
 <e lm="indelicadesa" a="jaumeortola">    <i>indelicades</i><par n="abell/a__n"/></e>
 <e lm="indemnitzador" a="jaumeortola">   <i>indemnitzador</i><par n="senyor__n"/></e>
 <e lm="indemostrabilitat" a="jaumeortola"><i>indemostrabilitat</i><par n="accessibilitat__n"/></e>
-<e lm="inderogabilitat" a="jaumeortola"> <i>inderogabilitat</i><par n="accessibilitat__n"/></e>
 <e lm="indesitjable" a="jaumeortola">    <i>indesitjable</i><par n="acompanyant__n"/></e>
 <e lm="indeterminabilitat" a="jaumeortola"><i>indeterminabilitat</i><par n="accessibilitat__n"/></e>
 <e lm="indeterminada" a="jaumeortola">   <i>indeterminad</i><par n="abell/a__n"/></e>
@@ -24492,7 +24424,6 @@
 <e lm="interindividualitat" a="jaumeortola"><i>interindividualitat</i><par n="accessibilitat__n"/></e>
 <e lm="interiorista" a="jaumeortola">    <i>interiorist</i><par n="accionist/a__n"/></e>
 <e lm="interjacència" a="jaumeortola">   <i>interjacènci</i><par n="abell/a__n"/></e>
-<e lm="interleucina" a="jaumeortola">    <i>interleucin</i><par n="abell/a__n"/></e>
 <e lm="interlineació" a="jaumeortola">   <i>interlineaci</i><par n="acci/ó__n"/></e>
 <e lm="interlingüística" a="jaumeortola"><i>interlingüísti</i><par n="acústi/ca__n"/></e>
 <e lm="interllengua" a="jaumeortola">    <i>interlleng</i><par n="aig/ua__n"/></e>
@@ -24531,7 +24462,6 @@
 <e lm="interpunció" a="jaumeortola">     <i>interpunci</i><par n="acci/ó__n"/></e>
 <e lm="interradi" a="jaumeortola">       <i>interradi</i><par n="abric__n"/></e>
 <e lm="interraïl" a="jaumeortola">       <i>interraïl</i><par n="abric__n"/></e>
-<e lm="interseccionalitat" a="jaumeortola"><i>interseccionalitat</i><par n="accessibilitat__n"/></e>
 <e lm="intersexe" a="jaumeortola">       <i>intersexe</i><par n="acompanyant__n"/></e>
 <e lm="intersexualitat" a="jaumeortola"> <i>intersexualitat</i><par n="accessibilitat__n"/></e>
 <e lm="interstici" a="jaumeortola">      <i>interstici</i><par n="abric__n"/></e>
@@ -24605,8 +24535,6 @@
 <e lm="invocador" a="jaumeortola">       <i>invocador</i><par n="senyor__n"/></e>
 <e lm="involucel" a="jaumeortola">       <i>involucel</i><par n="abric__n"/></e>
 <e lm="involucionisme" a="jaumeortola">  <i>involucionisme</i><par n="abric__n"/></e>
-<e lm="involucració" a="jaumeortola">    <i>involucraci</i><par n="acci/ó__n"/></e>
-<e lm="involucrament" a="jaumeortola">   <i>involucrament</i><par n="abric__n"/></e>
 <e lm="involucre" a="jaumeortola">       <i>involucre</i><par n="abric__n"/></e>
 <e lm="involuntarietat" a="jaumeortola"> <i>involuntarietat</i><par n="accessibilitat__n"/></e>
 <e lm="invulnerabilitat" a="jaumeortola"><i>invulnerabilitat</i><par n="accessibilitat__n"/></e>
@@ -24694,7 +24622,6 @@
 <e lm="irretractabilitat" a="jaumeortola"><i>irretractabilitat</i><par n="accessibilitat__n"/></e>
 <e lm="irretroactivitat" a="jaumeortola"><i>irretroactivitat</i><par n="accessibilitat__n"/></e>
 <e lm="irrevocabilitat" a="jaumeortola"> <i>irrevocabilitat</i><par n="accessibilitat__n"/></e>
-<e lm="irrigador" a="jaumeortola">       <i>irrigador</i><par n="abric__n"/></e>
 <e lm="irrisió" a="jaumeortola">         <i>irrisi</i><par n="acci/ó__n"/></e>
 <e lm="irrisorietat" a="jaumeortola">    <i>irrisorietat</i><par n="accessibilitat__n"/></e>
 <e lm="irritant" a="jaumeortola">        <i>irritant</i><par n="abric__n"/></e>
@@ -25100,7 +25027,6 @@
 <e lm="kazakhstanita" a="jaumeortola">   <i>kazakhstanit</i><par n="abell/a__n"/></e>
 <e lm="kazanià" a="jaumeortola">         <i>kazani</i><par n="bacall/à__n"/></e>
 <e lm="kea" a="jaumeortola">             <i>ke</i><par n="carism/a__n"/></e>
-<e lm="kebab" a="jaumeortola">           <i>kebab</i><par n="abric__n"/></e>
 <e lm="kebe" a="jaumeortola">            <i>kebe</i><par n="accessibilitat__n"/></e>
 <e lm="kediv" a="jaumeortola">           <i>kediv</i><par n="abric__n"/></e>
 <e lm="kefalograviera" a="jaumeortola">  <i>kefalogravier</i><par n="carism/a__n"/></e>
@@ -25217,7 +25143,6 @@
 <e lm="labradorita" a="jaumeortola">     <i>labradorit</i><par n="abell/a__n"/></e>
 <e lm="labre" a="jaumeortola">           <i>labre</i><par n="abric__n"/></e>
 <e lm="laburn" a="jaumeortola">          <i>laburn</i><par n="abric__n"/></e>
-<e lm="laca" a="jaumeortola">            <i>la</i><par n="acústi/ca__n"/></e>
 <e lm="lacciferí" a="jaumeortola">       <i>laccifer</i><par n="boc/í__n"/></e>
 <e lm="laceració" a="jaumeortola">       <i>laceraci</i><par n="acci/ó__n"/></e>
 <e lm="lacerna" a="jaumeortola">         <i>lacern</i><par n="abell/a__n"/></e>
@@ -25967,7 +25892,6 @@
 <e lm="llavoreta" a="jaumeortola">       <i>llavoret</i><par n="abell/a__n"/></e>
 <e lm="llavorsinenc" a="jaumeortola">    <i>llavorsinen</i><par n="asiàti/c__n"/></e>
 <e lm="llavutxada" a="jaumeortola">      <i>llavutxad</i><par n="abell/a__n"/></e>
-<e lm="llaçada" a="jaumeortola">         <i>llaçad</i><par n="abell/a__n"/></e>
 <e lm="llaütista" a="jaumeortola">       <i>llaütist</i><par n="accionist/a__n"/></e>
 <e lm="lleba" a="jaumeortola">           <i>lleb</i><par n="abell/a__n"/></e>
 <e lm="llebeig" a="jaumeortola">         <i>llebe</i><par n="rebu/ig__n"/></e>
@@ -26168,7 +26092,6 @@
 <e lm="llimalla" a="jaumeortola">        <i>llimall</i><par n="abell/a__n"/></e>
 <e lm="llimassa" a="jaumeortola">        <i>llimass</i><par n="abell/a__n"/></e>
 <e lm="llimató" a="jaumeortola">         <i>llimat</i><par n="aband/ó__n"/></e>
-<e lm="llimbs" a="jaumeortola">          <i>llimbs</i><par n="EUA__n"/></e>
 <e lm="llimella" a="jaumeortola">        <i>llimell</i><par n="abell/a__n"/></e>
 <e lm="llimer" a="jaumeortola">          <i>llimer</i><par n="senyor__n"/></e>
 <e lm="llimeral" a="jaumeortola">        <i>llimeral</i><par n="abric__n"/></e>
@@ -26933,7 +26856,6 @@
 <e lm="malposició" a="jaumeortola">      <i>malposici</i><par n="acci/ó__n"/></e>
 <e lm="malrubí" a="jaumeortola">         <i>malrub</i><par n="boc/í__n"/></e>
 <e lm="malsonància" a="jaumeortola">     <i>malsonànci</i><par n="abell/a__n"/></e>
-<e lm="malta" a="jaumeortola">           <i>malt</i><par n="abell/a__n"/></e>
 <e lm="maltasa" a="jaumeortola">         <i>maltas</i><par n="abell/a__n"/></e>
 <e lm="maltatge" a="jaumeortola">        <i>maltatge</i><par n="abric__n"/></e>
 <e lm="maltempsada" a="jaumeortola">     <i>maltempsad</i><par n="abell/a__n"/></e>
@@ -27569,7 +27491,6 @@
 <e lm="maternització" a="jaumeortola">   <i>maternitzaci</i><par n="acci/ó__n"/></e>
 <e lm="mateuà" a="jaumeortola">          <i>mateu</i><par n="americ/à__n"/></e>
 <e lm="matiner" a="jaumeortola">         <i>matiner</i><par n="abric__n"/></e>
-<e lm="matines" a="jaumeortola">         <i>matines</i><par n="FARC__n"/></e>
 <e lm="matiné" a="jaumeortola">          <i>matiné</i><par n="abric__n"/></e>
 <e lm="matisat" a="jaumeortola">         <i>matisat</i><par n="abric__n"/></e>
 <e lm="matissar" a="jaumeortola">        <i>matissar</i><par n="abric__n"/></e>
@@ -27797,7 +27718,6 @@
 <e lm="melioïdosi" a="jaumeortola">      <i>melioïdosi</i><par n="accessibilitat__n"/></e>
 <e lm="meliquer" a="jaumeortola">        <i>meliquer</i><par n="abric__n"/></e>
 <e lm="melis" a="jaumeortola">           <i>melis</i><par n="IRPF__n"/></e>
-<e lm="melissa" a="jaumeortola">         <i>meliss</i><par n="abell/a__n"/></e>
 <e lm="melissot" a="jaumeortola">        <i>melissot</i><par n="abric__n"/></e>
 <e lm="melit" a="jaumeortola">           <i>melit</i><par n="abric__n"/></e>
 <e lm="melitocòccia" a="jaumeortola">    <i>melitocòcci</i><par n="abell/a__n"/></e>
@@ -27948,7 +27868,6 @@
 <e lm="mercantilització" a="jaumeortola"><i>mercantilitzaci</i><par n="acci/ó__n"/></e>
 <e lm="mercaptur" a="jaumeortola">       <i>mercaptur</i><par n="abric__n"/></e>
 <e lm="mercaptà" a="jaumeortola">        <i>mercapt</i><par n="bacall/à__n"/></e>
-<e lm="mercedari" a="jaumeortola">       <i>merced</i><par n="adjudicat/ari__n"/></e>
 <e lm="merceneta" a="jaumeortola">       <i>mercenet</i><par n="abell/a__n"/></e>
 <e lm="merceritzadora" a="jaumeortola">  <i>merceritzador</i><par n="abell/a__n"/></e>
 <e lm="merceritzatge" a="jaumeortola">   <i>merceritzatge</i><par n="abric__n"/></e>
@@ -28723,7 +28642,6 @@
 <e lm="miricàcia" a="jaumeortola">       <i>miricàci</i><par n="abell/a__n"/></e>
 <e lm="miringitis" a="jaumeortola">      <i>miringitis</i><par n="MTS__n"/></e>
 <e lm="miringotomia" a="jaumeortola">    <i>miringotomi</i><par n="abell/a__n"/></e>
-<e lm="mirinyac" a="jaumeortola">        <i>mirinyac</i><par n="abric__n"/></e>
 <e lm="miristat" a="jaumeortola">        <i>miristat</i><par n="abric__n"/></e>
 <e lm="miristicàcia" a="jaumeortola">    <i>miristicàci</i><par n="abell/a__n"/></e>
 <e lm="miriàmetre" a="jaumeortola">      <i>miriàmetre</i><par n="abric__n"/></e>
@@ -29423,7 +29341,6 @@
 <e lm="mucró" a="jaumeortola">           <i>mucr</i><par n="aband/ó__n"/></e>
 <e lm="mucus" a="jaumeortola">           <i>mucus</i><par n="IRPF__n"/></e>
 <e lm="mudada" a="jaumeortola">          <i>mudad</i><par n="abell/a__n"/></e>
-<e lm="mudament" a="jaumeortola">        <i>mudament</i><par n="abric__n"/></e>
 <e lm="mudella" a="jaumeortola">         <i>mudell</i><par n="abell/a__n"/></e>
 <e lm="muetzí" a="jaumeortola">          <i>muetz</i><par n="boc/í__n"/></e>
 <e lm="mufla" a="jaumeortola">           <i>mufl</i><par n="abell/a__n"/></e>
@@ -29480,8 +29397,6 @@
 <e lm="multidisciplinarietat" a="jaumeortola"><i>multidisciplinarietat</i><par n="accessibilitat__n"/></e>
 <e lm="multiinstrumentista" a="jaumeortola"><i>multiinstrumentist</i><par n="accionist/a__n"/></e>
 <e lm="multineuritis" a="jaumeortola">   <i>multineuritis</i><par n="MTS__n"/></e>
-<e lm="multiplexació" a="jaumeortola">   <i>multiplexaci</i><par n="acci/ó__n"/></e>
-<e lm="multiplexatge" a="jaumeortola">   <i>multiplexatge</i><par n="abric__n"/></e>
 <e lm="multiplicador" a="jaumeortola">   <i>multiplicador</i><par n="abric__n"/></e>
 <e lm="multiplicand" a="jaumeortola">    <i>multiplicand</i><par n="abric__n"/></e>
 <e lm="multiplà" a="jaumeortola">        <i>multipl</i><par n="bacall/à__n"/></e>
@@ -29587,7 +29502,6 @@
 <e lm="musicografia" a="jaumeortola">    <i>musicografi</i><par n="abell/a__n"/></e>
 <e lm="musicomania" a="jaumeortola">     <i>musicomani</i><par n="abell/a__n"/></e>
 <e lm="musicoterapeuta" a="jaumeortola"> <i>musicoterapeut</i><par n="accionist/a__n"/></e>
-<e lm="musicoteràpia" a="jaumeortola">   <i>musicoteràpi</i><par n="abell/a__n"/></e>
 <e lm="musicòleg" a="jaumeortola">       <i>musicòl</i><par n="biòl/eg__n"/></e>
 <e lm="musicòman" a="jaumeortola">       <i>musicòman</i><par n="senyor__n"/></e>
 <e lm="musiquer" a="jaumeortola">        <i>musiquer</i><par n="abric__n"/></e>
@@ -29891,7 +29805,6 @@
 <e lm="necròpolis" a="jaumeortola">      <i>necròpolis</i><par n="MTS__n"/></e>
 <e lm="necròpsia" a="jaumeortola">       <i>necròpsi</i><par n="abell/a__n"/></e>
 <e lm="nectari" a="jaumeortola">         <i>nectari</i><par n="abric__n"/></e>
-<e lm="nectarina" a="jaumeortola">       <i>nectarin</i><par n="abell/a__n"/></e>
 <e lm="nectariner" a="jaumeortola">      <i>nectariner</i><par n="abric__n"/></e>
 <e lm="nectarostegi" a="jaumeortola">    <i>nectarostegi</i><par n="abric__n"/></e>
 <e lm="nectarostigma" a="jaumeortola">   <i>nectarostigm</i><par n="carism/a__n"/></e>
@@ -30099,7 +30012,6 @@
 <e lm="neotip" a="jaumeortola">          <i>neotip</i><par n="abric__n"/></e>
 <e lm="neotipus" a="jaumeortola">        <i>neotipus</i><par n="IRPF__n"/></e>
 <e lm="neotomisme" a="jaumeortola">      <i>neotomisme</i><par n="abric__n"/></e>
-<e lm="neotradicionalisme" a="jaumeortola"><i>neotradicionalisme</i><par n="abric__n"/></e>
 <e lm="neotènia" a="jaumeortola">        <i>neotèni</i><par n="abell/a__n"/></e>
 <e lm="neovitalisme" a="jaumeortola">    <i>neovitalisme</i><par n="abric__n"/></e>
 <e lm="neozoic" a="jaumeortola">         <i>neozoic</i><par n="abric__n"/></e>
@@ -30708,7 +30620,6 @@
 <e lm="nyoca" a="jaumeortola">           <i>nyo</i><par n="acústi/ca__n"/></e>
 <e lm="nyonya" a="jaumeortola">          <i>nyony</i><par n="abell/a__n"/></e>
 <e lm="nyoqui" a="jaumeortola">          <i>nyoqui</i><par n="abric__n"/></e>
-<e lm="nyora" a="jaumeortola">           <i>nyor</i><par n="abell/a__n"/></e>
 <e lm="nyoreta" a="jaumeortola">         <i>nyoret</i><par n="abell/a__n"/></e>
 <e lm="nyoreter" a="jaumeortola">        <i>nyoreter</i><par n="senyor__n"/></e>
 <e lm="nyu" a="jaumeortola">             <i>nyu</i><par n="abric__n"/></e>
@@ -30792,7 +30703,6 @@
 <e lm="obradura" a="jaumeortola">        <i>obradur</i><par n="abell/a__n"/></e>
 <e lm="obrall" a="jaumeortola">          <i>obrall</i><par n="abric__n"/></e>
 <e lm="obratge" a="jaumeortola">         <i>obratge</i><par n="abric__n"/></e>
-<e lm="obreampolles" a="jaumeortola">    <i>obreampolles</i><par n="IRPF__n"/></e>
 <e lm="obreboca" a="jaumeortola">        <i>obrebo</i><par n="patriar/ca__n"/></e>
 <e lm="obrecartes" a="jaumeortola">      <i>obrecartes</i><par n="IRPF__n"/></e>
 <e lm="obrellengüetes" a="jaumeortola">  <i>obrellengüetes</i><par n="IRPF__n"/></e>
@@ -30801,11 +30711,9 @@
 <e lm="obrerista" a="jaumeortola">       <i>obrerist</i><par n="accionist/a__n"/></e>
 <e lm="obreta" a="jaumeortola">          <i>obret</i><par n="abell/a__n"/></e>
 <e lm="obriboca" a="jaumeortola">        <i>obribo</i><par n="patriar/ca__n"/></e>
-<e lm="obribotelles" a="jaumeortola">    <i>obribotelles</i><par n="IRPF__n"/></e>
 <e lm="obricartes" a="jaumeortola">      <i>obricartes</i><par n="IRPF__n"/></e>
 <e lm="obricotxes" a="jaumeortola">      <i>obricotxes</i><par n="IRPF__n"/></e>
 <e lm="obridora" a="jaumeortola">        <i>obridor</i><par n="abell/a__n"/></e>
-<e lm="obrillandes" a="jaumeortola">     <i>obrillandes</i><par n="IRPF__n"/></e>
 <e lm="obriment" a="jaumeortola">        <i>obriment</i><par n="abric__n"/></e>
 <e lm="obrimenta" a="jaumeortola">       <i>obriment</i><par n="abell/a__n"/></e>
 <e lm="obriüllar" a="jaumeortola">       <i>obriüllar</i><par n="abric__n"/></e>
@@ -31532,7 +31440,6 @@
 <e lm="ortodontologia" a="jaumeortola">  <i>ortodontologi</i><par n="abell/a__n"/></e>
 <e lm="ortodontòleg" a="jaumeortola">    <i>ortodontòl</i><par n="biòl/eg__n"/></e>
 <e lm="ortodromia" a="jaumeortola">      <i>ortodromi</i><par n="abell/a__n"/></e>
-<e lm="ortoedre" a="jaumeortola">        <i>ortoedre</i><par n="abric__n"/></e>
 <e lm="ortoepista" a="jaumeortola">      <i>ortoepist</i><par n="accionist/a__n"/></e>
 <e lm="ortofonia" a="jaumeortola">       <i>ortofoni</i><par n="abell/a__n"/></e>
 <e lm="ortofonista" a="jaumeortola">     <i>ortofonist</i><par n="carism/a__n"/></e>
@@ -31826,7 +31733,6 @@
 <e lm="oxidació-reducció" a="jaumeortola"><i>oxidació-reducció</i><par n="BBC__n"/></e>
 <e lm="oxigenador" a="jaumeortola">      <i>oxigenador</i><par n="abric__n"/></e>
 <e lm="oxigenasa" a="jaumeortola">       <i>oxigenas</i><par n="abell/a__n"/></e>
-<e lm="oxigenoteràpia" a="jaumeortola">  <i>oxigenoteràpi</i><par n="abell/a__n"/></e>
 <e lm="oxigoni" a="jaumeortola">         <i>oxig</i><par n="babil/oni__n"/></e>
 <e lm="oxigrama" a="jaumeortola">        <i>oxigram</i><par n="carism/a__n"/></e>
 <e lm="oxihemoglobina" a="jaumeortola">  <i>oxihemoglobin</i><par n="abell/a__n"/></e>
@@ -31861,7 +31767,6 @@
 <e lm="ozena" a="jaumeortola">           <i>ozen</i><par n="abell/a__n"/></e>
 <e lm="ozobròmia" a="jaumeortola">       <i>ozobròmi</i><par n="abell/a__n"/></e>
 <e lm="ozocerita" a="jaumeortola">       <i>ozocerit</i><par n="abell/a__n"/></e>
-<e lm="ozonització" a="jaumeortola">     <i>ozonitzaci</i><par n="acci/ó__n"/></e>
 <e lm="ozonometria" a="jaumeortola">     <i>ozonometri</i><par n="abell/a__n"/></e>
 <e lm="ozonosfera" a="jaumeortola">      <i>ozonosfer</i><par n="abell/a__n"/></e>
 <e lm="ozonosonda" a="jaumeortola">      <i>ozonosond</i><par n="abell/a__n"/></e>
@@ -32708,7 +32613,6 @@
 <e lm="passafaves" a="jaumeortola">      <i>passafaves</i><par n="IRPF__n"/></e>
 <e lm="passafils" a="jaumeortola">       <i>passafils</i><par n="IRPF__n"/></e>
 <e lm="passaforadí" a="jaumeortola">     <i>passaforad</i><par n="boc/í__n"/></e>
-<e lm="passamaneria" a="jaumeortola">    <i>passamaneri</i><par n="abell/a__n"/></e>
 <e lm="passament" a="jaumeortola">       <i>passament</i><par n="abric__n"/></e>
 <e lm="passanantí" a="jaumeortola">      <i>passanant</i><par n="alacant/í__n"/></e>
 <e lm="passant" a="jaumeortola">         <i>passant</i><par n="acompanyant__n"/></e>
@@ -32846,7 +32750,6 @@
 <e lm="patripassià" a="jaumeortola">     <i>patripassi</i><par n="americ/à__n"/></e>
 <e lm="patrologia" a="jaumeortola">      <i>patrologi</i><par n="abell/a__n"/></e>
 <e lm="patronia" a="jaumeortola">        <i>patroni</i><par n="abell/a__n"/></e>
-<e lm="patronista" a="jaumeortola">      <i>patronist</i><par n="accionist/a__n"/></e>
 <e lm="patrullament" a="jaumeortola">    <i>patrullament</i><par n="abric__n"/></e>
 <e lm="patrullatge" a="jaumeortola">     <i>patrullatge</i><par n="abric__n"/></e>
 <e lm="patrícia" a="jaumeortola">        <i>patríci</i><par n="abell/a__n"/></e>
@@ -33477,7 +33380,6 @@
 <e lm="perpendicle" a="jaumeortola">     <i>perpendicle</i><par n="abric__n"/></e>
 <e lm="perpendicularitat" a="jaumeortola"><i>perpendicularitat</i><par n="accessibilitat__n"/></e>
 <e lm="perpetrador" a="jaumeortola">     <i>perpetrador</i><par n="senyor__n"/></e>
-<e lm="perpetuador" a="jaumeortola">     <i>perpetuador</i><par n="senyor__n"/></e>
 <e lm="perpetuenc" a="jaumeortola">      <i>perpetuen</i><par n="asiàti/c__n"/></e>
 <e lm="perpetuïna" a="jaumeortola">      <i>perpetuïn</i><par n="abell/a__n"/></e>
 <e lm="perpinyanenc" a="jaumeortola">    <i>perpinyanen</i><par n="asiàti/c__n"/></e>
@@ -33553,7 +33455,6 @@
 <e lm="pesaarcs" a="jaumeortola">        <i>pesaarcs</i><par n="IRPF__n"/></e>
 <e lm="pesacartes" a="jaumeortola">      <i>pesacartes</i><par n="IRPF__n"/></e>
 <e lm="pesada" a="jaumeortola">          <i>pesad</i><par n="abell/a__n"/></e>
-<e lm="pesadesa" a="jaumeortola">        <i>pesades</i><par n="abell/a__n"/></e>
 <e lm="pesador" a="jaumeortola">         <i>pesador</i><par n="senyor__n"/></e>
 <e lm="pesadura" a="jaumeortola">        <i>pesadur</i><par n="abell/a__n"/></e>
 <e lm="pesafiltres" a="jaumeortola">     <i>pesafiltres</i><par n="IRPF__n"/></e>
@@ -33570,8 +33471,6 @@
 <e lm="pescall" a="jaumeortola">         <i>pescall</i><par n="abric__n"/></e>
 <e lm="pescamines" a="jaumeortola">      <i>pescamines</i><par n="IRPF__n"/></e>
 <e lm="pescant" a="jaumeortola">         <i>pescant</i><par n="abric__n"/></e>
-<e lm="pescater" a="jaumeortola">        <i>pescater</i><par n="senyor__n"/></e>
-<e lm="pescateria" a="jaumeortola">      <i>pescateri</i><par n="abell/a__n"/></e>
 <e lm="pesebrisme" a="jaumeortola">      <i>pesebrisme</i><par n="abric__n"/></e>
 <e lm="pesebrista" a="jaumeortola">      <i>pesebrist</i><par n="accionist/a__n"/></e>
 <e lm="pesillanenc" a="jaumeortola">     <i>pesillanen</i><par n="asiàti/c__n"/></e>
@@ -35385,7 +35284,6 @@
 <e lm="prehomínid" a="jaumeortola">      <i>prehomínid</i><par n="abric__n"/></e>
 <e lm="preimplantació" a="jaumeortola">  <i>preimplantaci</i><par n="acci/ó__n"/></e>
 <e lm="preixanenc" a="jaumeortola">      <i>preixanen</i><par n="asiàti/c__n"/></e>
-<e lm="prejubilació" a="jaumeortola">    <i>prejubilaci</i><par n="acci/ó__n"/></e>
 <e lm="prejudicialitat" a="jaumeortola"> <i>prejudicialitat</i><par n="accessibilitat__n"/></e>
 <e lm="prejuí" a="jaumeortola">          <i>prejuí</i><par n="abric__n"/></e>
 <e lm="prelacia" a="jaumeortola">        <i>prelaci</i><par n="abell/a__n"/></e>
@@ -35961,7 +35859,6 @@
 <e lm="pruïna" a="jaumeortola">          <i>pruïn</i><par n="abell/a__n"/></e>
 <e lm="pràcrit" a="jaumeortola">         <i>pràcrit</i><par n="abric__n"/></e>
 <e lm="pràctic" a="jaumeortola">         <i>pràcti</i><par n="asiàti/c__n"/></e>
-<e lm="pràcticum" a="jaumeortola">       <i>pràcticum</i><par n="abric__n"/></e>
 <e lm="pràxia" a="jaumeortola">          <i>pràxi</i><par n="abell/a__n"/></e>
 <e lm="prèsbita" a="jaumeortola">        <i>prèsbit</i><par n="accionist/a__n"/></e>
 <e lm="prêt-à-porter" a="jaumeortola">   <i>prêt-à-porter</i><par n="abric__n"/></e>
@@ -36465,7 +36362,6 @@
 <e lm="quadrupol" a="jaumeortola">       <i>quadrupol</i><par n="abric__n"/></e>
 <e lm="quadrupèdia" a="jaumeortola">     <i>quadrupèdi</i><par n="abell/a__n"/></e>
 <e lm="quadràvia" a="jaumeortola">       <i>quadràvi</i><par n="abell/a__n"/></e>
-<e lm="quadríptic" a="jaumeortola">      <i>quadríptic</i><par n="abric__n"/></e>
 <e lm="quadrívium" a="jaumeortola">      <i>quadrívium</i><par n="abric__n"/></e>
 <e lm="quadró" a="jaumeortola">          <i>quadr</i><par n="aband/ó__n"/></e>
 <e lm="quadrúpede" a="jaumeortola">      <i>quadrúpede</i><par n="abric__n"/></e>
@@ -36476,7 +36372,6 @@
 <e lm="quallada" a="jaumeortola">        <i>quallad</i><par n="abell/a__n"/></e>
 <e lm="qualladora" a="jaumeortola">      <i>quallador</i><par n="abell/a__n"/></e>
 <e lm="quallallet" a="jaumeortola">      <i>quallallet</i><par n="abric__n"/></e>
-<e lm="quantil" a="jaumeortola">         <i>quantil</i><par n="abric__n"/></e>
 <e lm="quantitativisme" a="jaumeortola"> <i>quantitativisme</i><par n="abric__n"/></e>
 <e lm="quantització" a="jaumeortola">    <i>quantitzaci</i><par n="acci/ó__n"/></e>
 <e lm="quantivalència" a="jaumeortola">  <i>quantivalènci</i><par n="abell/a__n"/></e>
@@ -36500,7 +36395,6 @@
 <e lm="quarantina" a="jaumeortola">      <i>quarantin</i><par n="abell/a__n"/></e>
 <e lm="quarantí" a="jaumeortola">        <i>quarant</i><par n="boc/í__n"/></e>
 <e lm="quaresmer" a="jaumeortola">       <i>quaresmer</i><par n="abric__n"/></e>
-<e lm="quarta" a="jaumeortola">          <i>quart</i><par n="abell/a__n"/></e>
 <e lm="quartal" a="jaumeortola">         <i>quartal</i><par n="abric__n"/></e>
 <e lm="quartat" a="jaumeortola">         <i>quarta</i><par n="advoca/t__n"/></e>
 <e lm="quarteig" a="jaumeortola">        <i>quarte</i><par n="assa/ig__n"/></e>
@@ -36514,7 +36408,6 @@
 <e lm="quarteró" a="jaumeortola">        <i>quarter</i><par n="aband/ó__n"/></e>
 <e lm="quarteta" a="jaumeortola">        <i>quartet</i><par n="abell/a__n"/></e>
 <e lm="quartfinalista" a="jaumeortola">  <i>quartfinalist</i><par n="accionist/a__n"/></e>
-<e lm="quartil" a="jaumeortola">         <i>quartil</i><par n="abric__n"/></e>
 <e lm="quarto" a="jaumeortola">          <i>quarto</i><par n="abric__n"/></e>
 <e lm="quartodecimà" a="jaumeortola">    <i>quartodecim</i><par n="americ/à__n"/></e>
 <e lm="quartogènit" a="jaumeortola">     <i>quartogènit</i><par n="senyor__n"/></e>
@@ -36794,7 +36687,6 @@
 <e lm="quixotisme" a="jaumeortola">      <i>quixotisme</i><par n="abric__n"/></e>
 <e lm="quraixita" a="jaumeortola">       <i>quraixit</i><par n="accionist/a__n"/></e>
 <e lm="quàdrica" a="jaumeortola">        <i>quàdri</i><par n="acústi/ca__n"/></e>
-<e lm="quàsar" a="jaumeortola">          <i>quàsar</i><par n="abric__n"/></e>
 <e lm="quàssia" a="jaumeortola">         <i>quàssi</i><par n="abell/a__n"/></e>
 <e lm="quèria" a="jaumeortola">          <i>quèri</i><par n="abell/a__n"/></e>
 <e lm="quèstia" a="jaumeortola">         <i>quèsti</i><par n="abell/a__n"/></e>
@@ -37405,7 +37297,6 @@
 <e lm="recolzada" a="jaumeortola">       <i>recolzad</i><par n="abell/a__n"/></e>
 <e lm="recolzador" a="jaumeortola">      <i>recolzador</i><par n="abric__n"/></e>
 <e lm="recolze" a="jaumeortola">         <i>recolze</i><par n="abric__n"/></e>
-<e lm="recol·lecte" a="jaumeortola">     <i>recol·lect</i><par n="addict/e__n"/></e>
 <e lm="recompensació" a="jaumeortola">   <i>recompensaci</i><par n="acci/ó__n"/></e>
 <e lm="reconciliador" a="jaumeortola">   <i>reconciliador</i><par n="senyor__n"/></e>
 <e lm="reconditori" a="jaumeortola">     <i>reconditori</i><par n="abric__n"/></e>
@@ -37579,7 +37470,6 @@
 <e lm="reformatatge" a="jaumeortola">    <i>reformatatge</i><par n="abric__n"/></e>
 <e lm="reforçador" a="jaumeortola">      <i>reforçador</i><par n="abric__n"/></e>
 <e lm="reforçant" a="jaumeortola">       <i>reforçant</i><par n="abric__n"/></e>
-<e lm="refosa" a="jaumeortola">          <i>refos</i><par n="abell/a__n"/></e>
 <e lm="refractari" a="jaumeortola">      <i>refractari</i><par n="abric__n"/></e>
 <e lm="refractivitat" a="jaumeortola">   <i>refractivitat</i><par n="accessibilitat__n"/></e>
 <e lm="refractòmetre" a="jaumeortola">   <i>refractòmetre</i><par n="abric__n"/></e>
@@ -37611,7 +37501,6 @@
 <e lm="regallament" a="jaumeortola">     <i>regallament</i><par n="abric__n"/></e>
 <e lm="regallim" a="jaumeortola">        <i>regallim</i><par n="abric__n"/></e>
 <e lm="regalló" a="jaumeortola">         <i>regall</i><par n="aband/ó__n"/></e>
-<e lm="regalíssia" a="jaumeortola">      <i>regalíssi</i><par n="abell/a__n"/></e>
 <e lm="regant" a="jaumeortola">          <i>regant</i><par n="acompanyant__n"/></e>
 <e lm="reganyador" a="jaumeortola">      <i>reganyador</i><par n="senyor__n"/></e>
 <e lm="reganyaire" a="jaumeortola">      <i>reganyaire</i><par n="acompanyant__n"/></e>
@@ -37723,7 +37612,6 @@
 <e lm="relegament" a="jaumeortola">      <i>relegament</i><par n="abric__n"/></e>
 <e lm="relicte" a="jaumeortola">         <i>relicte</i><par n="abric__n"/></e>
 <e lm="religionari" a="jaumeortola">     <i>religion</i><par n="adjudicat/ari__n"/></e>
-<e lm="reliquiari" a="jaumeortola">      <i>reliquiari</i><par n="abric__n"/></e>
 <e lm="reliquier" a="jaumeortola">       <i>reliquier</i><par n="abric__n"/></e>
 <e lm="relisser" a="jaumeortola">        <i>relisser</i><par n="abric__n"/></e>
 <e lm="rella" a="jaumeortola">           <i>rell</i><par n="abell/a__n"/></e>
@@ -37748,7 +37636,6 @@
 <e lm="relloneig" a="jaumeortola">       <i>rellone</i><par n="assa/ig__n"/></e>
 <e lm="rellonejador" a="jaumeortola">    <i>rellonejador</i><par n="senyor__n"/></e>
 <e lm="relló" a="jaumeortola">           <i>rell</i><par n="aband/ó__n"/></e>
-<e lm="relocalització" a="jaumeortola">  <i>relocalitzaci</i><par n="acci/ó__n"/></e>
 <e lm="reluctivitat" a="jaumeortola">    <i>reluctivitat</i><par n="accessibilitat__n"/></e>
 <e lm="reluctància" a="jaumeortola">     <i>reluctànci</i><par n="abell/a__n"/></e>
 <e lm="remada" a="jaumeortola">          <i>remad</i><par n="abell/a__n"/></e>
@@ -37904,7 +37791,6 @@
 <e lm="repalassa" a="jaumeortola">       <i>repalass</i><par n="abell/a__n"/></e>
 <e lm="repaleig" a="jaumeortola">        <i>repale</i><par n="assa/ig__n"/></e>
 <e lm="repapieig" a="jaumeortola">       <i>repapie</i><par n="assa/ig__n"/></e>
-<e lm="reparador" a="jaumeortola">       <i>reparador</i><par n="senyor__n"/></e>
 <e lm="reparament" a="jaumeortola">      <i>reparament</i><par n="abric__n"/></e>
 <e lm="reparat" a="jaumeortola">         <i>reparat</i><par n="abric__n"/></e>
 <e lm="repassada" a="jaumeortola">       <i>repassad</i><par n="abell/a__n"/></e>
@@ -38361,7 +38247,6 @@
 <e lm="rierada" a="jaumeortola">         <i>rierad</i><par n="abell/a__n"/></e>
 <e lm="rieral" a="jaumeortola">          <i>rieral</i><par n="abric__n"/></e>
 <e lm="rierany" a="jaumeortola">         <i>rierany</i><par n="abric__n"/></e>
-<e lm="rifa" a="jaumeortola">            <i>rif</i><par n="abell/a__n"/></e>
 <e lm="rifada" a="jaumeortola">          <i>rifad</i><par n="abell/a__n"/></e>
 <e lm="rifaire" a="jaumeortola">         <i>rifaire</i><par n="acompanyant__n"/></e>
 <e lm="rifamicina" a="jaumeortola">      <i>rifamicin</i><par n="abell/a__n"/></e>
@@ -38893,7 +38778,6 @@
 <e lm="ruralia" a="jaumeortola">         <i>rurali</i><par n="abell/a__n"/></e>
 <e lm="ruralisme" a="jaumeortola">       <i>ruralisme</i><par n="abric__n"/></e>
 <e lm="ruralista" a="jaumeortola">       <i>ruralist</i><par n="accionist/a__n"/></e>
-<e lm="ruralitat" a="jaumeortola">       <i>ruralitat</i><par n="accessibilitat__n"/></e>
 <e lm="rururbanització" a="jaumeortola"> <i>rururbanitzaci</i><par n="acci/ó__n"/></e>
 <e lm="ruríkida" a="jaumeortola">        <i>ruríkid</i><par n="accionist/a__n"/></e>
 <e lm="rusca" a="jaumeortola">           <i>rus</i><par n="acústi/ca__n"/></e>
@@ -39109,7 +38993,6 @@
 <e lm="sagnat" a="jaumeortola">          <i>sagnat</i><par n="abric__n"/></e>
 <e lm="sagramentació" a="jaumeortola">   <i>sagramentaci</i><par n="acci/ó__n"/></e>
 <e lm="sagramental" a="jaumeortola">     <i>sagramental</i><par n="abric__n"/></e>
-<e lm="sagrari" a="jaumeortola">         <i>sagrari</i><par n="abric__n"/></e>
 <e lm="sagrat" a="jaumeortola">          <i>sagrat</i><par n="abric__n"/></e>
 <e lm="sagrer" a="jaumeortola">          <i>sagrer</i><par n="abric__n"/></e>
 <e lm="sagrera" a="jaumeortola">         <i>sagrer</i><par n="abell/a__n"/></e>
@@ -40117,7 +40000,6 @@
 <e lm="serranet" a="jaumeortola">        <i>serranet</i><par n="abric__n"/></e>
 <e lm="serrat" a="jaumeortola">          <i>serrat</i><par n="abric__n"/></e>
 <e lm="serrateixenc" a="jaumeortola">    <i>serrateixen</i><par n="asiàti/c__n"/></e>
-<e lm="serratge" a="jaumeortola">        <i>serratge</i><par n="abric__n"/></e>
 <e lm="serraval·lià" a="jaumeortola">    <i>serraval·li</i><par n="bacall/à__n"/></e>
 <e lm="serreig" a="jaumeortola">         <i>serre</i><par n="assa/ig__n"/></e>
 <e lm="serreller" a="jaumeortola">       <i>serreller</i><par n="senyor__n"/></e>
@@ -40705,7 +40587,6 @@
 <e lm="sobreescalfament" a="jaumeortola"><i>sobreescalfament</i><par n="abric__n"/></e>
 <e lm="sobreescriptura" a="jaumeortola"> <i>sobreescriptur</i><par n="abell/a__n"/></e>
 <e lm="sobreescrit" a="jaumeortola">     <i>sobreescrit</i><par n="abric__n"/></e>
-<e lm="sobreesforç" a="jaumeortola">     <i>sobreesforç</i><par n="as__n"/></e>
 <e lm="sobreespecialització" a="jaumeortola"><i>sobreespecialitzaci</i><par n="acci/ó__n"/></e>
 <e lm="sobreestadia" a="jaumeortola">    <i>sobreestadi</i><par n="abell/a__n"/></e>
 <e lm="sobreestant" a="jaumeortola">     <i>sobreestant</i><par n="acompanyant__n"/></e>
@@ -41380,7 +41261,6 @@
 <e lm="subtinenta" a="jaumeortola">      <i>subtinent</i><par n="abell/a__n"/></e>
 <e lm="subtip" a="jaumeortola">          <i>subtip</i><par n="abric__n"/></e>
 <e lm="subtotal" a="jaumeortola">        <i>subtotal</i><par n="abric__n"/></e>
-<e lm="subtracció" a="jaumeortola">      <i>subtracci</i><par n="acci/ó__n"/></e>
 <e lm="subtrama" a="jaumeortola">        <i>subtram</i><par n="abell/a__n"/></e>
 <e lm="subultramicroanàlisi" a="jaumeortola"><i>subultramicroanàlisi</i><par n="accessibilitat__n"/></e>
 <e lm="suburbanització" a="jaumeortola"> <i>suburbanitzaci</i><par n="acci/ó__n"/></e>
@@ -41841,7 +41721,6 @@
 <e lm="taina" a="jaumeortola">           <i>tain</i><par n="abell/a__n"/></e>
 <e lm="taitxitxuan" a="jaumeortola">     <i>taitxitxuan</i><par n="BBVA__n"/></e>
 <e lm="taitxí" a="jaumeortola">          <i>taitxí</i><par n="BBVA__n"/></e>
-<e lm="tala" a="jaumeortola">            <i>tal</i><par n="abell/a__n"/></e>
 <e lm="talabaixó" a="jaumeortola">       <i>talabaix</i><par n="aband/ó__n"/></e>
 <e lm="talabard" a="jaumeortola">        <i>talabard</i><par n="abric__n"/></e>
 <e lm="talabarder" a="jaumeortola">      <i>talabarder</i><par n="senyor__n"/></e>
@@ -43128,7 +43007,6 @@
 <e lm="tiralliços" a="jaumeortola">      <i>tiralliços</i><par n="EUA__n"/></e>
 <e lm="tiramanguer" a="jaumeortola">     <i>tiramanguer</i><par n="senyor__n"/></e>
 <e lm="tiramina" a="jaumeortola">        <i>tiramin</i><par n="abell/a__n"/></e>
-<e lm="tiramisú" a="jaumeortola">        <i>tiramisú</i><par n="abric__n"/></e>
 <e lm="tiramoll" a="jaumeortola">        <i>tiramoll</i><par n="abric__n"/></e>
 <e lm="tiramànega" a="jaumeortola">      <i>tiramàneg</i><par n="meg/a__n"/></e>
 <e lm="tirandes" a="jaumeortola">        <i>tirandes</i><par n="FARC__n"/></e>
@@ -43266,7 +43144,6 @@
 <e lm="tofu" a="jaumeortola">            <i>tofu</i><par n="abric__n"/></e>
 <e lm="togada" a="jaumeortola">          <i>togad</i><par n="abell/a__n"/></e>
 <e lm="togat" a="jaumeortola">           <i>togat</i><par n="senyor__n"/></e>
-<e lm="toisó" a="jaumeortola">           <i>tois</i><par n="aband/ó__n"/></e>
 <e lm="toixarrudesa" a="jaumeortola">    <i>toixarrudes</i><par n="abell/a__n"/></e>
 <e lm="toixesa" a="jaumeortola">         <i>toixes</i><par n="abell/a__n"/></e>
 <e lm="toixó" a="jaumeortola">           <i>toix</i><par n="aband/ó__n"/></e>
@@ -43749,7 +43626,6 @@
 <e lm="transfosforilació" a="jaumeortola"><i>transfosforilaci</i><par n="acci/ó__n"/></e>
 <e lm="transfusibilitat" a="jaumeortola"><i>transfusibilitat</i><par n="accessibilitat__n"/></e>
 <e lm="transfusor" a="jaumeortola">      <i>transfusor</i><par n="senyor__n"/></e>
-<e lm="transfòbia" a="jaumeortola">      <i>transfòbi</i><par n="abell/a__n"/></e>
 <e lm="transgènere" a="jaumeortola">     <i>transgènere</i><par n="acompanyant__n"/></e>
 <e lm="transhumància" a="jaumeortola">   <i>transhumànci</i><par n="abell/a__n"/></e>
 <e lm="transigència" a="jaumeortola">    <i>transigènci</i><par n="abell/a__n"/></e>
@@ -44062,7 +43938,6 @@
 <e lm="triaquisoctaedre" a="jaumeortola"><i>triaquisoctaedre</i><par n="abric__n"/></e>
 <e lm="triarca" a="jaumeortola">         <i>triar</i><par n="patriar/ca__n"/></e>
 <e lm="triarquia" a="jaumeortola">       <i>triarqui</i><par n="abell/a__n"/></e>
-<e lm="triatleta" a="jaumeortola">       <i>triatlet</i><par n="accionist/a__n"/></e>
 <e lm="triazina" a="jaumeortola">        <i>triazin</i><par n="abell/a__n"/></e>
 <e lm="triazole" a="jaumeortola">        <i>triazole</i><par n="abric__n"/></e>
 <e lm="triba" a="jaumeortola">           <i>trib</i><par n="abell/a__n"/></e>
@@ -44648,7 +44523,6 @@
 <e lm="tuït" a="jaumeortola">            <i>tuït</i><par n="abric__n"/></e>
 <e lm="TV" a="jaumeortola">              <i>TV</i><par n="MTS__n"/></e>
 <e lm="twist" a="jaumeortola">           <i>twist</i><par n="abric__n"/></e>
-<e lm="txa-txa-txa" a="jaumeortola">     <i>txa-txa-txa</i><par n="abric__n"/></e>
 <e lm="txadocamític" a="jaumeortola">    <i>txadocamític</i><par n="abric__n"/></e>
 <e lm="txadohamític" a="jaumeortola">    <i>txadohamític</i><par n="abric__n"/></e>
 <e lm="txagatai" a="jaumeortola">        <i>txagatai</i><par n="abric__n"/></e>
@@ -44817,7 +44691,6 @@
 <e lm="ultracuidança" a="jaumeortola">   <i>ultracuidan</i><par n="adre/ça__n"/></e>
 <e lm="ultraesquerra" a="jaumeortola">   <i>ultraesquerr</i><par n="abell/a__n"/></e>
 <e lm="ultraestructura" a="jaumeortola"> <i>ultraestructur</i><par n="abell/a__n"/></e>
-<e lm="ultrafiltració" a="jaumeortola">  <i>ultrafiltraci</i><par n="acci/ó__n"/></e>
 <e lm="ultrafiltre" a="jaumeortola">     <i>ultrafiltre</i><par n="abric__n"/></e>
 <e lm="ultrafons" a="jaumeortola">       <i>ultrafons</i><par n="IRPF__n"/></e>
 <e lm="ultragrànul" a="jaumeortola">     <i>ultragrànul</i><par n="abric__n"/></e>
@@ -45127,7 +45000,6 @@
 <e lm="valença" a="jaumeortola">         <i>valen</i><par n="adre/ça__n"/></e>
 <e lm="valer" a="jaumeortola">           <i>valer</i><par n="abric__n"/></e>
 <e lm="valerat" a="jaumeortola">         <i>valerat</i><par n="abric__n"/></e>
-<e lm="valeriana" a="jaumeortola">       <i>valerian</i><par n="abell/a__n"/></e>
 <e lm="valerianat" a="jaumeortola">      <i>valerianat</i><par n="abric__n"/></e>
 <e lm="valerianàcia" a="jaumeortola">    <i>valerianàci</i><par n="abell/a__n"/></e>
 <e lm="valiat" a="jaumeortola">          <i>valiat</i><par n="abric__n"/></e>
@@ -45366,7 +45238,6 @@
 <e lm="ventrellada" a="jaumeortola">     <i>ventrellad</i><par n="abell/a__n"/></e>
 <e lm="ventrellol" a="jaumeortola">      <i>ventrellol</i><par n="abric__n"/></e>
 <e lm="ventrera" a="jaumeortola">        <i>ventrer</i><par n="abell/a__n"/></e>
-<e lm="ventresca" a="jaumeortola">       <i>ventres</i><par n="acústi/ca__n"/></e>
 <e lm="ventriculografia" a="jaumeortola"><i>ventriculografi</i><par n="abell/a__n"/></e>
 <e lm="ventrilòquia" a="jaumeortola">    <i>ventrilòqui</i><par n="abell/a__n"/></e>
 <e lm="ventríloc" a="jaumeortola">       <i>ventríloc</i><par n="abric__n"/></e>
@@ -45394,7 +45265,6 @@
 <e lm="veratrol" a="jaumeortola">        <i>veratrol</i><par n="abric__n"/></e>
 <e lm="verba" a="jaumeortola">           <i>verb</i><par n="abell/a__n"/></e>
 <e lm="verbalista" a="jaumeortola">      <i>verbalist</i><par n="accionist/a__n"/></e>
-<e lm="verbalització" a="jaumeortola">   <i>verbalitzaci</i><par n="acci/ó__n"/></e>
 <e lm="verbenàcia" a="jaumeortola">      <i>verbenàci</i><par n="abell/a__n"/></e>
 <e lm="verbeta" a="jaumeortola">         <i>verbet</i><par n="abell/a__n"/></e>
 <e lm="verbomania" a="jaumeortola">      <i>verbomani</i><par n="abell/a__n"/></e>
@@ -46249,7 +46119,6 @@
 <e lm="xarciada" a="jaumeortola">        <i>xarciad</i><par n="abell/a__n"/></e>
 <e lm="xarcier" a="jaumeortola">         <i>xarcier</i><par n="senyor__n"/></e>
 <e lm="xarcullera" a="jaumeortola">      <i>xarculler</i><par n="abell/a__n"/></e>
-<e lm="xarcuter" a="jaumeortola">        <i>xarcuter</i><par n="senyor__n"/></e>
 <e lm="xardor" a="jaumeortola">          <i>xardor</i><par n="accessibilitat__n"/></e>
 <e lm="xare" a="jaumeortola">            <i>xare</i><par n="abric__n"/></e>
 <e lm="xarel·lo" a="jaumeortola">        <i>xarel·lo</i><par n="abric__n"/></e>

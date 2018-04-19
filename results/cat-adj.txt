@@ -1,3 +1,5 @@
+<e lm="boccaccesc" a="jaumeortola">      <i>boccacces</i><par n="bas/c__adj"/></e>
+<e lm="boccaccià" a="jaumeortola">       <i>boccacci</i><par n="afric/à__adj"/></e>
 <e lm="butà" a="jaumeortola">            <i>butà</i><par n="multimèdia__adj"/></e>
 <e lm="cinquanta-huitè" a="jaumeortola"> <i>cinquanta-huit</i><par n="ali/è__adj"/></e>
 <e lm="comòrbid" a="jaumeortola">        <i>comòrbid</i><par n="absolut__adj"/></e>
@@ -6,11 +8,15 @@
 <e lm="enfaenat" a="jaumeortola">        <i>enfaena</i><par n="triparti/t__adj"/></e>
 <e lm="esquizoafectiu" a="jaumeortola">  <i>esquizoafecti</i><par n="abusi/u__adj"/></e>
 <e lm="esquizofreniforme" a="jaumeortola"><i>esquizofreniforme</i><par n="abdominal__adj"/></e>
+<e lm="estimatori" a="jaumeortola">      <i>estimat</i><par n="access/ori__adj"/></e>
 <e lm="heterozigot" a="jaumeortola">     <i>heterozigot</i><par n="abdominal__adj"/></e>
 <e lm="homozigot" a="jaumeortola">       <i>homozigot</i><par n="abdominal__adj"/></e>
 <e lm="huitè" a="jaumeortola">           <i>huit</i><par n="ali/è__adj"/></e>
 <e lm="incondicionat" a="jaumeortola">   <i>incondiciona</i><par n="triparti/t__adj"/></e>
 <e lm="junior" a="jaumeortola">          <i>junior</i><par n="absolut__adj"/></e>
+<e lm="martirològic" a="jaumeortola">    <i>martirològi</i><par n="acadèmi/c__adj"/></e>
+<e lm="petrarquesc" a="jaumeortola">     <i>petrarques</i><par n="bas/c__adj"/></e>
+<e lm="petrarquià" a="jaumeortola">      <i>petrarqui</i><par n="afric/à__adj"/></e>
 <e lm="pseudolegal" a="jaumeortola">     <i>pseudolegal</i><par n="abdominal__adj"/></e>
 <e lm="quaranta-huitè" a="jaumeortola">  <i>quaranta-huit</i><par n="ali/è__adj"/></e>
 <e lm="san" a="jaumeortola">             <i>san</i><par n="multimèdia__adj"/></e>

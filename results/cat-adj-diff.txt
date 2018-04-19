@@ -23,8 +23,8 @@ APERTIUM: dièsel	PAR: abdominal__adj	FORMS: AQ0CP0 dièsels AQ0CS0 dièsel
 APERTIUM: escarlata	PAR: agrícol/a__adj	FORMS: AQ0CP0 escarlates AQ0CS0 escarlata
    OTHER: escarlata	PAR: multimèdia__adj	FORMS: AQ0CN0 escarlata
 
-APERTIUM: fort	PAR: absolut__adj	FORMS: AQ0FP0 fortes AQ0FS0 forta AQ0MP0 forts AQ0MS0 fort
-   OTHER: fort	PAR: alt__adj	FORMS: AQ0FP0 fortes AQ0FP0 fortíssimes AQ0FS0 forta AQ0FS0 fortíssima AQ0MP0 forts AQ0MP0 fortíssims AQ0MS0 fort AQ0MS0 fortíssim
+APERTIUM: extra	PAR: multimèdia__adj	FORMS: AQ0CN0 extra
+   OTHER: extra	PAR: agrícol/a__adj	FORMS: AQ0CP0 extres AQ0CS0 extra
 
 APERTIUM: granat	PAR: triparti/t__adj	FORMS: AQ0FP0 granades AQ0FS0 granada AQ0MP0 granats AQ0MS0 granat
    OTHER: granat	PAR: multimèdia__adj	FORMS: AQ0CN0 granat
@@ -61,9 +61,6 @@ APERTIUM: privatitzat	PAR: afortuna/t__adj	FORMS: AQ0FP0 privatitzades AQ0FP0 pr
 
 APERTIUM: quaranta-vuitè	PAR: /vuitè__adj	FORMS: AQ0FP0 quaranta-huitenes AQ0FP0 quaranta-vuitenes AQ0FS0 quaranta-huitena AQ0FS0 quaranta-vuitena AQ0MP0 quaranta-huitens AQ0MP0 quaranta-vuitens AQ0MS0 quaranta-huitè AQ0MS0 quaranta-huité AQ0MS0 quaranta-vuitè
    OTHER: quaranta-vuitè	PAR: ali/è__adj	FORMS: AQ0FP0 quaranta-vuitenes AQ0FS0 quaranta-vuitena AQ0MP0 quaranta-vuitens AQ0MS0 quaranta-vuitè AQ0MS0 quaranta-vuité
-
-APERTIUM: rosa	PAR: agrícol/a__adj	FORMS: AQ0CP0 roses AQ0CS0 rosa
-   OTHER: rosa	PAR: multimèdia__adj	FORMS: AQ0CN0 rosa
 
 APERTIUM: seixanta-vuitè	PAR: /vuitè__adj	FORMS: AQ0FP0 seixanta-huitenes AQ0FP0 seixanta-vuitenes AQ0FS0 seixanta-huitena AQ0FS0 seixanta-vuitena AQ0MP0 seixanta-huitens AQ0MP0 seixanta-vuitens AQ0MS0 seixanta-huitè AQ0MS0 seixanta-huité AQ0MS0 seixanta-vuitè
    OTHER: seixanta-vuitè	PAR: ali/è__adj	FORMS: AQ0FP0 seixanta-vuitenes AQ0FS0 seixanta-vuitena AQ0MP0 seixanta-vuitens AQ0MS0 seixanta-vuitè AQ0MS0 seixanta-vuité
