@@ -10,12 +10,14 @@ APERTIUM: caqui	PAR: abdominal__adj	FORMS: AQ0CP0 caquis AQ0CS0 caqui
 
 APERTIUM: cinquanta-vuitè	PAR: /vuitè__adj	FORMS: AQ0FP0 cinquanta-huitenes AQ0FP0 cinquanta-vuitenes AQ0FS0 cinquanta-huitena AQ0FS0 cinquanta-vuitena AQ0MP0 cinquanta-huitens AQ0MP0 cinquanta-vuitens AQ0MS0 cinquanta-huitè AQ0MS0 cinquanta-huité AQ0MS0 cinquanta-vuitè
    OTHER: cinquanta-vuitè	PAR: ali/è__adj	FORMS: AQ0FP0 cinquanta-vuitenes AQ0FS0 cinquanta-vuitena AQ0MP0 cinquanta-vuitens AQ0MS0 cinquanta-vuitè AQ0MS0 cinquanta-vuité
+   OTHER: cinquanta-vuitè	PAR: cinqu/è__adj	FORMS: AQ0FP0 cinquanta-vuitenes AQ0FS0 cinquanta-vuitena AQ0MP0 cinquanta-vuitens AQ0MS0 cinquanta-vuitè AQ0MS0 cinquanta-vuité
 
 APERTIUM: clau	PAR: abdominal__adj	FORMS: AQ0CP0 claus AQ0CS0 clau
    OTHER: clau	PAR: multimèdia__adj	FORMS: AQ0CN0 clau
 
 APERTIUM: divuitè	PAR: /vuitè__adj	FORMS: AQ0FP0 dihuitenes AQ0FP0 divuitenes AQ0FS0 dihuitena AQ0FS0 divuitena AQ0MP0 dihuitens AQ0MP0 divuitens AQ0MS0 dihuitè AQ0MS0 dihuité AQ0MS0 divuitè
    OTHER: divuitè	PAR: ali/è__adj	FORMS: AQ0FP0 divuitenes AQ0FS0 divuitena AQ0MP0 divuitens AQ0MS0 divuitè AQ0MS0 divuité
+   OTHER: divuitè	PAR: cinqu/è__adj	FORMS: AQ0FP0 divuitenes AQ0FS0 divuitena AQ0MP0 divuitens AQ0MS0 divuitè AQ0MS0 divuité
 
 APERTIUM: dièsel	PAR: abdominal__adj	FORMS: AQ0CP0 dièsels AQ0CS0 dièsel
    OTHER: dièsel	PAR: multimèdia__adj	FORMS: AQ0CN0 dièsel
@@ -49,6 +51,7 @@ APERTIUM: multiús	PAR: multi/ús__adj	FORMS: AQ0CP0 multiusos AQ0CS0 multiús
 
 APERTIUM: noranta-vuitè	PAR: /vuitè__adj	FORMS: AQ0FP0 noranta-huitenes AQ0FP0 noranta-vuitenes AQ0FS0 noranta-huitena AQ0FS0 noranta-vuitena AQ0MP0 noranta-huitens AQ0MP0 noranta-vuitens AQ0MS0 noranta-huitè AQ0MS0 noranta-huité AQ0MS0 noranta-vuitè
    OTHER: noranta-vuitè	PAR: ali/è__adj	FORMS: AQ0FP0 noranta-vuitenes AQ0FS0 noranta-vuitena AQ0MP0 noranta-vuitens AQ0MS0 noranta-vuitè AQ0MS0 noranta-vuité
+   OTHER: noranta-vuitè	PAR: cinqu/è__adj	FORMS: AQ0FP0 noranta-vuitenes AQ0FS0 noranta-vuitena AQ0MP0 noranta-vuitens AQ0MS0 noranta-vuitè AQ0MS0 noranta-vuité
 
 APERTIUM: nou	PAR: abusi/u__adj	FORMS: AQ0FP0 noves AQ0FS0 nova AQ0MP0 nous AQ0MS0 nou
    OTHER: nou	PAR: to/u__adj	FORMS: AQ0FP0 noves AQ0FP0 novíssimes AQ0FS0 nova AQ0FS0 novíssima AQ0MP0 nous AQ0MP0 novíssims AQ0MS0 nou AQ0MS0 novíssim
@@ -61,30 +64,37 @@ APERTIUM: privatitzat	PAR: afortuna/t__adj	FORMS: AQ0FP0 privatitzades AQ0FP0 pr
 
 APERTIUM: quaranta-vuitè	PAR: /vuitè__adj	FORMS: AQ0FP0 quaranta-huitenes AQ0FP0 quaranta-vuitenes AQ0FS0 quaranta-huitena AQ0FS0 quaranta-vuitena AQ0MP0 quaranta-huitens AQ0MP0 quaranta-vuitens AQ0MS0 quaranta-huitè AQ0MS0 quaranta-huité AQ0MS0 quaranta-vuitè
    OTHER: quaranta-vuitè	PAR: ali/è__adj	FORMS: AQ0FP0 quaranta-vuitenes AQ0FS0 quaranta-vuitena AQ0MP0 quaranta-vuitens AQ0MS0 quaranta-vuitè AQ0MS0 quaranta-vuité
+   OTHER: quaranta-vuitè	PAR: cinqu/è__adj	FORMS: AQ0FP0 quaranta-vuitenes AQ0FS0 quaranta-vuitena AQ0MP0 quaranta-vuitens AQ0MS0 quaranta-vuitè AQ0MS0 quaranta-vuité
 
 APERTIUM: seixanta-vuitè	PAR: /vuitè__adj	FORMS: AQ0FP0 seixanta-huitenes AQ0FP0 seixanta-vuitenes AQ0FS0 seixanta-huitena AQ0FS0 seixanta-vuitena AQ0MP0 seixanta-huitens AQ0MP0 seixanta-vuitens AQ0MS0 seixanta-huitè AQ0MS0 seixanta-huité AQ0MS0 seixanta-vuitè
    OTHER: seixanta-vuitè	PAR: ali/è__adj	FORMS: AQ0FP0 seixanta-vuitenes AQ0FS0 seixanta-vuitena AQ0MP0 seixanta-vuitens AQ0MS0 seixanta-vuitè AQ0MS0 seixanta-vuité
+   OTHER: seixanta-vuitè	PAR: cinqu/è__adj	FORMS: AQ0FP0 seixanta-vuitenes AQ0FS0 seixanta-vuitena AQ0MP0 seixanta-vuitens AQ0MS0 seixanta-vuitè AQ0MS0 seixanta-vuité
 
 APERTIUM: setanta-vuitè	PAR: /vuitè__adj	FORMS: AQ0FP0 setanta-huitenes AQ0FP0 setanta-vuitenes AQ0FS0 setanta-huitena AQ0FS0 setanta-vuitena AQ0MP0 setanta-huitens AQ0MP0 setanta-vuitens AQ0MS0 setanta-huitè AQ0MS0 setanta-huité AQ0MS0 setanta-vuitè
    OTHER: setanta-vuitè	PAR: ali/è__adj	FORMS: AQ0FP0 setanta-vuitenes AQ0FS0 setanta-vuitena AQ0MP0 setanta-vuitens AQ0MS0 setanta-vuitè AQ0MS0 setanta-vuité
+   OTHER: setanta-vuitè	PAR: cinqu/è__adj	FORMS: AQ0FP0 setanta-vuitenes AQ0FS0 setanta-vuitena AQ0MP0 setanta-vuitens AQ0MS0 setanta-vuitè AQ0MS0 setanta-vuité
 
 APERTIUM: taronja	PAR: taron/ja__adj	FORMS: AQ0CP0 taronges AQ0CS0 taronja
    OTHER: taronja	PAR: multimèdia__adj	FORMS: AQ0CN0 taronja
 
 APERTIUM: trenta-vuitè	PAR: /vuitè__adj	FORMS: AQ0FP0 trenta-huitenes AQ0FP0 trenta-vuitenes AQ0FS0 trenta-huitena AQ0FS0 trenta-vuitena AQ0MP0 trenta-huitens AQ0MP0 trenta-vuitens AQ0MS0 trenta-huitè AQ0MS0 trenta-huité AQ0MS0 trenta-vuitè
    OTHER: trenta-vuitè	PAR: ali/è__adj	FORMS: AQ0FP0 trenta-vuitenes AQ0FS0 trenta-vuitena AQ0MP0 trenta-vuitens AQ0MS0 trenta-vuitè AQ0MS0 trenta-vuité
+   OTHER: trenta-vuitè	PAR: cinqu/è__adj	FORMS: AQ0FP0 trenta-vuitenes AQ0FS0 trenta-vuitena AQ0MP0 trenta-vuitens AQ0MS0 trenta-vuitè AQ0MS0 trenta-vuité
 
 APERTIUM: vint-i-vuitè	PAR: /vuitè__adj	FORMS: AQ0FP0 vint-i-huitenes AQ0FP0 vint-i-vuitenes AQ0FS0 vint-i-huitena AQ0FS0 vint-i-vuitena AQ0MP0 vint-i-huitens AQ0MP0 vint-i-vuitens AQ0MS0 vint-i-huitè AQ0MS0 vint-i-huité AQ0MS0 vint-i-vuitè
    OTHER: vint-i-vuitè	PAR: ali/è__adj	FORMS: AQ0FP0 vint-i-vuitenes AQ0FS0 vint-i-vuitena AQ0MP0 vint-i-vuitens AQ0MS0 vint-i-vuitè AQ0MS0 vint-i-vuité
+   OTHER: vint-i-vuitè	PAR: cinqu/è__adj	FORMS: AQ0FP0 vint-i-vuitenes AQ0FS0 vint-i-vuitena AQ0MP0 vint-i-vuitens AQ0MS0 vint-i-vuitè AQ0MS0 vint-i-vuité
 
 APERTIUM: violeta	PAR: agrícol/a__adj	FORMS: AQ0CP0 violetes AQ0CS0 violeta
    OTHER: violeta	PAR: multimèdia__adj	FORMS: AQ0CN0 violeta
 
 APERTIUM: vuitanta-vuitè	PAR: /vuitè__adj	FORMS: AQ0FP0 vuitanta-huitenes AQ0FP0 vuitanta-vuitenes AQ0FS0 vuitanta-huitena AQ0FS0 vuitanta-vuitena AQ0MP0 vuitanta-huitens AQ0MP0 vuitanta-vuitens AQ0MS0 vuitanta-huitè AQ0MS0 vuitanta-huité AQ0MS0 vuitanta-vuitè
    OTHER: vuitanta-vuitè	PAR: ali/è__adj	FORMS: AQ0FP0 vuitanta-vuitenes AQ0FS0 vuitanta-vuitena AQ0MP0 vuitanta-vuitens AQ0MS0 vuitanta-vuitè AQ0MS0 vuitanta-vuité
+   OTHER: vuitanta-vuitè	PAR: cinqu/è__adj	FORMS: AQ0FP0 vuitanta-vuitenes AQ0FS0 vuitanta-vuitena AQ0MP0 vuitanta-vuitens AQ0MS0 vuitanta-vuitè AQ0MS0 vuitanta-vuité
 
 APERTIUM: vuitè	PAR: /vuitè__adj	FORMS: AQ0FP0 huitenes AQ0FP0 vuitenes AQ0FS0 huitena AQ0FS0 vuitena AQ0MP0 huitens AQ0MP0 vuitens AQ0MS0 huitè AQ0MS0 huité AQ0MS0 vuitè
    OTHER: vuitè	PAR: ali/è__adj	FORMS: AQ0FP0 vuitenes AQ0FS0 vuitena AQ0MP0 vuitens AQ0MS0 vuitè AQ0MS0 vuité
+   OTHER: vuitè	PAR: cinqu/è__adj	FORMS: AQ0FP0 vuitenes AQ0FS0 vuitena AQ0MP0 vuitens AQ0MS0 vuitè AQ0MS0 vuité
 
 APERTIUM: accelerador	PAR: absolut__adj	FORMS: AQ0FP0 acceleradores AQ0FS0 acceleradora AQ0MP0 acceleradors AQ0MS0 accelerador
    OTHER: accelerador	PAR: ??????????????	FORMS: AQ0FP0 acceleradores AQ0FP0 acceleratrius AQ0FS0 acceleradora AQ0FS0 acceleratriu AQ0MP0 acceleradors AQ0MS0 accelerador
@@ -140,9 +150,6 @@ APERTIUM: difícil	PAR: abdominal__adj	FORMS: AQ0CP0 difícils AQ0CS0 difícil
 APERTIUM: dèbil	PAR: abdominal__adj	FORMS: AQ0CP0 dèbils AQ0CS0 dèbil
    OTHER: dèbil	PAR: ??????????????	FORMS: AQ0CP0 dèbils AQ0CS0 dèbil AQ0FP0 debilíssimes AQ0FS0 debilíssima AQ0MP0 debilíssims AQ0MS0 debilíssim
 
-APERTIUM: eficaç	PAR: preco/ç__adj	FORMS: AQ0CS0 eficaç AQ0FP0 eficaces AQ0MP0 eficaços
-   OTHER: eficaç	PAR: ??????????????	FORMS: AQ0CS0 eficaç AQ0FP0 eficaces AQ0FP0 eficacíssimes AQ0FS0 eficacíssima AQ0MP0 eficacíssims AQ0MP0 eficaços AQ0MS0 eficacíssim
-
 APERTIUM: emèrit	PAR: absolut__adj	FORMS: AQ0FP0 emèrites AQ0FS0 emèrita AQ0MP0 emèrits AQ0MS0 emèrit
    OTHER: emèrit	PAR: ??????????????	FORMS: AQ0FP0 emeritíssimes AQ0FP0 emèrites AQ0FS0 emeritíssima AQ0FS0 emèrita AQ0MP0 emeritíssims AQ0MP0 emèrits AQ0MS0 emeritíssim AQ0MS0 emèrit
 
@@ -151,12 +158,6 @@ APERTIUM: escàs	PAR: esc/às__adj	FORMS: AQ0FP0 escasses AQ0FS0 escassa AQ0MP0 
 
 APERTIUM: favorable	PAR: abdominal__adj	FORMS: AQ0CP0 favorables AQ0CS0 favorable
    OTHER: favorable	PAR: ??????????????	FORMS: AQ0CP0 favorables AQ0CS0 favorable AQ0FP0 favorabilíssimes AQ0FS0 favorabilíssima AQ0MP0 favorabilíssims AQ0MS0 favorabilíssim
-
-APERTIUM: feliç	PAR: preco/ç__adj	FORMS: AQ0CS0 feliç AQ0FP0 felices AQ0MP0 feliços
-   OTHER: feliç	PAR: ??????????????	FORMS: AQ0CS0 feliç AQ0FP0 felices AQ0FP0 felicíssimes AQ0FS0 felicíssima AQ0MP0 felicíssims AQ0MP0 feliços AQ0MS0 felicíssim
-
-APERTIUM: feroç	PAR: preco/ç__adj	FORMS: AQ0CS0 feroç AQ0FP0 feroces AQ0MP0 feroços
-   OTHER: feroç	PAR: ??????????????	FORMS: AQ0CS0 feroç AQ0FP0 feroces AQ0FP0 ferocíssimes AQ0FS0 ferocíssima AQ0MP0 ferocíssims AQ0MP0 feroços AQ0MS0 ferocíssim
 
 APERTIUM: fosc	PAR: bas/c__adj	FORMS: AQ0FP0 fosques AQ0FS0 fosca AQ0MP0 foscos AQ0MP0 foscs AQ0MS0 fosc
    OTHER: fosc	PAR: ??????????????	FORMS: AQ0FP0 fosques AQ0FP0 fosquíssimes AQ0FS0 fosca AQ0FS0 fosquíssima AQ0MP0 foscos AQ0MP0 foscs AQ0MP0 fosquíssims AQ0MS0 fosc AQ0MS0 fosquíssim
@@ -203,9 +204,6 @@ APERTIUM: lleig	PAR: lle/ig__adj	FORMS: AQ0FP0 lletges AQ0FP0 lletgíssimes AQ0F
 APERTIUM: llunyà	PAR: afric/à__adj	FORMS: AQ0FP0 llunyanes AQ0FS0 llunyana AQ0MP0 llunyans AQ0MS0 llunyà
    OTHER: llunyà	PAR: ??????????????	FORMS: AQ0FP0 llunyanes AQ0FP0 llunyaníssimes AQ0FS0 llunyana AQ0FS0 llunyaníssima AQ0MP0 llunyans AQ0MP0 llunyaníssims AQ0MS0 llunyaníssim AQ0MS0 llunyà
 
-APERTIUM: locomotor	PAR: absolut__adj	FORMS: AQ0FP0 locomotores AQ0FS0 locomotora AQ0MP0 locomotors AQ0MS0 locomotor
-   OTHER: locomotor	PAR: ??????????????	FORMS: AQ0FP0 locomotores AQ0FP0 locomotrius AQ0FS0 locomotora AQ0FS0 locomotriu AQ0MP0 locomotors AQ0MS0 locomotor
-
 APERTIUM: lúcid	PAR: absolut__adj	FORMS: AQ0FP0 lúcides AQ0FS0 lúcida AQ0MP0 lúcids AQ0MS0 lúcid
    OTHER: lúcid	PAR: ??????????????	FORMS: AQ0FP0 lucidíssimes AQ0FP0 lúcides AQ0FS0 lucidíssima AQ0FS0 lúcida AQ0MP0 lucidíssims AQ0MP0 lúcids AQ0MS0 lucidíssim AQ0MS0 lúcid
 
@@ -214,9 +212,6 @@ APERTIUM: meritori	PAR: access/ori__adj	FORMS: AQ0FP0 meritòries AQ0FS0 meritò
 
 APERTIUM: mig	PAR: mi/g__adj	FORMS: AQ0FP0 mitges AQ0FS0 mitja AQ0MP0 mitjos AQ0MS0 mig
    OTHER: mig	PAR: ??????????????	FORMS: AQ0FP0 mitges AQ0FS0 mitja AQ0MP0 migs AQ0MP0 mitjos AQ0MS0 mig
-
-APERTIUM: motor	PAR: absolut__adj	FORMS: AQ0FP0 motores AQ0FS0 motora AQ0MP0 motors AQ0MS0 motor
-   OTHER: motor	PAR: ??????????????	FORMS: AQ0FP0 motores AQ0FP0 motrius AQ0FS0 motora AQ0FS0 motriu AQ0MP0 motors AQ0MS0 motor
 
 APERTIUM: mínim	PAR: absolut__adj	FORMS: AQ0FP0 mínimes AQ0FS0 mínima AQ0MP0 mínims AQ0MS0 mínim
    OTHER: mínim	PAR: ??????????????	FORMS: AQ0FP0 minimíssimes AQ0FP0 mínimes AQ0FS0 minimíssima AQ0FS0 mínima AQ0MP0 minimíssims AQ0MP0 mínims AQ0MS0 minimíssim AQ0MS0 mínim
@@ -241,9 +236,6 @@ APERTIUM: pagà	PAR: afric/à__adj	FORMS: AQ0FP0 paganes AQ0FS0 pagana AQ0MP0 pa
 
 APERTIUM: probable	PAR: abdominal__adj	FORMS: AQ0CP0 probables AQ0CS0 probable
    OTHER: probable	PAR: ??????????????	FORMS: AQ0CP0 probables AQ0CS0 probable AQ0FP0 probabilíssimes AQ0FS0 probabilíssima AQ0MP0 probabilíssims AQ0MS0 probabilíssim
-
-APERTIUM: psicomotor	PAR: absolut__adj	FORMS: AQ0FP0 psicomotores AQ0FS0 psicomotora AQ0MP0 psicomotors AQ0MS0 psicomotor
-   OTHER: psicomotor	PAR: ??????????????	FORMS: AQ0FP0 psicomotores AQ0FP0 psicomotrius AQ0FS0 psicomotora AQ0FS0 psicomotriu AQ0MP0 psicomotors AQ0MS0 psicomotor
 
 APERTIUM: puto	PAR: guerx/o__adj	FORMS: AQ0FP0 putes AQ0FS0 puta AQ0MP0 putos AQ0MS0 puto
    OTHER: puto	PAR: ??????????????	FORMS: AQ0MP0 putos AQ0MS0 puto
@@ -280,9 +272,6 @@ APERTIUM: vague	PAR: vag/ue__adj	FORMS: AQ0FP0 vagues AQ0FS0 vaga AQ0MP0 vagues 
 
 APERTIUM: valencià	PAR: afric/à__adj	FORMS: AQ0FP0 valencianes AQ0FS0 valenciana AQ0MP0 valencians AQ0MS0 valencià
    OTHER: valencià	PAR: ??????????????	FORMS: AQ0FP0 valencianes AQ0FP0 valencianíssimes AQ0FS0 valenciana AQ0FS0 valencianíssima AQ0MP0 valencians AQ0MP0 valencianíssims AQ0MS0 valencianíssim AQ0MS0 valencià
-
-APERTIUM: veloç	PAR: preco/ç__adj	FORMS: AQ0CS0 veloç AQ0FP0 veloces AQ0MP0 veloços
-   OTHER: veloç	PAR: ??????????????	FORMS: AQ0CS0 veloç AQ0FP0 veloces AQ0FP0 velocíssimes AQ0FS0 velocíssima AQ0MP0 velocíssims AQ0MP0 veloços AQ0MS0 velocíssim
 
 APERTIUM: verge	PAR: abdominal__adj	FORMS: AQ0CP0 verges AQ0CS0 verge
    OTHER: verge	PAR: ??????????????	FORMS: AQ0CP0 verges AQ0CP0 vèrgens AQ0CS0 verge
@@ -345,7 +334,6 @@ APERTIUM: útil	PAR: abdominal__adj	FORMS: AQ0CP0 útils AQ0CS0 útil
 <e lm="arval"><i>arval</i><par n="??????????"/></e>
 <e lm="asci"><i>asci</i><par n="??????????"/></e>
 <e lm="auri"><i>auri</i><par n="??????????"/></e>
-<e lm="automotor"><i>automotor</i><par n="??????????"/></e>
 <e lm="basmati"><i>basmati</i><par n="??????????"/></e>
 <e lm="basílica"><i>basílica</i><par n="??????????"/></e>
 <e lm="becgròs"><i>becgròs</i><par n="??????????"/></e>
@@ -373,7 +361,6 @@ APERTIUM: útil	PAR: abdominal__adj	FORMS: AQ0CP0 útils AQ0CS0 útil
 <e lm="compossible"><i>compossible</i><par n="??????????"/></e>
 <e lm="conco"><i>conco</i><par n="??????????"/></e>
 <e lm="congru"><i>congru</i><par n="??????????"/></e>
-<e lm="contraelectromotor"><i>contraelectromotor</i><par n="??????????"/></e>
 <e lm="country"><i>country</i><par n="??????????"/></e>
 <e lm="croat1"><i>croat1</i><par n="??????????"/></e>
 <e lm="croat2"><i>croat2</i><par n="??????????"/></e>
@@ -395,7 +382,6 @@ APERTIUM: útil	PAR: abdominal__adj	FORMS: AQ0CP0 útils AQ0CS0 útil
 <e lm="dècuple2"><i>dècuple2</i><par n="??????????"/></e>
 <e lm="ebri"><i>ebri</i><par n="??????????"/></e>
 <e lm="eburni"><i>eburni</i><par n="??????????"/></e>
-<e lm="electromotor"><i>electromotor</i><par n="??????????"/></e>
 <e lm="enervi"><i>enervi</i><par n="??????????"/></e>
 <e lm="epigin"><i>epigin</i><par n="??????????"/></e>
 <e lm="epineure"><i>epineure</i><par n="??????????"/></e>
@@ -455,12 +441,10 @@ APERTIUM: útil	PAR: abdominal__adj	FORMS: AQ0CP0 útils AQ0CS0 útil
 <e lm="llavigròs"><i>llavigròs</i><par n="??????????"/></e>
 <e lm="luti"><i>luti</i><par n="??????????"/></e>
 <e lm="límpid"><i>límpid</i><par n="??????????"/></e>
-<e lm="magnetomotor"><i>magnetomotor</i><par n="??????????"/></e>
 <e lm="maixard"><i>maixard</i><par n="??????????"/></e>
 <e lm="malacopterigi"><i>malacopterigi</i><par n="??????????"/></e>
 <e lm="malbò"><i>malbò</i><par n="??????????"/></e>
 <e lm="manganès"><i>manganès</i><par n="??????????"/></e>
-<e lm="mareomotor"><i>mareomotor</i><par n="??????????"/></e>
 <e lm="marès2"><i>marès2</i><par n="??????????"/></e>
 <e lm="masseter"><i>masseter</i><par n="??????????"/></e>
 <e lm="maxil·lofrontal"><i>maxil·lofrontal</i><par n="??????????"/></e>
@@ -480,13 +464,11 @@ APERTIUM: útil	PAR: abdominal__adj	FORMS: AQ0CP0 útils AQ0CS0 útil
 <e lm="múltiple1"><i>múltiple1</i><par n="??????????"/></e>
 <e lm="múltiple2"><i>múltiple2</i><par n="??????????"/></e>
 <e lm="naquis"><i>naquis</i><par n="??????????"/></e>
-<e lm="neuromotor"><i>neuromotor</i><par n="??????????"/></e>
 <e lm="nivi"><i>nivi</i><par n="??????????"/></e>
 <e lm="nònuple1"><i>nònuple1</i><par n="??????????"/></e>
 <e lm="nònuple2"><i>nònuple2</i><par n="??????????"/></e>
 <e lm="obnoxi"><i>obnoxi</i><par n="??????????"/></e>
 <e lm="octogin"><i>octogin</i><par n="??????????"/></e>
-<e lm="oculomotor"><i>oculomotor</i><par n="??????????"/></e>
 <e lm="orotx"><i>orotx</i><par n="??????????"/></e>
 <e lm="osculador"><i>osculador</i><par n="??????????"/></e>
 <e lm="otopamé"><i>otopamé</i><par n="??????????"/></e>
@@ -503,7 +485,6 @@ APERTIUM: útil	PAR: abdominal__adj	FORMS: AQ0CP0 útils AQ0CS0 útil
 <e lm="peltinervi"><i>peltinervi</i><par n="??????????"/></e>
 <e lm="penninervi"><i>penninervi</i><par n="??????????"/></e>
 <e lm="pentagin"><i>pentagin</i><par n="??????????"/></e>
-<e lm="perceptivomotor"><i>perceptivomotor</i><par n="??????????"/></e>
 <e lm="perigin"><i>perigin</i><par n="??????????"/></e>
 <e lm="perisci"><i>perisci</i><par n="??????????"/></e>
 <e lm="perlé"><i>perlé</i><par n="??????????"/></e>
@@ -530,7 +511,6 @@ APERTIUM: útil	PAR: abdominal__adj	FORMS: AQ0CP0 útils AQ0CS0 útil
 <e lm="quíntuple2"><i>quíntuple2</i><par n="??????????"/></e>
 <e lm="radimitxi"><i>radimitxi</i><par n="??????????"/></e>
 <e lm="ral"><i>ral</i><par n="??????????"/></e>
-<e lm="rapaç"><i>rapaç</i><par n="??????????"/></e>
 <e lm="rebò"><i>rebò</i><par n="??????????"/></e>
 <e lm="regròs"><i>regròs</i><par n="??????????"/></e>
 <e lm="retardador"><i>retardador</i><par n="??????????"/></e>
@@ -548,8 +528,6 @@ APERTIUM: útil	PAR: abdominal__adj	FORMS: AQ0CP0 útils AQ0CS0 útil
 <e lm="sauri"><i>sauri</i><par n="??????????"/></e>
 <e lm="semidisminuït"><i>semidisminuït</i><par n="??????????"/></e>
 <e lm="semirecte"><i>semirecte</i><par n="??????????"/></e>
-<e lm="sensomotor"><i>sensomotor</i><par n="??????????"/></e>
-<e lm="sensoriomotor"><i>sensoriomotor</i><par n="??????????"/></e>
 <e lm="serotin"><i>serotin</i><par n="??????????"/></e>
 <e lm="sicló"><i>sicló</i><par n="??????????"/></e>
 <e lm="sobrebò"><i>sobrebò</i><par n="??????????"/></e>
@@ -582,9 +560,7 @@ APERTIUM: útil	PAR: abdominal__adj	FORMS: AQ0CP0 útils AQ0CS0 útil
 <e lm="tupí3"><i>tupí3</i><par n="??????????"/></e>
 <e lm="uninervi"><i>uninervi</i><par n="??????????"/></e>
 <e lm="vacu"><i>vacu</i><par n="??????????"/></e>
-<e lm="vasomotor"><i>vasomotor</i><par n="??????????"/></e>
 <e lm="viatitxi"><i>viatitxi</i><par n="??????????"/></e>
-<e lm="visuomotor"><i>visuomotor</i><par n="??????????"/></e>
 <e lm="vèliger"><i>vèliger</i><par n="??????????"/></e>
 <e lm="zonat"><i>zonat</i><par n="??????????"/></e>
 <e lm="òctuple1"><i>òctuple1</i><par n="??????????"/></e>

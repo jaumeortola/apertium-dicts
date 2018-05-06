@@ -1,9 +1,12 @@
 <e lm="boccaccesc" a="jaumeortola">      <i>boccacces</i><par n="bas/c__adj"/></e>
 <e lm="boccaccià" a="jaumeortola">       <i>boccacci</i><par n="afric/à__adj"/></e>
 <e lm="butà" a="jaumeortola">            <i>butà</i><par n="multimèdia__adj"/></e>
+<e lm="cineticomolecular" a="jaumeortola"><i>cineticomolecular</i><par n="abdominal__adj"/></e>
 <e lm="cinquanta-huitè" a="jaumeortola"> <i>cinquanta-huit</i><par n="ali/è__adj"/></e>
+<e lm="cisexual" a="jaumeortola">        <i>cisexual</i><par n="abdominal__adj"/></e>
 <e lm="comòrbid" a="jaumeortola">        <i>comòrbid</i><par n="absolut__adj"/></e>
 <e lm="creditici" a="jaumeortola">       <i>credit</i><par n="fict/ici__adj"/></e>
+<e lm="dactilològic" a="jaumeortola">    <i>dactilològi</i><par n="acadèmi/c__adj"/></e>
 <e lm="dihuitè" a="jaumeortola">         <i>dihuit</i><par n="ali/è__adj"/></e>
 <e lm="enfaenat" a="jaumeortola">        <i>enfaena</i><par n="triparti/t__adj"/></e>
 <e lm="esquizoafectiu" a="jaumeortola">  <i>esquizoafecti</i><par n="abusi/u__adj"/></e>
@@ -15,14 +18,24 @@
 <e lm="incondicionat" a="jaumeortola">   <i>incondiciona</i><par n="triparti/t__adj"/></e>
 <e lm="junior" a="jaumeortola">          <i>junior</i><par n="absolut__adj"/></e>
 <e lm="martirològic" a="jaumeortola">    <i>martirològi</i><par n="acadèmi/c__adj"/></e>
+<e lm="misòleg" a="jaumeortola">         <i>misòl</i><par n="anàl/eg__adj"/></e>
+<e lm="neuromotor" a="jaumeortola">      <i>neuromot</i><par n="mot/or__adj"/></e>
+<e lm="oculomotor" a="jaumeortola">      <i>oculomot</i><par n="mot/or__adj"/></e>
+<e lm="perceptivomotor" a="jaumeortola"> <i>perceptivomot</i><par n="mot/or__adj"/></e>
 <e lm="petrarquesc" a="jaumeortola">     <i>petrarques</i><par n="bas/c__adj"/></e>
 <e lm="petrarquià" a="jaumeortola">      <i>petrarqui</i><par n="afric/à__adj"/></e>
+<e lm="predistributiu" a="jaumeortola">  <i>predistributi</i><par n="abusi/u__adj"/></e>
 <e lm="pseudolegal" a="jaumeortola">     <i>pseudolegal</i><par n="abdominal__adj"/></e>
 <e lm="quaranta-huitè" a="jaumeortola">  <i>quaranta-huit</i><par n="ali/è__adj"/></e>
 <e lm="san" a="jaumeortola">             <i>san</i><par n="multimèdia__adj"/></e>
 <e lm="seixanta-huitè" a="jaumeortola">  <i>seixanta-huit</i><par n="ali/è__adj"/></e>
+<e lm="sensomotor" a="jaumeortola">      <i>sensomot</i><par n="mot/or__adj"/></e>
+<e lm="sensoriomotor" a="jaumeortola">   <i>sensoriomot</i><par n="mot/or__adj"/></e>
 <e lm="setanta-huitè" a="jaumeortola">   <i>setanta-huit</i><par n="ali/è__adj"/></e>
 <e lm="socioecològic" a="jaumeortola">   <i>socioecològi</i><par n="acadèmi/c__adj"/></e>
 <e lm="trenta-huitè" a="jaumeortola">    <i>trenta-huit</i><par n="ali/è__adj"/></e>
+<e lm="u" a="jaumeortola">               <i>u</i><par n="multimèdia__adj"/></e>
+<e lm="vasomotor" a="jaumeortola">       <i>vasomot</i><par n="mot/or__adj"/></e>
 <e lm="vint-i-huitè" a="jaumeortola">    <i>vint-i-huit</i><par n="ali/è__adj"/></e>
+<e lm="visuomotor" a="jaumeortola">      <i>visuomot</i><par n="mot/or__adj"/></e>
 <e lm="íntegre" a="jaumeortola">         <i>íntegr</i><par n="adept/e__adj"/></e>

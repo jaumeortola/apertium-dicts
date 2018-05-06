@@ -208,10 +208,6 @@ APERTIUM: botifarra	PAR: abell/a__n	FORMS: NCFP000 botifarres NCFS000 botifarra
 APERTIUM: boxa	PAR: q__n	FORMS: NCFS000 boxa
    OTHER: boxa	PAR: abell/a__n	FORMS: NCFP000 boxes NCFS000 boxa
 
-APERTIUM: braille	PAR: abric__n	FORMS: NCMP000 brailles NCMS000 braille
-   OTHER: braille	PAR: BBVA__n	FORMS: NCMS000 braille
-   OTHER: braille	PAR: atletisme__n	FORMS: NCMS000 braille
-
 APERTIUM: braça	PAR: abell/a__n	FORMS: NCFP000 braçes NCFS000 braça
    OTHER: braça	PAR: adre/ça__n	FORMS: NCFP000 braces NCFS000 braça
 
@@ -536,6 +532,9 @@ APERTIUM: doble	PAR: abric__n	FORMS: NCMP000 dobles NCMS000 doble
 APERTIUM: dolor	PAR: abric__n	FORMS: NCMP000 dolors NCMS000 dolor
    OTHER: dolor	PAR: acompanyant__n	FORMS: NCCP000 dolors NCCS000 dolor
 
+APERTIUM: dormidor	PAR: abric__n	FORMS: NCMP000 dormidors NCMS000 dormidor
+   OTHER: dormidor	PAR: senyor__n	FORMS: NCFP000 dormidores NCFS000 dormidora NCMP000 dormidors NCMS000 dormidor
+
 APERTIUM: dors	PAR: abast__n	FORMS: NCMP000 dorsos NCMP000 dorss NCMS000 dors
    OTHER: dors	PAR: as__n	FORMS: NCMP000 dorsos NCMS000 dors
 
@@ -750,6 +749,9 @@ APERTIUM: granader	PAR: senyor__n	FORMS: NCFP000 granaderes NCFS000 granadera NC
 APERTIUM: grenadí	PAR: alacant/í__n	FORMS: NCFP000 grenadines NCFS000 grenadina NCMP000 grenadins NCMS000 grenadí
    OTHER: grenadí	PAR: boc/í__n	FORMS: NCMP000 grenadins NCMS000 grenadí
 
+APERTIUM: gres	PAR: atletisme__n	FORMS: NCMS000 gres
+   OTHER: gres	PAR: as__n	FORMS: NCMP000 gresos NCMS000 gres
+
 APERTIUM: grumet	PAR: abric__n	FORMS: NCMP000 grumets NCMS000 grumet
    OTHER: grumet	PAR: acompanyant__n	FORMS: NCCP000 grumets NCCS000 grumet
 
@@ -770,9 +772,6 @@ APERTIUM: herbicida	PAR: abell/a__n	FORMS: NCFP000 herbicides NCFS000 herbicida
 
 APERTIUM: heroi	PAR: hero/i__n	FORMS: NCFP000 heroïnes NCFS000 heroïna NCMP000 herois NCMS000 heroi
    OTHER: heroi	PAR: abric__n	FORMS: NCMP000 herois NCMS000 heroi
-
-APERTIUM: hertz	PAR: campus__n	FORMS: NCMN000 hertz
-   OTHER: hertz	PAR: abric__n	FORMS: NCMP000 hertzs NCMS000 hertz
 
 APERTIUM: hindi	PAR: atletisme__n	FORMS: NCMS000 hindi
    OTHER: hindi	PAR: abric__n	FORMS: NCMP000 hindis NCMS000 hindi
@@ -971,9 +970,6 @@ APERTIUM: maçó	PAR: amfitri/ó__n	FORMS: NCFP000 maçones NCFS000 maçona NCMP
 APERTIUM: mede	PAR: addict/e__n	FORMS: NCCP000 medes NCFS000 meda NCMS000 mede
    OTHER: mede	PAR: abric__n	FORMS: NCMP000 medes NCMS000 mede
 
-APERTIUM: megahertz	PAR: campus__n	FORMS: NCMN000 megahertz
-   OTHER: megahertz	PAR: abric__n	FORMS: NCMP000 megahertzs NCMS000 megahertz
-
 APERTIUM: menorquí	PAR: alacant/í__n	FORMS: NCFP000 menorquines NCFS000 menorquina NCMP000 menorquins NCMS000 menorquí
    OTHER: menorquí	PAR: boc/í__n	FORMS: NCMP000 menorquins NCMS000 menorquí
 
@@ -985,9 +981,6 @@ APERTIUM: mestís	PAR: mest/ís__n	FORMS: NCFP000 mestisses NCFS000 mestissa NCM
 
 APERTIUM: metge	PAR: alcalde__n	FORMS: NCFP000 metgesses NCFS000 metgessa NCMP000 metges NCMS000 metge
    OTHER: metge	PAR: acompanyant__n	FORMS: NCCP000 metges NCCS000 metge
-
-APERTIUM: mico	PAR: acompanyant__n	FORMS: NCCP000 micos NCCS000 mico
-   OTHER: mico	PAR: abric__n	FORMS: NCMP000 micos NCMS000 mico
 
 APERTIUM: microvellositat	PAR: abric__n	FORMS: NCMP000 microvellositats NCMS000 microvellositat
    OTHER: microvellositat	PAR: accessibilitat__n	FORMS: NCFP000 microvellositats NCFS000 microvellositat
@@ -1041,6 +1034,9 @@ APERTIUM: multimèdia	PAR: carism/a__n	FORMS: NCMP000 multimèdies NCMS000 multi
    OTHER: multimèdia	PAR: IRPF__n	FORMS: NCMN000 multimèdia
    OTHER: multimèdia	PAR: campus__n	FORMS: NCMN000 multimèdia
 
+APERTIUM: músic	PAR: asiàti/c__n	FORMS: NCFP000 músiques NCFS000 música NCMP000 músics NCMS000 músic
+   OTHER: músic	PAR: abric__n	FORMS: NCMP000 músics NCMS000 músic
+
 APERTIUM: neandertal	PAR: acompanyant__n	FORMS: NCCP000 neandertals NCCS000 neandertal
    OTHER: neandertal	PAR: abric__n	FORMS: NCMP000 neandertals NCMS000 neandertal
 
@@ -1059,6 +1055,11 @@ APERTIUM: neula	PAR: abell/a__n	FORMS: NCFP000 neules NCFS000 neula
 
 APERTIUM: nigerí	PAR: alacant/í__n	FORMS: NCFP000 nigerines NCFS000 nigerina NCMP000 nigerins NCMS000 nigerí
    OTHER: nigerí	PAR: boc/í__n	FORMS: NCMP000 nigerins NCMS000 nigerí
+
+APERTIUM: no-ficció	PAR: q__n	FORMS: NCFS000 no-ficci
+   OTHER: no-ficció	PAR: BBC__n	FORMS: NCFS000 no-ficció
+   OTHER: no-ficció	PAR: pols__n	FORMS: NCFS000 no-ficció
+   OTHER: no-ficció	PAR: q__n	FORMS: NCFS000 no-ficció
 
 APERTIUM: noruec	PAR: ami/c__n	FORMS: NCFP000 noruegues NCFS000 noruega NCMP000 noruecs NCMS000 noruec
    OTHER: noruec	PAR: abric__n	FORMS: NCMP000 noruecs NCMS000 noruec
@@ -1495,6 +1496,10 @@ APERTIUM: tàtar	PAR: senyor__n	FORMS: NCFP000 tàtares NCFS000 tàtara NCMP000 
 
 APERTIUM: tètan	PAR: atletisme__n	FORMS: NCMS000 tètan
    OTHER: tètan	PAR: abric__n	FORMS: NCMP000 tètans NCMS000 tètan
+
+APERTIUM: u	PAR: pa__n	FORMS: NCMP000 uns NCMS000 u
+   OTHER: u	PAR: ATS__n	FORMS: NCCN000 u
+   OTHER: u	PAR: guardaespatlles__n	FORMS: NCCN000 u
 
 APERTIUM: URL	PAR: BBC__n	FORMS: NCFS000 URL
    OTHER: URL	PAR: IRPF__n	FORMS: NCMN000 URL
