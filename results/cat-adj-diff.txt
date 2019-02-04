@@ -1,6 +1,70 @@
 
-APERTIUM: bengalí	PAR: alacant/í__adj	FORMS: AQ0FP0 bengalines AQ0FS0 bengalina AQ0MP0 bengalins AQ0MS0 bengalí
-   OTHER: bengalí	PAR: abdominal__adj	FORMS: AQ0CP0 bengalís AQ0CS0 bengalí
+APERTIUM: adenoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 adenoidals AQ0CP0 adenoïdals AQ0CS0 adenoidal AQ0CS0 adenoïdal AQ0MS0 adenoidalment AQ0MS0 adenoïdalment
+   OTHER: adenoidal	PAR: abdominal__adj	FORMS: AQ0CP0 adenoidals AQ0CS0 adenoidal
+
+APERTIUM: aliesfenoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 aliesfenoidals AQ0CP0 aliesfenoïdals AQ0CS0 aliesfenoidal AQ0CS0 aliesfenoïdal AQ0MS0 aliesfenoidalment AQ0MS0 aliesfenoïdalment
+   OTHER: aliesfenoidal	PAR: abdominal__adj	FORMS: AQ0CP0 aliesfenoidals AQ0CS0 aliesfenoidal
+
+APERTIUM: al·lantoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 al·lantoidals AQ0CP0 al·lantoïdals AQ0CS0 al·lantoidal AQ0CS0 al·lantoïdal AQ0MS0 al·lantoidalment AQ0MS0 al·lantoïdalment
+   OTHER: al·lantoidal	PAR: abdominal__adj	FORMS: AQ0CP0 al·lantoidals AQ0CS0 al·lantoidal
+
+APERTIUM: anestable	PAR: abdominal__adj	FORMS: AQ0CP0 astables AQ0CS0 astable
+   OTHER: anestable	PAR: abdominal__adj	FORMS: AQ0CP0 anestables AQ0CS0 anestable
+
+APERTIUM: angioespasmòdic	PAR: acadèmi/c__adj	FORMS: AQ0FP0 angiospasmòdiques AQ0FS0 angiospasmòdica AQ0MP0 angiospasmòdics AQ0MS0 angiospasmòdic
+   OTHER: angioespasmòdic	PAR: acadèmi/c__adj	FORMS: AQ0FP0 angioespasmòdiques AQ0FS0 angioespasmòdica AQ0MP0 angioespasmòdics AQ0MS0 angioespasmòdic
+   OTHER: angioespasmòdic	PAR: po/c__adj	FORMS: AQ0FP0 angioespasmòdiques AQ0FS0 angioespasmòdica AQ0MP0 angioespasmòdics AQ0MS0 angioespasmòdic
+
+APERTIUM: antidopatge	PAR: multimèdia__adj	FORMS: AQ0CN0 antidòping
+   OTHER: antidopatge	PAR: multimèdia__adj	FORMS: AQ0CN0 antidopatge
+
+APERTIUM: antihemorroidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 antihemorroidals AQ0CP0 antihemorroïdals AQ0CS0 antihemorroidal AQ0CS0 antihemorroïdal AQ0MS0 antihemorroidalment AQ0MS0 antihemorroïdalment
+   OTHER: antihemorroidal	PAR: abdominal__adj	FORMS: AQ0CP0 antihemorroidals AQ0CS0 antihemorroidal
+
+APERTIUM: antiàcid	PAR: multimèdia__adj	FORMS: AQ0CN0 antiàcid
+   OTHER: antiàcid	PAR: absolut__adj	FORMS: AQ0FP0 antiàcides AQ0FS0 antiàcida AQ0MP0 antiàcids AQ0MS0 antiàcid
+   OTHER: antiàcid	PAR: poquet__adj	FORMS: AQ0FP0 antiàcides AQ0FS0 antiàcida AQ0MP0 antiàcids AQ0MS0 antiàcid
+   OTHER: antiàcid	PAR: quant__adj	FORMS: AQ0FP0 antiàcides AQ0FS0 antiàcida AQ0MP0 antiàcids AQ0MS0 antiàcid
+   OTHER: antiàcid	PAR: segon__adj	FORMS: AQ0FP0 antiàcides AQ0FS0 antiàcida AQ0MP0 antiàcids AQ0MS0 antiàcid
+   OTHER: antiàcid	PAR: superlatiu__adj	FORMS: AQ0FP0 antiàcides AQ0FS0 antiàcida AQ0MP0 antiàcids AQ0MS0 antiàcid
+
+APERTIUM: aracnoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 aracnoidals AQ0CP0 aracnoïdals AQ0CS0 aracnoidal AQ0CS0 aracnoïdal AQ0MS0 aracnoidalment AQ0MS0 aracnoïdalment
+   OTHER: aracnoidal	PAR: abdominal__adj	FORMS: AQ0CP0 aracnoidals AQ0CS0 aracnoidal
+
+APERTIUM: aritenoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 aritenoidals AQ0CP0 aritenoïdals AQ0CS0 aritenoidal AQ0CS0 aritenoïdal AQ0MS0 aritenoidalment AQ0MS0 aritenoïdalment
+   OTHER: aritenoidal	PAR: abdominal__adj	FORMS: AQ0CP0 aritenoidals AQ0CS0 aritenoidal
+
+APERTIUM: arrauxat	PAR: afortuna/t__adj	FORMS: AQ0FP0 arrauxades AQ0FP0 arrauxadíssimes AQ0FS0 arrauxada AQ0FS0 arrauxadíssima AQ0MP0 arrauxadíssims AQ0MP0 arrauxats AQ0MS0 arrauxadíssim AQ0MS0 arrauxat
+   OTHER: arrauxat	PAR: triparti/t__adj	FORMS: AQ0FP0 arrauxades AQ0FS0 arrauxada AQ0MP0 arrauxats AQ0MS0 arrauxat
+
+APERTIUM: arrizotònic	PAR: acadèmi/c__adj	FORMS: AQ0FP0 arizotòniques AQ0FS0 arizotònica AQ0MP0 arizotònics AQ0MS0 arizotònic
+   OTHER: arrizotònic	PAR: acadèmi/c__adj	FORMS: AQ0FP0 arrizotòniques AQ0FS0 arrizotònica AQ0MP0 arrizotònics AQ0MS0 arrizotònic
+   OTHER: arrizotònic	PAR: po/c__adj	FORMS: AQ0FP0 arrizotòniques AQ0FS0 arrizotònica AQ0MP0 arrizotònics AQ0MS0 arrizotònic
+
+APERTIUM: arrítmic	PAR: acadèmi/c__adj	FORMS: AQ0FP0 arítmiques AQ0FS0 arítmica AQ0MP0 arítmics AQ0MS0 arítmic
+   OTHER: arrítmic	PAR: acadèmi/c__adj	FORMS: AQ0FP0 arrítmiques AQ0FS0 arrítmica AQ0MP0 arrítmics AQ0MS0 arrítmic
+   OTHER: arrítmic	PAR: po/c__adj	FORMS: AQ0FP0 arrítmiques AQ0FS0 arrítmica AQ0MP0 arrítmics AQ0MS0 arrítmic
+
+APERTIUM: arterioescleròtic	PAR: acadèmi/c__adj	FORMS: AQ0FP0 arterioscleròtiques AQ0FS0 arterioscleròtica AQ0MP0 arterioscleròtics AQ0MS0 arterioscleròtic
+   OTHER: arterioescleròtic	PAR: acadèmi/c__adj	FORMS: AQ0FP0 arterioescleròtiques AQ0FS0 arterioescleròtica AQ0MP0 arterioescleròtics AQ0MS0 arterioescleròtic
+   OTHER: arterioescleròtic	PAR: po/c__adj	FORMS: AQ0FP0 arterioescleròtiques AQ0FS0 arterioescleròtica AQ0MP0 arterioescleròtics AQ0MS0 arterioescleròtic
+
+APERTIUM: asteroidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 asteroidals AQ0CP0 asteroïdals AQ0CS0 asteroidal AQ0CS0 asteroïdal AQ0MS0 asteroidalment AQ0MS0 asteroïdalment
+   OTHER: asteroidal	PAR: abdominal__adj	FORMS: AQ0CP0 asteroidals AQ0CS0 asteroidal
+
+APERTIUM: bantú	PAR: abdominal__adj	FORMS: AQ0CP0 bantus AQ0CS0 bantu
+   OTHER: bantú	PAR: abdominal__adj	FORMS: AQ0CP0 bantús AQ0CS0 bantú
+
+APERTIUM: bimotor	PAR: mot/or__adj	FORMS: AQ0FP0 bimotores AQ0FP0 bimotrius AQ0FS0 bimotora AQ0FS0 bimotriu AQ0MP0 bimotors AQ0MS0 bimotor
+   OTHER: bimotor	PAR: absolut__adj	FORMS: AQ0FP0 bimotores AQ0FS0 bimotora AQ0MP0 bimotors AQ0MS0 bimotor
+   OTHER: bimotor	PAR: poquet__adj	FORMS: AQ0FP0 bimotores AQ0FS0 bimotora AQ0MP0 bimotors AQ0MS0 bimotor
+   OTHER: bimotor	PAR: quant__adj	FORMS: AQ0FP0 bimotores AQ0FS0 bimotora AQ0MP0 bimotors AQ0MS0 bimotor
+   OTHER: bimotor	PAR: segon__adj	FORMS: AQ0FP0 bimotores AQ0FS0 bimotora AQ0MP0 bimotors AQ0MS0 bimotor
+   OTHER: bimotor	PAR: superlatiu__adj	FORMS: AQ0FP0 bimotores AQ0FS0 bimotora AQ0MP0 bimotors AQ0MS0 bimotor
+
+APERTIUM: bioestratigràfic	PAR: acadèmi/c__adj	FORMS: AQ0FP0 biostratigràfiques AQ0FS0 biostratigràfica AQ0MP0 biostratigràfics AQ0MS0 biostratigràfic
+   OTHER: bioestratigràfic	PAR: acadèmi/c__adj	FORMS: AQ0FP0 bioestratigràfiques AQ0FS0 bioestratigràfica AQ0MP0 bioestratigràfics AQ0MS0 bioestratigràfic
+   OTHER: bioestratigràfic	PAR: po/c__adj	FORMS: AQ0FP0 bioestratigràfiques AQ0FS0 bioestratigràfica AQ0MP0 bioestratigràfics AQ0MS0 bioestratigràfic
 
 APERTIUM: blaugrana	PAR: agrícol/a__adj	FORMS: AQ0CP0 blaugranes AQ0CS0 blaugrana
    OTHER: blaugrana	PAR: multimèdia__adj	FORMS: AQ0CN0 blaugrana
@@ -8,43 +72,252 @@ APERTIUM: blaugrana	PAR: agrícol/a__adj	FORMS: AQ0CP0 blaugranes AQ0CS0 blaugra
 APERTIUM: caqui	PAR: abdominal__adj	FORMS: AQ0CP0 caquis AQ0CS0 caqui
    OTHER: caqui	PAR: multimèdia__adj	FORMS: AQ0CN0 caqui
 
+APERTIUM: cardioidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 cardioidals AQ0CP0 cardioïdals AQ0CS0 cardioidal AQ0CS0 cardioïdal AQ0MS0 cardioidalment AQ0MS0 cardioïdalment
+   OTHER: cardioidal	PAR: abdominal__adj	FORMS: AQ0CP0 cardioidals AQ0CS0 cardioidal
+
+APERTIUM: cefalorraquidi	PAR: cefaloraqu/idi__adj	FORMS: AQ0FP0 cefaloraquídies AQ0FS0 cefaloraquídia AQ0MP0 cefaloraquidis AQ0MS0 cefaloraquidi
+   OTHER: cefalorraquidi	PAR: cefaloraqu/idi__adj	FORMS: AQ0FP0 cefalorraquídies AQ0FS0 cefalorraquídia AQ0MP0 cefalorraquidis AQ0MS0 cefalorraquidi
+
+APERTIUM: celtiber	PAR: absolut__adj	FORMS: AQ0FP0 celtíberes AQ0FS0 celtíbera AQ0MP0 celtíbers AQ0MS0 celtíber
+   OTHER: celtiber	PAR: absolut__adj	FORMS: AQ0FP0 celtiberes AQ0FS0 celtibera AQ0MP0 celtibers AQ0MS0 celtiber
+   OTHER: celtiber	PAR: poquet__adj	FORMS: AQ0FP0 celtiberes AQ0FS0 celtibera AQ0MP0 celtibers AQ0MS0 celtiber
+   OTHER: celtiber	PAR: quant__adj	FORMS: AQ0FP0 celtiberes AQ0FS0 celtibera AQ0MP0 celtibers AQ0MS0 celtiber
+   OTHER: celtiber	PAR: segon__adj	FORMS: AQ0FP0 celtiberes AQ0FS0 celtibera AQ0MP0 celtibers AQ0MS0 celtiber
+   OTHER: celtiber	PAR: superlatiu__adj	FORMS: AQ0FP0 celtiberes AQ0FS0 celtibera AQ0MP0 celtibers AQ0MS0 celtiber
+
+APERTIUM: cicloidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 cicloidals AQ0CP0 cicloïdals AQ0CS0 cicloidal AQ0CS0 cicloïdal AQ0MS0 cicloidalment AQ0MS0 cicloïdalment
+   OTHER: cicloidal	PAR: abdominal__adj	FORMS: AQ0CP0 cicloidals AQ0CS0 cicloidal
+
 APERTIUM: cinquanta-vuitè	PAR: /vuitè__adj	FORMS: AQ0FP0 cinquanta-huitenes AQ0FP0 cinquanta-vuitenes AQ0FS0 cinquanta-huitena AQ0FS0 cinquanta-vuitena AQ0MP0 cinquanta-huitens AQ0MP0 cinquanta-vuitens AQ0MS0 cinquanta-huitè AQ0MS0 cinquanta-huité AQ0MS0 cinquanta-vuitè
    OTHER: cinquanta-vuitè	PAR: ali/è__adj	FORMS: AQ0FP0 cinquanta-vuitenes AQ0FS0 cinquanta-vuitena AQ0MP0 cinquanta-vuitens AQ0MS0 cinquanta-vuitè AQ0MS0 cinquanta-vuité
    OTHER: cinquanta-vuitè	PAR: cinqu/è__adj	FORMS: AQ0FP0 cinquanta-vuitenes AQ0FS0 cinquanta-vuitena AQ0MP0 cinquanta-vuitens AQ0MS0 cinquanta-vuitè AQ0MS0 cinquanta-vuité
 
+APERTIUM: circumspecte	PAR: abstract/e__adj	FORMS: AQ0CP0 circumspectes AQ0FP0 circumspectíssimes AQ0FS0 circumspecta AQ0FS0 circumspectíssima AQ0MP0 circumspectíssims AQ0MS0 circumspecte AQ0MS0 circumspectíssim
+   OTHER: circumspecte	PAR: adept/e__adj	FORMS: AQ0CP0 circumspectes AQ0FS0 circumspecta AQ0MS0 circumspecte
+   OTHER: circumspecte	PAR: altr/e__adj	FORMS: AQ0CP0 circumspectes AQ0FS0 circumspecta AQ0MS0 circumspecte
+   OTHER: circumspecte	PAR: nostr/e__adj	FORMS: AQ0CP0 circumspectes AQ0FS0 circumspecta AQ0MS0 circumspecte
+
+APERTIUM: cissoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 cissoidals AQ0CP0 cissoïdals AQ0CS0 cissoidal AQ0CS0 cissoïdal AQ0MS0 cissoidalment AQ0MS0 cissoïdalment
+   OTHER: cissoidal	PAR: abdominal__adj	FORMS: AQ0CP0 cissoidals AQ0CS0 cissoidal
+
 APERTIUM: clau	PAR: abdominal__adj	FORMS: AQ0CP0 claus AQ0CS0 clau
    OTHER: clau	PAR: multimèdia__adj	FORMS: AQ0CN0 clau
+
+APERTIUM: coccoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 coccoidals AQ0CP0 coccoïdals AQ0CS0 coccoidal AQ0CS0 coccoïdal AQ0MS0 coccoidalment AQ0MS0 coccoïdalment
+   OTHER: coccoidal	PAR: abdominal__adj	FORMS: AQ0CP0 coccoidals AQ0CS0 coccoidal
+
+APERTIUM: col·loidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 col·loidals AQ0CP0 col·loïdals AQ0CS0 col·loidal AQ0CS0 col·loïdal AQ0MS0 col·loidalment AQ0MS0 col·loïdalment
+   OTHER: col·loidal	PAR: abdominal__adj	FORMS: AQ0CP0 col·loidals AQ0CS0 col·loidal
+
+APERTIUM: concoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 concoidals AQ0CP0 concoïdals AQ0CS0 concoidal AQ0CS0 concoïdal AQ0MS0 concoidalment AQ0MS0 concoïdalment
+   OTHER: concoidal	PAR: abdominal__adj	FORMS: AQ0CP0 concoidals AQ0CS0 concoidal
+
+APERTIUM: conoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 conoidals AQ0CP0 conoïdals AQ0CS0 conoidal AQ0CS0 conoïdal AQ0MS0 conoidalment AQ0MS0 conoïdalment
+   OTHER: conoidal	PAR: abdominal__adj	FORMS: AQ0CP0 conoidals AQ0CS0 conoidal
+
+APERTIUM: coracoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 coracoidals AQ0CP0 coracoïdals AQ0CS0 coracoidal AQ0CS0 coracoïdal AQ0MS0 coracoidalment AQ0MS0 coracoïdalment
+   OTHER: coracoidal	PAR: abdominal__adj	FORMS: AQ0CP0 coracoidals AQ0CS0 coracoidal
+
+APERTIUM: coroidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 coroidals AQ0CP0 coroïdals AQ0CS0 coroidal AQ0CS0 coroïdal AQ0MS0 coroidalment AQ0MS0 coroïdalment
+   OTHER: coroidal	PAR: abdominal__adj	FORMS: AQ0CP0 coroidals AQ0CS0 coroidal
+
+APERTIUM: correferent	PAR: abdominal__adj	FORMS: AQ0CP0 coreferents AQ0CS0 coreferent
+   OTHER: correferent	PAR: abdominal__adj	FORMS: AQ0CP0 correferents AQ0CS0 correferent
+
+APERTIUM: corregnant	PAR: abdominal__adj	FORMS: AQ0CP0 coregnants AQ0CS0 coregnant
+   OTHER: corregnant	PAR: abdominal__adj	FORMS: AQ0CP0 corregnants AQ0CS0 corregnant
+
+APERTIUM: correligionari	PAR: adjudicat/ari__adj	FORMS: AQ0FP0 coreligionàries AQ0FS0 coreligionària AQ0MP0 coreligionaris AQ0MS0 coreligionari
+   OTHER: correligionari	PAR: adjudicat/ari__adj	FORMS: AQ0FP0 correligionàries AQ0FS0 correligionària AQ0MP0 correligionaris AQ0MS0 correligionari
+
+APERTIUM: corresponsable	PAR: abdominal__adj	FORMS: AQ0CP0 coresponsables AQ0CS0 coresponsable
+   OTHER: corresponsable	PAR: abdominal__adj	FORMS: AQ0CP0 corresponsables AQ0CS0 corresponsable
+
+APERTIUM: cotiloidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 cotiloidals AQ0CP0 cotiloïdals AQ0CS0 cotiloidal AQ0CS0 cotiloïdal AQ0MS0 cotiloidalment AQ0MS0 cotiloïdalment
+   OTHER: cotiloidal	PAR: abdominal__adj	FORMS: AQ0CP0 cotiloidals AQ0CS0 cotiloidal
+
+APERTIUM: cronoestratigràfic	PAR: acadèmi/c__adj	FORMS: AQ0FP0 cronostratigràfiques AQ0FS0 cronostratigràfica AQ0MP0 cronostratigràfics AQ0MS0 cronostratigràfic
+   OTHER: cronoestratigràfic	PAR: acadèmi/c__adj	FORMS: AQ0FP0 cronoestratigràfiques AQ0FS0 cronoestratigràfica AQ0MP0 cronoestratigràfics AQ0MS0 cronoestratigràfic
+   OTHER: cronoestratigràfic	PAR: po/c__adj	FORMS: AQ0FP0 cronoestratigràfiques AQ0FS0 cronoestratigràfica AQ0MP0 cronoestratigràfics AQ0MS0 cronoestratigràfic
+
+APERTIUM: cuboidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 cuboidals AQ0CP0 cuboïdals AQ0CS0 cuboidal AQ0CS0 cuboïdal AQ0MS0 cuboidalment AQ0MS0 cuboïdalment
+   OTHER: cuboidal	PAR: abdominal__adj	FORMS: AQ0CP0 cuboidals AQ0CS0 cuboidal
+
+APERTIUM: deltoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 deltoidals AQ0CP0 deltoïdals AQ0CS0 deltoidal AQ0CS0 deltoïdal AQ0MS0 deltoidalment AQ0MS0 deltoïdalment
+   OTHER: deltoidal	PAR: abdominal__adj	FORMS: AQ0CP0 deltoidals AQ0CS0 deltoidal
+
+APERTIUM: discoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 discoidals AQ0CP0 discoïdals AQ0CS0 discoidal AQ0CS0 discoïdal AQ0MS0 discoidalment AQ0MS0 discoïdalment
+   OTHER: discoidal	PAR: abdominal__adj	FORMS: AQ0CP0 discoidals AQ0CS0 discoidal
+
+APERTIUM: disfenoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 disfenoidals AQ0CP0 disfenoïdals AQ0CS0 disfenoidal AQ0CS0 disfenoïdal AQ0MS0 disfenoidalment AQ0MS0 disfenoïdalment
+   OTHER: disfenoidal	PAR: abdominal__adj	FORMS: AQ0CP0 disfenoidals AQ0CS0 disfenoidal
 
 APERTIUM: divuitè	PAR: /vuitè__adj	FORMS: AQ0FP0 dihuitenes AQ0FP0 divuitenes AQ0FS0 dihuitena AQ0FS0 divuitena AQ0MP0 dihuitens AQ0MP0 divuitens AQ0MS0 dihuitè AQ0MS0 dihuité AQ0MS0 divuitè
    OTHER: divuitè	PAR: ali/è__adj	FORMS: AQ0FP0 divuitenes AQ0FS0 divuitena AQ0MP0 divuitens AQ0MS0 divuitè AQ0MS0 divuité
    OTHER: divuitè	PAR: cinqu/è__adj	FORMS: AQ0FP0 divuitenes AQ0FS0 divuitena AQ0MP0 divuitens AQ0MS0 divuitè AQ0MS0 divuité
 
+APERTIUM: electroestàtic	PAR: acadèmi/c__adj	FORMS: AQ0FP0 electrostàtiques AQ0FS0 electrostàtica AQ0MP0 electrostàtics AQ0MS0 electrostàtic
+   OTHER: electroestàtic	PAR: acadèmi/c__adj	FORMS: AQ0FP0 electroestàtiques AQ0FS0 electroestàtica AQ0MP0 electroestàtics AQ0MS0 electroestàtic
+   OTHER: electroestàtic	PAR: po/c__adj	FORMS: AQ0FP0 electroestàtiques AQ0FS0 electroestàtica AQ0MP0 electroestàtics AQ0MS0 electroestàtic
+
+APERTIUM: el·lipsoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 el·lipsoidals AQ0CP0 el·lipsoïdals AQ0CS0 el·lipsoidal AQ0CS0 el·lipsoïdal AQ0MS0 el·lipsoidalment AQ0MS0 el·lipsoïdalment
+   OTHER: el·lipsoidal	PAR: abdominal__adj	FORMS: AQ0CP0 el·lipsoidals AQ0CS0 el·lipsoidal
+
+APERTIUM: epicicloidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 epicicloidals AQ0CP0 epicicloïdals AQ0CS0 epicicloidal AQ0CS0 epicicloïdal AQ0MS0 epicicloidalment AQ0MS0 epicicloïdalment
+   OTHER: epicicloidal	PAR: abdominal__adj	FORMS: AQ0CP0 epicicloidals AQ0CS0 epicicloidal
+
+APERTIUM: escafoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 escafoidals AQ0CP0 escafoïdals AQ0CS0 escafoidal AQ0CS0 escafoïdal AQ0MS0 escafoidalment AQ0MS0 escafoïdalment
+   OTHER: escafoidal	PAR: abdominal__adj	FORMS: AQ0CP0 escafoidals AQ0CS0 escafoidal
+
 APERTIUM: escarlata	PAR: agrícol/a__adj	FORMS: AQ0CP0 escarlates AQ0CS0 escarlata
    OTHER: escarlata	PAR: multimèdia__adj	FORMS: AQ0CN0 escarlata
+
+APERTIUM: esfenoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 esfenoidals AQ0CP0 esfenoïdals AQ0CS0 esfenoidal AQ0CS0 esfenoïdal AQ0MS0 esfenoidalment AQ0MS0 esfenoïdalment
+   OTHER: esfenoidal	PAR: abdominal__adj	FORMS: AQ0CP0 esfenoidals AQ0CS0 esfenoidal
+
+APERTIUM: esferoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 esferoidals AQ0CP0 esferoïdals AQ0CS0 esferoidal AQ0CS0 esferoïdal AQ0MS0 esferoidalment AQ0MS0 esferoïdalment
+   OTHER: esferoidal	PAR: abdominal__adj	FORMS: AQ0CP0 esferoidals AQ0CS0 esferoidal
+
+APERTIUM: espiroidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 espiroidals AQ0CP0 espiroïdals AQ0CS0 espiroidal AQ0CS0 espiroïdal AQ0MS0 espiroidalment AQ0MS0 espiroïdalment
+   OTHER: espiroidal	PAR: abdominal__adj	FORMS: AQ0CP0 espiroidals AQ0CS0 espiroidal
+
+APERTIUM: esternoclidomastoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 esternoclidomastoidals AQ0CP0 esternoclidomastoïdals AQ0CS0 esternoclidomastoidal AQ0CS0 esternoclidomastoïdal AQ0MS0 esternoclidomastoidalment AQ0MS0 esternoclidomastoïdalment
+   OTHER: esternoclidomastoidal	PAR: abdominal__adj	FORMS: AQ0CP0 esternoclidomastoidals AQ0CS0 esternoclidomastoidal
+
+APERTIUM: esteroidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 esteroidals AQ0CP0 esteroïdals AQ0CS0 esteroidal AQ0CS0 esteroïdal AQ0MS0 esteroidalment AQ0MS0 esteroïdalment
+   OTHER: esteroidal	PAR: abdominal__adj	FORMS: AQ0CP0 esteroidals AQ0CS0 esteroidal
+
+APERTIUM: etmoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 etmoidals AQ0CP0 etmoïdals AQ0CS0 etmoidal AQ0CS0 etmoïdal AQ0MS0 etmoidalment AQ0MS0 etmoïdalment
+   OTHER: etmoidal	PAR: abdominal__adj	FORMS: AQ0CP0 etmoidals AQ0CS0 etmoidal
+
+APERTIUM: exitós	PAR: afectu/ós__adj	FORMS: AQ0FP0 exitoses AQ0FP0 exitosíssimes AQ0FS0 exitosa AQ0FS0 exitosíssima AQ0MP0 exitosos AQ0MP0 exitosíssims AQ0MS0 exitosíssim AQ0MS0 exitós
+   OTHER: exitós	PAR: aliment/ós__adj	FORMS: AQ0FP0 exitoses AQ0FS0 exitosa AQ0MP0 exitosos AQ0MS0 exitós
 
 APERTIUM: extra	PAR: multimèdia__adj	FORMS: AQ0CN0 extra
    OTHER: extra	PAR: agrícol/a__adj	FORMS: AQ0CP0 extres AQ0CS0 extra
 
+APERTIUM: extravertit	PAR: triparti/t__adj	FORMS: AQ0FP0 extrovertides AQ0FS0 extrovertida AQ0MP0 extrovertits AQ0MS0 extrovertit
+   OTHER: extravertit	PAR: triparti/t__adj	FORMS: AQ0FP0 extravertides AQ0FS0 extravertida AQ0MP0 extravertits AQ0MS0 extravertit
+
+APERTIUM: feldespatoídic	PAR: acadèmi/c__adj	FORMS: AQ0FP0 feldspatoídiques AQ0FS0 feldspatoídica AQ0MP0 feldspatoídics AQ0MS0 feldspatoídic
+   OTHER: feldespatoídic	PAR: acadèmi/c__adj	FORMS: AQ0FP0 feldespatoídiques AQ0FS0 feldespatoídica AQ0MP0 feldespatoídics AQ0MS0 feldespatoídic
+   OTHER: feldespatoídic	PAR: po/c__adj	FORMS: AQ0FP0 feldespatoídiques AQ0FS0 feldespatoídica AQ0MP0 feldespatoídics AQ0MS0 feldespatoídic
+
+APERTIUM: feldespàtic	PAR: acadèmi/c__adj	FORMS: AQ0FP0 feldspàtiques AQ0FS0 feldspàtica AQ0MP0 feldspàtics AQ0MS0 feldspàtic
+   OTHER: feldespàtic	PAR: acadèmi/c__adj	FORMS: AQ0FP0 feldespàtiques AQ0FS0 feldespàtica AQ0MP0 feldespàtics AQ0MS0 feldespàtic
+   OTHER: feldespàtic	PAR: po/c__adj	FORMS: AQ0FP0 feldespàtiques AQ0FS0 feldespàtica AQ0MP0 feldespàtics AQ0MS0 feldespàtic
+
+APERTIUM: fluidal	PAR: abdominal__adj	FORMS: AQ0CP0 fluïdals AQ0CS0 fluïdal
+   OTHER: fluidal	PAR: abdominal__adj	FORMS: AQ0CP0 fluidals AQ0CS0 fluidal
+
+APERTIUM: framboidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 framboidals AQ0CP0 framboïdals AQ0CS0 framboidal AQ0CS0 framboïdal AQ0MS0 framboidalment AQ0MS0 framboïdalment
+   OTHER: framboidal	PAR: abdominal__adj	FORMS: AQ0CP0 framboidals AQ0CS0 framboidal
+
+APERTIUM: gallinaci	PAR: herb/aci__adj	FORMS: AQ0FP0 gal·linàcies AQ0FS0 gal·linàcia AQ0MP0 gal·linacis AQ0MS0 gal·linaci
+   OTHER: gallinaci	PAR: herb/aci__adj	FORMS: AQ0FP0 gallinàcies AQ0FS0 gallinàcia AQ0MP0 gallinacis AQ0MS0 gallinaci
+
+APERTIUM: geoestacionari	PAR: adjudicat/ari__adj	FORMS: AQ0FP0 geostacionàries AQ0FS0 geostacionària AQ0MP0 geostacionaris AQ0MS0 geostacionari
+   OTHER: geoestacionari	PAR: adjudicat/ari__adj	FORMS: AQ0FP0 geoestacionàries AQ0FS0 geoestacionària AQ0MP0 geoestacionaris AQ0MS0 geoestacionari
+
+APERTIUM: glenoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 glenoidals AQ0CP0 glenoïdals AQ0CS0 glenoidal AQ0CS0 glenoïdal AQ0MS0 glenoidalment AQ0MS0 glenoïdalment
+   OTHER: glenoidal	PAR: abdominal__adj	FORMS: AQ0CP0 glenoidals AQ0CS0 glenoidal
+
 APERTIUM: granat	PAR: triparti/t__adj	FORMS: AQ0FP0 granades AQ0FS0 granada AQ0MP0 granats AQ0MS0 granat
    OTHER: granat	PAR: multimèdia__adj	FORMS: AQ0CN0 granat
+
+APERTIUM: helicoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 helicoidals AQ0CP0 helicoïdals AQ0CS0 helicoidal AQ0CS0 helicoïdal AQ0MS0 helicoidalment AQ0MS0 helicoïdalment
+   OTHER: helicoidal	PAR: abdominal__adj	FORMS: AQ0CP0 helicoidals AQ0CS0 helicoidal
+
+APERTIUM: hemiesferoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 hemiesferoidals AQ0CP0 hemiesferoïdals AQ0CS0 hemiesferoidal AQ0CS0 hemiesferoïdal AQ0MS0 hemiesferoidalment AQ0MS0 hemiesferoïdalment
+   OTHER: hemiesferoidal	PAR: abdominal__adj	FORMS: AQ0CP0 hemiesferoidals AQ0CS0 hemiesferoidal
+
+APERTIUM: hemorroidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 hemorroidals AQ0CP0 hemorroïdals AQ0CS0 hemorroidal AQ0CS0 hemorroïdal AQ0MS0 hemorroidalment AQ0MS0 hemorroïdalment
+   OTHER: hemorroidal	PAR: abdominal__adj	FORMS: AQ0CP0 hemorroidals AQ0CS0 hemorroidal
+
+APERTIUM: hidroestàtic	PAR: acadèmi/c__adj	FORMS: AQ0FP0 hidrostàtiques AQ0FS0 hidrostàtica AQ0MP0 hidrostàtics AQ0MS0 hidrostàtic
+   OTHER: hidroestàtic	PAR: acadèmi/c__adj	FORMS: AQ0FP0 hidroestàtiques AQ0FS0 hidroestàtica AQ0MP0 hidroestàtics AQ0MS0 hidroestàtic
+   OTHER: hidroestàtic	PAR: po/c__adj	FORMS: AQ0FP0 hidroestàtiques AQ0FS0 hidroestàtica AQ0MP0 hidroestàtics AQ0MS0 hidroestàtic
+
+APERTIUM: hioidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 hioidals AQ0CP0 hioïdals AQ0CS0 hioidal AQ0CS0 hioïdal AQ0MS0 hioidalment AQ0MS0 hioïdalment
+   OTHER: hioidal	PAR: abdominal__adj	FORMS: AQ0CP0 hioidals AQ0CS0 hioidal
+
+APERTIUM: hiperboloidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 hiperboloidals AQ0CP0 hiperboloïdals AQ0CS0 hiperboloidal AQ0CS0 hiperboloïdal AQ0MS0 hiperboloidalment AQ0MS0 hiperboloïdalment
+   OTHER: hiperboloidal	PAR: abdominal__adj	FORMS: AQ0CP0 hiperboloidals AQ0CS0 hiperboloidal
+
+APERTIUM: hipertiroidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 hipertiroidals AQ0CP0 hipertiroïdals AQ0CS0 hipertiroidal AQ0CS0 hipertiroïdal AQ0MS0 hipertiroidalment AQ0MS0 hipertiroïdalment
+   OTHER: hipertiroidal	PAR: abdominal__adj	FORMS: AQ0CP0 hipertiroidals AQ0CS0 hipertiroidal
+
+APERTIUM: hipotiroidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 hipotiroidals AQ0CP0 hipotiroïdals AQ0CS0 hipotiroidal AQ0CS0 hipotiroïdal AQ0MS0 hipotiroidalment AQ0MS0 hipotiroïdalment
+   OTHER: hipotiroidal	PAR: abdominal__adj	FORMS: AQ0CP0 hipotiroidals AQ0CS0 hipotiroidal
+
+APERTIUM: hitita	PAR: agrícol/a__adj	FORMS: AQ0CP0 hittites AQ0CS0 hittita
+   OTHER: hitita	PAR: agrícol/a__adj	FORMS: AQ0CP0 hitites AQ0CS0 hitita
 
 APERTIUM: indie	PAR: abdominal__adj	FORMS: AQ0CP0 indies AQ0CS0 indie
    OTHER: indie	PAR: multimèdia__adj	FORMS: AQ0CN0 indie
 
+APERTIUM: infrahioidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 infrahioidals AQ0CP0 infrahioïdals AQ0CS0 infrahioidal AQ0CS0 infrahioïdal AQ0MS0 infrahioidalment AQ0MS0 infrahioïdalment
+   OTHER: infrahioidal	PAR: abdominal__adj	FORMS: AQ0CP0 infrahioidals AQ0CS0 infrahioidal
+
+APERTIUM: intraaracnoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 intraaracnoidals AQ0CP0 intraaracnoïdals AQ0CS0 intraaracnoidal AQ0CS0 intraaracnoïdal AQ0MS0 intraaracnoidalment AQ0MS0 intraaracnoïdalment
+   OTHER: intraaracnoidal	PAR: abdominal__adj	FORMS: AQ0CP0 intraaracnoidals AQ0CS0 intraaracnoidal
+
+APERTIUM: laical	PAR: abdominal__adj	FORMS: AQ0CP0 laïcals AQ0CS0 laïcal
+   OTHER: laical	PAR: abdominal__adj	FORMS: AQ0CP0 laicals AQ0CS0 laical
+
+APERTIUM: lambdoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 lambdoidals AQ0CP0 lambdoïdals AQ0CS0 lambdoidal AQ0CS0 lambdoïdal AQ0MS0 lambdoidalment AQ0MS0 lambdoïdalment
+   OTHER: lambdoidal	PAR: abdominal__adj	FORMS: AQ0CP0 lambdoidals AQ0CS0 lambdoidal
+
 APERTIUM: lila	PAR: agrícol/a__adj	FORMS: AQ0CP0 liles AQ0CS0 lila
    OTHER: lila	PAR: multimèdia__adj	FORMS: AQ0CN0 lila
+
+APERTIUM: lipoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 lipoidals AQ0CP0 lipoïdals AQ0CS0 lipoidal AQ0CS0 lipoïdal AQ0MS0 lipoidalment AQ0MS0 lipoïdalment
+   OTHER: lipoidal	PAR: abdominal__adj	FORMS: AQ0CP0 lipoidals AQ0CS0 lipoidal
 
 APERTIUM: lluent	PAR: lluent__adj	FORMS: AQ0CP0 lluents AQ0CS0 lluent AQ0FP0 lluentes AQ0FP0 lluentíssimes AQ0FS0 lluenta AQ0FS0 lluentíssima AQ0MP0 lluents AQ0MP0 lluentíssims AQ0MS0 lluent AQ0MS0 lluentíssim
    OTHER: lluent	PAR: important__adj	FORMS: AQ0CP0 lluents AQ0CS0 lluent AQ0FP0 lluentíssimes AQ0FS0 lluentíssima AQ0MP0 lluentíssims AQ0MS0 lluentíssim
 
+APERTIUM: lubrificant	PAR: abdominal__adj	FORMS: AQ0CP0 lubricants AQ0CS0 lubricant
+   OTHER: lubrificant	PAR: abdominal__adj	FORMS: AQ0CP0 lubrificants AQ0CS0 lubrificant
+
+APERTIUM: magnetoestàtic	PAR: acadèmi/c__adj	FORMS: AQ0FP0 magnetostàtiques AQ0FS0 magnetostàtica AQ0MP0 magnetostàtics AQ0MS0 magnetostàtic
+   OTHER: magnetoestàtic	PAR: acadèmi/c__adj	FORMS: AQ0FP0 magnetoestàtiques AQ0FS0 magnetoestàtica AQ0MP0 magnetoestàtics AQ0MS0 magnetoestàtic
+   OTHER: magnetoestàtic	PAR: po/c__adj	FORMS: AQ0FP0 magnetoestàtiques AQ0FS0 magnetoestàtica AQ0MP0 magnetoestàtics AQ0MS0 magnetoestàtic
+
 APERTIUM: malva	PAR: agrícol/a__adj	FORMS: AQ0CP0 malves AQ0CS0 malva
    OTHER: malva	PAR: multimèdia__adj	FORMS: AQ0CN0 malva
+
+APERTIUM: mastoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 mastoidals AQ0CP0 mastoïdals AQ0CS0 mastoidal AQ0CS0 mastoïdal AQ0MS0 mastoidalment AQ0MS0 mastoïdalment
+   OTHER: mastoidal	PAR: abdominal__adj	FORMS: AQ0CP0 mastoidals AQ0CS0 mastoidal
 
 APERTIUM: mateix	PAR: annex__adj	FORMS: AQ0FP0 mateixes AQ0FS0 mateixa AQ0MP0 mateixos AQ0MS0 mateix
    OTHER: mateix	PAR: complex__adj	FORMS: AQ0FP0 mateixes AQ0FP0 mateixíssimes AQ0FS0 mateixa AQ0FS0 mateixíssima AQ0MP0 mateixos AQ0MP0 mateixíssims AQ0MS0 mateix AQ0MS0 mateixíssim
 
+APERTIUM: metaestable	PAR: abdominal__adj	FORMS: AQ0CP0 metastables AQ0CS0 metastable
+   OTHER: metaestable	PAR: abdominal__adj	FORMS: AQ0CP0 metaestables AQ0CS0 metaestable
+
+APERTIUM: micorrizogen	PAR: ex/ogen__adj	FORMS: AQ0FP0 micorizògenes AQ0FS0 micorizògena AQ0MP0 micorizògens AQ0MS0 micorizogen
+   OTHER: micorrizogen	PAR: ex/ogen__adj	FORMS: AQ0FP0 micorrizògenes AQ0FS0 micorrizògena AQ0MP0 micorrizògens AQ0MS0 micorrizogen
+
+APERTIUM: micorrízic	PAR: acadèmi/c__adj	FORMS: AQ0FP0 micoríziques AQ0FS0 micorízica AQ0MP0 micorízics AQ0MS0 micorízic
+   OTHER: micorrízic	PAR: acadèmi/c__adj	FORMS: AQ0FP0 micorríziques AQ0FS0 micorrízica AQ0MP0 micorrízics AQ0MS0 micorrízic
+   OTHER: micorrízic	PAR: po/c__adj	FORMS: AQ0FP0 micorríziques AQ0FS0 micorrízica AQ0MP0 micorrízics AQ0MS0 micorrízic
+
+APERTIUM: monoestable	PAR: abdominal__adj	FORMS: AQ0CP0 monostables AQ0CS0 monostable
+   OTHER: monoestable	PAR: abdominal__adj	FORMS: AQ0CP0 monoestables AQ0CS0 monoestable
+
+APERTIUM: monomaníac	PAR: acadèmi/c__adj	FORMS: AQ0FP0 monomaniàtiques AQ0FS0 monomaniàtica AQ0MP0 monomaniàtics AQ0MS0 monomaniàtic
+   OTHER: monomaníac	PAR: acadèmi/c__adj	FORMS: AQ0FP0 monomaníaques AQ0FS0 monomaníaca AQ0MP0 monomaníacs AQ0MS0 monomaníac
+   OTHER: monomaníac	PAR: po/c__adj	FORMS: AQ0FP0 monomaníaques AQ0FS0 monomaníaca AQ0MP0 monomaníacs AQ0MS0 monomaníac
+
+APERTIUM: multisecular	PAR: abdominal__adj	FORMS: AQ0CP0 pluriseculars AQ0CS0 plurisecular
+   OTHER: multisecular	PAR: abdominal__adj	FORMS: AQ0CP0 multiseculars AQ0CS0 multisecular
+
 APERTIUM: multiús	PAR: multi/ús__adj	FORMS: AQ0CP0 multiusos AQ0CS0 multiús
    OTHER: multiús	PAR: multimèdia__adj	FORMS: AQ0CN0 multiús
+
+APERTIUM: neohitita	PAR: agrícol/a__adj	FORMS: AQ0CP0 neohittites AQ0CS0 neohittita
+   OTHER: neohitita	PAR: agrícol/a__adj	FORMS: AQ0CP0 neohitites AQ0CS0 neohitita
 
 APERTIUM: noranta-vuitè	PAR: /vuitè__adj	FORMS: AQ0FP0 noranta-huitenes AQ0FP0 noranta-vuitenes AQ0FS0 noranta-huitena AQ0FS0 noranta-vuitena AQ0MP0 noranta-huitens AQ0MP0 noranta-vuitens AQ0MS0 noranta-huitè AQ0MS0 noranta-huité AQ0MS0 noranta-vuitè
    OTHER: noranta-vuitè	PAR: ali/è__adj	FORMS: AQ0FP0 noranta-vuitenes AQ0FS0 noranta-vuitena AQ0MP0 noranta-vuitens AQ0MS0 noranta-vuitè AQ0MS0 noranta-vuité
@@ -52,6 +325,27 @@ APERTIUM: noranta-vuitè	PAR: /vuitè__adj	FORMS: AQ0FP0 noranta-huitenes AQ0FP0
 
 APERTIUM: nou	PAR: abusi/u__adj	FORMS: AQ0FP0 noves AQ0FS0 nova AQ0MP0 nous AQ0MS0 nou
    OTHER: nou	PAR: to/u__adj	FORMS: AQ0FP0 noves AQ0FP0 novíssimes AQ0FS0 nova AQ0FS0 novíssima AQ0MP0 nous AQ0MP0 novíssims AQ0MS0 nou AQ0MS0 novíssim
+
+APERTIUM: orwel·lià	PAR: afric/à__adj	FORMS: AQ0FP0 orwellianes AQ0FS0 orwelliana AQ0MP0 orwellians AQ0MS0 orwellià
+   OTHER: orwel·lià	PAR: afric/à__adj	FORMS: AQ0FP0 orwel·lianes AQ0FS0 orwel·liana AQ0MP0 orwel·lians AQ0MS0 orwel·lià
+
+APERTIUM: ovoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 ovoidals AQ0CP0 ovoïdals AQ0CS0 ovoidal AQ0CS0 ovoïdal AQ0MS0 ovoidalment AQ0MS0 ovoïdalment
+   OTHER: ovoidal	PAR: abdominal__adj	FORMS: AQ0CP0 ovoidals AQ0CS0 ovoidal
+
+APERTIUM: paraboloidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 paraboloidals AQ0CP0 paraboloïdals AQ0CS0 paraboloidal AQ0CS0 paraboloïdal AQ0MS0 paraboloidalment AQ0MS0 paraboloïdalment
+   OTHER: paraboloidal	PAR: abdominal__adj	FORMS: AQ0CP0 paraboloidals AQ0CS0 paraboloidal
+
+APERTIUM: paratiroidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 paratiroidals AQ0CP0 paratiroïdals AQ0CS0 paratiroidal AQ0CS0 paratiroïdal AQ0MS0 paratiroidalment AQ0MS0 paratiroïdalment
+   OTHER: paratiroidal	PAR: abdominal__adj	FORMS: AQ0CP0 paratiroidals AQ0CS0 paratiroidal
+
+APERTIUM: pesant	PAR: important__adj	FORMS: AQ0CP0 pesants AQ0CS0 pesant AQ0FP0 pesantíssimes AQ0FS0 pesantíssima AQ0MP0 pesantíssims AQ0MS0 pesantíssim
+   OTHER: pesant	PAR: abdominal__adj	FORMS: AQ0CP0 pesants AQ0CS0 pesant
+
+APERTIUM: pinacoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 pinacoidals AQ0CP0 pinacoïdals AQ0CS0 pinacoidal AQ0CS0 pinacoïdal AQ0MS0 pinacoidalment AQ0MS0 pinacoïdalment
+   OTHER: pinacoidal	PAR: abdominal__adj	FORMS: AQ0CP0 pinacoidals AQ0CS0 pinacoidal
+
+APERTIUM: poloidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 poloidals AQ0CP0 poloïdals AQ0CS0 poloidal AQ0CS0 poloïdal AQ0MS0 poloidalment AQ0MS0 poloïdalment
+   OTHER: poloidal	PAR: abdominal__adj	FORMS: AQ0CP0 poloidals AQ0CS0 poloidal
 
 APERTIUM: porno	PAR: multimèdia__adj	FORMS: AQ0CN0 porno
    OTHER: porno	PAR: abdominal__adj	FORMS: AQ0CP0 pornos AQ0CS0 porno
@@ -62,6 +356,18 @@ APERTIUM: privatitzat	PAR: afortuna/t__adj	FORMS: AQ0FP0 privatitzades AQ0FP0 pr
 APERTIUM: quaranta-vuitè	PAR: /vuitè__adj	FORMS: AQ0FP0 quaranta-huitenes AQ0FP0 quaranta-vuitenes AQ0FS0 quaranta-huitena AQ0FS0 quaranta-vuitena AQ0MP0 quaranta-huitens AQ0MP0 quaranta-vuitens AQ0MS0 quaranta-huitè AQ0MS0 quaranta-huité AQ0MS0 quaranta-vuitè
    OTHER: quaranta-vuitè	PAR: ali/è__adj	FORMS: AQ0FP0 quaranta-vuitenes AQ0FS0 quaranta-vuitena AQ0MP0 quaranta-vuitens AQ0MS0 quaranta-vuitè AQ0MS0 quaranta-vuité
    OTHER: quaranta-vuitè	PAR: cinqu/è__adj	FORMS: AQ0FP0 quaranta-vuitenes AQ0FS0 quaranta-vuitena AQ0MP0 quaranta-vuitens AQ0MS0 quaranta-vuitè AQ0MS0 quaranta-vuité
+
+APERTIUM: queloidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 queloidals AQ0CP0 queloïdals AQ0CS0 queloidal AQ0CS0 queloïdal AQ0MS0 queloidalment AQ0MS0 queloïdalment
+   OTHER: queloidal	PAR: abdominal__adj	FORMS: AQ0CP0 queloidals AQ0CS0 queloidal
+
+APERTIUM: reial	PAR: important__adj	FORMS: AQ0CP0 reials AQ0CS0 reial AQ0FP0 reialíssimes AQ0FS0 reialíssima AQ0MP0 reialíssims AQ0MS0 reialíssim
+   OTHER: reial	PAR: abdominal__adj	FORMS: AQ0CP0 reials AQ0CS0 reial
+
+APERTIUM: rizoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 rizoidals AQ0CP0 rizoïdals AQ0CS0 rizoidal AQ0CS0 rizoïdal AQ0MS0 rizoidalment AQ0MS0 rizoïdalment
+   OTHER: rizoidal	PAR: abdominal__adj	FORMS: AQ0CP0 rizoidals AQ0CS0 rizoidal
+
+APERTIUM: romboidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 romboidals AQ0CP0 romboïdals AQ0CS0 romboidal AQ0CS0 romboïdal AQ0MS0 romboidalment AQ0MS0 romboïdalment
+   OTHER: romboidal	PAR: abdominal__adj	FORMS: AQ0CP0 romboidals AQ0CS0 romboidal
 
 APERTIUM: rosa	PAR: agrícol/a__adj	FORMS: AQ0CP0 roses AQ0CS0 rosa
    OTHER: rosa	PAR: multimèdia__adj	FORMS: AQ0CN0 rosa
@@ -74,12 +380,51 @@ APERTIUM: setanta-vuitè	PAR: /vuitè__adj	FORMS: AQ0FP0 setanta-huitenes AQ0FP0
    OTHER: setanta-vuitè	PAR: ali/è__adj	FORMS: AQ0FP0 setanta-vuitenes AQ0FS0 setanta-vuitena AQ0MP0 setanta-vuitens AQ0MS0 setanta-vuitè AQ0MS0 setanta-vuité
    OTHER: setanta-vuitè	PAR: cinqu/è__adj	FORMS: AQ0FP0 setanta-vuitenes AQ0FS0 setanta-vuitena AQ0MP0 setanta-vuitens AQ0MS0 setanta-vuitè AQ0MS0 setanta-vuité
 
+APERTIUM: sigmoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 sigmoidals AQ0CP0 sigmoïdals AQ0CS0 sigmoidal AQ0CS0 sigmoïdal AQ0MS0 sigmoidalment AQ0MS0 sigmoïdalment
+   OTHER: sigmoidal	PAR: abdominal__adj	FORMS: AQ0CP0 sigmoidals AQ0CS0 sigmoidal
+
+APERTIUM: signant	PAR: abdominal__adj	FORMS: AQ0CP0 firmants AQ0CS0 firmant
+   OTHER: signant	PAR: abdominal__adj	FORMS: AQ0CP0 signants AQ0CS0 signant
+
+APERTIUM: sinusoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 sinusoidals AQ0CP0 sinusoïdals AQ0CS0 sinusoidal AQ0CS0 sinusoïdal AQ0MS0 sinusoidalment AQ0MS0 sinusoïdalment
+   OTHER: sinusoidal	PAR: abdominal__adj	FORMS: AQ0CP0 sinusoidals AQ0CS0 sinusoidal
+
+APERTIUM: solenoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 solenoidals AQ0CP0 solenoïdals AQ0CS0 solenoidal AQ0CS0 solenoïdal AQ0MS0 solenoidalment AQ0MS0 solenoïdalment
+   OTHER: solenoidal	PAR: abdominal__adj	FORMS: AQ0CP0 solenoidals AQ0CS0 solenoidal
+
+APERTIUM: subaracnoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 subaracnoidals AQ0CP0 subaracnoïdals AQ0CS0 subaracnoidal AQ0CS0 subaracnoïdal AQ0MS0 subaracnoidalment AQ0MS0 subaracnoïdalment
+   OTHER: subaracnoidal	PAR: abdominal__adj	FORMS: AQ0CP0 subaracnoidals AQ0CS0 subaracnoidal
+
 APERTIUM: taronja	PAR: taron/ja__adj	FORMS: AQ0CP0 taronges AQ0CS0 taronja
    OTHER: taronja	PAR: multimèdia__adj	FORMS: AQ0CN0 taronja
+
+APERTIUM: temporoesfenoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 temporoesfenoidals AQ0CP0 temporoesfenoïdals AQ0CS0 temporoesfenoidal AQ0CS0 temporoesfenoïdal AQ0MS0 temporoesfenoidalment AQ0MS0 temporoesfenoïdalment
+   OTHER: temporoesfenoidal	PAR: abdominal__adj	FORMS: AQ0CP0 temporoesfenoidals AQ0CS0 temporoesfenoidal
+
+APERTIUM: termoestable	PAR: abdominal__adj	FORMS: AQ0CP0 termostables AQ0CS0 termostable
+   OTHER: termoestable	PAR: abdominal__adj	FORMS: AQ0CP0 termoestables AQ0CS0 termoestable
+
+APERTIUM: tetartoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 tetartoidals AQ0CP0 tetartoïdals AQ0CS0 tetartoidal AQ0CS0 tetartoïdal AQ0MS0 tetartoidalment AQ0MS0 tetartoïdalment
+   OTHER: tetartoidal	PAR: abdominal__adj	FORMS: AQ0CP0 tetartoidals AQ0CS0 tetartoidal
+
+APERTIUM: tifoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 tifoidals AQ0CP0 tifoïdals AQ0CS0 tifoidal AQ0CS0 tifoïdal AQ0MS0 tifoidalment AQ0MS0 tifoïdalment
+   OTHER: tifoidal	PAR: abdominal__adj	FORMS: AQ0CP0 tifoidals AQ0CS0 tifoidal
+
+APERTIUM: tiroidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 tiroidals AQ0CP0 tiroïdals AQ0CS0 tiroidal AQ0CS0 tiroïdal AQ0MS0 tiroidalment AQ0MS0 tiroïdalment
+   OTHER: tiroidal	PAR: abdominal__adj	FORMS: AQ0CP0 tiroidals AQ0CS0 tiroidal
+
+APERTIUM: toroidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 toroidals AQ0CP0 toroïdals AQ0CS0 toroidal AQ0CS0 toroïdal AQ0MS0 toroidalment AQ0MS0 toroïdalment
+   OTHER: toroidal	PAR: abdominal__adj	FORMS: AQ0CP0 toroidals AQ0CS0 toroidal
+
+APERTIUM: trapezoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 trapezoidals AQ0CP0 trapezoïdals AQ0CS0 trapezoidal AQ0CS0 trapezoïdal AQ0MS0 trapezoidalment AQ0MS0 trapezoïdalment
+   OTHER: trapezoidal	PAR: abdominal__adj	FORMS: AQ0CP0 trapezoidals AQ0CS0 trapezoidal
 
 APERTIUM: trenta-vuitè	PAR: /vuitè__adj	FORMS: AQ0FP0 trenta-huitenes AQ0FP0 trenta-vuitenes AQ0FS0 trenta-huitena AQ0FS0 trenta-vuitena AQ0MP0 trenta-huitens AQ0MP0 trenta-vuitens AQ0MS0 trenta-huitè AQ0MS0 trenta-huité AQ0MS0 trenta-vuitè
    OTHER: trenta-vuitè	PAR: ali/è__adj	FORMS: AQ0FP0 trenta-vuitenes AQ0FS0 trenta-vuitena AQ0MP0 trenta-vuitens AQ0MS0 trenta-vuitè AQ0MS0 trenta-vuité
    OTHER: trenta-vuitè	PAR: cinqu/è__adj	FORMS: AQ0FP0 trenta-vuitenes AQ0FS0 trenta-vuitena AQ0MP0 trenta-vuitens AQ0MS0 trenta-vuitè AQ0MS0 trenta-vuité
+
+APERTIUM: trocoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 trocoidals AQ0CP0 trocoïdals AQ0CS0 trocoidal AQ0CS0 trocoïdal AQ0MS0 trocoidalment AQ0MS0 trocoïdalment
+   OTHER: trocoidal	PAR: abdominal__adj	FORMS: AQ0CP0 trocoidals AQ0CS0 trocoidal
 
 APERTIUM: vint-i-vuitè	PAR: /vuitè__adj	FORMS: AQ0FP0 vint-i-huitenes AQ0FP0 vint-i-vuitenes AQ0FS0 vint-i-huitena AQ0FS0 vint-i-vuitena AQ0MP0 vint-i-huitens AQ0MP0 vint-i-vuitens AQ0MS0 vint-i-huitè AQ0MS0 vint-i-huité AQ0MS0 vint-i-vuitè
    OTHER: vint-i-vuitè	PAR: ali/è__adj	FORMS: AQ0FP0 vint-i-vuitenes AQ0FS0 vint-i-vuitena AQ0MP0 vint-i-vuitens AQ0MS0 vint-i-vuitè AQ0MS0 vint-i-vuité
@@ -95,6 +440,18 @@ APERTIUM: vuitanta-vuitè	PAR: /vuitè__adj	FORMS: AQ0FP0 vuitanta-huitenes AQ0F
 APERTIUM: vuitè	PAR: /vuitè__adj	FORMS: AQ0FP0 huitenes AQ0FP0 vuitenes AQ0FS0 huitena AQ0FS0 vuitena AQ0MP0 huitens AQ0MP0 vuitens AQ0MS0 huitè AQ0MS0 huité AQ0MS0 vuitè
    OTHER: vuitè	PAR: ali/è__adj	FORMS: AQ0FP0 vuitenes AQ0FS0 vuitena AQ0MP0 vuitens AQ0MS0 vuitè AQ0MS0 vuité
    OTHER: vuitè	PAR: cinqu/è__adj	FORMS: AQ0FP0 vuitenes AQ0FS0 vuitena AQ0MP0 vuitens AQ0MS0 vuitè AQ0MS0 vuité
+
+APERTIUM: wahhabita	PAR: agrícol/a__adj	FORMS: AQ0CP0 wahabites AQ0CS0 wahabita
+   OTHER: wahhabita	PAR: agrícol/a__adj	FORMS: AQ0CP0 wahhabites AQ0CS0 wahhabita
+
+APERTIUM: xifoidal	PAR: sinuso/idal__adj	FORMS: AQ0CP0 xifoidals AQ0CP0 xifoïdals AQ0CS0 xifoidal AQ0CS0 xifoïdal AQ0MS0 xifoidalment AQ0MS0 xifoïdalment
+   OTHER: xifoidal	PAR: abdominal__adj	FORMS: AQ0CP0 xifoidals AQ0CS0 xifoidal
+
+APERTIUM: xintoista	PAR: agrícol/a__adj	FORMS: AQ0CP0 sintoistes AQ0CS0 sintoista
+   OTHER: xintoista	PAR: agrícol/a__adj	FORMS: AQ0CP0 xintoistes AQ0CS0 xintoista
+
+APERTIUM: zulú	PAR: abdominal__adj	FORMS: AQ0CP0 zulus AQ0CS0 zulu
+   OTHER: zulú	PAR: abdominal__adj	FORMS: AQ0CP0 zulús AQ0CS0 zulú
 
 APERTIUM: accelerador	PAR: absolut__adj	FORMS: AQ0FP0 acceleradores AQ0FS0 acceleradora AQ0MP0 acceleradors AQ0MS0 accelerador
    OTHER: accelerador	PAR: ??????????????	FORMS: AQ0FP0 acceleradores AQ0FP0 acceleratrius AQ0FS0 acceleradora AQ0FS0 acceleratriu AQ0MP0 acceleradors AQ0MS0 accelerador
@@ -116,6 +473,9 @@ APERTIUM: amè	PAR: ali/è__adj	FORMS: AQ0FP0 amenes AQ0FS0 amena AQ0MP0 amens A
 
 APERTIUM: apreciable	PAR: abdominal__adj	FORMS: AQ0CP0 apreciables AQ0CS0 apreciable
    OTHER: apreciable	PAR: ??????????????	FORMS: AQ0CP0 apreciables AQ0CS0 apreciable AQ0FP0 apreciabilíssimes AQ0FS0 apreciabilíssima AQ0MP0 apreciabilíssims AQ0MS0 apreciabilíssim
+
+APERTIUM: biplaça	PAR: multimèdia__adj	FORMS: AQ0CN0 biplaça
+   OTHER: biplaça	PAR: ??????????????	FORMS: AQ0CP0 biplaces AQ0CS0 biplaça
 
 APERTIUM: bixest	PAR: mixt__adj	FORMS: AQ0FP0 bixestes AQ0FS0 bixesta AQ0MP0 bixestos AQ0MP0 bixests AQ0MS0 bixest
    OTHER: bixest	PAR: ??????????????	FORMS: AQ0MP0 bixestos AQ0MP0 bixests AQ0MS0 bixest
@@ -195,6 +555,9 @@ APERTIUM: jove	PAR: j/ove__adj	FORMS: AQ0CP0 joves AQ0CP0 jóvens AQ0CS0 jove
 APERTIUM: lamentable	PAR: abdominal__adj	FORMS: AQ0CP0 lamentables AQ0CS0 lamentable
    OTHER: lamentable	PAR: ??????????????	FORMS: AQ0CP0 lamentables AQ0CS0 lamentable AQ0FP0 lamentabilíssimes AQ0FS0 lamentabilíssima AQ0MP0 lamentabilíssims AQ0MS0 lamentabilíssim
 
+APERTIUM: laudable	PAR: abdominal__adj	FORMS: AQ0CP0 laudables AQ0CS0 laudable
+   OTHER: laudable	PAR: ??????????????	FORMS: AQ0CP0 laudables AQ0CS0 laudable AQ0FP0 laudabilíssimes AQ0FS0 laudabilíssima AQ0MP0 laudabilíssims AQ0MS0 laudabilíssim
+
 APERTIUM: llarg	PAR: amarg__adj	FORMS: AQ0FP0 llargues AQ0FS0 llarga AQ0MP0 llargs AQ0MS0 llarg
    OTHER: llarg	PAR: ??????????????	FORMS: AQ0FP0 llargues AQ0FP0 llarguíssimes AQ0FS0 llarga AQ0FS0 llarguíssima AQ0MP0 llargs AQ0MP0 llarguíssims AQ0MS0 llarg AQ0MS0 llarguíssim
 
@@ -216,13 +579,16 @@ APERTIUM: meritori	PAR: access/ori__adj	FORMS: AQ0FP0 meritòries AQ0FS0 meritò
 APERTIUM: mig	PAR: mi/g__adj	FORMS: AQ0FP0 mitges AQ0FS0 mitja AQ0MP0 mitjos AQ0MS0 mig
    OTHER: mig	PAR: ??????????????	FORMS: AQ0FP0 mitges AQ0FS0 mitja AQ0MP0 migs AQ0MP0 mitjos AQ0MS0 mig
 
+APERTIUM: monoplaça	PAR: multimèdia__adj	FORMS: AQ0CN0 monoplaça
+   OTHER: monoplaça	PAR: ??????????????	FORMS: AQ0CP0 monoplaces AQ0CS0 monoplaça
+
 APERTIUM: mínim	PAR: absolut__adj	FORMS: AQ0FP0 mínimes AQ0FS0 mínima AQ0MP0 mínims AQ0MS0 mínim
    OTHER: mínim	PAR: ??????????????	FORMS: AQ0FP0 minimíssimes AQ0FP0 mínimes AQ0FS0 minimíssima AQ0FS0 mínima AQ0MP0 minimíssims AQ0MP0 mínims AQ0MS0 minimíssim AQ0MS0 mínim
 
 APERTIUM: noble	PAR: abdominal__adj	FORMS: AQ0CP0 nobles AQ0CS0 noble
    OTHER: noble	PAR: ??????????????	FORMS: AQ0CP0 nobles AQ0CS0 noble AQ0FP0 nobilíssimes AQ0FS0 nobilíssima AQ0MP0 nobilíssims AQ0MS0 nobilíssim
 
-APERTIUM: notable	PAR: abdominal__adj	FORMS: AQ0CP0 notables AQ0CS0 notable
+APERTIUM: notable	PAR: abdominal__adj	FORMS: AQ0CP0 notabilíssims AQ0CS0 notabilíssim
    OTHER: notable	PAR: ??????????????	FORMS: AQ0CP0 notables AQ0CS0 notable AQ0FP0 notabilíssimes AQ0FS0 notabilíssima AQ0MP0 notabilíssims AQ0MS0 notabilíssim
 
 APERTIUM: nucleic	PAR: acadèmi/c__adj	FORMS: AQ0FP0 nucleiques AQ0FS0 nucleica AQ0MP0 nucleics AQ0MS0 nucleic
@@ -251,6 +617,9 @@ APERTIUM: qualsevol	PAR: quals/evol__adj	FORMS: AQ0CP0 qualssevol AQ0CP0 qualsse
 
 APERTIUM: respectable	PAR: abdominal__adj	FORMS: AQ0CP0 respectables AQ0CS0 respectable
    OTHER: respectable	PAR: ??????????????	FORMS: AQ0CP0 respectables AQ0CS0 respectable AQ0FP0 respectabilíssimes AQ0FS0 respectabilíssima AQ0MP0 respectabilíssims AQ0MS0 respectabilíssim
+
+APERTIUM: retardador	PAR: absolut__adj	FORMS: AQ0FP0 retardadores AQ0FS0 retardadora AQ0MP0 retardadors AQ0MS0 retardador
+   OTHER: retardador	PAR: ??????????????	FORMS: AQ0FP0 retardadores AQ0FP0 retardatrius AQ0FS0 retardadora AQ0FS0 retardatriu AQ0MP0 retardadors AQ0MS0 retardador
 
 APERTIUM: roí	PAR: ro/í__adj	FORMS: AQ0FP0 roïnes AQ0FS0 roïna AQ0MP0 roïns AQ0MS0 roí AQ0MS0 roín
    OTHER: roí	PAR: ??????????????	FORMS: AQ0FP0 roïnes AQ0FP0 roïníssimes AQ0FS0 roïna AQ0FS0 roïníssima AQ0MP0 roïns AQ0MP0 roïníssims AQ0MS0 roí AQ0MS0 roïníssim
@@ -342,14 +711,12 @@ APERTIUM: útil	PAR: abdominal__adj	FORMS: AQ0CP0 útils AQ0CS0 útil
 <e lm="bihari"><i>bihari</i><par n="??????????"/></e>
 <e lm="binomen"><i>binomen</i><par n="??????????"/></e>
 <e lm="binomi"><i>binomi</i><par n="??????????"/></e>
-<e lm="biplaça"><i>biplaça</i><par n="??????????"/></e>
 <e lm="braquianticlinal"><i>braquianticlinal</i><par n="??????????"/></e>
 <e lm="braquisinclinal"><i>braquisinclinal</i><par n="??????????"/></e>
 <e lm="bruti"><i>bruti</i><par n="??????????"/></e>
 <e lm="candi"><i>candi</i><par n="??????????"/></e>
 <e lm="carni"><i>carni</i><par n="??????????"/></e>
 <e lm="carpanell"><i>carpanell</i><par n="??????????"/></e>
-<e lm="caspi"><i>caspi</i><par n="??????????"/></e>
 <e lm="cego"><i>cego</i><par n="??????????"/></e>
 <e lm="coent"><i>coent</i><par n="??????????"/></e>
 <e lm="compossible"><i>compossible</i><par n="??????????"/></e>
@@ -359,7 +726,6 @@ APERTIUM: útil	PAR: abdominal__adj	FORMS: AQ0CP0 útils AQ0CS0 útil
 <e lm="croat1"><i>croat1</i><par n="??????????"/></e>
 <e lm="croat2"><i>croat2</i><par n="??????????"/></e>
 <e lm="cuguçós"><i>cuguçós</i><par n="??????????"/></e>
-<e lm="custodi"><i>custodi</i><par n="??????????"/></e>
 <e lm="cèntuple1"><i>cèntuple1</i><par n="??????????"/></e>
 <e lm="cèntuple2"><i>cèntuple2</i><par n="??????????"/></e>
 <e lm="deli"><i>deli</i><par n="??????????"/></e>
@@ -387,7 +753,6 @@ APERTIUM: útil	PAR: abdominal__adj	FORMS: AQ0CP0 útils AQ0CS0 útil
 <e lm="eucariont"><i>eucariont</i><par n="??????????"/></e>
 <e lm="eunucoide"><i>eunucoide</i><par n="??????????"/></e>
 <e lm="extremal"><i>extremal</i><par n="??????????"/></e>
-<e lm="fatu"><i>fatu</i><par n="??????????"/></e>
 <e lm="fejocista"><i>fejocista</i><par n="??????????"/></e>
 <e lm="filibranqui"><i>filibranqui</i><par n="??????????"/></e>
 <e lm="fisoide"><i>fisoide</i><par n="??????????"/></e>
@@ -430,7 +795,6 @@ APERTIUM: útil	PAR: abdominal__adj	FORMS: AQ0CP0 útils AQ0CS0 útil
 <e lm="mono2"><i>mono2</i><par n="??????????"/></e>
 <e lm="monoaminèrgic"><i>monoaminèrgic</i><par n="??????????"/></e>
 <e lm="monomi"><i>monomi</i><par n="??????????"/></e>
-<e lm="monoplaça"><i>monoplaça</i><par n="??????????"/></e>
 <e lm="mus2"><i>mus2</i><par n="??????????"/></e>
 <e lm="musti"><i>musti</i><par n="??????????"/></e>
 <e lm="múltiple1"><i>múltiple1</i><par n="??????????"/></e>
@@ -464,7 +828,6 @@ APERTIUM: útil	PAR: abdominal__adj	FORMS: AQ0CP0 útils AQ0CS0 útil
 <e lm="pitiús"><i>pitiús</i><par n="??????????"/></e>
 <e lm="planta-roig"><i>planta-roig</i><par n="??????????"/></e>
 <e lm="pluig"><i>pluig</i><par n="??????????"/></e>
-<e lm="plumbi"><i>plumbi</i><par n="??????????"/></e>
 <e lm="poligin"><i>poligin</i><par n="??????????"/></e>
 <e lm="precipu"><i>precipu</i><par n="??????????"/></e>
 <e lm="prenys"><i>prenys</i><par n="??????????"/></e>
@@ -481,9 +844,7 @@ APERTIUM: útil	PAR: abdominal__adj	FORMS: AQ0CP0 útils AQ0CS0 útil
 <e lm="radimitxi"><i>radimitxi</i><par n="??????????"/></e>
 <e lm="ral"><i>ral</i><par n="??????????"/></e>
 <e lm="rebò"><i>rebò</i><par n="??????????"/></e>
-<e lm="retardador"><i>retardador</i><par n="??????????"/></e>
 <e lm="retrovisor"><i>retrovisor</i><par n="??????????"/></e>
-<e lm="rodi"><i>rodi</i><par n="??????????"/></e>
 <e lm="romaní2"><i>romaní2</i><par n="??????????"/></e>
 <e lm="rovellut"><i>rovellut</i><par n="??????????"/></e>
 <e lm="roín"><i>roín</i><par n="??????????"/></e>

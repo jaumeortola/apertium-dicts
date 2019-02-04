@@ -271,6 +271,9 @@ sub check_adjective {
     my $found = 0;
     for my $rule_name (sort keys %paradigm_names) {
         #print "NOM REGLA: $rule_name\n";
+        if ($rule_name =~ /^[A-Z]+__/ && $lema !~ /^[A-Z0-9]+$/) {
+            next;
+        }
         my $terminacio = $paradigm_names{$rule_name};
         if ($lema =~ /^(.*)$terminacio$/) {
             my $arrel = $1;

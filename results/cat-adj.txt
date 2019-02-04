@@ -16,8 +16,8 @@
 <e lm="anticondensació" a="jaumeortola"> <i>anticondensació</i><par n="multimèdia__adj"/></e>
 <e lm="antiglaç" a="jaumeortola">        <i>antiglaç</i><par n="multimèdia__adj"/></e>
 <e lm="antigravitacional" a="jaumeortola"><i>antigravitacional</i><par n="abdominal__adj"/></e>
+<e lm="antinapoleònic" a="jaumeortola">  <i>antinapoleòni</i><par n="acadèmi/c__adj"/></e>
 <e lm="antineocolonial" a="jaumeortola"> <i>antineocolonial</i><par n="abdominal__adj"/></e>
-<e lm="arrizotònic" a="jaumeortola">     <i>arrizotòni</i><par n="acadèmi/c__adj"/></e>
 <e lm="articulable" a="jaumeortola">     <i>articulable</i><par n="abdominal__adj"/></e>
 <e lm="becgròs" a="jaumeortola">         <i>becgr</i><par n="capgr/òs__adj"/></e>
 <e lm="bioespeleològic" a="jaumeortola"> <i>bioespeleològi</i><par n="acadèmi/c__adj"/></e>
@@ -26,9 +26,9 @@
 <e lm="boccaccià" a="jaumeortola">       <i>boccacci</i><par n="afric/à__adj"/></e>
 <e lm="butà" a="jaumeortola">            <i>butà</i><par n="multimèdia__adj"/></e>
 <e lm="caragròs" a="jaumeortola">        <i>caragr</i><par n="capgr/òs__adj"/></e>
+<e lm="cardiològic" a="jaumeortola">     <i>cardiològi</i><par n="acadèmi/c__adj"/></e>
 <e lm="carròs" a="jaumeortola">          <i>carr</i><par n="capgr/òs__adj"/></e>
 <e lm="catalano-valenciano-balear" a="jaumeortola"><i>catalano-valenciano-balear</i><par n="abdominal__adj"/></e>
-<e lm="cefalorraquidi" a="jaumeortola">  <i>cefalorraqu</i><par n="cefaloraqu/idi__adj"/></e>
 <e lm="ceruli" a="jaumeortola">          <i>cer</i><par n="herc/uli__adj"/></e>
 <e lm="cineticomolecular" a="jaumeortola"><i>cineticomolecular</i><par n="abdominal__adj"/></e>
 <e lm="cinquanta-huitè" a="jaumeortola"> <i>cinquanta-huit</i><par n="ali/è__adj"/></e>
@@ -41,17 +41,15 @@
 <e lm="confessant" a="jaumeortola">      <i>confessant</i><par n="abdominal__adj"/></e>
 <e lm="contractador" a="jaumeortola">    <i>contractador</i><par n="absolut__adj"/></e>
 <e lm="contracte" a="jaumeortola">       <i>contract</i><par n="adept/e__adj"/></e>
+<e lm="corredactor" a="jaumeortola">     <i>corredactor</i><par n="absolut__adj"/></e>
 <e lm="creditici" a="jaumeortola">       <i>credit</i><par n="fict/ici__adj"/></e>
-<e lm="culgròs" a="jaumeortola">         <i>culgr</i><par n="capgr/òs__adj"/></e>
 <e lm="dactilològic" a="jaumeortola">    <i>dactilològi</i><par n="acadèmi/c__adj"/></e>
 <e lm="desemmascarador" a="jaumeortola"> <i>desemmascarador</i><par n="absolut__adj"/></e>
 <e lm="dihuitè" a="jaumeortola">         <i>dihuit</i><par n="ali/è__adj"/></e>
 <e lm="dissecable" a="jaumeortola">      <i>dissecable</i><par n="abdominal__adj"/></e>
 <e lm="disseccionador" a="jaumeortola">  <i>disseccionador</i><par n="absolut__adj"/></e>
 <e lm="disseminador" a="jaumeortola">    <i>disseminador</i><par n="absolut__adj"/></e>
-<e lm="dissimulador" a="jaumeortola">    <i>dissimulador</i><par n="absolut__adj"/></e>
 <e lm="dissociador" a="jaumeortola">     <i>dissociador</i><par n="absolut__adj"/></e>
-<e lm="districtual" a="jaumeortola">     <i>districtual</i><par n="abdominal__adj"/></e>
 <e lm="distímic" a="jaumeortola">        <i>distími</i><par n="acadèmi/c__adj"/></e>
 <e lm="emmascarador" a="jaumeortola">    <i>emmascarador</i><par n="absolut__adj"/></e>
 <e lm="enfaenat" a="jaumeortola">        <i>enfaena</i><par n="triparti/t__adj"/></e>
@@ -62,9 +60,13 @@
 <e lm="estigi" a="jaumeortola">          <i>est</i><par n="fr/igi__adj"/></e>
 <e lm="estimatori" a="jaumeortola">      <i>estimat</i><par n="access/ori__adj"/></e>
 <e lm="euroamericà" a="jaumeortola">     <i>euroameric</i><par n="afric/à__adj"/></e>
+<e lm="extractivista" a="jaumeortola">   <i>extractivist</i><par n="agrícol/a__adj"/></e>
 <e lm="extraestatutari" a="jaumeortola"> <i>extraestatut</i><par n="adjudicat/ari__adj"/></e>
+<e lm="extrapeninsular" a="jaumeortola"> <i>extrapeninsular</i><par n="abdominal__adj"/></e>
+<e lm="factoritzable" a="jaumeortola">   <i>factoritzable</i><par n="abdominal__adj"/></e>
 <e lm="filogin" a="jaumeortola">         <i>fil</i><par n="mis/ogin__adj"/></e>
 <e lm="fissionable" a="jaumeortola">     <i>fissionable</i><par n="abdominal__adj"/></e>
+<e lm="formulador" a="jaumeortola">      <i>formulador</i><par n="absolut__adj"/></e>
 <e lm="francoafricà" a="jaumeortola">    <i>francoafric</i><par n="afric/à__adj"/></e>
 <e lm="galtagròs" a="jaumeortola">       <i>galtagr</i><par n="capgr/òs__adj"/></e>
 <e lm="germanocatalà" a="jaumeortola">   <i>germanocatal</i><par n="afric/à__adj"/></e>
@@ -83,18 +85,20 @@
 <e lm="inhomogeni" a="jaumeortola">      <i>inhomog</i><par n="heterog/eni__adj"/></e>
 <e lm="intrarraquidi" a="jaumeortola">   <i>intrarraqu</i><par n="cefaloraqu/idi__adj"/></e>
 <e lm="isogin" a="jaumeortola">          <i>is</i><par n="mis/ogin__adj"/></e>
+<e lm="isolacionista" a="jaumeortola">   <i>isolacionist</i><par n="agrícol/a__adj"/></e>
 <e lm="italosuís" a="jaumeortola">       <i>italosu</i><par n="su/ís__adj"/></e>
+<e lm="jiddisch" a="jaumeortola">        <i>jiddisch</i><par n="multimèdia__adj"/></e>
 <e lm="junior" a="jaumeortola">          <i>junior</i><par n="absolut__adj"/></e>
+<e lm="juridicoeconòmic" a="jaumeortola"><i>juridicoeconòmi</i><par n="acadèmi/c__adj"/></e>
 <e lm="leptorrí" a="jaumeortola">        <i>leptorr</i><par n="alacant/í__adj"/></e>
 <e lm="ligi" a="jaumeortola">            <i>l</i><par n="fr/igi__adj"/></e>
 <e lm="llavigròs" a="jaumeortola">       <i>llavigr</i><par n="capgr/òs__adj"/></e>
+<e lm="lubricant" a="jaumeortola">       <i>lubricant</i><par n="abdominal__adj"/></e>
 <e lm="lusoafricà" a="jaumeortola">      <i>lusoafric</i><par n="afric/à__adj"/></e>
 <e lm="malacopterigi" a="jaumeortola">   <i>malacopter</i><par n="fr/igi__adj"/></e>
 <e lm="manganès" a="jaumeortola">        <i>mangan</i><par n="antiestr/ès__adj"/></e>
 <e lm="martirològic" a="jaumeortola">    <i>martirològi</i><par n="acadèmi/c__adj"/></e>
 <e lm="mesorrí" a="jaumeortola">         <i>mesorr</i><par n="alacant/í__adj"/></e>
-<e lm="micorrizogen" a="jaumeortola">    <i>micorriz</i><par n="ex/ogen__adj"/></e>
-<e lm="micorrízic" a="jaumeortola">      <i>micorrízi</i><par n="acadèmi/c__adj"/></e>
 <e lm="miquelangelesc" a="jaumeortola">  <i>miquelangeles</i><par n="bas/c__adj"/></e>
 <e lm="misòleg" a="jaumeortola">         <i>misòl</i><par n="anàl/eg__adj"/></e>
 <e lm="molitjaire" a="jaumeortola">      <i>molitjair</i><par n="adept/e__adj"/></e>
@@ -102,6 +106,7 @@
 <e lm="nauticoesportiu" a="jaumeortola"> <i>nauticoesporti</i><par n="abusi/u__adj"/></e>
 <e lm="neuromotor" a="jaumeortola">      <i>neuromot</i><par n="mot/or__adj"/></e>
 <e lm="no-bel·ligerant" a="jaumeortola"> <i>no-bel·ligerant</i><par n="abdominal__adj"/></e>
+<e lm="noticier" a="jaumeortola">        <i>noticier</i><par n="absolut__adj"/></e>
 <e lm="octogin" a="jaumeortola">         <i>oct</i><par n="mis/ogin__adj"/></e>
 <e lm="oculomotor" a="jaumeortola">      <i>oculomot</i><par n="mot/or__adj"/></e>
 <e lm="oxirrinc" a="jaumeortola">        <i>oxirrin</i><par n="acadèmi/c__adj"/></e>
@@ -109,6 +114,7 @@
 <e lm="pesseter" a="jaumeortola">        <i>pesseter</i><par n="absolut__adj"/></e>
 <e lm="petrarquesc" a="jaumeortola">     <i>petrarques</i><par n="bas/c__adj"/></e>
 <e lm="petrarquià" a="jaumeortola">      <i>petrarqui</i><par n="afric/à__adj"/></e>
+<e lm="postcontractual" a="jaumeortola"> <i>postcontractual</i><par n="abdominal__adj"/></e>
 <e lm="precolonial" a="jaumeortola">     <i>precolonial</i><par n="abdominal__adj"/></e>
 <e lm="predistributiu" a="jaumeortola">  <i>predistributi</i><par n="abusi/u__adj"/></e>
 <e lm="primo-riverista" a="jaumeortola"> <i>primo-riverist</i><par n="agrícol/a__adj"/></e>
@@ -123,6 +129,7 @@
 <e lm="regròs" a="jaumeortola">          <i>regr</i><par n="capgr/òs__adj"/></e>
 <e lm="reinserible" a="jaumeortola">     <i>reinserible</i><par n="abdominal__adj"/></e>
 <e lm="renunciant" a="jaumeortola">      <i>renunciant</i><par n="abdominal__adj"/></e>
+<e lm="rodi" a="jaumeortola">            <i>r</i><par n="cust/odi__adj"/></e>
 <e lm="russòfob" a="jaumeortola">        <i>russòfob</i><par n="absolut__adj"/></e>
 <e lm="sacrococcigi" a="jaumeortola">    <i>sacrococc</i><par n="fr/igi__adj"/></e>
 <e lm="san" a="jaumeortola">             <i>san</i><par n="multimèdia__adj"/></e>
@@ -132,7 +139,6 @@
 <e lm="sensoriomotor" a="jaumeortola">   <i>sensoriomot</i><par n="mot/or__adj"/></e>
 <e lm="setanta-huitè" a="jaumeortola">   <i>setanta-huit</i><par n="ali/è__adj"/></e>
 <e lm="sextupolar" a="jaumeortola">      <i>sextupolar</i><par n="abdominal__adj"/></e>
-<e lm="socioecològic" a="jaumeortola">   <i>socioecològi</i><par n="acadèmi/c__adj"/></e>
 <e lm="subalvi" a="jaumeortola">         <i>sub</i><par n="est/alvi__adj"/></e>
 <e lm="superespecialitzat" a="jaumeortola"><i>superespecialitza</i><par n="triparti/t__adj"/></e>
 <e lm="suprasectorial" a="jaumeortola">  <i>suprasectorial</i><par n="abdominal__adj"/></e>
@@ -140,11 +146,13 @@
 <e lm="tecnicopedagògic" a="jaumeortola"><i>tecnicopedagògi</i><par n="acadèmi/c__adj"/></e>
 <e lm="tonyinaire" a="jaumeortola">      <i>tonyinaire</i><par n="abdominal__adj"/></e>
 <e lm="tracofrigi" a="jaumeortola">      <i>tracofr</i><par n="fr/igi__adj"/></e>
-<e lm="transregional" a="jaumeortola">   <i>transregional</i><par n="abdominal__adj"/></e>
 <e lm="travesti" a="jaumeortola">        <i>travesti</i><par n="abdominal__adj"/></e>
+<e lm="trencavidres" a="jaumeortola">    <i>trencavidres</i><par n="multimèdia__adj"/></e>
 <e lm="trenta-huitè" a="jaumeortola">    <i>trenta-huit</i><par n="ali/è__adj"/></e>
 <e lm="u" a="jaumeortola">               <i>u</i><par n="multimèdia__adj"/></e>
 <e lm="vasomotor" a="jaumeortola">       <i>vasomot</i><par n="mot/or__adj"/></e>
+<e lm="viceprimer" a="jaumeortola">      <i>viceprimer</i><par n="absolut__adj"/></e>
 <e lm="vint-i-huitè" a="jaumeortola">    <i>vint-i-huit</i><par n="ali/è__adj"/></e>
 <e lm="visuomotor" a="jaumeortola">      <i>visuomot</i><par n="mot/or__adj"/></e>
+<e lm="zulu" a="jaumeortola">            <i>zulu</i><par n="abdominal__adj"/></e>
 <e lm="íntegre" a="jaumeortola">         <i>íntegr</i><par n="adept/e__adj"/></e>
