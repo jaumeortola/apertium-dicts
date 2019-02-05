@@ -1,11 +1,11 @@
 # config.py
 FILES = {
-   'spa-dict': '/home/jaume/apertium/apertium-spa/apertium-spa.spa.dix',
-   'cat-dict': '/home/jaume/apertium/apertium-cat/apertium-cat.cat.dix',
-   'spa-cat-dict': '/home/jaume/apertium/apertium-spa-cat/apertium-spa-cat.spa-cat.dix',
+   'spa-dict': '/var/www/html/rr/apertium-script/dicts/apertium-spa.spa.dix',
+   'cat-dict': '/var/www/html/rr/apertium-script/dicts/apertium-cat.cat.dix',
+   'spa-cat-dict': '/var/www/html/rr/apertium-script/dicts/apertium-spa-cat.spa-cat.dix',
 
-   'cat-n-lt': '/home/jaume/github/apertium-dicts/results/cat-noun.txt',
-   'cat-adj-lt': '/home/jaume/github/apertium-dicts/results/cat-adj.txt',
-   'spa-n-lt': '/home/jaume/github/apertium-dicts/results/spa-noun.txt',
-   'spa-adj-lt': '/home/jaume/github/apertium-dicts/results/spa-adj.txt'
+   'cat-n-lt': '/var/www/html/rr/apertium-script/dicts/cat-noun.txt',
+   'cat-adj-lt': '/var/www/html/rr/apertium-script/dicts/cat-adj.txt',
+   'spa-n-lt': '/var/www/html/rr/apertium-script/dicts/spa-noun.txt',
+   'spa-adj-lt': '/var/www/html/rr/apertium-script/dicts/spa-adj.txt'
 }

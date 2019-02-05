@@ -1,3 +1,4 @@
+#!/usr/bin/python3 -S
 # -*- coding: utf-8 -*-
 
 import config, sys, codecs, re, unicodedata
@@ -319,7 +320,7 @@ for lang in langs:
          print (key+"\t"+value+"\n")
 '''
 
-# Imprimeix llista de paradigmes en el fitxer paradigmes.tsv
+# Imprimeix llista de paradigmes en el fitxer paradigmes.txt
 for lang in langs:
    for classe in classes: 
       paradigms_lists[lang][classe] = list(paradigms[lang][classe].keys())
@@ -328,7 +329,7 @@ maxlen = 0
 for lang in langs:
    for classe in classes:
       maxlen = max (maxlen,len(paradigms_lists[lang][classe]))
-filepara = open("paradigmes.tsv","w")
+filepara = codecs.open("paradigmes.txt","w", "utf-8")
 filepara.write(str(len(classes))+"\n")
 for lang in langs:
    for classe in classes:
@@ -353,12 +354,17 @@ for lang in langs:
 # Llegeix entrada
 #0 spa   1 spa-cat  2 cat   3 missatge 4 paradigma   5 paraula spa 6 <g>   7 classe   8 sentit   9 paraula cat 10 <g>   11 paradigma 12 cat/val
 
-fspa = codecs.open("spa.dix", "w", "utf-8")
-fcat = codecs.open("cat.dix", "w", "utf-8")
-fspacat = codecs.open("spa-cat.dix", "w", "utf-8")
+fspa = codecs.open("spa.txt", "w", "utf-8")
+fcat = codecs.open("cat.txt", "w", "utf-8")
+fspacat = codecs.open("spa-cat.txt", "w", "utf-8")
+foutput = codecs.open("output.txt", "w", "utf-8")
 
 isFirstLine = True
-for i in sys.stdin:
+
+inputFilename=sys.argv[1] 
+finput = open(inputFilename, 'r') 
+
+for i in finput:
    if isFirstLine:
       isFirstLine = False
       continue
@@ -874,4 +880,7 @@ for i in sys.stdin:
             spacenumber = 23 - len(fix_spaces(parts[5])) - len(fix_spaces(parts[7])) - len(extraspa)
             fspacat.write(u'{0}<p><l>{1}{8}<s n="{2}"/>{3}</l>{4}<r>{5}{9}<s n="{6}"/>{7}</r></p></e>\n'.format(entrada, fix_spaces(parts[5]), parts[7], extraspa, ' '*spacenumber,fix_spaces(parts[9]),parts[7],extracat,gspafb,gcatfb))
          
-   print(u"\t".join(parts))
+   foutput.write(u"\t".join(parts))
+   foutput.write(u"\n")
+
+finput.close()
