@@ -1,0 +1,18 @@
+
+APERTIUM: darrere	PAR: darrer/e__adv	FORMS: RG darrera RG darrere
+   OTHER: darrere	PAR: a_on__adv	FORMS: RG darrere
+   OTHER: darrere	PAR: ahir__adv	FORMS: RG darrere
+   OTHER: darrere	PAR: on__adv	FORMS: RG darrere
+
+APERTIUM: sacramentalment	PAR: ahir__adv	FORMS: RG sagramentalment
+   OTHER: sacramentalment	PAR: a_on__adv	FORMS: RG sacramentalment
+   OTHER: sacramentalment	PAR: ahir__adv	FORMS: RG sacramentalment
+   OTHER: sacramentalment	PAR: on__adv	FORMS: RG sacramentalment
+
+APERTIUM: allèn	PAR: ahir__adv	FORMS: RG allèn
+   OTHER: allèn	PAR: ??????????????	FORMS: RG allèn RG allén
+
+APERTIUM: viceversa	PAR: ahir__adv	FORMS: RG viceversa
+   OTHER: viceversa	PAR: ??????????????	FORMS: RG viceversa RG vv
+<e lm="aquèn"><i>aquèn</i><par n="??????????"/></e>
+<e lm="súper1"><i>súper1</i><par n="??????????"/></e>

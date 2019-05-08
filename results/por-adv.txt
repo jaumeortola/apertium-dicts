@@ -1,0 +1,622 @@
+<e lm="abinício" a="jaumeortola">        <i>abinício</i><par n="agora__adv"/></e>
+<e lm="abrutadamente" a="jaumeortola">   <i>abrutadamente</i><par n="agora__adv"/></e>
+<e lm="abstraidamente" a="jaumeortola">  <i>abstraidamente</i><par n="agora__adv"/></e>
+<e lm="acanonicamente" a="jaumeortola">  <i>acanonicamente</i><par n="agora__adv"/></e>
+<e lm="aceitavelmente" a="jaumeortola">  <i>aceitavelmente</i><par n="agora__adv"/></e>
+<e lm="acerrimamente" a="jaumeortola">   <i>acerrimamente</i><par n="agora__adv"/></e>
+<e lm="acertadissimamente" a="jaumeortola"><i>acertadissimamente</i><par n="agora__adv"/></e>
+<e lm="acessoriamente" a="jaumeortola">  <i>acessoriamente</i><par n="agora__adv"/></e>
+<e lm="aconselhavelmente" a="jaumeortola"><i>aconselhavelmente</i><par n="agora__adv"/></e>
+<e lm="acordemente" a="jaumeortola">     <i>acordemente</i><par n="agora__adv"/></e>
+<e lm="acriticamente" a="jaumeortola">   <i>acriticamente</i><par n="agora__adv"/></e>
+<e lm="activissimamente" a="jaumeortola"><i>activissimamente</i><par n="agora__adv"/></e>
+<e lm="acuradamente" a="jaumeortola">    <i>acuradamente</i><par n="agora__adv"/></e>
+<e lm="adedentro" a="jaumeortola">       <i>adedentro</i><par n="agora__adv"/></e>
+<e lm="adonde" a="jaumeortola">          <i>adonde</i><par n="agora__adv"/></e>
+<e lm="adulatoriamente" a="jaumeortola"> <i>adulatoriamente</i><par n="agora__adv"/></e>
+<e lm="adulteramente" a="jaumeortola">   <i>adulteramente</i><par n="agora__adv"/></e>
+<e lm="adventiciamente" a="jaumeortola"> <i>adventiciamente</i><par n="agora__adv"/></e>
+<e lm="afabilissimamente" a="jaumeortola"><i>afabilissimamente</i><par n="agora__adv"/></e>
+<e lm="afanosamente" a="jaumeortola">    <i>afanosamente</i><par n="agora__adv"/></e>
+<e lm="afeadamente" a="jaumeortola">     <i>afeadamente</i><par n="agora__adv"/></e>
+<e lm="afervoradamente" a="jaumeortola"> <i>afervoradamente</i><par n="agora__adv"/></e>
+<e lm="agilissimamente" a="jaumeortola"> <i>agilissimamente</i><par n="agora__adv"/></e>
+<e lm="agilmente" a="jaumeortola">       <i>agilmente</i><par n="agora__adv"/></e>
+<e lm="aguisadamente" a="jaumeortola">   <i>aguisadamente</i><par n="agora__adv"/></e>
+<e lm="alatinadamente" a="jaumeortola">  <i>alatinadamente</i><par n="agora__adv"/></e>
+<e lm="aldemenos" a="jaumeortola">       <i>aldemenos</i><par n="agora__adv"/></e>
+<e lm="alegoricamente" a="jaumeortola">  <i>alegoricamente</i><par n="agora__adv"/></e>
+<e lm="alfim" a="jaumeortola">           <i>alfim</i><par n="agora__adv"/></e>
+<e lm="algebricamente" a="jaumeortola">  <i>algebricamente</i><par n="agora__adv"/></e>
+<e lm="algo" a="jaumeortola">            <i>algo</i><par n="agora__adv"/></e>
+<e lm="algures" a="jaumeortola">         <i>algures</i><par n="agora__adv"/></e>
+<e lm="alhures" a="jaumeortola">         <i>alhures</i><par n="agora__adv"/></e>
+<e lm="aliás" a="jaumeortola">           <i>aliás</i><par n="agora__adv"/></e>
+<e lm="almenos" a="jaumeortola">         <i>almenos</i><par n="agora__adv"/></e>
+<e lm="alopaticamente" a="jaumeortola">  <i>alopaticamente</i><par n="agora__adv"/></e>
+<e lm="aloucadamente" a="jaumeortola">   <i>aloucadamente</i><par n="agora__adv"/></e>
+<e lm="alquando" a="jaumeortola">        <i>alquando</i><par n="agora__adv"/></e>
+<e lm="alto" a="jaumeortola">            <i>alto</i><par n="agora__adv"/></e>
+<e lm="altruisticamente" a="jaumeortola"><i>altruisticamente</i><par n="agora__adv"/></e>
+<e lm="alvorotadamente" a="jaumeortola"> <i>alvorotadamente</i><par n="agora__adv"/></e>
+<e lm="aló" a="jaumeortola">             <i>aló</i><par n="agora__adv"/></e>
+<e lm="amabilissimamente" a="jaumeortola"><i>amabilissimamente</i><par n="agora__adv"/></e>
+<e lm="amadoristicamente" a="jaumeortola"><i>amadoristicamente</i><par n="agora__adv"/></e>
+<e lm="amarissimamente" a="jaumeortola"> <i>amarissimamente</i><par n="agora__adv"/></e>
+<e lm="ambiguamente" a="jaumeortola">    <i>ambiguamente</i><par n="agora__adv"/></e>
+<e lm="ambulatoriamente" a="jaumeortola"><i>ambulatoriamente</i><par n="agora__adv"/></e>
+<e lm="amiúde" a="jaumeortola">          <i>amiúde</i><par n="agora__adv"/></e>
+<e lm="amoravelmente" a="jaumeortola">   <i>amoravelmente</i><par n="agora__adv"/></e>
+<e lm="ampliamente" a="jaumeortola">     <i>ampliamente</i><par n="agora__adv"/></e>
+<e lm="amplissimamente" a="jaumeortola"> <i>amplissimamente</i><par n="agora__adv"/></e>
+<e lm="anacoreticamente" a="jaumeortola"><i>anacoreticamente</i><par n="agora__adv"/></e>
+<e lm="anacronicamente" a="jaumeortola"> <i>anacronicamente</i><par n="agora__adv"/></e>
+<e lm="anaforicamente" a="jaumeortola">  <i>anaforicamente</i><par n="agora__adv"/></e>
+<e lm="anarquicamente" a="jaumeortola">  <i>anarquicamente</i><par n="agora__adv"/></e>
+<e lm="anatomicamente" a="jaumeortola">  <i>anatomicamente</i><par n="agora__adv"/></e>
+<e lm="anedoticamente" a="jaumeortola">  <i>anedoticamente</i><par n="agora__adv"/></e>
+<e lm="angelicamente" a="jaumeortola">   <i>angelicamente</i><par n="agora__adv"/></e>
+<e lm="animadissimamente" a="jaumeortola"><i>animadissimamente</i><par n="agora__adv"/></e>
+<e lm="animicamente" a="jaumeortola">    <i>animicamente</i><par n="agora__adv"/></e>
+<e lm="antedia" a="jaumeortola">         <i>antedia</i><par n="agora__adv"/></e>
+<e lm="antemanhã" a="jaumeortola">       <i>antemanhã</i><par n="agora__adv"/></e>
+<e lm="antemão" a="jaumeortola">         <i>antemão</i><par n="agora__adv"/></e>
+<e lm="antessazão" a="jaumeortola">      <i>antessazão</i><par n="agora__adv"/></e>
+<e lm="antetempo" a="jaumeortola">       <i>antetempo</i><par n="agora__adv"/></e>
+<e lm="antinomicamente" a="jaumeortola"> <i>antinomicamente</i><par n="agora__adv"/></e>
+<e lm="antropologicamente" a="jaumeortola"><i>antropologicamente</i><par n="agora__adv"/></e>
+<e lm="apaticamente" a="jaumeortola">    <i>apaticamente</i><par n="agora__adv"/></e>
+<e lm="apetecivelmente" a="jaumeortola"> <i>apetecivelmente</i><par n="agora__adv"/></e>
+<e lm="apocrifamente" a="jaumeortola">   <i>apocrifamente</i><par n="agora__adv"/></e>
+<e lm="apoteoticamente" a="jaumeortola"> <i>apoteoticamente</i><par n="agora__adv"/></e>
+<e lm="aprazivelmente" a="jaumeortola">  <i>aprazivelmente</i><par n="agora__adv"/></e>
+<e lm="aprioristicamente" a="jaumeortola"><i>aprioristicamente</i><par n="agora__adv"/></e>
+<e lm="aquando" a="jaumeortola">         <i>aquando</i><par n="agora__adv"/></e>
+<e lm="aquase" a="jaumeortola">          <i>aquase</i><par n="agora__adv"/></e>
+<e lm="aquemeneres" a="jaumeortola">     <i>aquemeneres</i><par n="agora__adv"/></e>
+<e lm="aristocraticamente" a="jaumeortola"><i>aristocraticamente</i><par n="agora__adv"/></e>
+<e lm="aritmeticamente" a="jaumeortola"> <i>aritmeticamente</i><par n="agora__adv"/></e>
+<e lm="arquitectonicamente" a="jaumeortola"><i>arquitectonicamente</i><par n="agora__adv"/></e>
+<e lm="arquivisticamente" a="jaumeortola"><i>arquivisticamente</i><par n="agora__adv"/></e>
+<e lm="arrazoadamente" a="jaumeortola">  <i>arrazoadamente</i><par n="agora__adv"/></e>
+<e lm="articulatoriamente" a="jaumeortola"><i>articulatoriamente</i><par n="agora__adv"/></e>
+<e lm="asceticamente" a="jaumeortola">   <i>asceticamente</i><par n="agora__adv"/></e>
+<e lm="asinha" a="jaumeortola">          <i>asinha</i><par n="agora__adv"/></e>
+<e lm="asperamente" a="jaumeortola">     <i>asperamente</i><par n="agora__adv"/></e>
+<e lm="assaz" a="jaumeortola">           <i>assaz</i><par n="agora__adv"/></e>
+<e lm="asseveradamente" a="jaumeortola"> <i>asseveradamente</i><par n="agora__adv"/></e>
+<e lm="assimetricamente" a="jaumeortola"><i>assimetricamente</i><par n="agora__adv"/></e>
+<e lm="assinalavelmente" a="jaumeortola"><i>assinalavelmente</i><par n="agora__adv"/></e>
+<e lm="assistematicamente" a="jaumeortola"><i>assistematicamente</i><par n="agora__adv"/></e>
+<e lm="astrologicamente" a="jaumeortola"><i>astrologicamente</i><par n="agora__adv"/></e>
+<e lm="atavicamente" a="jaumeortola">    <i>atavicamente</i><par n="agora__adv"/></e>
+<e lm="atomisticamente" a="jaumeortola"> <i>atomisticamente</i><par n="agora__adv"/></e>
+<e lm="atrabiliariamente" a="jaumeortola"><i>atrabiliariamente</i><par n="agora__adv"/></e>
+<e lm="atrevidissimamente" a="jaumeortola"><i>atrevidissimamente</i><par n="agora__adv"/></e>
+<e lm="atribuladissimamente" a="jaumeortola"><i>atribuladissimamente</i><par n="agora__adv"/></e>
+<e lm="atrocissimamente" a="jaumeortola"><i>atrocissimamente</i><par n="agora__adv"/></e>
+<e lm="até" a="jaumeortola">             <i>até</i><par n="agora__adv"/></e>
+<e lm="autocraticamente" a="jaumeortola"><i>autocraticamente</i><par n="agora__adv"/></e>
+<e lm="autoritariamente" a="jaumeortola"><i>autoritariamente</i><par n="agora__adv"/></e>
+<e lm="aversamente" a="jaumeortola">     <i>aversamente</i><par n="agora__adv"/></e>
+<e lm="avonde" a="jaumeortola">          <i>avonde</i><par n="agora__adv"/></e>
+<e lm="axiomaticamente" a="jaumeortola"> <i>axiomaticamente</i><par n="agora__adv"/></e>
+<e lm="azinha" a="jaumeortola">          <i>azinha</i><par n="agora__adv"/></e>
+<e lm="açodadamente" a="jaumeortola">    <i>açodadamente</i><par n="agora__adv"/></e>
+<e lm="bacteriologicamente" a="jaumeortola"><i>bacteriologicamente</i><par n="agora__adv"/></e>
+<e lm="bajulatoriamente" a="jaumeortola"><i>bajulatoriamente</i><par n="agora__adv"/></e>
+<e lm="beatificamente" a="jaumeortola">  <i>beatificamente</i><par n="agora__adv"/></e>
+<e lm="beatissimamente" a="jaumeortola"> <i>beatissimamente</i><par n="agora__adv"/></e>
+<e lm="belissimamente" a="jaumeortola">  <i>belissimamente</i><par n="agora__adv"/></e>
+<e lm="benevolamente" a="jaumeortola">   <i>benevolamente</i><par n="agora__adv"/></e>
+<e lm="bis" a="jaumeortola">             <i>bis</i><par n="agora__adv"/></e>
+<e lm="biunivocamente" a="jaumeortola">  <i>biunivocamente</i><par n="agora__adv"/></e>
+<e lm="bofá" a="jaumeortola">            <i>bofá</i><par n="agora__adv"/></e>
+<e lm="bofé" a="jaumeortola">            <i>bofé</i><par n="agora__adv"/></e>
+<e lm="bombasticamente" a="jaumeortola"> <i>bombasticamente</i><par n="agora__adv"/></e>
+<e lm="bravissimamente" a="jaumeortola"> <i>bravissimamente</i><par n="agora__adv"/></e>
+<e lm="brevissimamente" a="jaumeortola"> <i>brevissimamente</i><par n="agora__adv"/></e>
+<e lm="burguesmente" a="jaumeortola">    <i>burguesmente</i><par n="agora__adv"/></e>
+<e lm="bué" a="jaumeortola">             <i>bué</i><par n="agora__adv"/></e>
+<e lm="cabalisticamente" a="jaumeortola"><i>cabalisticamente</i><par n="agora__adv"/></e>
+<e lm="cabonde" a="jaumeortola">         <i>cabonde</i><par n="agora__adv"/></e>
+<e lm="calculisticamente" a="jaumeortola"><i>calculisticamente</i><par n="agora__adv"/></e>
+<e lm="calidamente" a="jaumeortola">     <i>calidamente</i><par n="agora__adv"/></e>
+<e lm="candidamente" a="jaumeortola">    <i>candidamente</i><par n="agora__adv"/></e>
+<e lm="caoticamente" a="jaumeortola">    <i>caoticamente</i><par n="agora__adv"/></e>
+<e lm="carissimamente" a="jaumeortola">  <i>carissimamente</i><par n="agora__adv"/></e>
+<e lm="caro" a="jaumeortola">            <i>caro</i><par n="agora__adv"/></e>
+<e lm="casuisticamente" a="jaumeortola"> <i>casuisticamente</i><par n="agora__adv"/></e>
+<e lm="cataliticamente" a="jaumeortola"> <i>cataliticamente</i><par n="agora__adv"/></e>
+<e lm="causticamente" a="jaumeortola">   <i>causticamente</i><par n="agora__adv"/></e>
+<e lm="cautissimamente" a="jaumeortola"> <i>cautissimamente</i><par n="agora__adv"/></e>
+<e lm="celeremente" a="jaumeortola">     <i>celeremente</i><par n="agora__adv"/></e>
+<e lm="cenicamente" a="jaumeortola">     <i>cenicamente</i><par n="agora__adv"/></e>
+<e lm="censoriamente" a="jaumeortola">   <i>censoriamente</i><par n="agora__adv"/></e>
+<e lm="cepticamente" a="jaumeortola">    <i>cepticamente</i><par n="agora__adv"/></e>
+<e lm="cerca" a="jaumeortola">           <i>cerca</i><par n="agora__adv"/></e>
+<e lm="cerce" a="jaumeortola">           <i>cerce</i><par n="agora__adv"/></e>
+<e lm="chiquerrimamente" a="jaumeortola"><i>chiquerrimamente</i><par n="agora__adv"/></e>
+<e lm="chus" a="jaumeortola">            <i>chus</i><par n="agora__adv"/></e>
+<e lm="cinematograficamente" a="jaumeortola"><i>cinematograficamente</i><par n="agora__adv"/></e>
+<e lm="cismaticamente" a="jaumeortola">  <i>cismaticamente</i><par n="agora__adv"/></e>
+<e lm="citologicamente" a="jaumeortola"> <i>citologicamente</i><par n="agora__adv"/></e>
+<e lm="climatologicamente" a="jaumeortola"><i>climatologicamente</i><par n="agora__adv"/></e>
+<e lm="colericamente" a="jaumeortola">   <i>colericamente</i><par n="agora__adv"/></e>
+<e lm="comodissimamente" a="jaumeortola"><i>comodissimamente</i><par n="agora__adv"/></e>
+<e lm="comovidissimamente" a="jaumeortola"><i>comovidissimamente</i><par n="agora__adv"/></e>
+<e lm="compensatoriamente" a="jaumeortola"><i>compensatoriamente</i><par n="agora__adv"/></e>
+<e lm="compreensivelmente" a="jaumeortola"><i>compreensivelmente</i><par n="agora__adv"/></e>
+<e lm="concorrentemente" a="jaumeortola"><i>concorrentemente</i><par n="agora__adv"/></e>
+<e lm="congenitamente" a="jaumeortola">  <i>congenitamente</i><par n="agora__adv"/></e>
+<e lm="conotativamente" a="jaumeortola"> <i>conotativamente</i><par n="agora__adv"/></e>
+<e lm="consentaneamente" a="jaumeortola"><i>consentaneamente</i><par n="agora__adv"/></e>
+<e lm="consuetudinariamente" a="jaumeortola"><i>consuetudinariamente</i><par n="agora__adv"/></e>
+<e lm="contabilisticamente" a="jaumeortola"><i>contabilisticamente</i><par n="agora__adv"/></e>
+<e lm="contanto" a="jaumeortola">        <i>contanto</i><par n="agora__adv"/></e>
+<e lm="contraditoriamente" a="jaumeortola"><i>contraditoriamente</i><par n="agora__adv"/></e>
+<e lm="contrafundo" a="jaumeortola">     <i>contrafundo</i><par n="agora__adv"/></e>
+<e lm="contínuo" a="jaumeortola">        <i>contínuo</i><par n="agora__adv"/></e>
+<e lm="correctissimamente" a="jaumeortola"><i>correctissimamente</i><par n="agora__adv"/></e>
+<e lm="cosmogonicamente" a="jaumeortola"><i>cosmogonicamente</i><par n="agora__adv"/></e>
+<e lm="cosmologicamente" a="jaumeortola"><i>cosmologicamente</i><par n="agora__adv"/></e>
+<e lm="credivelmente" a="jaumeortola">   <i>credivelmente</i><par n="agora__adv"/></e>
+<e lm="credulamente" a="jaumeortola">    <i>credulamente</i><par n="agora__adv"/></e>
+<e lm="crespamente" a="jaumeortola">     <i>crespamente</i><par n="agora__adv"/></e>
+<e lm="cristalograficamente" a="jaumeortola"><i>cristalograficamente</i><par n="agora__adv"/></e>
+<e lm="cromaticamente" a="jaumeortola">  <i>cromaticamente</i><par n="agora__adv"/></e>
+<e lm="crudelissimamente" a="jaumeortola"><i>crudelissimamente</i><par n="agora__adv"/></e>
+<e lm="debaixo" a="jaumeortola">         <i>debaixo</i><par n="agora__adv"/></e>
+<e lm="debalde" a="jaumeortola">         <i>debalde</i><par n="agora__adv"/></e>
+<e lm="decerto" a="jaumeortola">         <i>decerto</i><par n="agora__adv"/></e>
+<e lm="decretoriamente" a="jaumeortola"> <i>decretoriamente</i><par n="agora__adv"/></e>
+<e lm="deleitavelmente" a="jaumeortola"> <i>deleitavelmente</i><par n="agora__adv"/></e>
+<e lm="delicadissimamente" a="jaumeortola"><i>delicadissimamente</i><par n="agora__adv"/></e>
+<e lm="demagogicamente" a="jaumeortola"> <i>demagogicamente</i><par n="agora__adv"/></e>
+<e lm="denodadamente" a="jaumeortola">   <i>denodadamente</i><par n="agora__adv"/></e>
+<e lm="densissimamente" a="jaumeortola"> <i>densissimamente</i><par n="agora__adv"/></e>
+<e lm="dermatologicamente" a="jaumeortola"><i>dermatologicamente</i><par n="agora__adv"/></e>
+<e lm="derredor" a="jaumeortola">        <i>derredor</i><par n="agora__adv"/></e>
+<e lm="desaconselhavelmente" a="jaumeortola"><i>desaconselhavelmente</i><par n="agora__adv"/></e>
+<e lm="desamoravelmente" a="jaumeortola"><i>desamoravelmente</i><par n="agora__adv"/></e>
+<e lm="desaparadamente" a="jaumeortola"> <i>desaparadamente</i><par n="agora__adv"/></e>
+<e lm="desastradissimamente" a="jaumeortola"><i>desastradissimamente</i><par n="agora__adv"/></e>
+<e lm="desconfortavelmente" a="jaumeortola"><i>desconfortavelmente</i><par n="agora__adv"/></e>
+<e lm="descontinuamente" a="jaumeortola"><i>descontinuamente</i><par n="agora__adv"/></e>
+<e lm="descortesmente" a="jaumeortola">  <i>descortesmente</i><par n="agora__adv"/></e>
+<e lm="desculpavelmente" a="jaumeortola"><i>desculpavelmente</i><par n="agora__adv"/></e>
+<e lm="desmilitarizavelmente" a="jaumeortola"><i>desmilitarizavelmente</i><par n="agora__adv"/></e>
+<e lm="despoticamente" a="jaumeortola">  <i>despoticamente</i><par n="agora__adv"/></e>
+<e lm="destarte" a="jaumeortola">        <i>destarte</i><par n="agora__adv"/></e>
+<e lm="diabolicamente" a="jaumeortola">  <i>diabolicamente</i><par n="agora__adv"/></e>
+<e lm="diacronicamente" a="jaumeortola"> <i>diacronicamente</i><par n="agora__adv"/></e>
+<e lm="diafanamente" a="jaumeortola">    <i>diafanamente</i><par n="agora__adv"/></e>
+<e lm="dicotomicamente" a="jaumeortola"> <i>dicotomicamente</i><par n="agora__adv"/></e>
+<e lm="dificilimamente" a="jaumeortola"> <i>dificilimamente</i><par n="agora__adv"/></e>
+<e lm="dignissimamente" a="jaumeortola"> <i>dignissimamente</i><par n="agora__adv"/></e>
+<e lm="disciplinarmente" a="jaumeortola"><i>disciplinarmente</i><par n="agora__adv"/></e>
+<e lm="discricionariamente" a="jaumeortola"><i>discricionariamente</i><par n="agora__adv"/></e>
+<e lm="distintissimamente" a="jaumeortola"><i>distintissimamente</i><par n="agora__adv"/></e>
+<e lm="distribucionalmente" a="jaumeortola"><i>distribucionalmente</i><par n="agora__adv"/></e>
+<e lm="distributivamente" a="jaumeortola"><i>distributivamente</i><par n="agora__adv"/></e>
+<e lm="dubiamente" a="jaumeortola">      <i>dubiamente</i><par n="agora__adv"/></e>
+<e lm="dulcissimamente" a="jaumeortola"> <i>dulcissimamente</i><par n="agora__adv"/></e>
+<e lm="duro" a="jaumeortola">            <i>duro</i><par n="agora__adv"/></e>
+<e lm="eclecticamente" a="jaumeortola">  <i>eclecticamente</i><par n="agora__adv"/></e>
+<e lm="ecograficamente" a="jaumeortola"> <i>ecograficamente</i><par n="agora__adv"/></e>
+<e lm="ecumenicamente" a="jaumeortola">  <i>ecumenicamente</i><par n="agora__adv"/></e>
+<e lm="efemeramente" a="jaumeortola">    <i>efemeramente</i><par n="agora__adv"/></e>
+<e lm="egoisticamente" a="jaumeortola">  <i>egoisticamente</i><par n="agora__adv"/></e>
+<e lm="egregiamente" a="jaumeortola">    <i>egregiamente</i><par n="agora__adv"/></e>
+<e lm="elipticamente" a="jaumeortola">   <i>elipticamente</i><par n="agora__adv"/></e>
+<e lm="eloquentissimamente" a="jaumeortola"><i>eloquentissimamente</i><par n="agora__adv"/></e>
+<e lm="embalde" a="jaumeortola">         <i>embalde</i><par n="agora__adv"/></e>
+<e lm="emblematicamente" a="jaumeortola"><i>emblematicamente</i><par n="agora__adv"/></e>
+<e lm="embora" a="jaumeortola">          <i>embora</i><par n="agora__adv"/></e>
+<e lm="emmentes" a="jaumeortola">        <i>emmentes</i><par n="agora__adv"/></e>
+<e lm="empós" a="jaumeortola">           <i>empós</i><par n="agora__adv"/></e>
+<e lm="encliticamente" a="jaumeortola">  <i>encliticamente</i><par n="agora__adv"/></e>
+<e lm="enigmaticamente" a="jaumeortola"> <i>enigmaticamente</i><par n="agora__adv"/></e>
+<e lm="entanto" a="jaumeortola">         <i>entanto</i><par n="agora__adv"/></e>
+<e lm="entranhavelmente" a="jaumeortola"><i>entranhavelmente</i><par n="agora__adv"/></e>
+<e lm="entrementes" a="jaumeortola">     <i>entrementes</i><par n="agora__adv"/></e>
+<e lm="entrenoite" a="jaumeortola">      <i>entrenoite</i><par n="agora__adv"/></e>
+<e lm="entrenoute" a="jaumeortola">      <i>entrenoute</i><par n="agora__adv"/></e>
+<e lm="entusiasticamente" a="jaumeortola"><i>entusiasticamente</i><par n="agora__adv"/></e>
+<e lm="epicamente" a="jaumeortola">      <i>epicamente</i><par n="agora__adv"/></e>
+<e lm="epidemicamente" a="jaumeortola">  <i>epidemicamente</i><par n="agora__adv"/></e>
+<e lm="epidemiologicamente" a="jaumeortola"><i>epidemiologicamente</i><par n="agora__adv"/></e>
+<e lm="episodicamente" a="jaumeortola">  <i>episodicamente</i><par n="agora__adv"/></e>
+<e lm="epistemologicamente" a="jaumeortola"><i>epistemologicamente</i><par n="agora__adv"/></e>
+<e lm="equanimemente" a="jaumeortola">   <i>equanimemente</i><par n="agora__adv"/></e>
+<e lm="equivocamente" a="jaumeortola">   <i>equivocamente</i><par n="agora__adv"/></e>
+<e lm="ergologicamente" a="jaumeortola"> <i>ergologicamente</i><par n="agora__adv"/></e>
+<e lm="escolasticamente" a="jaumeortola"><i>escolasticamente</i><par n="agora__adv"/></e>
+<e lm="esotericamente" a="jaumeortola">  <i>esotericamente</i><par n="agora__adv"/></e>
+<e lm="esperavelmente" a="jaumeortola">  <i>esperavelmente</i><par n="agora__adv"/></e>
+<e lm="espertissimamente" a="jaumeortola"><i>espertissimamente</i><par n="agora__adv"/></e>
+<e lm="espiralmente" a="jaumeortola">    <i>espiralmente</i><par n="agora__adv"/></e>
+<e lm="esponencialmente" a="jaumeortola"><i>esponencialmente</i><par n="agora__adv"/></e>
+<e lm="estanquemente" a="jaumeortola">   <i>estanquemente</i><par n="agora__adv"/></e>
+<e lm="estataticamente" a="jaumeortola"> <i>estataticamente</i><par n="agora__adv"/></e>
+<e lm="estatutariamente" a="jaumeortola"><i>estatutariamente</i><par n="agora__adv"/></e>
+<e lm="estenograficamente" a="jaumeortola"><i>estenograficamente</i><par n="agora__adv"/></e>
+<e lm="estilisticamente" a="jaumeortola"><i>estilisticamente</i><par n="agora__adv"/></e>
+<e lm="estocasticamente" a="jaumeortola"><i>estocasticamente</i><par n="agora__adv"/></e>
+<e lm="estoicamente" a="jaumeortola">    <i>estoicamente</i><par n="agora__adv"/></e>
+<e lm="estrenuamente" a="jaumeortola">   <i>estrenuamente</i><par n="agora__adv"/></e>
+<e lm="estultissimamente" a="jaumeortola"><i>estultissimamente</i><par n="agora__adv"/></e>
+<e lm="estupidamente" a="jaumeortola">   <i>estupidamente</i><par n="agora__adv"/></e>
+<e lm="etereamente" a="jaumeortola">     <i>etereamente</i><par n="agora__adv"/></e>
+<e lm="etimologicamente" a="jaumeortola"><i>etimologicamente</i><par n="agora__adv"/></e>
+<e lm="etnograficamente" a="jaumeortola"><i>etnograficamente</i><par n="agora__adv"/></e>
+<e lm="eufemisticamente" a="jaumeortola"><i>eufemisticamente</i><par n="agora__adv"/></e>
+<e lm="euforicamente" a="jaumeortola">   <i>euforicamente</i><par n="agora__adv"/></e>
+<e lm="excepto" a="jaumeortola">         <i>excepto</i><par n="agora__adv"/></e>
+<e lm="exclusive" a="jaumeortola">       <i>exclusive</i><par n="agora__adv"/></e>
+<e lm="exegeticamente" a="jaumeortola">  <i>exegeticamente</i><par n="agora__adv"/></e>
+<e lm="exibicionisticamente" a="jaumeortola"><i>exibicionisticamente</i><par n="agora__adv"/></e>
+<e lm="eximiamente" a="jaumeortola">     <i>eximiamente</i><par n="agora__adv"/></e>
+<e lm="expiatoriamente" a="jaumeortola"> <i>expiatoriamente</i><par n="agora__adv"/></e>
+<e lm="extemporaneamente" a="jaumeortola"><i>extemporaneamente</i><par n="agora__adv"/></e>
+<e lm="extrinsecamente" a="jaumeortola"> <i>extrinsecamente</i><par n="agora__adv"/></e>
+<e lm="facilimamente" a="jaumeortola">   <i>facilimamente</i><par n="agora__adv"/></e>
+<e lm="falivelmente" a="jaumeortola">    <i>falivelmente</i><par n="agora__adv"/></e>
+<e lm="falso" a="jaumeortola">           <i>falso</i><par n="agora__adv"/></e>
+<e lm="fanhosamenmte" a="jaumeortola">   <i>fanhosamenmte</i><par n="agora__adv"/></e>
+<e lm="fantasmagoricamente" a="jaumeortola"><i>fantasmagoricamente</i><par n="agora__adv"/></e>
+<e lm="farmacologicamente" a="jaumeortola"><i>farmacologicamente</i><par n="agora__adv"/></e>
+<e lm="fatuamente" a="jaumeortola">      <i>fatuamente</i><par n="agora__adv"/></e>
+<e lm="feericamente" a="jaumeortola">    <i>feericamente</i><par n="agora__adv"/></e>
+<e lm="ferocissimamente" a="jaumeortola"><i>ferocissimamente</i><par n="agora__adv"/></e>
+<e lm="fetidamente" a="jaumeortola">     <i>fetidamente</i><par n="agora__adv"/></e>
+<e lm="fidelissimamente" a="jaumeortola"><i>fidelissimamente</i><par n="agora__adv"/></e>
+<e lm="filatelicamente" a="jaumeortola"> <i>filatelicamente</i><par n="agora__adv"/></e>
+<e lm="filologicamente" a="jaumeortola"> <i>filologicamente</i><par n="agora__adv"/></e>
+<e lm="fisionomicamente" a="jaumeortola"><i>fisionomicamente</i><par n="agora__adv"/></e>
+<e lm="flagilosamente" a="jaumeortola">  <i>flagilosamente</i><par n="agora__adv"/></e>
+<e lm="fleumaticamente" a="jaumeortola"> <i>fleumaticamente</i><par n="agora__adv"/></e>
+<e lm="fluidicamente" a="jaumeortola">   <i>fluidicamente</i><par n="agora__adv"/></e>
+<e lm="foneticamente" a="jaumeortola">   <i>foneticamente</i><par n="agora__adv"/></e>
+<e lm="fonologicamente" a="jaumeortola"> <i>fonologicamente</i><par n="agora__adv"/></e>
+<e lm="fotoelectricamente" a="jaumeortola"><i>fotoelectricamente</i><par n="agora__adv"/></e>
+<e lm="fragmentariamente" a="jaumeortola"><i>fragmentariamente</i><par n="agora__adv"/></e>
+<e lm="fragorosamente" a="jaumeortola">  <i>fragorosamente</i><par n="agora__adv"/></e>
+<e lm="futebolisticamente" a="jaumeortola"><i>futebolisticamente</i><par n="agora__adv"/></e>
+<e lm="galvanicamente" a="jaumeortola">  <i>galvanicamente</i><par n="agora__adv"/></e>
+<e lm="gastronomicamente" a="jaumeortola"><i>gastronomicamente</i><par n="agora__adv"/></e>
+<e lm="gelidamente" a="jaumeortola">     <i>gelidamente</i><par n="agora__adv"/></e>
+<e lm="geneologicamente" a="jaumeortola"><i>geneologicamente</i><par n="agora__adv"/></e>
+<e lm="geologicamente" a="jaumeortola">  <i>geologicamente</i><par n="agora__adv"/></e>
+<e lm="geopoliticamente" a="jaumeortola"><i>geopoliticamente</i><par n="agora__adv"/></e>
+<e lm="ginasticamente" a="jaumeortola">  <i>ginasticamente</i><par n="agora__adv"/></e>
+<e lm="gracilmente" a="jaumeortola">     <i>gracilmente</i><par n="agora__adv"/></e>
+<e lm="harmonicamente" a="jaumeortola">  <i>harmonicamente</i><par n="agora__adv"/></e>
+<e lm="harto" a="jaumeortola">           <i>harto</i><par n="agora__adv"/></e>
+<e lm="hebdomadariamente" a="jaumeortola"><i>hebdomadariamente</i><par n="agora__adv"/></e>
+<e lm="hegemonicamente" a="jaumeortola"> <i>hegemonicamente</i><par n="agora__adv"/></e>
+<e lm="heliograficamente" a="jaumeortola"><i>heliograficamente</i><par n="agora__adv"/></e>
+<e lm="hereticamente" a="jaumeortola">   <i>hereticamente</i><par n="agora__adv"/></e>
+<e lm="hermeticamente" a="jaumeortola">  <i>hermeticamente</i><par n="agora__adv"/></e>
+<e lm="hidroelectricamente" a="jaumeortola"><i>hidroelectricamente</i><par n="agora__adv"/></e>
+<e lm="hiperbolicamente" a="jaumeortola"><i>hiperbolicamente</i><par n="agora__adv"/></e>
+<e lm="hipnoticamente" a="jaumeortola">  <i>hipnoticamente</i><par n="agora__adv"/></e>
+<e lm="homocentricamente" a="jaumeortola"><i>homocentricamente</i><par n="agora__adv"/></e>
+<e lm="homogeneamente" a="jaumeortola">  <i>homogeneamente</i><par n="agora__adv"/></e>
+<e lm="horrificamente" a="jaumeortola">  <i>horrificamente</i><par n="agora__adv"/></e>
+<e lm="humoristicamente" a="jaumeortola"><i>humoristicamente</i><par n="agora__adv"/></e>
+<e lm="ideologicamente" a="jaumeortola"> <i>ideologicamente</i><par n="agora__adv"/></e>
+<e lm="idilicamente" a="jaumeortola">    <i>idilicamente</i><par n="agora__adv"/></e>
+<e lm="ignobilmente" a="jaumeortola">    <i>ignobilmente</i><par n="agora__adv"/></e>
+<e lm="ilogicamente" a="jaumeortola">    <i>ilogicamente</i><par n="agora__adv"/></e>
+<e lm="ilustravelmente" a="jaumeortola"> <i>ilustravelmente</i><par n="agora__adv"/></e>
+<e lm="imaginariamente" a="jaumeortola"> <i>imaginariamente</i><par n="agora__adv"/></e>
+<e lm="imenso" a="jaumeortola">          <i>imenso</i><par n="agora__adv"/></e>
+<e lm="imeritamente" a="jaumeortola">    <i>imeritamente</i><par n="agora__adv"/></e>
+<e lm="impagavelmente" a="jaumeortola">  <i>impagavelmente</i><par n="agora__adv"/></e>
+<e lm="impassivelmente" a="jaumeortola"> <i>impassivelmente</i><par n="agora__adv"/></e>
+<e lm="imperatoriamente" a="jaumeortola"><i>imperatoriamente</i><par n="agora__adv"/></e>
+<e lm="imperdoavelmente" a="jaumeortola"><i>imperdoavelmente</i><par n="agora__adv"/></e>
+<e lm="imperecivelmente" a="jaumeortola"><i>imperecivelmente</i><par n="agora__adv"/></e>
+<e lm="impermeavelmente" a="jaumeortola"><i>impermeavelmente</i><par n="agora__adv"/></e>
+<e lm="imperterritamente" a="jaumeortola"><i>imperterritamente</i><par n="agora__adv"/></e>
+<e lm="imponderavelmente" a="jaumeortola"><i>imponderavelmente</i><par n="agora__adv"/></e>
+<e lm="impreterivelmente" a="jaumeortola"><i>impreterivelmente</i><par n="agora__adv"/></e>
+<e lm="imprevisivelmente" a="jaumeortola"><i>imprevisivelmente</i><par n="agora__adv"/></e>
+<e lm="improficuamente" a="jaumeortola"> <i>improficuamente</i><par n="agora__adv"/></e>
+<e lm="imutavelmente" a="jaumeortola">   <i>imutavelmente</i><par n="agora__adv"/></e>
+<e lm="inacabavelmente" a="jaumeortola"> <i>inacabavelmente</i><par n="agora__adv"/></e>
+<e lm="inaceitavelmente" a="jaumeortola"><i>inaceitavelmente</i><par n="agora__adv"/></e>
+<e lm="inacessivelmente" a="jaumeortola"><i>inacessivelmente</i><par n="agora__adv"/></e>
+<e lm="inacreditavelmente" a="jaumeortola"><i>inacreditavelmente</i><par n="agora__adv"/></e>
+<e lm="incomensuravelmente" a="jaumeortola"><i>incomensuravelmente</i><par n="agora__adv"/></e>
+<e lm="incomodamente" a="jaumeortola">   <i>incomodamente</i><par n="agora__adv"/></e>
+<e lm="inconcebivelmente" a="jaumeortola"><i>inconcebivelmente</i><par n="agora__adv"/></e>
+<e lm="inconfundivelmente" a="jaumeortola"><i>inconfundivelmente</i><par n="agora__adv"/></e>
+<e lm="incorrigivelmente" a="jaumeortola"><i>incorrigivelmente</i><par n="agora__adv"/></e>
+<e lm="incredulamente" a="jaumeortola">  <i>incredulamente</i><par n="agora__adv"/></e>
+<e lm="inda" a="jaumeortola">            <i>inda</i><par n="agora__adv"/></e>
+<e lm="indecifravelmente" a="jaumeortola"><i>indecifravelmente</i><par n="agora__adv"/></e>
+<e lm="indefectivelmente" a="jaumeortola"><i>indefectivelmente</i><par n="agora__adv"/></e>
+<e lm="indemovivelmente" a="jaumeortola"><i>indemovivelmente</i><par n="agora__adv"/></e>
+<e lm="indesejavelmente" a="jaumeortola"><i>indesejavelmente</i><par n="agora__adv"/></e>
+<e lm="indisputavelmente" a="jaumeortola"><i>indisputavelmente</i><par n="agora__adv"/></e>
+<e lm="indomitamente" a="jaumeortola">   <i>indomitamente</i><par n="agora__adv"/></e>
+<e lm="inefavelmente" a="jaumeortola">   <i>inefavelmente</i><par n="agora__adv"/></e>
+<e lm="inelegivelmente" a="jaumeortola"> <i>inelegivelmente</i><par n="agora__adv"/></e>
+<e lm="inelutavelmente" a="jaumeortola"> <i>inelutavelmente</i><par n="agora__adv"/></e>
+<e lm="inescrutavelmente" a="jaumeortola"><i>inescrutavelmente</i><par n="agora__adv"/></e>
+<e lm="inespecificamente" a="jaumeortola"><i>inespecificamente</i><par n="agora__adv"/></e>
+<e lm="inexaurivelmente" a="jaumeortola"><i>inexaurivelmente</i><par n="agora__adv"/></e>
+<e lm="inextricavelmente" a="jaumeortola"><i>inextricavelmente</i><par n="agora__adv"/></e>
+<e lm="infalivelmente" a="jaumeortola">  <i>infalivelmente</i><par n="agora__adv"/></e>
+<e lm="infimamente" a="jaumeortola">     <i>infimamente</i><par n="agora__adv"/></e>
+<e lm="infindavelmente" a="jaumeortola"> <i>infindavelmente</i><par n="agora__adv"/></e>
+<e lm="ingloriamente" a="jaumeortola">   <i>ingloriamente</i><par n="agora__adv"/></e>
+<e lm="iniludivelmente" a="jaumeortola"> <i>iniludivelmente</i><par n="agora__adv"/></e>
+<e lm="iniquamente" a="jaumeortola">     <i>iniquamente</i><par n="agora__adv"/></e>
+<e lm="inocuamente" a="jaumeortola">     <i>inocuamente</i><par n="agora__adv"/></e>
+<e lm="inolvidavelmente" a="jaumeortola"><i>inolvidavelmente</i><par n="agora__adv"/></e>
+<e lm="inqualificavelmente" a="jaumeortola"><i>inqualificavelmente</i><par n="agora__adv"/></e>
+<e lm="inquestionavelmente" a="jaumeortola"><i>inquestionavelmente</i><par n="agora__adv"/></e>
+<e lm="insubornavelmente" a="jaumeortola"><i>insubornavelmente</i><par n="agora__adv"/></e>
+<e lm="insulvamente" a="jaumeortola">    <i>insulvamente</i><par n="agora__adv"/></e>
+<e lm="insuportavelmente" a="jaumeortola"><i>insuportavelmente</i><par n="agora__adv"/></e>
+<e lm="intangivelmente" a="jaumeortola"> <i>intangivelmente</i><par n="agora__adv"/></e>
+<e lm="intramuros" a="jaumeortola">      <i>intramuros</i><par n="agora__adv"/></e>
+<e lm="intrepidamente" a="jaumeortola">  <i>intrepidamente</i><par n="agora__adv"/></e>
+<e lm="invejavelmente" a="jaumeortola">  <i>invejavelmente</i><par n="agora__adv"/></e>
+<e lm="inverosimilmente" a="jaumeortola"><i>inverosimilmente</i><par n="agora__adv"/></e>
+<e lm="invisivelmente" a="jaumeortola">  <i>invisivelmente</i><par n="agora__adv"/></e>
+<e lm="irrecuperavelmente" a="jaumeortola"><i>irrecuperavelmente</i><par n="agora__adv"/></e>
+<e lm="irrecusavelmente" a="jaumeortola"><i>irrecusavelmente</i><par n="agora__adv"/></e>
+<e lm="irredutivelmente" a="jaumeortola"><i>irredutivelmente</i><par n="agora__adv"/></e>
+<e lm="irrefragavelmente" a="jaumeortola"><i>irrefragavelmente</i><par n="agora__adv"/></e>
+<e lm="irrepetivelmente" a="jaumeortola"><i>irrepetivelmente</i><par n="agora__adv"/></e>
+<e lm="irrepreensivelmente" a="jaumeortola"><i>irrepreensivelmente</i><par n="agora__adv"/></e>
+<e lm="irreversivelmente" a="jaumeortola"><i>irreversivelmente</i><par n="agora__adv"/></e>
+<e lm="irrisoriamente" a="jaumeortola">  <i>irrisoriamente</i><par n="agora__adv"/></e>
+<e lm="irritamente" a="jaumeortola">     <i>irritamente</i><par n="agora__adv"/></e>
+<e lm="itenerantemente" a="jaumeortola"> <i>itenerantemente</i><par n="agora__adv"/></e>
+<e lm="jesuiticamente" a="jaumeortola">  <i>jesuiticamente</i><par n="agora__adv"/></e>
+<e lm="lacado" a="jaumeortola">          <i>lacado</i><par n="agora__adv"/></e>
+<e lm="languidamente" a="jaumeortola">   <i>languidamente</i><par n="agora__adv"/></e>
+<e lm="lastimavelmente" a="jaumeortola"> <i>lastimavelmente</i><par n="agora__adv"/></e>
+<e lm="latitudinalmente" a="jaumeortola"><i>latitudinalmente</i><par n="agora__adv"/></e>
+<e lm="lendariamente" a="jaumeortola">   <i>lendariamente</i><par n="agora__adv"/></e>
+<e lm="lentissimamente" a="jaumeortola"> <i>lentissimamente</i><par n="agora__adv"/></e>
+<e lm="lestissimamente" a="jaumeortola"> <i>lestissimamente</i><par n="agora__adv"/></e>
+<e lm="letargicamente" a="jaumeortola">  <i>letargicamente</i><par n="agora__adv"/></e>
+<e lm="lexicograficamente" a="jaumeortola"><i>lexicograficamente</i><par n="agora__adv"/></e>
+<e lm="liberrimamente" a="jaumeortola">  <i>liberrimamente</i><par n="agora__adv"/></e>
+<e lm="lidimamente" a="jaumeortola">     <i>lidimamente</i><par n="agora__adv"/></e>
+<e lm="limpidamente" a="jaumeortola">    <i>limpidamente</i><par n="agora__adv"/></e>
+<e lm="linguisticamente" a="jaumeortola"><i>linguisticamente</i><par n="agora__adv"/></e>
+<e lm="litograficamente" a="jaumeortola"><i>litograficamente</i><par n="agora__adv"/></e>
+<e lm="liturgicamente" a="jaumeortola">  <i>liturgicamente</i><par n="agora__adv"/></e>
+<e lm="lividamente" a="jaumeortola">     <i>lividamente</i><par n="agora__adv"/></e>
+<e lm="livre" a="jaumeortola">           <i>livre</i><par n="agora__adv"/></e>
+<e lm="logisticamente" a="jaumeortola">  <i>logisticamente</i><par n="agora__adv"/></e>
+<e lm="louvavelmente" a="jaumeortola">   <i>louvavelmente</i><par n="agora__adv"/></e>
+<e lm="louçãmente" a="jaumeortola">      <i>louçãmente</i><par n="agora__adv"/></e>
+<e lm="lubricamente" a="jaumeortola">    <i>lubricamente</i><par n="agora__adv"/></e>
+<e lm="lugubremente" a="jaumeortola">    <i>lugubremente</i><par n="agora__adv"/></e>
+<e lm="magnanimamente" a="jaumeortola">  <i>magnanimamente</i><par n="agora__adv"/></e>
+<e lm="maleficamente" a="jaumeortola">   <i>maleficamente</i><par n="agora__adv"/></e>
+<e lm="malevolamente" a="jaumeortola">   <i>malevolamente</i><par n="agora__adv"/></e>
+<e lm="malgrado" a="jaumeortola">        <i>malgrado</i><par n="agora__adv"/></e>
+<e lm="malissimamente" a="jaumeortola">  <i>malissimamente</i><par n="agora__adv"/></e>
+<e lm="malmentinhos" a="jaumeortola">    <i>malmentinhos</i><par n="agora__adv"/></e>
+<e lm="mamente" a="jaumeortola">         <i>mamente</i><par n="agora__adv"/></e>
+<e lm="maquiavelicamente" a="jaumeortola"><i>maquiavelicamente</i><par n="agora__adv"/></e>
+<e lm="mecanograficamente" a="jaumeortola"><i>mecanograficamente</i><par n="agora__adv"/></e>
+<e lm="mediaticamente" a="jaumeortola">  <i>mediaticamente</i><par n="agora__adv"/></e>
+<e lm="mediocremente" a="jaumeortola">   <i>mediocremente</i><par n="agora__adv"/></e>
+<e lm="mefistofelicamente" a="jaumeortola"><i>mefistofelicamente</i><par n="agora__adv"/></e>
+<e lm="meiguissimamente" a="jaumeortola"><i>meiguissimamente</i><par n="agora__adv"/></e>
+<e lm="mentes" a="jaumeortola">          <i>mentes</i><par n="agora__adv"/></e>
+<e lm="meritoriamente" a="jaumeortola">  <i>meritoriamente</i><par n="agora__adv"/></e>
+<e lm="mesmamente" a="jaumeortola">      <i>mesmamente</i><par n="agora__adv"/></e>
+<e lm="mesmissimamente" a="jaumeortola"> <i>mesmissimamente</i><par n="agora__adv"/></e>
+<e lm="metaforicamente" a="jaumeortola"> <i>metaforicamente</i><par n="agora__adv"/></e>
+<e lm="metonimicamente" a="jaumeortola"> <i>metonimicamente</i><par n="agora__adv"/></e>
+<e lm="metricamente" a="jaumeortola">    <i>metricamente</i><par n="agora__adv"/></e>
+<e lm="mineralogicamente" a="jaumeortola"><i>mineralogicamente</i><par n="agora__adv"/></e>
+<e lm="minoritariamente" a="jaumeortola"><i>minoritariamente</i><par n="agora__adv"/></e>
+<e lm="mirificamente" a="jaumeortola">   <i>mirificamente</i><par n="agora__adv"/></e>
+<e lm="miseramente" a="jaumeortola">     <i>miseramente</i><par n="agora__adv"/></e>
+<e lm="mitologicamente" a="jaumeortola"> <i>mitologicamente</i><par n="agora__adv"/></e>
+<e lm="miudamente" a="jaumeortola">      <i>miudamente</i><par n="agora__adv"/></e>
+<e lm="modestissimamente" a="jaumeortola"><i>modestissimamente</i><par n="agora__adv"/></e>
+<e lm="modicamente" a="jaumeortola">     <i>modicamente</i><par n="agora__adv"/></e>
+<e lm="monasticamente" a="jaumeortola">  <i>monasticamente</i><par n="agora__adv"/></e>
+<e lm="monocordicamente" a="jaumeortola"><i>monocordicamente</i><par n="agora__adv"/></e>
+<e lm="monogamicamente" a="jaumeortola"> <i>monogamicamente</i><par n="agora__adv"/></e>
+<e lm="morbidamente" a="jaumeortola">    <i>morbidamente</i><par n="agora__adv"/></e>
+<e lm="morfologicamente" a="jaumeortola"><i>morfologicamente</i><par n="agora__adv"/></e>
+<e lm="morganaticamente" a="jaumeortola"><i>morganaticamente</i><par n="agora__adv"/></e>
+<e lm="mui" a="jaumeortola">             <i>mui</i><par n="agora__adv"/></e>
+<e lm="munto" a="jaumeortola">           <i>munto</i><par n="agora__adv"/></e>
+<e lm="máxime" a="jaumeortola">          <i>máxime</i><par n="agora__adv"/></e>
+<e lm="nanja" a="jaumeortola">           <i>nanja</i><par n="agora__adv"/></e>
+<e lm="nenhures" a="jaumeortola">        <i>nenhures</i><par n="agora__adv"/></e>
+<e lm="nente" a="jaumeortola">           <i>nente</i><par n="agora__adv"/></e>
+<e lm="nentes" a="jaumeortola">          <i>nentes</i><par n="agora__adv"/></e>
+<e lm="nesciamente" a="jaumeortola">     <i>nesciamente</i><par n="agora__adv"/></e>
+<e lm="nessora" a="jaumeortola">         <i>nessora</i><par n="agora__adv"/></e>
+<e lm="nicles" a="jaumeortola">          <i>nicles</i><par n="agora__adv"/></e>
+<e lm="nimiamente" a="jaumeortola">      <i>nimiamente</i><par n="agora__adv"/></e>
+<e lm="notabilissimamente" a="jaumeortola"><i>notabilissimamente</i><par n="agora__adv"/></e>
+<e lm="noutrora" a="jaumeortola">        <i>noutrora</i><par n="agora__adv"/></e>
+<e lm="oc" a="jaumeortola">              <i>oc</i><par n="agora__adv"/></e>
+<e lm="oftalmologicamente" a="jaumeortola"><i>oftalmologicamente</i><par n="agora__adv"/></e>
+<e lm="oligarquicamente" a="jaumeortola"><i>oligarquicamente</i><par n="agora__adv"/></e>
+<e lm="omnimodamente" a="jaumeortola">   <i>omnimodamente</i><par n="agora__adv"/></e>
+<e lm="on-line" a="jaumeortola">         <i>on-line</i><par n="agora__adv"/></e>
+<e lm="oniricamente" a="jaumeortola">    <i>oniricamente</i><par n="agora__adv"/></e>
+<e lm="online" a="jaumeortola">          <i>online</i><par n="agora__adv"/></e>
+<e lm="ontologicamente" a="jaumeortola"> <i>ontologicamente</i><par n="agora__adv"/></e>
+<e lm="opiparamente" a="jaumeortola">    <i>opiparamente</i><par n="agora__adv"/></e>
+<e lm="ora" a="jaumeortola">             <i>ora</i><par n="agora__adv"/></e>
+<e lm="oratoriamente" a="jaumeortola">   <i>oratoriamente</i><par n="agora__adv"/></e>
+<e lm="ortograficamente" a="jaumeortola"><i>ortograficamente</i><par n="agora__adv"/></e>
+<e lm="ousadissimamente" a="jaumeortola"><i>ousadissimamente</i><par n="agora__adv"/></e>
+<e lm="outrossim" a="jaumeortola">       <i>outrossim</i><par n="agora__adv"/></e>
+<e lm="parasitariamente" a="jaumeortola"><i>parasitariamente</i><par n="agora__adv"/></e>
+<e lm="parcoviamente" a="jaumeortola">   <i>parcoviamente</i><par n="agora__adv"/></e>
+<e lm="paripateticamente" a="jaumeortola"><i>paripateticamente</i><par n="agora__adv"/></e>
+<e lm="paritariamente" a="jaumeortola">  <i>paritariamente</i><par n="agora__adv"/></e>
+<e lm="patologicamente" a="jaumeortola"> <i>patologicamente</i><par n="agora__adv"/></e>
+<e lm="patrioticamente" a="jaumeortola"> <i>patrioticamente</i><par n="agora__adv"/></e>
+<e lm="pauperrimamente" a="jaumeortola"> <i>pauperrimamente</i><par n="agora__adv"/></e>
+<e lm="pecuniariamente" a="jaumeortola"> <i>pecuniariamente</i><par n="agora__adv"/></e>
+<e lm="perdulariamente" a="jaumeortola"> <i>perdulariamente</i><par n="agora__adv"/></e>
+<e lm="perduramente" a="jaumeortola">    <i>perduramente</i><par n="agora__adv"/></e>
+<e lm="perecivelmente" a="jaumeortola">  <i>perecivelmente</i><par n="agora__adv"/></e>
+<e lm="peremptoriamente" a="jaumeortola"><i>peremptoriamente</i><par n="agora__adv"/></e>
+<e lm="perfidamente" a="jaumeortola">    <i>perfidamente</i><par n="agora__adv"/></e>
+<e lm="perfunctoriamente" a="jaumeortola"><i>perfunctoriamente</i><par n="agora__adv"/></e>
+<e lm="perifrasticamente" a="jaumeortola"><i>perifrasticamente</i><par n="agora__adv"/></e>
+<e lm="peripateticamente" a="jaumeortola"><i>peripateticamente</i><par n="agora__adv"/></e>
+<e lm="permeio" a="jaumeortola">         <i>permeio</i><par n="agora__adv"/></e>
+<e lm="permissivelmente" a="jaumeortola"><i>permissivelmente</i><par n="agora__adv"/></e>
+<e lm="persuadivelmente" a="jaumeortola"><i>persuadivelmente</i><par n="agora__adv"/></e>
+<e lm="picaramente" a="jaumeortola">     <i>picaramente</i><par n="agora__adv"/></e>
+<e lm="pifiamente" a="jaumeortola">      <i>pifiamente</i><par n="agora__adv"/></e>
+<e lm="pindericamente" a="jaumeortola">  <i>pindericamente</i><par n="agora__adv"/></e>
+<e lm="pirronicamente" a="jaumeortola">  <i>pirronicamente</i><par n="agora__adv"/></e>
+<e lm="planetariamente" a="jaumeortola"> <i>planetariamente</i><par n="agora__adv"/></e>
+<e lm="platonicamente" a="jaumeortola">  <i>platonicamente</i><par n="agora__adv"/></e>
+<e lm="plausivelmente" a="jaumeortola">  <i>plausivelmente</i><par n="agora__adv"/></e>
+<e lm="pleonasticamente" a="jaumeortola"><i>pleonasticamente</i><par n="agora__adv"/></e>
+<e lm="poligamicamente" a="jaumeortola"> <i>poligamicamente</i><par n="agora__adv"/></e>
+<e lm="porquê" a="jaumeortola">          <i>porquê</i><par n="agora__adv"/></e>
+<e lm="portuguesmente" a="jaumeortola">  <i>portuguesmente</i><par n="agora__adv"/></e>
+<e lm="posteriori" a="jaumeortola">      <i>posteriori</i><par n="agora__adv"/></e>
+<e lm="poucachinho" a="jaumeortola">     <i>poucachinho</i><par n="agora__adv"/></e>
+<e lm="poucochicho" a="jaumeortola">     <i>poucochicho</i><par n="agora__adv"/></e>
+<e lm="pragmaticamente" a="jaumeortola"> <i>pragmaticamente</i><par n="agora__adv"/></e>
+<e lm="precoce" a="jaumeortola">         <i>precoce</i><par n="agora__adv"/></e>
+<e lm="predizivelmente" a="jaumeortola"> <i>predizivelmente</i><par n="agora__adv"/></e>
+<e lm="premonitoriamente" a="jaumeortola"><i>premonitoriamente</i><par n="agora__adv"/></e>
+<e lm="prestavelmente" a="jaumeortola">  <i>prestavelmente</i><par n="agora__adv"/></e>
+<e lm="prestissimamente" a="jaumeortola"><i>prestissimamente</i><par n="agora__adv"/></e>
+<e lm="presto" a="jaumeortola">          <i>presto</i><par n="agora__adv"/></e>
+<e lm="presumivelmente" a="jaumeortola"> <i>presumivelmente</i><par n="agora__adv"/></e>
+<e lm="primo" a="jaumeortola">           <i>primo</i><par n="agora__adv"/></e>
+<e lm="prodigamente" a="jaumeortola">    <i>prodigamente</i><par n="agora__adv"/></e>
+<e lm="proficuamente" a="jaumeortola">   <i>proficuamente</i><par n="agora__adv"/></e>
+<e lm="programaticamente" a="jaumeortola"><i>programaticamente</i><par n="agora__adv"/></e>
+<e lm="promiscuamente" a="jaumeortola">  <i>promiscuamente</i><par n="agora__adv"/></e>
+<e lm="prosodicamente" a="jaumeortola">  <i>prosodicamente</i><par n="agora__adv"/></e>
+<e lm="proteladamente" a="jaumeortola">  <i>proteladamente</i><par n="agora__adv"/></e>
+<e lm="provisoriamente" a="jaumeortola"> <i>provisoriamente</i><par n="agora__adv"/></e>
+<e lm="próximo" a="jaumeortola">         <i>próximo</i><par n="agora__adv"/></e>
+<e lm="psicanaliticamente" a="jaumeortola"><i>psicanaliticamente</i><par n="agora__adv"/></e>
+<e lm="psicofisiologicamente" a="jaumeortola"><i>psicofisiologicamente</i><par n="agora__adv"/></e>
+<e lm="qualificativamente" a="jaumeortola"><i>qualificativamente</i><par n="agora__adv"/></e>
+<e lm="quanta" a="jaumeortola">          <i>quanta</i><par n="agora__adv"/></e>
+<e lm="questionavelmente" a="jaumeortola"><i>questionavelmente</i><par n="agora__adv"/></e>
+<e lm="quão" a="jaumeortola">            <i>quão</i><par n="agora__adv"/></e>
+<e lm="racicamente" a="jaumeortola">     <i>racicamente</i><par n="agora__adv"/></e>
+<e lm="rapidissimamente" a="jaumeortola"><i>rapidissimamente</i><par n="agora__adv"/></e>
+<e lm="rarissimamente" a="jaumeortola">  <i>rarissimamente</i><par n="agora__adv"/></e>
+<e lm="raso" a="jaumeortola">            <i>raso</i><par n="agora__adv"/></e>
+<e lm="reaccionariamente" a="jaumeortola"><i>reaccionariamente</i><par n="agora__adv"/></e>
+<e lm="realisticamente" a="jaumeortola"> <i>realisticamente</i><par n="agora__adv"/></e>
+<e lm="recolhimento" a="jaumeortola">    <i>recolhimento</i><par n="agora__adv"/></e>
+<e lm="reconhecivelmente" a="jaumeortola"><i>reconhecivelmente</i><par n="agora__adv"/></e>
+<e lm="refertadamente" a="jaumeortola">  <i>refertadamente</i><par n="agora__adv"/></e>
+<e lm="remuito" a="jaumeortola">         <i>remuito</i><par n="agora__adv"/></e>
+<e lm="repreensivelmente" a="jaumeortola"><i>repreensivelmente</i><par n="agora__adv"/></e>
+<e lm="reprovavelmente" a="jaumeortola"> <i>reprovavelmente</i><par n="agora__adv"/></e>
+<e lm="respeitavelmente" a="jaumeortola"><i>respeitavelmente</i><par n="agora__adv"/></e>
+<e lm="resvés" a="jaumeortola">          <i>resvés</i><par n="agora__adv"/></e>
+<e lm="retanto" a="jaumeortola">         <i>retanto</i><par n="agora__adv"/></e>
+<e lm="retraidamente" a="jaumeortola">   <i>retraidamente</i><par n="agora__adv"/></e>
+<e lm="returbantemente" a="jaumeortola"> <i>returbantemente</i><par n="agora__adv"/></e>
+<e lm="riquissimamente" a="jaumeortola"> <i>riquissimamente</i><par n="agora__adv"/></e>
+<e lm="risivelmente" a="jaumeortola">    <i>risivelmente</i><par n="agora__adv"/></e>
+<e lm="rispidamente" a="jaumeortola">    <i>rispidamente</i><par n="agora__adv"/></e>
+<e lm="ritmicamente" a="jaumeortola">    <i>ritmicamente</i><par n="agora__adv"/></e>
+<e lm="rápido" a="jaumeortola">          <i>rápido</i><par n="agora__adv"/></e>
+<e lm="rés" a="jaumeortola">             <i>rés</i><par n="agora__adv"/></e>
+<e lm="sadicamente" a="jaumeortola">     <i>sadicamente</i><par n="agora__adv"/></e>
+<e lm="salvo" a="jaumeortola">           <i>salvo</i><par n="agora__adv"/></e>
+<e lm="samicas" a="jaumeortola">         <i>samicas</i><par n="agora__adv"/></e>
+<e lm="sardonicamente" a="jaumeortola">  <i>sardonicamente</i><par n="agora__adv"/></e>
+<e lm="satanicamente" a="jaumeortola">   <i>satanicamente</i><par n="agora__adv"/></e>
+<e lm="satiricamente" a="jaumeortola">   <i>satiricamente</i><par n="agora__adv"/></e>
+<e lm="secreto" a="jaumeortola">         <i>secreto</i><par n="agora__adv"/></e>
+<e lm="sectariamente" a="jaumeortola">   <i>sectariamente</i><par n="agora__adv"/></e>
+<e lm="segundo" a="jaumeortola">         <i>segundo</i><par n="agora__adv"/></e>
+<e lm="selvaticamente" a="jaumeortola">  <i>selvaticamente</i><par n="agora__adv"/></e>
+<e lm="semanticamente" a="jaumeortola">  <i>semanticamente</i><par n="agora__adv"/></e>
+<e lm="senão" a="jaumeortola">           <i>senão</i><par n="agora__adv"/></e>
+<e lm="seraficamente" a="jaumeortola">   <i>seraficamente</i><par n="agora__adv"/></e>
+<e lm="serodiamente" a="jaumeortola">    <i>serodiamente</i><par n="agora__adv"/></e>
+<e lm="silabicamente" a="jaumeortola">   <i>silabicamente</i><par n="agora__adv"/></e>
+<e lm="simolicissimamente" a="jaumeortola"><i>simolicissimamente</i><par n="agora__adv"/></e>
+<e lm="simplicissimamente" a="jaumeortola"><i>simplicissimamente</i><par n="agora__adv"/></e>
+<e lm="sincronicamente" a="jaumeortola"> <i>sincronicamente</i><par n="agora__adv"/></e>
+<e lm="sinfonicamente" a="jaumeortola">  <i>sinfonicamente</i><par n="agora__adv"/></e>
+<e lm="sinonimicamente" a="jaumeortola"> <i>sinonimicamente</i><par n="agora__adv"/></e>
+<e lm="sintacticamente" a="jaumeortola"> <i>sintacticamente</i><par n="agora__adv"/></e>
+<e lm="sintagmaticamente" a="jaumeortola"><i>sintagmaticamente</i><par n="agora__adv"/></e>
+<e lm="sintomaticamente" a="jaumeortola"><i>sintomaticamente</i><par n="agora__adv"/></e>
+<e lm="sismologicamente" a="jaumeortola"><i>sismologicamente</i><par n="agora__adv"/></e>
+<e lm="sobemenda" a="jaumeortola">       <i>sobemenda</i><par n="agora__adv"/></e>
+<e lm="sobremodo" a="jaumeortola">       <i>sobremodo</i><par n="agora__adv"/></e>
+<e lm="sobreparto" a="jaumeortola">      <i>sobreparto</i><par n="agora__adv"/></e>
+<e lm="sobreteima" a="jaumeortola">      <i>sobreteima</i><par n="agora__adv"/></e>
+<e lm="sociologicamente" a="jaumeortola"><i>sociologicamente</i><par n="agora__adv"/></e>
+<e lm="sofisticamente" a="jaumeortola">  <i>sofisticamente</i><par n="agora__adv"/></e>
+<e lm="sofregamente" a="jaumeortola">    <i>sofregamente</i><par n="agora__adv"/></e>
+<e lm="sofrivelmente" a="jaumeortola">   <i>sofrivelmente</i><par n="agora__adv"/></e>
+<e lm="somaticamente" a="jaumeortola">   <i>somaticamente</i><par n="agora__adv"/></e>
+<e lm="sorumbaticamente" a="jaumeortola"><i>sorumbaticamente</i><par n="agora__adv"/></e>
+<e lm="subrepticiamente" a="jaumeortola"><i>subrepticiamente</i><par n="agora__adv"/></e>
+<e lm="sumariamente" a="jaumeortola">    <i>sumariamente</i><par n="agora__adv"/></e>
+<e lm="sumarissamente" a="jaumeortola">  <i>sumarissamente</i><par n="agora__adv"/></e>
+<e lm="superfluamente" a="jaumeortola">  <i>superfluamente</i><par n="agora__adv"/></e>
+<e lm="tacticamente" a="jaumeortola">    <i>tacticamente</i><par n="agora__adv"/></e>
+<e lm="tangivelmente" a="jaumeortola">   <i>tangivelmente</i><par n="agora__adv"/></e>
+<e lm="taquigraficamente" a="jaumeortola"><i>taquigraficamente</i><par n="agora__adv"/></e>
+<e lm="tautologicamente" a="jaumeortola"><i>tautologicamente</i><par n="agora__adv"/></e>
+<e lm="taxinomicamente" a="jaumeortola"> <i>taxinomicamente</i><par n="agora__adv"/></e>
+<e lm="taxionomicamente" a="jaumeortola"><i>taxionomicamente</i><par n="agora__adv"/></e>
+<e lm="taxonomicamente" a="jaumeortola"> <i>taxonomicamente</i><par n="agora__adv"/></e>
+<e lm="tectonicamente" a="jaumeortola">  <i>tectonicamente</i><par n="agora__adv"/></e>
+<e lm="telegraficamente" a="jaumeortola"><i>telegraficamente</i><par n="agora__adv"/></e>
+<e lm="telepaticamente" a="jaumeortola"> <i>telepaticamente</i><par n="agora__adv"/></e>
+<e lm="temerariamente" a="jaumeortola">  <i>temerariamente</i><par n="agora__adv"/></e>
+<e lm="temivelmente" a="jaumeortola">    <i>temivelmente</i><par n="agora__adv"/></e>
+<e lm="tenuemente" a="jaumeortola">      <i>tenuemente</i><par n="agora__adv"/></e>
+<e lm="tepidamente" a="jaumeortola">     <i>tepidamente</i><par n="agora__adv"/></e>
+<e lm="terrificamente" a="jaumeortola">  <i>terrificamente</i><par n="agora__adv"/></e>
+<e lm="tibiamente" a="jaumeortola">      <i>tibiamente</i><par n="agora__adv"/></e>
+<e lm="tipograficamente" a="jaumeortola"><i>tipograficamente</i><par n="agora__adv"/></e>
+<e lm="tiranicamente" a="jaumeortola">   <i>tiranicamente</i><par n="agora__adv"/></e>
+<e lm="todavia" a="jaumeortola">         <i>todavia</i><par n="agora__adv"/></e>
+<e lm="tolamente" a="jaumeortola">       <i>tolamente</i><par n="agora__adv"/></e>
+<e lm="topograficamente" a="jaumeortola"><i>topograficamente</i><par n="agora__adv"/></e>
+<e lm="toponimicamente" a="jaumeortola"> <i>toponimicamente</i><par n="agora__adv"/></e>
+<e lm="torto" a="jaumeortola">           <i>torto</i><par n="agora__adv"/></e>
+<e lm="trasantontem" a="jaumeortola">    <i>trasantontem</i><par n="agora__adv"/></e>
+<e lm="traumaticamente" a="jaumeortola"> <i>traumaticamente</i><par n="agora__adv"/></e>
+<e lm="trepidamente" a="jaumeortola">    <i>trepidamente</i><par n="agora__adv"/></e>
+<e lm="tresantontem" a="jaumeortola">    <i>tresantontem</i><par n="agora__adv"/></e>
+<e lm="trigonometricamente" a="jaumeortola"><i>trigonometricamente</i><par n="agora__adv"/></e>
+<e lm="tripetrepe" a="jaumeortola">      <i>tripetrepe</i><par n="agora__adv"/></e>
+<e lm="tumultuariamente" a="jaumeortola"><i>tumultuariamente</i><par n="agora__adv"/></e>
+<e lm="unânime" a="jaumeortola">         <i>unânime</i><par n="agora__adv"/></e>
+<e lm="urbanisticamente" a="jaumeortola"><i>urbanisticamente</i><par n="agora__adv"/></e>
+<e lm="usurariamente" a="jaumeortola">   <i>usurariamente</i><par n="agora__adv"/></e>
+<e lm="variamente" a="jaumeortola">      <i>variamente</i><par n="agora__adv"/></e>
+<e lm="vastissimamente" a="jaumeortola"> <i>vastissimamente</i><par n="agora__adv"/></e>
+<e lm="velocissimamente" a="jaumeortola"><i>velocissimamente</i><par n="agora__adv"/></e>
+<e lm="veridicamente" a="jaumeortola">   <i>veridicamente</i><par n="agora__adv"/></e>
+<e lm="vernaculamente" a="jaumeortola">  <i>vernaculamente</i><par n="agora__adv"/></e>
+<e lm="verosimilmente" a="jaumeortola">  <i>verosimilmente</i><par n="agora__adv"/></e>
+<e lm="zoologicamente" a="jaumeortola">  <i>zoologicamente</i><par n="agora__adv"/></e>
+<e lm="ínterim" a="jaumeortola">         <i>ínterim</i><par n="agora__adv"/></e>

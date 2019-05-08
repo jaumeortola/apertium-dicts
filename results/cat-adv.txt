@@ -1,0 +1,874 @@
+<e lm="abandonadament" a="jaumeortola">  <i>abandonadament</i><par n="a_on__adv"/></e>
+<e lm="abreviadament" a="jaumeortola">   <i>abreviadament</i><par n="a_on__adv"/></e>
+<e lm="abstinentment" a="jaumeortola">   <i>abstinentment</i><par n="a_on__adv"/></e>
+<e lm="abstractivament" a="jaumeortola"> <i>abstractivament</i><par n="a_on__adv"/></e>
+<e lm="abstrusament" a="jaumeortola">    <i>abstrusament</i><par n="a_on__adv"/></e>
+<e lm="aburgesadament" a="jaumeortola">  <i>aburgesadament</i><par n="a_on__adv"/></e>
+<e lm="acabat" a="jaumeortola">          <i>acabat</i><par n="a_on__adv"/></e>
+<e lm="aciençadament" a="jaumeortola">   <i>aciençadament</i><par n="a_on__adv"/></e>
+<e lm="acomodadament" a="jaumeortola">   <i>acomodadament</i><par n="a_on__adv"/></e>
+<e lm="acèrrimament" a="jaumeortola">    <i>acèrrimament</i><par n="a_on__adv"/></e>
+<e lm="adeleradament" a="jaumeortola">   <i>adeleradament</i><par n="a_on__adv"/></e>
+<e lm="adoloradament" a="jaumeortola">   <i>adoloradament</i><par n="a_on__adv"/></e>
+<e lm="adoloridament" a="jaumeortola">   <i>adoloridament</i><par n="a_on__adv"/></e>
+<e lm="adulatòriament" a="jaumeortola">  <i>adulatòriament</i><par n="a_on__adv"/></e>
+<e lm="adustament" a="jaumeortola">      <i>adustament</i><par n="a_on__adv"/></e>
+<e lm="adventíciament" a="jaumeortola">  <i>adventíciament</i><par n="a_on__adv"/></e>
+<e lm="adés" a="jaumeortola">            <i>adés</i><par n="a_on__adv"/></e>
+<e lm="afalagadorament" a="jaumeortola"> <i>afalagadorament</i><par n="a_on__adv"/></e>
+<e lm="afrontosament" a="jaumeortola">   <i>afrontosament</i><par n="a_on__adv"/></e>
+<e lm="agermanadament" a="jaumeortola">  <i>agermanadament</i><par n="a_on__adv"/></e>
+<e lm="agradosament" a="jaumeortola">    <i>agradosament</i><par n="a_on__adv"/></e>
+<e lm="ahí" a="jaumeortola">             <i>ahí</i><par n="a_on__adv"/></e>
+<e lm="aitambé" a="jaumeortola">         <i>aitambé</i><par n="a_on__adv"/></e>
+<e lm="aitampoc" a="jaumeortola">        <i>aitampoc</i><par n="a_on__adv"/></e>
+<e lm="aitan" a="jaumeortola">           <i>aitan</i><par n="a_on__adv"/></e>
+<e lm="aitant" a="jaumeortola">          <i>aitant</i><par n="a_on__adv"/></e>
+<e lm="aitantost" a="jaumeortola">       <i>aitantost</i><par n="a_on__adv"/></e>
+<e lm="aixà" a="jaumeortola">            <i>aixà</i><par n="a_on__adv"/></e>
+<e lm="almanco" a="jaumeortola">         <i>almanco</i><par n="a_on__adv"/></e>
+<e lm="almon" a="jaumeortola">           <i>almon</i><par n="a_on__adv"/></e>
+<e lm="almón" a="jaumeortola">           <i>almón</i><par n="a_on__adv"/></e>
+<e lm="alt" a="jaumeortola">             <i>alt</i><par n="a_on__adv"/></e>
+<e lm="altimètricament" a="jaumeortola"> <i>altimètricament</i><par n="a_on__adv"/></e>
+<e lm="altíssimament" a="jaumeortola">   <i>altíssimament</i><par n="a_on__adv"/></e>
+<e lm="amargosament" a="jaumeortola">    <i>amargosament</i><par n="a_on__adv"/></e>
+<e lm="amatentment" a="jaumeortola">     <i>amatentment</i><par n="a_on__adv"/></e>
+<e lm="amicalment" a="jaumeortola">      <i>amicalment</i><par n="a_on__adv"/></e>
+<e lm="amoixadorament" a="jaumeortola">  <i>amoixadorament</i><par n="a_on__adv"/></e>
+<e lm="ampul·losament" a="jaumeortola">  <i>ampul·losament</i><par n="a_on__adv"/></e>
+<e lm="anagògicament" a="jaumeortola">   <i>anagògicament</i><par n="a_on__adv"/></e>
+<e lm="anc" a="jaumeortola">             <i>anc</i><par n="a_on__adv"/></e>
+<e lm="anhelosament" a="jaumeortola">    <i>anhelosament</i><par n="a_on__adv"/></e>
+<e lm="antanyasses" a="jaumeortola">     <i>antanyasses</i><par n="a_on__adv"/></e>
+<e lm="antifràsticament" a="jaumeortola"><i>antifràsticament</i><par n="a_on__adv"/></e>
+<e lm="antiintuïtivament" a="jaumeortola"><i>antiintuïtivament</i><par n="a_on__adv"/></e>
+<e lm="antireglamentàriament" a="jaumeortola"><i>antireglamentàriament</i><par n="a_on__adv"/></e>
+<e lm="antitèticament" a="jaumeortola">  <i>antitèticament</i><par n="a_on__adv"/></e>
+<e lm="antiutòpicament" a="jaumeortola"> <i>antiutòpicament</i><par n="a_on__adv"/></e>
+<e lm="antonomàsticament" a="jaumeortola"><i>antonomàsticament</i><par n="a_on__adv"/></e>
+<e lm="anèmicament" a="jaumeortola">     <i>anèmicament</i><par n="a_on__adv"/></e>
+<e lm="apesaradament" a="jaumeortola">   <i>apesaradament</i><par n="a_on__adv"/></e>
+<e lm="apinyadament" a="jaumeortola">    <i>apinyadament</i><par n="a_on__adv"/></e>
+<e lm="apocalípticament" a="jaumeortola"><i>apocalípticament</i><par n="a_on__adv"/></e>
+<e lm="apostàticament" a="jaumeortola">  <i>apostàticament</i><par n="a_on__adv"/></e>
+<e lm="apoteòsicament" a="jaumeortola">  <i>apoteòsicament</i><par n="a_on__adv"/></e>
+<e lm="apressadament" a="jaumeortola">   <i>apressadament</i><par n="a_on__adv"/></e>
+<e lm="aprovatòriament" a="jaumeortola"> <i>aprovatòriament</i><par n="a_on__adv"/></e>
+<e lm="aprés" a="jaumeortola">           <i>aprés</i><par n="a_on__adv"/></e>
+<e lm="apòcrifament" a="jaumeortola">    <i>apòcrifament</i><par n="a_on__adv"/></e>
+<e lm="ardidament" a="jaumeortola">      <i>ardidament</i><par n="a_on__adv"/></e>
+<e lm="arguciosament" a="jaumeortola">   <i>arguciosament</i><par n="a_on__adv"/></e>
+<e lm="arran" a="jaumeortola">           <i>arran</i><par n="a_on__adv"/></e>
+<e lm="arredonidament" a="jaumeortola">  <i>arredonidament</i><par n="a_on__adv"/></e>
+<e lm="arrodonidament" a="jaumeortola">  <i>arrodonidament</i><par n="a_on__adv"/></e>
+<e lm="arrossinadament" a="jaumeortola"> <i>arrossinadament</i><par n="a_on__adv"/></e>
+<e lm="asexuadament" a="jaumeortola">    <i>asexuadament</i><par n="a_on__adv"/></e>
+<e lm="asseguradament" a="jaumeortola">  <i>asseguradament</i><par n="a_on__adv"/></e>
+<e lm="assenyaladament" a="jaumeortola"> <i>assenyaladament</i><par n="a_on__adv"/></e>
+<e lm="assumadament" a="jaumeortola">    <i>assumadament</i><par n="a_on__adv"/></e>
+<e lm="atapidament" a="jaumeortola">     <i>atapidament</i><par n="a_on__adv"/></e>
+<e lm="atorrolladament" a="jaumeortola"> <i>atorrolladament</i><par n="a_on__adv"/></e>
+<e lm="atressí" a="jaumeortola">         <i>atressí</i><par n="a_on__adv"/></e>
+<e lm="atrevidament" a="jaumeortola">    <i>atrevidament</i><par n="a_on__adv"/></e>
+<e lm="atrotinadament" a="jaumeortola">  <i>atrotinadament</i><par n="a_on__adv"/></e>
+<e lm="ausades" a="jaumeortola">         <i>ausades</i><par n="a_on__adv"/></e>
+<e lm="autodidàcticament" a="jaumeortola"><i>autodidàcticament</i><par n="a_on__adv"/></e>
+<e lm="avergonyidament" a="jaumeortola"> <i>avergonyidament</i><par n="a_on__adv"/></e>
+<e lm="avinentment" a="jaumeortola">     <i>avinentment</i><par n="a_on__adv"/></e>
+<e lm="axiomàticament" a="jaumeortola">  <i>axiomàticament</i><par n="a_on__adv"/></e>
+<e lm="baixament" a="jaumeortola">       <i>baixament</i><par n="a_on__adv"/></e>
+<e lm="balandrim-balandram" a="jaumeortola"><i>balandrim-balandram</i><par n="a_on__adv"/></e>
+<e lm="balderament" a="jaumeortola">     <i>balderament</i><par n="a_on__adv"/></e>
+<e lm="banzim-banzam" a="jaumeortola">   <i>banzim-banzam</i><par n="a_on__adv"/></e>
+<e lm="barbàricament" a="jaumeortola">   <i>barbàricament</i><par n="a_on__adv"/></e>
+<e lm="baronívolament" a="jaumeortola">  <i>baronívolament</i><par n="a_on__adv"/></e>
+<e lm="barrim-barram" a="jaumeortola">   <i>barrim-barram</i><par n="a_on__adv"/></e>
+<e lm="barrip-barrap" a="jaumeortola">   <i>barrip-barrap</i><par n="a_on__adv"/></e>
+<e lm="barrocament" a="jaumeortola">     <i>barrocament</i><par n="a_on__adv"/></e>
+<e lm="bastantment" a="jaumeortola">     <i>bastantment</i><par n="a_on__adv"/></e>
+<e lm="bel·licorosament" a="jaumeortola"><i>bel·licorosament</i><par n="a_on__adv"/></e>
+<e lm="bel·licosament" a="jaumeortola">  <i>bel·licosament</i><par n="a_on__adv"/></e>
+<e lm="ben" a="jaumeortola">             <i>ben</i><par n="a_on__adv"/></e>
+<e lm="benaventuradament" a="jaumeortola"><i>benaventuradament</i><par n="a_on__adv"/></e>
+<e lm="benaventurosament" a="jaumeortola"><i>benaventurosament</i><par n="a_on__adv"/></e>
+<e lm="beníssim" a="jaumeortola">        <i>beníssim</i><par n="a_on__adv"/></e>
+<e lm="bis" a="jaumeortola">             <i>bis</i><par n="a_on__adv"/></e>
+<e lm="bitlo-bitlo" a="jaumeortola">     <i>bitlo-bitlo</i><par n="a_on__adv"/></e>
+<e lm="bledanament" a="jaumeortola">     <i>bledanament</i><par n="a_on__adv"/></e>
+<e lm="boirosament" a="jaumeortola">     <i>boirosament</i><par n="a_on__adv"/></e>
+<e lm="bondadosament" a="jaumeortola">   <i>bondadosament</i><par n="a_on__adv"/></e>
+<e lm="borrascosament" a="jaumeortola">  <i>borrascosament</i><par n="a_on__adv"/></e>
+<e lm="borruix-borruix" a="jaumeortola"> <i>borruix-borruix</i><par n="a_on__adv"/></e>
+<e lm="braument" a="jaumeortola">        <i>braument</i><par n="a_on__adv"/></e>
+<e lm="brogidosament" a="jaumeortola">   <i>brogidosament</i><par n="a_on__adv"/></e>
+<e lm="brut" a="jaumeortola">            <i>brut</i><par n="a_on__adv"/></e>
+<e lm="bròfegament" a="jaumeortola">     <i>bròfegament</i><par n="a_on__adv"/></e>
+<e lm="burlescament" a="jaumeortola">    <i>burlescament</i><par n="a_on__adv"/></e>
+<e lm="cabalísticament" a="jaumeortola"> <i>cabalísticament</i><par n="a_on__adv"/></e>
+<e lm="cadenciosament" a="jaumeortola">  <i>cadenciosament</i><par n="a_on__adv"/></e>
+<e lm="calamitosament" a="jaumeortola">  <i>calamitosament</i><par n="a_on__adv"/></e>
+<e lm="calculadament" a="jaumeortola">   <i>calculadament</i><par n="a_on__adv"/></e>
+<e lm="calmosament" a="jaumeortola">     <i>calmosament</i><par n="a_on__adv"/></e>
+<e lm="caninament" a="jaumeortola">      <i>caninament</i><par n="a_on__adv"/></e>
+<e lm="cançonerament" a="jaumeortola">   <i>cançonerament</i><par n="a_on__adv"/></e>
+<e lm="capitalment" a="jaumeortola">     <i>capitalment</i><par n="a_on__adv"/></e>
+<e lm="capitularment" a="jaumeortola">   <i>capitularment</i><par n="a_on__adv"/></e>
+<e lm="capriciosament" a="jaumeortola">  <i>capriciosament</i><par n="a_on__adv"/></e>
+<e lm="car" a="jaumeortola">             <i>car</i><par n="a_on__adv"/></e>
+<e lm="carrinclonament" a="jaumeortola"> <i>carrinclonament</i><par n="a_on__adv"/></e>
+<e lm="cavallerescament" a="jaumeortola"><i>cavallerescament</i><par n="a_on__adv"/></e>
+<e lm="cavallerívolament" a="jaumeortola"><i>cavallerívolament</i><par n="a_on__adv"/></e>
+<e lm="cientment" a="jaumeortola">       <i>cientment</i><par n="a_on__adv"/></e>
+<e lm="circumspectament" a="jaumeortola"><i>circumspectament</i><par n="a_on__adv"/></e>
+<e lm="cismàticament" a="jaumeortola">   <i>cismàticament</i><par n="a_on__adv"/></e>
+<e lm="coetàniament" a="jaumeortola">    <i>coetàniament</i><par n="a_on__adv"/></e>
+<e lm="cofoiament" a="jaumeortola">      <i>cofoiament</i><par n="a_on__adv"/></e>
+<e lm="coixim-coixam" a="jaumeortola">   <i>coixim-coixam</i><par n="a_on__adv"/></e>
+<e lm="colpidorament" a="jaumeortola">   <i>colpidorament</i><par n="a_on__adv"/></e>
+<e lm="completivament" a="jaumeortola">  <i>completivament</i><par n="a_on__adv"/></e>
+<e lm="complimentosament" a="jaumeortola"><i>complimentosament</i><par n="a_on__adv"/></e>
+<e lm="comportablement" a="jaumeortola"> <i>comportablement</i><par n="a_on__adv"/></e>
+<e lm="compostament" a="jaumeortola">    <i>compostament</i><par n="a_on__adv"/></e>
+<e lm="comsevulla" a="jaumeortola">      <i>comsevulla</i><par n="a_on__adv"/></e>
+<e lm="conciliablement" a="jaumeortola"> <i>conciliablement</i><par n="a_on__adv"/></e>
+<e lm="conciliarment" a="jaumeortola">   <i>conciliarment</i><par n="a_on__adv"/></e>
+<e lm="concitadament" a="jaumeortola">   <i>concitadament</i><par n="a_on__adv"/></e>
+<e lm="concordadament" a="jaumeortola">  <i>concordadament</i><par n="a_on__adv"/></e>
+<e lm="concupiscentment" a="jaumeortola"><i>concupiscentment</i><par n="a_on__adv"/></e>
+<e lm="condecentment" a="jaumeortola">   <i>condecentment</i><par n="a_on__adv"/></e>
+<e lm="condicionadament" a="jaumeortola"><i>condicionadament</i><par n="a_on__adv"/></e>
+<e lm="condignament" a="jaumeortola">    <i>condignament</i><par n="a_on__adv"/></e>
+<e lm="confederadament" a="jaumeortola"> <i>confederadament</i><par n="a_on__adv"/></e>
+<e lm="conformadament" a="jaumeortola">  <i>conformadament</i><par n="a_on__adv"/></e>
+<e lm="conjecturablement" a="jaumeortola"><i>conjecturablement</i><par n="a_on__adv"/></e>
+<e lm="conjecturalment" a="jaumeortola"> <i>conjecturalment</i><par n="a_on__adv"/></e>
+<e lm="connaturalment" a="jaumeortola">  <i>connaturalment</i><par n="a_on__adv"/></e>
+<e lm="connexament" a="jaumeortola">     <i>connexament</i><par n="a_on__adv"/></e>
+<e lm="conscienciosament" a="jaumeortola"><i>conscienciosament</i><par n="a_on__adv"/></e>
+<e lm="consirosament" a="jaumeortola">   <i>consirosament</i><par n="a_on__adv"/></e>
+<e lm="constretament" a="jaumeortola">   <i>constretament</i><par n="a_on__adv"/></e>
+<e lm="contagiosament" a="jaumeortola">  <i>contagiosament</i><par n="a_on__adv"/></e>
+<e lm="contraintuïtivament" a="jaumeortola"><i>contraintuïtivament</i><par n="a_on__adv"/></e>
+<e lm="contritament" a="jaumeortola">    <i>contritament</i><par n="a_on__adv"/></e>
+<e lm="contumaçment" a="jaumeortola">    <i>contumaçment</i><par n="a_on__adv"/></e>
+<e lm="contumeliosament" a="jaumeortola"><i>contumeliosament</i><par n="a_on__adv"/></e>
+<e lm="conventualment" a="jaumeortola">  <i>conventualment</i><par n="a_on__adv"/></e>
+<e lm="convulsivament" a="jaumeortola">  <i>convulsivament</i><par n="a_on__adv"/></e>
+<e lm="coquetament" a="jaumeortola">     <i>coquetament</i><par n="a_on__adv"/></e>
+<e lm="correccionalment" a="jaumeortola"><i>correccionalment</i><par n="a_on__adv"/></e>
+<e lm="cotet-cotet" a="jaumeortola">     <i>cotet-cotet</i><par n="a_on__adv"/></e>
+<e lm="criminosament" a="jaumeortola">   <i>criminosament</i><par n="a_on__adv"/></e>
+<e lm="cristianament" a="jaumeortola">   <i>cristianament</i><par n="a_on__adv"/></e>
+<e lm="cronomètricament" a="jaumeortola"><i>cronomètricament</i><par n="a_on__adv"/></e>
+<e lm="cuitadament" a="jaumeortola">     <i>cuitadament</i><par n="a_on__adv"/></e>
+<e lm="cuitosament" a="jaumeortola">     <i>cuitosament</i><par n="a_on__adv"/></e>
+<e lm="culinàriament" a="jaumeortola">   <i>culinàriament</i><par n="a_on__adv"/></e>
+<e lm="cumulativament" a="jaumeortola">  <i>cumulativament</i><par n="a_on__adv"/></e>
+<e lm="curialment" a="jaumeortola">      <i>curialment</i><par n="a_on__adv"/></e>
+<e lm="curt" a="jaumeortola">            <i>curt</i><par n="a_on__adv"/></e>
+<e lm="daixo-daixo" a="jaumeortola">     <i>daixo-daixo</i><par n="a_on__adv"/></e>
+<e lm="daltabaix" a="jaumeortola">       <i>daltabaix</i><par n="a_on__adv"/></e>
+<e lm="damnablement" a="jaumeortola">    <i>damnablement</i><par n="a_on__adv"/></e>
+<e lm="danyosament" a="jaumeortola">     <i>danyosament</i><par n="a_on__adv"/></e>
+<e lm="declamatòriament" a="jaumeortola"><i>declamatòriament</i><par n="a_on__adv"/></e>
+<e lm="dedins" a="jaumeortola">          <i>dedins</i><par n="a_on__adv"/></e>
+<e lm="deferentment" a="jaumeortola">    <i>deferentment</i><par n="a_on__adv"/></e>
+<e lm="defora" a="jaumeortola">          <i>defora</i><par n="a_on__adv"/></e>
+<e lm="dejorn" a="jaumeortola">          <i>dejorn</i><par n="a_on__adv"/></e>
+<e lm="dejús" a="jaumeortola">           <i>dejús</i><par n="a_on__adv"/></e>
+<e lm="delerosament" a="jaumeortola">    <i>delerosament</i><par n="a_on__adv"/></e>
+<e lm="delitablement" a="jaumeortola">   <i>delitablement</i><par n="a_on__adv"/></e>
+<e lm="delitosament" a="jaumeortola">    <i>delitosament</i><par n="a_on__adv"/></e>
+<e lm="delusòriament" a="jaumeortola">   <i>delusòriament</i><par n="a_on__adv"/></e>
+<e lm="demesiadament" a="jaumeortola">   <i>demesiadament</i><par n="a_on__adv"/></e>
+<e lm="demés" a="jaumeortola">           <i>demés</i><par n="a_on__adv"/></e>
+<e lm="denigrativament" a="jaumeortola"> <i>denigrativament</i><par n="a_on__adv"/></e>
+<e lm="denominativament" a="jaumeortola"><i>denominativament</i><par n="a_on__adv"/></e>
+<e lm="dependentment" a="jaumeortola">   <i>dependentment</i><par n="a_on__adv"/></e>
+<e lm="derisòriament" a="jaumeortola">   <i>derisòriament</i><par n="a_on__adv"/></e>
+<e lm="desaconselladament" a="jaumeortola"><i>desaconselladament</i><par n="a_on__adv"/></e>
+<e lm="desacordadament" a="jaumeortola"> <i>desacordadament</i><par n="a_on__adv"/></e>
+<e lm="desacuradament" a="jaumeortola">  <i>desacuradament</i><par n="a_on__adv"/></e>
+<e lm="desagraïdament" a="jaumeortola">  <i>desagraïdament</i><par n="a_on__adv"/></e>
+<e lm="desapiadadament" a="jaumeortola"> <i>desapiadadament</i><par n="a_on__adv"/></e>
+<e lm="desaprofitadament" a="jaumeortola"><i>desaprofitadament</i><par n="a_on__adv"/></e>
+<e lm="desarticuladament" a="jaumeortola"><i>desarticuladament</i><par n="a_on__adv"/></e>
+<e lm="desastrugament" a="jaumeortola">  <i>desastrugament</i><par n="a_on__adv"/></e>
+<e lm="desballestadament" a="jaumeortola"><i>desballestadament</i><par n="a_on__adv"/></e>
+<e lm="descabdelladament" a="jaumeortola"><i>descabdelladament</i><par n="a_on__adv"/></e>
+<e lm="descarreradament" a="jaumeortola"><i>descarreradament</i><par n="a_on__adv"/></e>
+<e lm="descompostament" a="jaumeortola"> <i>descompostament</i><par n="a_on__adv"/></e>
+<e lm="desconegudament" a="jaumeortola"> <i>desconegudament</i><par n="a_on__adv"/></e>
+<e lm="desconeixentment" a="jaumeortola"><i>desconeixentment</i><par n="a_on__adv"/></e>
+<e lm="desconhortadament" a="jaumeortola"><i>desconhortadament</i><par n="a_on__adv"/></e>
+<e lm="desconvenientment" a="jaumeortola"><i>desconvenientment</i><par n="a_on__adv"/></e>
+<e lm="descordadament" a="jaumeortola">  <i>descordadament</i><par n="a_on__adv"/></e>
+<e lm="descurosament" a="jaumeortola">   <i>descurosament</i><par n="a_on__adv"/></e>
+<e lm="deseixidament" a="jaumeortola">   <i>deseixidament</i><par n="a_on__adv"/></e>
+<e lm="desencaminadament" a="jaumeortola"><i>desencaminadament</i><par n="a_on__adv"/></e>
+<e lm="desencoratjadament" a="jaumeortola"><i>desencoratjadament</i><par n="a_on__adv"/></e>
+<e lm="desenganyadament" a="jaumeortola"><i>desenganyadament</i><par n="a_on__adv"/></e>
+<e lm="desesperadorament" a="jaumeortola"><i>desesperadorament</i><par n="a_on__adv"/></e>
+<e lm="desficaciadament" a="jaumeortola"><i>desficaciadament</i><par n="a_on__adv"/></e>
+<e lm="desficiosament" a="jaumeortola">  <i>desficiosament</i><par n="a_on__adv"/></e>
+<e lm="desfregadament" a="jaumeortola">  <i>desfregadament</i><par n="a_on__adv"/></e>
+<e lm="desidiosament" a="jaumeortola">   <i>desidiosament</i><par n="a_on__adv"/></e>
+<e lm="desimboltament" a="jaumeortola">  <i>desimboltament</i><par n="a_on__adv"/></e>
+<e lm="desmoderadament" a="jaumeortola"> <i>desmoderadament</i><par n="a_on__adv"/></e>
+<e lm="desoladament" a="jaumeortola">    <i>desoladament</i><par n="a_on__adv"/></e>
+<e lm="despiadadament" a="jaumeortola">  <i>despiadadament</i><par n="a_on__adv"/></e>
+<e lm="desplaentment" a="jaumeortola">   <i>desplaentment</i><par n="a_on__adv"/></e>
+<e lm="desplegadament" a="jaumeortola">  <i>desplegadament</i><par n="a_on__adv"/></e>
+<e lm="dessobre" a="jaumeortola">        <i>dessobre</i><par n="a_on__adv"/></e>
+<e lm="dessota" a="jaumeortola">         <i>dessota</i><par n="a_on__adv"/></e>
+<e lm="dessús" a="jaumeortola">          <i>dessús</i><par n="a_on__adv"/></e>
+<e lm="destempradament" a="jaumeortola"> <i>destempradament</i><par n="a_on__adv"/></e>
+<e lm="destrellatadament" a="jaumeortola"><i>destrellatadament</i><par n="a_on__adv"/></e>
+<e lm="destrempadament" a="jaumeortola"> <i>destrempadament</i><par n="a_on__adv"/></e>
+<e lm="desusadament" a="jaumeortola">    <i>desusadament</i><par n="a_on__adv"/></e>
+<e lm="desvanidament" a="jaumeortola">   <i>desvanidament</i><par n="a_on__adv"/></e>
+<e lm="deçà" a="jaumeortola">            <i>deçà</i><par n="a_on__adv"/></e>
+<e lm="diatònicament" a="jaumeortola">   <i>diatònicament</i><par n="a_on__adv"/></e>
+<e lm="directe" a="jaumeortola">         <i>directe</i><par n="a_on__adv"/></e>
+<e lm="disculpablement" a="jaumeortola"> <i>disculpablement</i><par n="a_on__adv"/></e>
+<e lm="discutidament" a="jaumeortola">   <i>discutidament</i><par n="a_on__adv"/></e>
+<e lm="disgregadament" a="jaumeortola">  <i>disgregadament</i><par n="a_on__adv"/></e>
+<e lm="disgustadament" a="jaumeortola">  <i>disgustadament</i><par n="a_on__adv"/></e>
+<e lm="displicentment" a="jaumeortola">  <i>displicentment</i><par n="a_on__adv"/></e>
+<e lm="dispositivament" a="jaumeortola"> <i>dispositivament</i><par n="a_on__adv"/></e>
+<e lm="dissemblantment" a="jaumeortola"> <i>dissemblantment</i><par n="a_on__adv"/></e>
+<e lm="dissipadament" a="jaumeortola">   <i>dissipadament</i><par n="a_on__adv"/></e>
+<e lm="ditiràmbicament" a="jaumeortola"> <i>ditiràmbicament</i><par n="a_on__adv"/></e>
+<e lm="divinalment" a="jaumeortola">     <i>divinalment</i><par n="a_on__adv"/></e>
+<e lm="doctrinàriament" a="jaumeortola"> <i>doctrinàriament</i><par n="a_on__adv"/></e>
+<e lm="doncs" a="jaumeortola">           <i>doncs</i><par n="a_on__adv"/></e>
+<e lm="dreturerament" a="jaumeortola">   <i>dreturerament</i><par n="a_on__adv"/></e>
+<e lm="duplicadament" a="jaumeortola">   <i>duplicadament</i><par n="a_on__adv"/></e>
+<e lm="eclesialment" a="jaumeortola">    <i>eclesialment</i><par n="a_on__adv"/></e>
+<e lm="ecumènicament" a="jaumeortola">   <i>ecumènicament</i><par n="a_on__adv"/></e>
+<e lm="efímerament" a="jaumeortola">     <i>efímerament</i><par n="a_on__adv"/></e>
+<e lm="eixorcament" a="jaumeortola">     <i>eixorcament</i><par n="a_on__adv"/></e>
+<e lm="electivament" a="jaumeortola">    <i>electivament</i><par n="a_on__adv"/></e>
+<e lm="eli-eli" a="jaumeortola">         <i>eli-eli</i><par n="a_on__adv"/></e>
+<e lm="embrolladament" a="jaumeortola">  <i>embrolladament</i><par n="a_on__adv"/></e>
+<e lm="embulladament" a="jaumeortola">   <i>embulladament</i><par n="a_on__adv"/></e>
+<e lm="emocionadament" a="jaumeortola">  <i>emocionadament</i><par n="a_on__adv"/></e>
+<e lm="emperò" a="jaumeortola">          <i>emperò</i><par n="a_on__adv"/></e>
+<e lm="enans" a="jaumeortola">           <i>enans</i><par n="a_on__adv"/></e>
+<e lm="enant" a="jaumeortola">           <i>enant</i><par n="a_on__adv"/></e>
+<e lm="encollidament" a="jaumeortola">   <i>encollidament</i><par n="a_on__adv"/></e>
+<e lm="encontinent" a="jaumeortola">     <i>encontinent</i><par n="a_on__adv"/></e>
+<e lm="endalt" a="jaumeortola">          <i>endalt</i><par n="a_on__adv"/></e>
+<e lm="endarrer" a="jaumeortola">        <i>endarrer</i><par n="a_on__adv"/></e>
+<e lm="endarrere" a="jaumeortola">       <i>endarrere</i><par n="a_on__adv"/></e>
+<e lm="endemés" a="jaumeortola">         <i>endemés</i><par n="a_on__adv"/></e>
+<e lm="endiabladament" a="jaumeortola">  <i>endiabladament</i><par n="a_on__adv"/></e>
+<e lm="endintre" a="jaumeortola">        <i>endintre</i><par n="a_on__adv"/></e>
+<e lm="endret" a="jaumeortola">          <i>endret</i><par n="a_on__adv"/></e>
+<e lm="endreçadament" a="jaumeortola">   <i>endreçadament</i><par n="a_on__adv"/></e>
+<e lm="enemigament" a="jaumeortola">     <i>enemigament</i><par n="a_on__adv"/></e>
+<e lm="enfadosament" a="jaumeortola">    <i>enfadosament</i><par n="a_on__adv"/></e>
+<e lm="enganosament" a="jaumeortola">    <i>enganosament</i><par n="a_on__adv"/></e>
+<e lm="engir" a="jaumeortola">           <i>engir</i><par n="a_on__adv"/></e>
+<e lm="enguanyasses" a="jaumeortola">    <i>enguanyasses</i><par n="a_on__adv"/></e>
+<e lm="enjamai" a="jaumeortola">         <i>enjamai</i><par n="a_on__adv"/></e>
+<e lm="enjogassadament" a="jaumeortola"> <i>enjogassadament</i><par n="a_on__adv"/></e>
+<e lm="enjondre" a="jaumeortola">        <i>enjondre</i><par n="a_on__adv"/></e>
+<e lm="enjorn" a="jaumeortola">          <i>enjorn</i><par n="a_on__adv"/></e>
+<e lm="enjòlit" a="jaumeortola">         <i>enjòlit</i><par n="a_on__adv"/></e>
+<e lm="enjús" a="jaumeortola">           <i>enjús</i><par n="a_on__adv"/></e>
+<e lm="enlhora" a="jaumeortola">         <i>enlhora</i><par n="a_on__adv"/></e>
+<e lm="enllanet" a="jaumeortola">        <i>enllanet</i><par n="a_on__adv"/></e>
+<e lm="enllà-ahir" a="jaumeortola">      <i>enllà-ahir</i><par n="a_on__adv"/></e>
+<e lm="enraonadament" a="jaumeortola">   <i>enraonadament</i><par n="a_on__adv"/></e>
+<e lm="enrassat" a="jaumeortola">        <i>enrassat</i><par n="a_on__adv"/></e>
+<e lm="enrevessadament" a="jaumeortola"> <i>enrevessadament</i><par n="a_on__adv"/></e>
+<e lm="ensems" a="jaumeortola">          <i>ensems</i><par n="a_on__adv"/></e>
+<e lm="ensota" a="jaumeortola">          <i>ensota</i><par n="a_on__adv"/></e>
+<e lm="ensús" a="jaumeortola">           <i>ensús</i><par n="a_on__adv"/></e>
+<e lm="envides" a="jaumeortola">         <i>envides</i><par n="a_on__adv"/></e>
+<e lm="enviró" a="jaumeortola">          <i>enviró</i><par n="a_on__adv"/></e>
+<e lm="envitricolladament" a="jaumeortola"><i>envitricolladament</i><par n="a_on__adv"/></e>
+<e lm="enxampurradament" a="jaumeortola"><i>enxampurradament</i><par n="a_on__adv"/></e>
+<e lm="ençà" a="jaumeortola">            <i>ençà</i><par n="a_on__adv"/></e>
+<e lm="epidèmicament" a="jaumeortola">   <i>epidèmicament</i><par n="a_on__adv"/></e>
+<e lm="epigramàticament" a="jaumeortola"><i>epigramàticament</i><par n="a_on__adv"/></e>
+<e lm="equablement" a="jaumeortola">     <i>equablement</i><par n="a_on__adv"/></e>
+<e lm="eremíticament" a="jaumeortola">   <i>eremíticament</i><par n="a_on__adv"/></e>
+<e lm="escadusserament" a="jaumeortola"> <i>escadusserament</i><par n="a_on__adv"/></e>
+<e lm="escarafallosament" a="jaumeortola"><i>escarafallosament</i><par n="a_on__adv"/></e>
+<e lm="escarransidament" a="jaumeortola"><i>escarransidament</i><par n="a_on__adv"/></e>
+<e lm="escarrassadament" a="jaumeortola"><i>escarrassadament</i><par n="a_on__adv"/></e>
+<e lm="escenogràficament" a="jaumeortola"><i>escenogràficament</i><par n="a_on__adv"/></e>
+<e lm="esglaonadament" a="jaumeortola">  <i>esglaonadament</i><par n="a_on__adv"/></e>
+<e lm="espaiadament" a="jaumeortola">    <i>espaiadament</i><par n="a_on__adv"/></e>
+<e lm="espantablement" a="jaumeortola">  <i>espantablement</i><par n="a_on__adv"/></e>
+<e lm="espaordiblement" a="jaumeortola"> <i>espaordiblement</i><par n="a_on__adv"/></e>
+<e lm="esparpalladament" a="jaumeortola"><i>esparpalladament</i><par n="a_on__adv"/></e>
+<e lm="esparpilladament" a="jaumeortola"><i>esparpilladament</i><par n="a_on__adv"/></e>
+<e lm="esparracadament" a="jaumeortola"> <i>esparracadament</i><par n="a_on__adv"/></e>
+<e lm="esparsament" a="jaumeortola">     <i>esparsament</i><par n="a_on__adv"/></e>
+<e lm="esparveradament" a="jaumeortola"> <i>esparveradament</i><par n="a_on__adv"/></e>
+<e lm="espaventablement" a="jaumeortola"><i>espaventablement</i><par n="a_on__adv"/></e>
+<e lm="espaventosament" a="jaumeortola"> <i>espaventosament</i><par n="a_on__adv"/></e>
+<e lm="especiosament" a="jaumeortola">   <i>especiosament</i><par n="a_on__adv"/></e>
+<e lm="espeleològicament" a="jaumeortola"><i>espeleològicament</i><par n="a_on__adv"/></e>
+<e lm="espellifadament" a="jaumeortola"> <i>espellifadament</i><par n="a_on__adv"/></e>
+<e lm="esperitadament" a="jaumeortola">  <i>esperitadament</i><par n="a_on__adv"/></e>
+<e lm="esperonadament" a="jaumeortola">  <i>esperonadament</i><par n="a_on__adv"/></e>
+<e lm="esponerosament" a="jaumeortola">  <i>esponerosament</i><par n="a_on__adv"/></e>
+<e lm="esprimatxadament" a="jaumeortola"><i>esprimatxadament</i><par n="a_on__adv"/></e>
+<e lm="esqueixadament" a="jaumeortola">  <i>esqueixadament</i><par n="a_on__adv"/></e>
+<e lm="esquifidament" a="jaumeortola">   <i>esquifidament</i><par n="a_on__adv"/></e>
+<e lm="estenogràficament" a="jaumeortola"><i>estenogràficament</i><par n="a_on__adv"/></e>
+<e lm="estilogràficament" a="jaumeortola"><i>estilogràficament</i><par n="a_on__adv"/></e>
+<e lm="estordidament" a="jaumeortola">   <i>estordidament</i><par n="a_on__adv"/></e>
+<e lm="estroncadament" a="jaumeortola">  <i>estroncadament</i><par n="a_on__adv"/></e>
+<e lm="estrènuament" a="jaumeortola">    <i>estrènuament</i><par n="a_on__adv"/></e>
+<e lm="estultament" a="jaumeortola">     <i>estultament</i><par n="a_on__adv"/></e>
+<e lm="esvalotadament" a="jaumeortola">  <i>esvalotadament</i><par n="a_on__adv"/></e>
+<e lm="eternalment" a="jaumeortola">     <i>eternalment</i><par n="a_on__adv"/></e>
+<e lm="eufònicament" a="jaumeortola">    <i>eufònicament</i><par n="a_on__adv"/></e>
+<e lm="eurítmicament" a="jaumeortola">   <i>eurítmicament</i><par n="a_on__adv"/></e>
+<e lm="exagerativament" a="jaumeortola"> <i>exagerativament</i><par n="a_on__adv"/></e>
+<e lm="execrablement" a="jaumeortola">   <i>execrablement</i><par n="a_on__adv"/></e>
+<e lm="exiguament" a="jaumeortola">      <i>exiguament</i><par n="a_on__adv"/></e>
+<e lm="exitosament" a="jaumeortola">     <i>exitosament</i><par n="a_on__adv"/></e>
+<e lm="exprés" a="jaumeortola">          <i>exprés</i><par n="a_on__adv"/></e>
+<e lm="extremosament" a="jaumeortola">   <i>extremosament</i><par n="a_on__adv"/></e>
+<e lm="facciosament" a="jaumeortola">    <i>facciosament</i><par n="a_on__adv"/></e>
+<e lm="faceciosament" a="jaumeortola">   <i>faceciosament</i><par n="a_on__adv"/></e>
+<e lm="factíciament" a="jaumeortola">    <i>factíciament</i><par n="a_on__adv"/></e>
+<e lm="facundiosament" a="jaumeortola">  <i>facundiosament</i><par n="a_on__adv"/></e>
+<e lm="fadament" a="jaumeortola">        <i>fadament</i><par n="a_on__adv"/></e>
+<e lm="falaguerament" a="jaumeortola">   <i>falaguerament</i><par n="a_on__adv"/></e>
+<e lm="fal·laciosament" a="jaumeortola"> <i>fal·laciosament</i><par n="a_on__adv"/></e>
+<e lm="famèlicament" a="jaumeortola">    <i>famèlicament</i><par n="a_on__adv"/></e>
+<e lm="fastijosament" a="jaumeortola">   <i>fastijosament</i><par n="a_on__adv"/></e>
+<e lm="faustament" a="jaumeortola">      <i>faustament</i><par n="a_on__adv"/></e>
+<e lm="febrosament" a="jaumeortola">     <i>febrosament</i><par n="a_on__adv"/></e>
+<e lm="feixugament" a="jaumeortola">     <i>feixugament</i><par n="a_on__adv"/></e>
+<e lm="felinament" a="jaumeortola">      <i>felinament</i><par n="a_on__adv"/></e>
+<e lm="fellonament" a="jaumeortola">     <i>fellonament</i><par n="a_on__adv"/></e>
+<e lm="femeninament" a="jaumeortola">    <i>femeninament</i><par n="a_on__adv"/></e>
+<e lm="ferestament" a="jaumeortola">     <i>ferestament</i><par n="a_on__adv"/></e>
+<e lm="ferrenyament" a="jaumeortola">    <i>ferrenyament</i><par n="a_on__adv"/></e>
+<e lm="feréstegament" a="jaumeortola">   <i>feréstegament</i><par n="a_on__adv"/></e>
+<e lm="festosament" a="jaumeortola">     <i>festosament</i><par n="a_on__adv"/></e>
+<e lm="fictament" a="jaumeortola">       <i>fictament</i><par n="a_on__adv"/></e>
+<e lm="fifty-fifty" a="jaumeortola">     <i>fifty-fifty</i><par n="a_on__adv"/></e>
+<e lm="filantròpicament" a="jaumeortola"><i>filantròpicament</i><par n="a_on__adv"/></e>
+<e lm="fins" a="jaumeortola">            <i>fins</i><par n="a_on__adv"/></e>
+<e lm="fisiognomònicament" a="jaumeortola"><i>fisiognomònicament</i><par n="a_on__adv"/></e>
+<e lm="fisonòmicament" a="jaumeortola">  <i>fisonòmicament</i><par n="a_on__adv"/></e>
+<e lm="flacament" a="jaumeortola">       <i>flacament</i><par n="a_on__adv"/></e>
+<e lm="flairosament" a="jaumeortola">    <i>flairosament</i><par n="a_on__adv"/></e>
+<e lm="flegmàticament" a="jaumeortola">  <i>flegmàticament</i><par n="a_on__adv"/></e>
+<e lm="flonjament" a="jaumeortola">      <i>flonjament</i><par n="a_on__adv"/></e>
+<e lm="fluix" a="jaumeortola">           <i>fluix</i><par n="a_on__adv"/></e>
+<e lm="flèbilment" a="jaumeortola">      <i>flèbilment</i><par n="a_on__adv"/></e>
+<e lm="flòridament" a="jaumeortola">     <i>flòridament</i><par n="a_on__adv"/></e>
+<e lm="follament" a="jaumeortola">       <i>follament</i><par n="a_on__adv"/></e>
+<e lm="fondament" a="jaumeortola">       <i>fondament</i><par n="a_on__adv"/></e>
+<e lm="fondo" a="jaumeortola">           <i>fondo</i><par n="a_on__adv"/></e>
+<e lm="forcívolament" a="jaumeortola">   <i>forcívolament</i><par n="a_on__adv"/></e>
+<e lm="formulàriament" a="jaumeortola">  <i>formulàriament</i><par n="a_on__adv"/></e>
+<e lm="fortíssimament" a="jaumeortola">  <i>fortíssimament</i><par n="a_on__adv"/></e>
+<e lm="fosc" a="jaumeortola">            <i>fosc</i><par n="a_on__adv"/></e>
+<e lm="foscament" a="jaumeortola">       <i>foscament</i><par n="a_on__adv"/></e>
+<e lm="fosfòricament" a="jaumeortola">   <i>fosfòricament</i><par n="a_on__adv"/></e>
+<e lm="fosquet" a="jaumeortola">         <i>fosquet</i><par n="a_on__adv"/></e>
+<e lm="fotolitogràficament" a="jaumeortola"><i>fotolitogràficament</i><par n="a_on__adv"/></e>
+<e lm="franc" a="jaumeortola">           <i>franc</i><par n="a_on__adv"/></e>
+<e lm="fraudulosament" a="jaumeortola">  <i>fraudulosament</i><par n="a_on__adv"/></e>
+<e lm="fressosament" a="jaumeortola">    <i>fressosament</i><par n="a_on__adv"/></e>
+<e lm="freturosament" a="jaumeortola">   <i>freturosament</i><par n="a_on__adv"/></e>
+<e lm="frisosament" a="jaumeortola">     <i>frisosament</i><par n="a_on__adv"/></e>
+<e lm="furientment" a="jaumeortola">     <i>furientment</i><par n="a_on__adv"/></e>
+<e lm="futurament" a="jaumeortola">      <i>futurament</i><par n="a_on__adv"/></e>
+<e lm="fàtuament" a="jaumeortola">       <i>fàtuament</i><par n="a_on__adv"/></e>
+<e lm="fílmicament" a="jaumeortola">     <i>fílmicament</i><par n="a_on__adv"/></e>
+<e lm="gaiament" a="jaumeortola">        <i>gaiament</i><par n="a_on__adv"/></e>
+<e lm="galanament" a="jaumeortola">      <i>galanament</i><par n="a_on__adv"/></e>
+<e lm="gansament" a="jaumeortola">       <i>gansament</i><par n="a_on__adv"/></e>
+<e lm="garridament" a="jaumeortola">     <i>garridament</i><par n="a_on__adv"/></e>
+<e lm="gegantinament" a="jaumeortola">   <i>gegantinament</i><par n="a_on__adv"/></e>
+<e lm="gemegosament" a="jaumeortola">    <i>gemegosament</i><par n="a_on__adv"/></e>
+<e lm="genealògicament" a="jaumeortola"> <i>genealògicament</i><par n="a_on__adv"/></e>
+<e lm="germanívolament" a="jaumeortola"> <i>germanívolament</i><par n="a_on__adv"/></e>
+<e lm="ginyosament" a="jaumeortola">     <i>ginyosament</i><par n="a_on__adv"/></e>
+<e lm="girientorn" a="jaumeortola">      <i>girientorn</i><par n="a_on__adv"/></e>
+<e lm="glotament" a="jaumeortola">       <i>glotament</i><par n="a_on__adv"/></e>
+<e lm="golosament" a="jaumeortola">      <i>golosament</i><par n="a_on__adv"/></e>
+<e lm="gosadament" a="jaumeortola">      <i>gosadament</i><par n="a_on__adv"/></e>
+<e lm="gota" a="jaumeortola">            <i>gota</i><par n="a_on__adv"/></e>
+<e lm="graduadament" a="jaumeortola">    <i>graduadament</i><par n="a_on__adv"/></e>
+<e lm="graponerament" a="jaumeortola">   <i>graponerament</i><par n="a_on__adv"/></e>
+<e lm="grassament" a="jaumeortola">      <i>grassament</i><par n="a_on__adv"/></e>
+<e lm="gregàriament" a="jaumeortola">    <i>gregàriament</i><par n="a_on__adv"/></e>
+<e lm="grisament" a="jaumeortola">       <i>grisament</i><par n="a_on__adv"/></e>
+<e lm="grossament" a="jaumeortola">      <i>grossament</i><par n="a_on__adv"/></e>
+<e lm="guenyo" a="jaumeortola">          <i>guenyo</i><par n="a_on__adv"/></e>
+<e lm="guerxo" a="jaumeortola">          <i>guerxo</i><par n="a_on__adv"/></e>
+<e lm="hebdomadàriament" a="jaumeortola"><i>hebdomadàriament</i><par n="a_on__adv"/></e>
+<e lm="hereticalment" a="jaumeortola">   <i>hereticalment</i><par n="a_on__adv"/></e>
+<e lm="herèticament" a="jaumeortola">    <i>herèticament</i><par n="a_on__adv"/></e>
+<e lm="hidroestàticament" a="jaumeortola"><i>hidroestàticament</i><par n="a_on__adv"/></e>
+<e lm="hieràticament" a="jaumeortola">   <i>hieràticament</i><par n="a_on__adv"/></e>
+<e lm="hipnòticament" a="jaumeortola">   <i>hipnòticament</i><par n="a_on__adv"/></e>
+<e lm="hipostàticament" a="jaumeortola"> <i>hipostàticament</i><par n="a_on__adv"/></e>
+<e lm="homeopàticament" a="jaumeortola"> <i>homeopàticament</i><par n="a_on__adv"/></e>
+<e lm="honrosament" a="jaumeortola">     <i>honrosament</i><par n="a_on__adv"/></e>
+<e lm="hòrridament" a="jaumeortola">     <i>hòrridament</i><par n="a_on__adv"/></e>
+<e lm="idiotament" a="jaumeortola">      <i>idiotament</i><par n="a_on__adv"/></e>
+<e lm="idolàtricament" a="jaumeortola">  <i>idolàtricament</i><par n="a_on__adv"/></e>
+<e lm="il·lusionadament" a="jaumeortola"><i>il·lusionadament</i><par n="a_on__adv"/></e>
+<e lm="imbecilment" a="jaumeortola">     <i>imbecilment</i><par n="a_on__adv"/></e>
+<e lm="imitativament" a="jaumeortola">   <i>imitativament</i><par n="a_on__adv"/></e>
+<e lm="immancablement" a="jaumeortola">  <i>immancablement</i><par n="a_on__adv"/></e>
+<e lm="immarcesciblement" a="jaumeortola"><i>immarcesciblement</i><par n="a_on__adv"/></e>
+<e lm="immeditadament" a="jaumeortola">  <i>immeditadament</i><par n="a_on__adv"/></e>
+<e lm="immemorablement" a="jaumeortola"> <i>immemorablement</i><par n="a_on__adv"/></e>
+<e lm="immetòdicament" a="jaumeortola">  <i>immetòdicament</i><par n="a_on__adv"/></e>
+<e lm="immodestament" a="jaumeortola">   <i>immodestament</i><par n="a_on__adv"/></e>
+<e lm="impenetrablement" a="jaumeortola"><i>impenetrablement</i><par n="a_on__adv"/></e>
+<e lm="impenitentment" a="jaumeortola">  <i>impenitentment</i><par n="a_on__adv"/></e>
+<e lm="imperatorialment" a="jaumeortola"><i>imperatorialment</i><par n="a_on__adv"/></e>
+<e lm="impertinentment" a="jaumeortola"> <i>impertinentment</i><par n="a_on__adv"/></e>
+<e lm="impertèrritament" a="jaumeortola"><i>impertèrritament</i><par n="a_on__adv"/></e>
+<e lm="impiadosament" a="jaumeortola">   <i>impiadosament</i><par n="a_on__adv"/></e>
+<e lm="impietosament" a="jaumeortola">   <i>impietosament</i><par n="a_on__adv"/></e>
+<e lm="imponderablement" a="jaumeortola"><i>imponderablement</i><par n="a_on__adv"/></e>
+<e lm="imposantment" a="jaumeortola">    <i>imposantment</i><par n="a_on__adv"/></e>
+<e lm="imprescriptiblement" a="jaumeortola"><i>imprescriptiblement</i><par n="a_on__adv"/></e>
+<e lm="imprevistament" a="jaumeortola">  <i>imprevistament</i><par n="a_on__adv"/></e>
+<e lm="improbiosament" a="jaumeortola">  <i>improbiosament</i><par n="a_on__adv"/></e>
+<e lm="improvisament" a="jaumeortola">   <i>improvisament</i><par n="a_on__adv"/></e>
+<e lm="impúdicament" a="jaumeortola">    <i>impúdicament</i><par n="a_on__adv"/></e>
+<e lm="inarticuladament" a="jaumeortola"><i>inarticuladament</i><par n="a_on__adv"/></e>
+<e lm="incessablement" a="jaumeortola">  <i>incessablement</i><par n="a_on__adv"/></e>
+<e lm="incestuosament" a="jaumeortola">  <i>incestuosament</i><par n="a_on__adv"/></e>
+<e lm="incivilment" a="jaumeortola">     <i>incivilment</i><par n="a_on__adv"/></e>
+<e lm="inclementment" a="jaumeortola">   <i>inclementment</i><par n="a_on__adv"/></e>
+<e lm="inclusive" a="jaumeortola">       <i>inclusive</i><par n="a_on__adv"/></e>
+<e lm="incogitadament" a="jaumeortola">  <i>incogitadament</i><par n="a_on__adv"/></e>
+<e lm="incommensurablement" a="jaumeortola"><i>incommensurablement</i><par n="a_on__adv"/></e>
+<e lm="incommutablement" a="jaumeortola"><i>incommutablement</i><par n="a_on__adv"/></e>
+<e lm="incomportablement" a="jaumeortola"><i>incomportablement</i><par n="a_on__adv"/></e>
+<e lm="inconciliablement" a="jaumeortola"><i>inconciliablement</i><par n="a_on__adv"/></e>
+<e lm="inconfutablement" a="jaumeortola"><i>inconfutablement</i><par n="a_on__adv"/></e>
+<e lm="inconseqüentment" a="jaumeortola"><i>inconseqüentment</i><par n="a_on__adv"/></e>
+<e lm="inconsideradament" a="jaumeortola"><i>inconsideradament</i><par n="a_on__adv"/></e>
+<e lm="inconsolablement" a="jaumeortola"><i>inconsolablement</i><par n="a_on__adv"/></e>
+<e lm="incontrarestablement" a="jaumeortola"><i>incontrarestablement</i><par n="a_on__adv"/></e>
+<e lm="incontrastablement" a="jaumeortola"><i>incontrastablement</i><par n="a_on__adv"/></e>
+<e lm="incontrovertiblement" a="jaumeortola"><i>incontrovertiblement</i><par n="a_on__adv"/></e>
+<e lm="incorporalment" a="jaumeortola">  <i>incorporalment</i><par n="a_on__adv"/></e>
+<e lm="incorpòriament" a="jaumeortola">  <i>incorpòriament</i><par n="a_on__adv"/></e>
+<e lm="incrèdulament" a="jaumeortola">   <i>incrèdulament</i><par n="a_on__adv"/></e>
+<e lm="inculpablement" a="jaumeortola">  <i>inculpablement</i><par n="a_on__adv"/></e>
+<e lm="inculpadament" a="jaumeortola">   <i>inculpadament</i><par n="a_on__adv"/></e>
+<e lm="incurosament" a="jaumeortola">    <i>incurosament</i><par n="a_on__adv"/></e>
+<e lm="incòngruament" a="jaumeortola">   <i>incòngruament</i><par n="a_on__adv"/></e>
+<e lm="indecorosament" a="jaumeortola">  <i>indecorosament</i><par n="a_on__adv"/></e>
+<e lm="indefiniblement" a="jaumeortola"> <i>indefiniblement</i><par n="a_on__adv"/></e>
+<e lm="indelicadament" a="jaumeortola">  <i>indelicadament</i><par n="a_on__adv"/></e>
+<e lm="indestriablement" a="jaumeortola"><i>indestriablement</i><par n="a_on__adv"/></e>
+<e lm="indestructiblement" a="jaumeortola"><i>indestructiblement</i><par n="a_on__adv"/></e>
+<e lm="indevotament" a="jaumeortola">    <i>indevotament</i><par n="a_on__adv"/></e>
+<e lm="indignadament" a="jaumeortola">   <i>indignadament</i><par n="a_on__adv"/></e>
+<e lm="indiscerniblement" a="jaumeortola"><i>indiscerniblement</i><par n="a_on__adv"/></e>
+<e lm="individualitzadament" a="jaumeortola"><i>individualitzadament</i><par n="a_on__adv"/></e>
+<e lm="indivisament" a="jaumeortola">    <i>indivisament</i><par n="a_on__adv"/></e>
+<e lm="indomablement" a="jaumeortola">   <i>indomablement</i><par n="a_on__adv"/></e>
+<e lm="indomtablement" a="jaumeortola">  <i>indomtablement</i><par n="a_on__adv"/></e>
+<e lm="indòcilment" a="jaumeortola">     <i>indòcilment</i><par n="a_on__adv"/></e>
+<e lm="indòmitament" a="jaumeortola">    <i>indòmitament</i><par n="a_on__adv"/></e>
+<e lm="ineloqüentment" a="jaumeortola">  <i>ineloqüentment</i><par n="a_on__adv"/></e>
+<e lm="inenarrablement" a="jaumeortola"> <i>inenarrablement</i><par n="a_on__adv"/></e>
+<e lm="ineptament" a="jaumeortola">      <i>ineptament</i><par n="a_on__adv"/></e>
+<e lm="inequitablement" a="jaumeortola"> <i>inequitablement</i><par n="a_on__adv"/></e>
+<e lm="inequitativament" a="jaumeortola"><i>inequitativament</i><par n="a_on__adv"/></e>
+<e lm="inequívocament" a="jaumeortola">  <i>inequívocament</i><par n="a_on__adv"/></e>
+<e lm="inercialment" a="jaumeortola">    <i>inercialment</i><par n="a_on__adv"/></e>
+<e lm="inescaientment" a="jaumeortola">  <i>inescaientment</i><par n="a_on__adv"/></e>
+<e lm="inespecificadament" a="jaumeortola"><i>inespecificadament</i><par n="a_on__adv"/></e>
+<e lm="inestroncablement" a="jaumeortola"><i>inestroncablement</i><par n="a_on__adv"/></e>
+<e lm="inexhauriblement" a="jaumeortola"><i>inexhauriblement</i><par n="a_on__adv"/></e>
+<e lm="inexpugnablement" a="jaumeortola"><i>inexpugnablement</i><par n="a_on__adv"/></e>
+<e lm="inextingiblement" a="jaumeortola"><i>inextingiblement</i><par n="a_on__adv"/></e>
+<e lm="infantívolament" a="jaumeortola"> <i>infantívolament</i><par n="a_on__adv"/></e>
+<e lm="infectament" a="jaumeortola">     <i>infectament</i><par n="a_on__adv"/></e>
+<e lm="infecundament" a="jaumeortola">   <i>infecundament</i><par n="a_on__adv"/></e>
+<e lm="infinit" a="jaumeortola">         <i>infinit</i><par n="a_on__adv"/></e>
+<e lm="informement" a="jaumeortola">     <i>informement</i><par n="a_on__adv"/></e>
+<e lm="ingloriosament" a="jaumeortola">  <i>ingloriosament</i><par n="a_on__adv"/></e>
+<e lm="inharmònicament" a="jaumeortola"> <i>inharmònicament</i><par n="a_on__adv"/></e>
+<e lm="inhonestament" a="jaumeortola">   <i>inhonestament</i><par n="a_on__adv"/></e>
+<e lm="inhospitalàriament" a="jaumeortola"><i>inhospitalàriament</i><par n="a_on__adv"/></e>
+<e lm="inimitablement" a="jaumeortola">  <i>inimitablement</i><par n="a_on__adv"/></e>
+<e lm="iniquament" a="jaumeortola">      <i>iniquament</i><par n="a_on__adv"/></e>
+<e lm="injuriosament" a="jaumeortola">   <i>injuriosament</i><par n="a_on__adv"/></e>
+<e lm="innoblement" a="jaumeortola">     <i>innoblement</i><par n="a_on__adv"/></e>
+<e lm="innumerablement" a="jaumeortola"> <i>innumerablement</i><par n="a_on__adv"/></e>
+<e lm="inordenadament" a="jaumeortola">  <i>inordenadament</i><par n="a_on__adv"/></e>
+<e lm="inqualificablement" a="jaumeortola"><i>inqualificablement</i><par n="a_on__adv"/></e>
+<e lm="inquisitivament" a="jaumeortola"> <i>inquisitivament</i><par n="a_on__adv"/></e>
+<e lm="inquisitorialment" a="jaumeortola"><i>inquisitorialment</i><par n="a_on__adv"/></e>
+<e lm="insanament" a="jaumeortola">      <i>insanament</i><par n="a_on__adv"/></e>
+<e lm="insociablement" a="jaumeortola">  <i>insociablement</i><par n="a_on__adv"/></e>
+<e lm="inspiradament" a="jaumeortola">   <i>inspiradament</i><par n="a_on__adv"/></e>
+<e lm="instantment" a="jaumeortola">     <i>instantment</i><par n="a_on__adv"/></e>
+<e lm="insuaument" a="jaumeortola">      <i>insuaument</i><par n="a_on__adv"/></e>
+<e lm="intel·lectivament" a="jaumeortola"><i>intel·lectivament</i><par n="a_on__adv"/></e>
+<e lm="intemperadament" a="jaumeortola"> <i>intemperadament</i><par n="a_on__adv"/></e>
+<e lm="intemperantment" a="jaumeortola"> <i>intemperantment</i><par n="a_on__adv"/></e>
+<e lm="intercadentment" a="jaumeortola"> <i>intercadentment</i><par n="a_on__adv"/></e>
+<e lm="interindividualment" a="jaumeortola"><i>interindividualment</i><par n="a_on__adv"/></e>
+<e lm="interjectivament" a="jaumeortola"><i>interjectivament</i><par n="a_on__adv"/></e>
+<e lm="interpoladament" a="jaumeortola"> <i>interpoladament</i><par n="a_on__adv"/></e>
+<e lm="interrogativament" a="jaumeortola"><i>interrogativament</i><par n="a_on__adv"/></e>
+<e lm="intramurs" a="jaumeortola">       <i>intramurs</i><par n="a_on__adv"/></e>
+<e lm="intransitivament" a="jaumeortola"><i>intransitivament</i><par n="a_on__adv"/></e>
+<e lm="invioladament" a="jaumeortola">   <i>invioladament</i><par n="a_on__adv"/></e>
+<e lm="irosament" a="jaumeortola">       <i>irosament</i><par n="a_on__adv"/></e>
+<e lm="irraonablement" a="jaumeortola">  <i>irraonablement</i><par n="a_on__adv"/></e>
+<e lm="irrebatiblement" a="jaumeortola"> <i>irrebatiblement</i><par n="a_on__adv"/></e>
+<e lm="irrecusablement" a="jaumeortola"> <i>irrecusablement</i><par n="a_on__adv"/></e>
+<e lm="irrefragablement" a="jaumeortola"><i>irrefragablement</i><par n="a_on__adv"/></e>
+<e lm="irrefrenablement" a="jaumeortola"><i>irrefrenablement</i><par n="a_on__adv"/></e>
+<e lm="irreligiosament" a="jaumeortola"> <i>irreligiosament</i><par n="a_on__adv"/></e>
+<e lm="irresoludament" a="jaumeortola">  <i>irresoludament</i><par n="a_on__adv"/></e>
+<e lm="isòcronament" a="jaumeortola">    <i>isòcronament</i><par n="a_on__adv"/></e>
+<e lm="ivaçosament" a="jaumeortola">     <i>ivaçosament</i><par n="a_on__adv"/></e>
+<e lm="jamai" a="jaumeortola">           <i>jamai</i><par n="a_on__adv"/></e>
+<e lm="jesuíticament" a="jaumeortola">   <i>jesuíticament</i><par n="a_on__adv"/></e>
+<e lm="jocundament" a="jaumeortola">     <i>jocundament</i><par n="a_on__adv"/></e>
+<e lm="jovenívolament" a="jaumeortola">  <i>jovenívolament</i><par n="a_on__adv"/></e>
+<e lm="jubilosament" a="jaumeortola">    <i>jubilosament</i><par n="a_on__adv"/></e>
+<e lm="junt" a="jaumeortola">            <i>junt</i><par n="a_on__adv"/></e>
+<e lm="justet" a="jaumeortola">          <i>justet</i><par n="a_on__adv"/></e>
+<e lm="justetament" a="jaumeortola">     <i>justetament</i><par n="a_on__adv"/></e>
+<e lm="justifet" a="jaumeortola">        <i>justifet</i><par n="a_on__adv"/></e>
+<e lm="laberínticament" a="jaumeortola"> <i>laberínticament</i><par n="a_on__adv"/></e>
+<e lm="lascivament" a="jaumeortola">     <i>lascivament</i><par n="a_on__adv"/></e>
+<e lm="lasciviosament" a="jaumeortola">  <i>lasciviosament</i><par n="a_on__adv"/></e>
+<e lm="laudablement" a="jaumeortola">    <i>laudablement</i><par n="a_on__adv"/></e>
+<e lm="laudatòriament" a="jaumeortola">  <i>laudatòriament</i><par n="a_on__adv"/></e>
+<e lm="leri-leri" a="jaumeortola">       <i>leri-leri</i><par n="a_on__adv"/></e>
+<e lm="letàrgicament" a="jaumeortola">   <i>letàrgicament</i><par n="a_on__adv"/></e>
+<e lm="lla" a="jaumeortola">             <i>lla</i><par n="a_on__adv"/></e>
+<e lm="llampant" a="jaumeortola">        <i>llampant</i><par n="a_on__adv"/></e>
+<e lm="llangorosament" a="jaumeortola">  <i>llangorosament</i><par n="a_on__adv"/></e>
+<e lm="llarg" a="jaumeortola">           <i>llarg</i><par n="a_on__adv"/></e>
+<e lm="llegítimament" a="jaumeortola">   <i>llegítimament</i><par n="a_on__adv"/></e>
+<e lm="lleu" a="jaumeortola">            <i>lleu</i><par n="a_on__adv"/></e>
+<e lm="lli" a="jaumeortola">             <i>lli</i><par n="a_on__adv"/></e>
+<e lm="lliberalment" a="jaumeortola">    <i>lliberalment</i><par n="a_on__adv"/></e>
+<e lm="llibertinament" a="jaumeortola">  <i>llibertinament</i><par n="a_on__adv"/></e>
+<e lm="llordament" a="jaumeortola">      <i>llordament</i><par n="a_on__adv"/></e>
+<e lm="llépolament" a="jaumeortola">     <i>llépolament</i><par n="a_on__adv"/></e>
+<e lm="longànimement" a="jaumeortola">   <i>longànimement</i><par n="a_on__adv"/></e>
+<e lm="loquaçment" a="jaumeortola">      <i>loquaçment</i><par n="a_on__adv"/></e>
+<e lm="luctuosament" a="jaumeortola">    <i>luctuosament</i><par n="a_on__adv"/></e>
+<e lm="límpidament" a="jaumeortola">     <i>límpidament</i><par n="a_on__adv"/></e>
+<e lm="lúbricament" a="jaumeortola">     <i>lúbricament</i><par n="a_on__adv"/></e>
+<e lm="magnament" a="jaumeortola">       <i>magnament</i><par n="a_on__adv"/></e>
+<e lm="magrament" a="jaumeortola">       <i>magrament</i><par n="a_on__adv"/></e>
+<e lm="mal" a="jaumeortola">             <i>mal</i><par n="a_on__adv"/></e>
+<e lm="malapler" a="jaumeortola">        <i>malapler</i><par n="a_on__adv"/></e>
+<e lm="malaventuradament" a="jaumeortola"><i>malaventuradament</i><par n="a_on__adv"/></e>
+<e lm="malaventurosament" a="jaumeortola"><i>malaventurosament</i><par n="a_on__adv"/></e>
+<e lm="malbé" a="jaumeortola">           <i>malbé</i><par n="a_on__adv"/></e>
+<e lm="maldament" a="jaumeortola">       <i>maldament</i><par n="a_on__adv"/></e>
+<e lm="malenconiosament" a="jaumeortola"><i>malenconiosament</i><par n="a_on__adv"/></e>
+<e lm="mansuetament" a="jaumeortola">    <i>mansuetament</i><par n="a_on__adv"/></e>
+<e lm="mantinent" a="jaumeortola">       <i>mantinent</i><par n="a_on__adv"/></e>
+<e lm="maquiavèl·licament" a="jaumeortola"><i>maquiavèl·licament</i><par n="a_on__adv"/></e>
+<e lm="maquinalment" a="jaumeortola">    <i>maquinalment</i><par n="a_on__adv"/></e>
+<e lm="maritablement" a="jaumeortola">   <i>maritablement</i><par n="a_on__adv"/></e>
+<e lm="masclament" a="jaumeortola">      <i>masclament</i><par n="a_on__adv"/></e>
+<e lm="masculinament" a="jaumeortola">   <i>masculinament</i><par n="a_on__adv"/></e>
+<e lm="mediatament" a="jaumeortola">     <i>mediatament</i><par n="a_on__adv"/></e>
+<e lm="meditadament" a="jaumeortola">    <i>meditadament</i><par n="a_on__adv"/></e>
+<e lm="mefistofèlicament" a="jaumeortola"><i>mefistofèlicament</i><par n="a_on__adv"/></e>
+<e lm="melangiosament" a="jaumeortola">  <i>melangiosament</i><par n="a_on__adv"/></e>
+<e lm="melosament" a="jaumeortola">      <i>melosament</i><par n="a_on__adv"/></e>
+<e lm="mel·lífluament" a="jaumeortola">  <i>mel·lífluament</i><par n="a_on__adv"/></e>
+<e lm="mentidorament" a="jaumeortola">   <i>mentidorament</i><par n="a_on__adv"/></e>
+<e lm="mentrimentres" a="jaumeortola">   <i>mentrimentres</i><par n="a_on__adv"/></e>
+<e lm="mercantívolament" a="jaumeortola"><i>mercantívolament</i><par n="a_on__adv"/></e>
+<e lm="mescladament" a="jaumeortola">    <i>mescladament</i><par n="a_on__adv"/></e>
+<e lm="mestrívolament" a="jaumeortola">  <i>mestrívolament</i><par n="a_on__adv"/></e>
+<e lm="metalingüísticament" a="jaumeortola"><i>metalingüísticament</i><par n="a_on__adv"/></e>
+<e lm="mica" a="jaumeortola">            <i>mica</i><par n="a_on__adv"/></e>
+<e lm="mig" a="jaumeortola">             <i>mig</i><par n="a_on__adv"/></e>
+<e lm="miríficament" a="jaumeortola">    <i>miríficament</i><par n="a_on__adv"/></e>
+<e lm="miseriosament" a="jaumeortola">   <i>miseriosament</i><par n="a_on__adv"/></e>
+<e lm="misèrrimament" a="jaumeortola">   <i>misèrrimament</i><par n="a_on__adv"/></e>
+<e lm="mitigadament" a="jaumeortola">    <i>mitigadament</i><par n="a_on__adv"/></e>
+<e lm="moderato" a="jaumeortola">        <i>moderato</i><par n="a_on__adv"/></e>
+<e lm="moixament" a="jaumeortola">       <i>moixament</i><par n="a_on__adv"/></e>
+<e lm="molestosament" a="jaumeortola">   <i>molestosament</i><par n="a_on__adv"/></e>
+<e lm="moltíssim" a="jaumeortola">       <i>moltíssim</i><par n="a_on__adv"/></e>
+<e lm="monacalment" a="jaumeortola">     <i>monacalment</i><par n="a_on__adv"/></e>
+<e lm="morigeradament" a="jaumeortola">  <i>morigeradament</i><par n="a_on__adv"/></e>
+<e lm="mortíferament" a="jaumeortola">   <i>mortíferament</i><par n="a_on__adv"/></e>
+<e lm="motivadament" a="jaumeortola">    <i>motivadament</i><par n="a_on__adv"/></e>
+<e lm="mudablement" a="jaumeortola">     <i>mudablement</i><par n="a_on__adv"/></e>
+<e lm="multifilament" a="jaumeortola">   <i>multifilament</i><par n="a_on__adv"/></e>
+<e lm="munificentment" a="jaumeortola">  <i>munificentment</i><par n="a_on__adv"/></e>
+<e lm="muníficament" a="jaumeortola">    <i>muníficament</i><par n="a_on__adv"/></e>
+<e lm="mutablement" a="jaumeortola">     <i>mutablement</i><par n="a_on__adv"/></e>
+<e lm="mímicament" a="jaumeortola">      <i>mímicament</i><par n="a_on__adv"/></e>
+<e lm="mínim" a="jaumeortola">           <i>mínim</i><par n="a_on__adv"/></e>
+<e lm="míserament" a="jaumeortola">      <i>míserament</i><par n="a_on__adv"/></e>
+<e lm="mústiament" a="jaumeortola">      <i>mústiament</i><par n="a_on__adv"/></e>
+<e lm="mústigament" a="jaumeortola">     <i>mústigament</i><par n="a_on__adv"/></e>
+<e lm="nasalment" a="jaumeortola">       <i>nasalment</i><par n="a_on__adv"/></e>
+<e lm="nativament" a="jaumeortola">      <i>nativament</i><par n="a_on__adv"/></e>
+<e lm="nebulosament" a="jaumeortola">    <i>nebulosament</i><par n="a_on__adv"/></e>
+<e lm="neguitosament" a="jaumeortola">   <i>neguitosament</i><par n="a_on__adv"/></e>
+<e lm="net" a="jaumeortola">             <i>net</i><par n="a_on__adv"/></e>
+<e lm="nobilíssimament" a="jaumeortola"> <i>nobilíssimament</i><par n="a_on__adv"/></e>
+<e lm="novel·lescament" a="jaumeortola"> <i>novel·lescament</i><par n="a_on__adv"/></e>
+<e lm="numantinament" a="jaumeortola">   <i>numantinament</i><par n="a_on__adv"/></e>
+<e lm="numeradament" a="jaumeortola">    <i>numeradament</i><par n="a_on__adv"/></e>
+<e lm="oblidadament" a="jaumeortola">    <i>oblidadament</i><par n="a_on__adv"/></e>
+<e lm="obreptíciament" a="jaumeortola">  <i>obreptíciament</i><par n="a_on__adv"/></e>
+<e lm="oc" a="jaumeortola">              <i>oc</i><par n="a_on__adv"/></e>
+<e lm="oimés" a="jaumeortola">           <i>oimés</i><par n="a_on__adv"/></e>
+<e lm="oiosament" a="jaumeortola">       <i>oiosament</i><par n="a_on__adv"/></e>
+<e lm="olorosament" a="jaumeortola">     <i>olorosament</i><par n="a_on__adv"/></e>
+<e lm="ominosament" a="jaumeortola">     <i>ominosament</i><par n="a_on__adv"/></e>
+<e lm="onsevol" a="jaumeortola">         <i>onsevol</i><par n="a_on__adv"/></e>
+<e lm="onsevulga" a="jaumeortola">       <i>onsevulga</i><par n="a_on__adv"/></e>
+<e lm="ontogenèticament" a="jaumeortola"><i>ontogenèticament</i><par n="a_on__adv"/></e>
+<e lm="operosament" a="jaumeortola">     <i>operosament</i><par n="a_on__adv"/></e>
+<e lm="opimament" a="jaumeortola">       <i>opimament</i><par n="a_on__adv"/></e>
+<e lm="opressivament" a="jaumeortola">   <i>opressivament</i><par n="a_on__adv"/></e>
+<e lm="oprobiosament" a="jaumeortola">   <i>oprobiosament</i><par n="a_on__adv"/></e>
+<e lm="oratòriament" a="jaumeortola">    <i>oratòriament</i><par n="a_on__adv"/></e>
+<e lm="orbament" a="jaumeortola">        <i>orbament</i><par n="a_on__adv"/></e>
+<e lm="orbicularment" a="jaumeortola">   <i>orbicularment</i><par n="a_on__adv"/></e>
+<e lm="ornadament" a="jaumeortola">      <i>ornadament</i><par n="a_on__adv"/></e>
+<e lm="ornamentalment" a="jaumeortola">  <i>ornamentalment</i><par n="a_on__adv"/></e>
+<e lm="pagesívolament" a="jaumeortola">  <i>pagesívolament</i><par n="a_on__adv"/></e>
+<e lm="papissot" a="jaumeortola">        <i>papissot</i><par n="a_on__adv"/></e>
+<e lm="parafràsticament" a="jaumeortola"><i>parafràsticament</i><par n="a_on__adv"/></e>
+<e lm="parencerament" a="jaumeortola">   <i>parencerament</i><par n="a_on__adv"/></e>
+<e lm="partidament" a="jaumeortola">     <i>partidament</i><par n="a_on__adv"/></e>
+<e lm="passat" a="jaumeortola">          <i>passat</i><par n="a_on__adv"/></e>
+<e lm="pastorívolament" a="jaumeortola"> <i>pastorívolament</i><par n="a_on__adv"/></e>
+<e lm="patentment" a="jaumeortola">      <i>patentment</i><par n="a_on__adv"/></e>
+<e lm="paulatinament" a="jaumeortola">   <i>paulatinament</i><par n="a_on__adv"/></e>
+<e lm="pecaminosament" a="jaumeortola">  <i>pecaminosament</i><par n="a_on__adv"/></e>
+<e lm="pegament" a="jaumeortola">        <i>pegament</i><par n="a_on__adv"/></e>
+<e lm="pengim-penjam" a="jaumeortola">   <i>pengim-penjam</i><par n="a_on__adv"/></e>
+<e lm="peniblement" a="jaumeortola">     <i>peniblement</i><par n="a_on__adv"/></e>
+<e lm="pensadament" a="jaumeortola">     <i>pensadament</i><par n="a_on__adv"/></e>
+<e lm="perennalment" a="jaumeortola">    <i>perennalment</i><par n="a_on__adv"/></e>
+<e lm="peresosament" a="jaumeortola">    <i>peresosament</i><par n="a_on__adv"/></e>
+<e lm="perpetualment" a="jaumeortola">   <i>perpetualment</i><par n="a_on__adv"/></e>
+<e lm="però" a="jaumeortola">            <i>però</i><par n="a_on__adv"/></e>
+<e lm="petitament" a="jaumeortola">      <i>petitament</i><par n="a_on__adv"/></e>
+<e lm="petulantment" a="jaumeortola">    <i>petulantment</i><par n="a_on__adv"/></e>
+<e lm="pianissimo" a="jaumeortola">      <i>pianissimo</i><par n="a_on__adv"/></e>
+<e lm="piramidalment" a="jaumeortola">   <i>piramidalment</i><par n="a_on__adv"/></e>
+<e lm="pla" a="jaumeortola">             <i>pla</i><par n="a_on__adv"/></e>
+<e lm="planerament" a="jaumeortola">     <i>planerament</i><par n="a_on__adv"/></e>
+<e lm="planyívolament" a="jaumeortola">  <i>planyívolament</i><par n="a_on__adv"/></e>
+<e lm="plasentment" a="jaumeortola">     <i>plasentment</i><par n="a_on__adv"/></e>
+<e lm="plenerament" a="jaumeortola">     <i>plenerament</i><par n="a_on__adv"/></e>
+<e lm="pler" a="jaumeortola">            <i>pler</i><par n="a_on__adv"/></e>
+<e lm="pletòricament" a="jaumeortola">   <i>pletòricament</i><par n="a_on__adv"/></e>
+<e lm="plus" a="jaumeortola">            <i>plus</i><par n="a_on__adv"/></e>
+<e lm="poder" a="jaumeortola">           <i>poder</i><par n="a_on__adv"/></e>
+<e lm="poltronament" a="jaumeortola">    <i>poltronament</i><par n="a_on__adv"/></e>
+<e lm="ponderativament" a="jaumeortola"> <i>ponderativament</i><par n="a_on__adv"/></e>
+<e lm="poquíssim" a="jaumeortola">       <i>poquíssim</i><par n="a_on__adv"/></e>
+<e lm="potinerament" a="jaumeortola">    <i>potinerament</i><par n="a_on__adv"/></e>
+<e lm="predicativament" a="jaumeortola"> <i>predicativament</i><par n="a_on__adv"/></e>
+<e lm="preeminentment" a="jaumeortola">  <i>preeminentment</i><par n="a_on__adv"/></e>
+<e lm="pregnantment" a="jaumeortola">    <i>pregnantment</i><par n="a_on__adv"/></e>
+<e lm="pregonament" a="jaumeortola">     <i>pregonament</i><par n="a_on__adv"/></e>
+<e lm="preordinadament" a="jaumeortola"> <i>preordinadament</i><par n="a_on__adv"/></e>
+<e lm="prepositivament" a="jaumeortola"> <i>prepositivament</i><par n="a_on__adv"/></e>
+<e lm="prepòsterament" a="jaumeortola">  <i>prepòsterament</i><par n="a_on__adv"/></e>
+<e lm="preservativament" a="jaumeortola"><i>preservativament</i><par n="a_on__adv"/></e>
+<e lm="prest" a="jaumeortola">           <i>prest</i><par n="a_on__adv"/></e>
+<e lm="presumptivament" a="jaumeortola"> <i>presumptivament</i><par n="a_on__adv"/></e>
+<e lm="principescament" a="jaumeortola"> <i>principescament</i><par n="a_on__adv"/></e>
+<e lm="probament" a="jaumeortola">       <i>probament</i><par n="a_on__adv"/></e>
+<e lm="procaçment" a="jaumeortola">      <i>procaçment</i><par n="a_on__adv"/></e>
+<e lm="procedentment" a="jaumeortola">   <i>procedentment</i><par n="a_on__adv"/></e>
+<e lm="procel·losament" a="jaumeortola"> <i>procel·losament</i><par n="a_on__adv"/></e>
+<e lm="proditòriament" a="jaumeortola">  <i>proditòriament</i><par n="a_on__adv"/></e>
+<e lm="proemialment" a="jaumeortola">    <i>proemialment</i><par n="a_on__adv"/></e>
+<e lm="profícuament" a="jaumeortola">    <i>profícuament</i><par n="a_on__adv"/></e>
+<e lm="propietàriament" a="jaumeortola"> <i>propietàriament</i><par n="a_on__adv"/></e>
+<e lm="prosperosament" a="jaumeortola">  <i>prosperosament</i><par n="a_on__adv"/></e>
+<e lm="prosòdicament" a="jaumeortola">   <i>prosòdicament</i><par n="a_on__adv"/></e>
+<e lm="providentment" a="jaumeortola">   <i>providentment</i><par n="a_on__adv"/></e>
+<e lm="provisòriament" a="jaumeortola">  <i>provisòriament</i><par n="a_on__adv"/></e>
+<e lm="pròvidament" a="jaumeortola">     <i>pròvidament</i><par n="a_on__adv"/></e>
+<e lm="psicoanalíticament" a="jaumeortola"><i>psicoanalíticament</i><par n="a_on__adv"/></e>
+<e lm="puntosament" a="jaumeortola">     <i>puntosament</i><par n="a_on__adv"/></e>
+<e lm="pàssim" a="jaumeortola">          <i>pàssim</i><par n="a_on__adv"/></e>
+<e lm="pèrfidament" a="jaumeortola">     <i>pèrfidament</i><par n="a_on__adv"/></e>
+<e lm="quadradament" a="jaumeortola">    <i>quadradament</i><par n="a_on__adv"/></e>
+<e lm="que" a="jaumeortola">             <i>que</i><par n="a_on__adv"/></e>
+<e lm="quelcom" a="jaumeortola">         <i>quelcom</i><par n="a_on__adv"/></e>
+<e lm="qui-sap-lo" a="jaumeortola">      <i>qui-sap-lo</i><par n="a_on__adv"/></e>
+<e lm="quimèricament" a="jaumeortola">   <i>quimèricament</i><par n="a_on__adv"/></e>
+<e lm="rabent" a="jaumeortola">          <i>rabent</i><par n="a_on__adv"/></e>
+<e lm="rabiüdament" a="jaumeortola">     <i>rabiüdament</i><par n="a_on__adv"/></e>
+<e lm="ran" a="jaumeortola">             <i>ran</i><par n="a_on__adv"/></e>
+<e lm="rancuniosament" a="jaumeortola">  <i>rancuniosament</i><par n="a_on__adv"/></e>
+<e lm="raonadament" a="jaumeortola">     <i>raonadament</i><par n="a_on__adv"/></e>
+<e lm="rapaçment" a="jaumeortola">       <i>rapaçment</i><par n="a_on__adv"/></e>
+<e lm="ras" a="jaumeortola">             <i>ras</i><par n="a_on__adv"/></e>
+<e lm="ratxosament" a="jaumeortola">     <i>ratxosament</i><par n="a_on__adv"/></e>
+<e lm="rauxosament" a="jaumeortola">     <i>rauxosament</i><par n="a_on__adv"/></e>
+<e lm="rebecament" a="jaumeortola">      <i>rebecament</i><par n="a_on__adv"/></e>
+<e lm="rebé" a="jaumeortola">            <i>rebé</i><par n="a_on__adv"/></e>
+<e lm="recaragoladament" a="jaumeortola"><i>recaragoladament</i><par n="a_on__adv"/></e>
+<e lm="recargoladament" a="jaumeortola"> <i>recargoladament</i><par n="a_on__adv"/></e>
+<e lm="recelosament" a="jaumeortola">    <i>recelosament</i><par n="a_on__adv"/></e>
+<e lm="redonament" a="jaumeortola">      <i>redonament</i><par n="a_on__adv"/></e>
+<e lm="refiadament" a="jaumeortola">     <i>refiadament</i><par n="a_on__adv"/></e>
+<e lm="reflexament" a="jaumeortola">     <i>reflexament</i><par n="a_on__adv"/></e>
+<e lm="regladament" a="jaumeortola">     <i>regladament</i><par n="a_on__adv"/></e>
+<e lm="reialment" a="jaumeortola">       <i>reialment</i><par n="a_on__adv"/></e>
+<e lm="remorosament" a="jaumeortola">    <i>remorosament</i><par n="a_on__adv"/></e>
+<e lm="repatàniament" a="jaumeortola">   <i>repatàniament</i><par n="a_on__adv"/></e>
+<e lm="reprensiblement" a="jaumeortola"> <i>reprensiblement</i><par n="a_on__adv"/></e>
+<e lm="reprovadament" a="jaumeortola">   <i>reprovadament</i><par n="a_on__adv"/></e>
+<e lm="residentment" a="jaumeortola">    <i>residentment</i><par n="a_on__adv"/></e>
+<e lm="resoludament" a="jaumeortola">    <i>resoludament</i><par n="a_on__adv"/></e>
+<e lm="resplendentment" a="jaumeortola"> <i>resplendentment</i><par n="a_on__adv"/></e>
+<e lm="restretament" a="jaumeortola">    <i>restretament</i><par n="a_on__adv"/></e>
+<e lm="retingudament" a="jaumeortola">   <i>retingudament</i><par n="a_on__adv"/></e>
+<e lm="retretament" a="jaumeortola">     <i>retretament</i><par n="a_on__adv"/></e>
+<e lm="reverenciosament" a="jaumeortola"><i>reverenciosament</i><par n="a_on__adv"/></e>
+<e lm="reverentment" a="jaumeortola">    <i>reverentment</i><par n="a_on__adv"/></e>
+<e lm="revessament" a="jaumeortola">     <i>revessament</i><par n="a_on__adv"/></e>
+<e lm="ringo-rango" a="jaumeortola">     <i>ringo-rango</i><par n="a_on__adv"/></e>
+<e lm="rogallosament" a="jaumeortola">   <i>rogallosament</i><par n="a_on__adv"/></e>
+<e lm="romancerament" a="jaumeortola">   <i>romancerament</i><par n="a_on__adv"/></e>
+<e lm="rumbosament" a="jaumeortola">     <i>rumbosament</i><par n="a_on__adv"/></e>
+<e lm="rònegament" a="jaumeortola">      <i>rònegament</i><par n="a_on__adv"/></e>
+<e lm="sabentment" a="jaumeortola">      <i>sabentment</i><par n="a_on__adv"/></e>
+<e lm="sacerdotalment" a="jaumeortola">  <i>sacerdotalment</i><par n="a_on__adv"/></e>
+<e lm="sacrílegament" a="jaumeortola">   <i>sacrílegament</i><par n="a_on__adv"/></e>
+<e lm="sagradament" a="jaumeortola">     <i>sagradament</i><par n="a_on__adv"/></e>
+<e lm="salutíferament" a="jaumeortola">  <i>salutíferament</i><par n="a_on__adv"/></e>
+<e lm="salvament" a="jaumeortola">       <i>salvament</i><par n="a_on__adv"/></e>
+<e lm="sapientment" a="jaumeortola">     <i>sapientment</i><par n="a_on__adv"/></e>
+<e lm="sardònicament" a="jaumeortola">   <i>sardònicament</i><par n="a_on__adv"/></e>
+<e lm="seglarment" a="jaumeortola">      <i>seglarment</i><par n="a_on__adv"/></e>
+<e lm="segonament" a="jaumeortola">      <i>segonament</i><par n="a_on__adv"/></e>
+<e lm="sempiternalment" a="jaumeortola"> <i>sempiternalment</i><par n="a_on__adv"/></e>
+<e lm="sentenciosament" a="jaumeortola"> <i>sentenciosament</i><par n="a_on__adv"/></e>
+<e lm="seriadament" a="jaumeortola">     <i>seriadament</i><par n="a_on__adv"/></e>
+<e lm="serpentinament" a="jaumeortola">  <i>serpentinament</i><par n="a_on__adv"/></e>
+<e lm="seràficament" a="jaumeortola">    <i>seràficament</i><par n="a_on__adv"/></e>
+<e lm="sibaríticament" a="jaumeortola">  <i>sibaríticament</i><par n="a_on__adv"/></e>
+<e lm="sigil·losament" a="jaumeortola">  <i>sigil·losament</i><par n="a_on__adv"/></e>
+<e lm="sil·logísticament" a="jaumeortola"><i>sil·logísticament</i><par n="a_on__adv"/></e>
+<e lm="sinodalment" a="jaumeortola">     <i>sinodalment</i><par n="a_on__adv"/></e>
+<e lm="sobergament" a="jaumeortola">     <i>sobergament</i><par n="a_on__adv"/></e>
+<e lm="sobradament" a="jaumeortola">     <i>sobradament</i><par n="a_on__adv"/></e>
+<e lm="sobre" a="jaumeortola">           <i>sobre</i><par n="a_on__adv"/></e>
+<e lm="sobrerament" a="jaumeortola">     <i>sobrerament</i><par n="a_on__adv"/></e>
+<e lm="sobtosament" a="jaumeortola">     <i>sobtosament</i><par n="a_on__adv"/></e>
+<e lm="sociablement" a="jaumeortola">    <i>sociablement</i><par n="a_on__adv"/></e>
+<e lm="sofísticament" a="jaumeortola">   <i>sofísticament</i><par n="a_on__adv"/></e>
+<e lm="sols" a="jaumeortola">            <i>sols</i><par n="a_on__adv"/></e>
+<e lm="sonsament" a="jaumeortola">       <i>sonsament</i><par n="a_on__adv"/></e>
+<e lm="sornudament" a="jaumeortola">     <i>sornudament</i><par n="a_on__adv"/></e>
+<e lm="sorrudament" a="jaumeortola">     <i>sorrudament</i><par n="a_on__adv"/></e>
+<e lm="sovent" a="jaumeortola">          <i>sovent</i><par n="a_on__adv"/></e>
+<e lm="suara" a="jaumeortola">           <i>suara</i><par n="a_on__adv"/></e>
+<e lm="subalternament" a="jaumeortola">  <i>subalternament</i><par n="a_on__adv"/></e>
+<e lm="subjectament" a="jaumeortola">    <i>subjectament</i><par n="a_on__adv"/></e>
+<e lm="subliminarment" a="jaumeortola">  <i>subliminarment</i><par n="a_on__adv"/></e>
+<e lm="sublimment" a="jaumeortola">      <i>sublimment</i><par n="a_on__adv"/></e>
+<e lm="substanciosament" a="jaumeortola"><i>substanciosament</i><par n="a_on__adv"/></e>
+<e lm="sumptuosament" a="jaumeortola">   <i>sumptuosament</i><par n="a_on__adv"/></e>
+<e lm="superabundantment" a="jaumeortola"><i>superabundantment</i><par n="a_on__adv"/></e>
+<e lm="superbiosament" a="jaumeortola">  <i>superbiosament</i><par n="a_on__adv"/></e>
+<e lm="supinament" a="jaumeortola">      <i>supinament</i><par n="a_on__adv"/></e>
+<e lm="supletivament" a="jaumeortola">   <i>supletivament</i><par n="a_on__adv"/></e>
+<e lm="supositivament" a="jaumeortola">  <i>supositivament</i><par n="a_on__adv"/></e>
+<e lm="sutzament" a="jaumeortola">       <i>sutzament</i><par n="a_on__adv"/></e>
+<e lm="tacanyament" a="jaumeortola">     <i>tacanyament</i><par n="a_on__adv"/></e>
+<e lm="tafanerament" a="jaumeortola">    <i>tafanerament</i><par n="a_on__adv"/></e>
+<e lm="tal·là-tal·lera" a="jaumeortola"> <i>tal·là-tal·lera</i><par n="a_on__adv"/></e>
+<e lm="tantost" a="jaumeortola">         <i>tantost</i><par n="a_on__adv"/></e>
+<e lm="tantíssim" a="jaumeortola">       <i>tantíssim</i><par n="a_on__adv"/></e>
+<e lm="tardíssim" a="jaumeortola">       <i>tardíssim</i><par n="a_on__adv"/></e>
+<e lm="tardívolament" a="jaumeortola">   <i>tardívolament</i><par n="a_on__adv"/></e>
+<e lm="tau-tau" a="jaumeortola">         <i>tau-tau</i><par n="a_on__adv"/></e>
+<e lm="temorosament" a="jaumeortola">    <i>temorosament</i><par n="a_on__adv"/></e>
+<e lm="tempestosament" a="jaumeortola">  <i>tempestosament</i><par n="a_on__adv"/></e>
+<e lm="tempestuosament" a="jaumeortola"> <i>tempestuosament</i><par n="a_on__adv"/></e>
+<e lm="temporàniament" a="jaumeortola">  <i>temporàniament</i><par n="a_on__adv"/></e>
+<e lm="teocràticament" a="jaumeortola">  <i>teocràticament</i><par n="a_on__adv"/></e>
+<e lm="tercerament" a="jaumeortola">     <i>tercerament</i><par n="a_on__adv"/></e>
+<e lm="terrús-terrús" a="jaumeortola">   <i>terrús-terrús</i><par n="a_on__adv"/></e>
+<e lm="terçament" a="jaumeortola">       <i>terçament</i><par n="a_on__adv"/></e>
+<e lm="tibadament" a="jaumeortola">      <i>tibadament</i><par n="a_on__adv"/></e>
+<e lm="tira-tira" a="jaumeortola">       <i>tira-tira</i><par n="a_on__adv"/></e>
+<e lm="topless" a="jaumeortola">         <i>topless</i><par n="a_on__adv"/></e>
+<e lm="tortament" a="jaumeortola">       <i>tortament</i><par n="a_on__adv"/></e>
+<e lm="tortuosament" a="jaumeortola">    <i>tortuosament</i><par n="a_on__adv"/></e>
+<e lm="torturadament" a="jaumeortola">   <i>torturadament</i><par n="a_on__adv"/></e>
+<e lm="tost" a="jaumeortola">            <i>tost</i><par n="a_on__adv"/></e>
+<e lm="tostemps" a="jaumeortola">        <i>tostemps</i><par n="a_on__adv"/></e>
+<e lm="tot" a="jaumeortola">             <i>tot</i><par n="a_on__adv"/></e>
+<e lm="total" a="jaumeortola">           <i>total</i><par n="a_on__adv"/></e>
+<e lm="tothora" a="jaumeortola">         <i>tothora</i><par n="a_on__adv"/></e>
+<e lm="totjorn" a="jaumeortola">         <i>totjorn</i><par n="a_on__adv"/></e>
+<e lm="trigonomètricament" a="jaumeortola"><i>trigonomètricament</i><par n="a_on__adv"/></e>
+<e lm="trinco-trinco" a="jaumeortola">   <i>trinco-trinco</i><par n="a_on__adv"/></e>
+<e lm="tropològicament" a="jaumeortola"> <i>tropològicament</i><par n="a_on__adv"/></e>
+<e lm="tumultuosament" a="jaumeortola">  <i>tumultuosament</i><par n="a_on__adv"/></e>
+<e lm="tètricament" a="jaumeortola">     <i>tètricament</i><par n="a_on__adv"/></e>
+<e lm="térbolament" a="jaumeortola">     <i>térbolament</i><par n="a_on__adv"/></e>
+<e lm="túrgidament" a="jaumeortola">     <i>túrgidament</i><par n="a_on__adv"/></e>
+<e lm="ultracuidadament" a="jaumeortola"><i>ultracuidadament</i><par n="a_on__adv"/></e>
+<e lm="ultratjosament" a="jaumeortola">  <i>ultratjosament</i><par n="a_on__adv"/></e>
+<e lm="untuosament" a="jaumeortola">     <i>untuosament</i><par n="a_on__adv"/></e>
+<e lm="usadament" a="jaumeortola">       <i>usadament</i><par n="a_on__adv"/></e>
+<e lm="usuràriament" a="jaumeortola">    <i>usuràriament</i><par n="a_on__adv"/></e>
+<e lm="vagarívolament" a="jaumeortola">  <i>vagarívolament</i><par n="a_on__adv"/></e>
+<e lm="vandàlicament" a="jaumeortola">   <i>vandàlicament</i><par n="a_on__adv"/></e>
+<e lm="vaporosament" a="jaumeortola">    <i>vaporosament</i><par n="a_on__adv"/></e>
+<e lm="venialment" a="jaumeortola">      <i>venialment</i><par n="a_on__adv"/></e>
+<e lm="verbosament" a="jaumeortola">     <i>verbosament</i><par n="a_on__adv"/></e>
+<e lm="vitalíciament" a="jaumeortola">   <i>vitalíciament</i><par n="a_on__adv"/></e>
+<e lm="vituperablement" a="jaumeortola"> <i>vituperablement</i><par n="a_on__adv"/></e>
+<e lm="vituperiosament" a="jaumeortola"> <i>vituperiosament</i><par n="a_on__adv"/></e>
+<e lm="volenterosament" a="jaumeortola"> <i>volenterosament</i><par n="a_on__adv"/></e>
+<e lm="volgudament" a="jaumeortola">     <i>volgudament</i><par n="a_on__adv"/></e>
+<e lm="voluptuosament" a="jaumeortola">  <i>voluptuosament</i><par n="a_on__adv"/></e>
+<e lm="vàcuament" a="jaumeortola">       <i>vàcuament</i><par n="a_on__adv"/></e>
+<e lm="xacrosament" a="jaumeortola">     <i>xacrosament</i><par n="a_on__adv"/></e>
+<e lm="xafarderament" a="jaumeortola">   <i>xafarderament</i><par n="a_on__adv"/></e>
+<e lm="xamosament" a="jaumeortola">      <i>xamosament</i><par n="a_on__adv"/></e>
+<e lm="xano-xano" a="jaumeortola">       <i>xano-xano</i><par n="a_on__adv"/></e>
+<e lm="xaquiosament" a="jaumeortola">    <i>xaquiosament</i><par n="a_on__adv"/></e>
+<e lm="xardorosament" a="jaumeortola">   <i>xardorosament</i><par n="a_on__adv"/></e>
+<e lm="xau-xau" a="jaumeortola">         <i>xau-xau</i><par n="a_on__adv"/></e>
+<e lm="xino-xano" a="jaumeortola">       <i>xino-xano</i><par n="a_on__adv"/></e>
+<e lm="xiroiament" a="jaumeortola">      <i>xiroiament</i><par n="a_on__adv"/></e>
+<e lm="xiu-xiu" a="jaumeortola">         <i>xiu-xiu</i><par n="a_on__adv"/></e>
+<e lm="zelosament" a="jaumeortola">      <i>zelosament</i><par n="a_on__adv"/></e>
+<e lm="zoològicament" a="jaumeortola">   <i>zoològicament</i><par n="a_on__adv"/></e>
+<e lm="àticament" a="jaumeortola">       <i>àticament</i><par n="a_on__adv"/></e>
+<e lm="àvolment" a="jaumeortola">        <i>àvolment</i><par n="a_on__adv"/></e>
+<e lm="ça" a="jaumeortola">              <i>ça</i><par n="a_on__adv"/></e>
+<e lm="ítem" a="jaumeortola">            <i>ítem</i><par n="a_on__adv"/></e>
+<e lm="òlim" a="jaumeortola">            <i>òlim</i><par n="a_on__adv"/></e>
