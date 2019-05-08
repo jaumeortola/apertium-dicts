@@ -165,8 +165,8 @@ if ($lang =~ /^ita$/) {
              my $genere = "C";
              my $nombre = "N";
              if ($tags =~ /\b$italian_gramcat\b/) { 
-                 if ($tags =~ /\bm\b/) { $genere = "M"; } 
-                 if ($tags =~ /\bf\b/) { $genere = "F"; } 
+                 if ($tags =~ /\b[Mm]\b/) { $genere = "M"; } 
+                 if ($tags =~ /\b[Ff]\b/) { $genere = "F"; } 
                  if ($tags =~ /\bp\b/) { $nombre = "P"; } 
                  if ($tags =~ /\bs\b/) { $nombre = "S"; } 
                  my $newtag = $lt_prev.$genere.$nombre.$lt_post;
