@@ -1,0 +1,9 @@
+<e lm="anch'" a="jaumeortola">           <i>anch'</i><par n="ieri__adv"/></e>
+<e lm="ben" a="jaumeortola">             <i>ben</i><par n="ieri__adv"/></e>
+<e lm="c'" a="jaumeortola">              <i>c'</i><par n="ieri__adv"/></e>
+<e lm="ci" a="jaumeortola">              <i>ci</i><par n="ieri__adv"/></e>
+<e lm="cioè" a="jaumeortola">            <i>cioè</i><par n="ieri__adv"/></e>
+<e lm="cioé" a="jaumeortola">            <i>cioé</i><par n="ieri__adv"/></e>
+<e lm="gioventù" a="jaumeortola">        <i>gioventù</i><par n="ieri__adv"/></e>
+<e lm="però" a="jaumeortola">            <i>però</i><par n="ieri__adv"/></e>
+<e lm="quindi" a="jaumeortola">          <i>quindi</i><par n="ieri__adv"/></e>

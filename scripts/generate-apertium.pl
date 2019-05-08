@@ -14,6 +14,7 @@ my $apertium_dict = $ARGV[3]; # Apertium dictionary
 
 my $apertium_gramcat = "";
 my $dicollecte_gramcat = "";
+my $italian_gramcat = "";
 my $lt_prev = "";
 my $lt_post = "";
 my $lt_tag_start;
@@ -21,6 +22,7 @@ my $lt_tag_start;
 if ($gram_cat =~ /^adj$/) {
     $apertium_gramcat = "adj";
     $dicollecte_gramcat = "adj";
+    $italian_gramcat = "ADJ";
     $lt_prev = "AQ0";
     $lt_post = "0";
     $lt_tag_start = "A.[0A]";
@@ -29,6 +31,7 @@ if ($gram_cat =~ /^adj$/) {
 if ($gram_cat =~ /^adv$/) {
     $apertium_gramcat = "adv";
     $dicollecte_gramcat = "adv";
+    $italian_gramcat = "ADV";
     $lt_prev = "RG";
     $lt_post = "";
     $lt_tag_start = "RG";
@@ -37,6 +40,7 @@ if ($gram_cat =~ /^adv$/) {
 if ($gram_cat =~ /^noun$/) {
     $apertium_gramcat = "n";
     $dicollecte_gramcat = "nom";
+    $italian_gramcat = "NOUN";
     $lt_prev = "NC";
     $lt_post = "000";
     $lt_tag_start = "NC";
@@ -151,7 +155,31 @@ $rules_in_oneline{$prev_rule_name} = $line;
 my @adjs_lt;
 open($fh,  "<:encoding(UTF-8)", $input_dict );
 
-if ($lang =~ /^fra$/) {
+if ($lang =~ /^ita$/) {
+    while (my $line = <$fh>) {
+        chomp($line);
+        if ($line =~ /^(.*) (.*) (.*)/) { #Id Flexion Lemme Étiquettes
+             my $tags = $3;
+             my $flexion = $1;
+             my $lemme = $2;
+             my $genere = "C";
+             my $nombre = "N";
+             if ($tags =~ /\b$italian_gramcat\b/) { 
+                 if ($tags =~ /\bm\b/) { $genere = "M"; } 
+                 if ($tags =~ /\bf\b/) { $genere = "F"; } 
+                 if ($tags =~ /\bp\b/) { $nombre = "P"; } 
+                 if ($tags =~ /\bs\b/) { $nombre = "S"; } 
+                 my $newtag = $lt_prev.$genere.$nombre.$lt_post;
+                 if ($italian_gramcat =~ /^ADV$/) {
+                    $newtag = $lt_prev;
+                 }
+                 if ($tags =~ /\bloc\b/) { $newtag = "loc_".$newtag; } 
+                 push (@adjs_lt, "$lemme $newtag $flexion");    #lemma tags wordform
+                 #print "$lemme $newtag $flexion\n";
+             }
+        }
+    }
+} elsif ($lang =~ /^fra$/) {
     while (my $line = <$fh>) {
         chomp($line);
         if ($line =~ /^\d+\t(.*?)\t(.*?)\t(.*?)\t.*/) { #Id Flexion Lemme Étiquettes

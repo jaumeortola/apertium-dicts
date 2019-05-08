@@ -1,0 +1,198 @@
+<e lm="adunco" a="jaumeortola">          <i>adunc</i><par n="caric/o__adj"/></e>
+<e lm="afro-americano" a="jaumeortola">  <i>afro-american</i><par n="abbandonat/o__adj"/></e>
+<e lm="afro-polacco" a="jaumeortola">    <i>afro-polacc</i><par n="caric/o__adj"/></e>
+<e lm="afro-tedesco" a="jaumeortola">    <i>afro-tedesc</i><par n="caric/o__adj"/></e>
+<e lm="andreottesco" a="jaumeortola">    <i>andreottesc</i><par n="caric/o__adj"/></e>
+<e lm="anglo-tedesco" a="jaumeortola">   <i>anglo-tedesc</i><par n="caric/o__adj"/></e>
+<e lm="anglotedesco" a="jaumeortola">    <i>anglotedesc</i><par n="caric/o__adj"/></e>
+<e lm="animalesco" a="jaumeortola">      <i>animalesc</i><par n="caric/o__adj"/></e>
+<e lm="anti-michelangiolesco" a="jaumeortola"><i>anti-michelangiolesc</i><par n="caric/o__adj"/></e>
+<e lm="anti-turco" a="jaumeortola">      <i>anti-turc</i><par n="caric/o__adj"/></e>
+<e lm="antropofago" a="jaumeortola">     <i>antropofag</i><par n="caric/o__adj"/></e>
+<e lm="arabesco" a="jaumeortola">        <i>arabesc</i><par n="caric/o__adj"/></e>
+<e lm="arlecchinesco" a="jaumeortola">   <i>arlecchinesc</i><par n="caric/o__adj"/></e>
+<e lm="asperrimo" a="jaumeortola">       <i>asperrim</i><par n="abbandonat/o__adj"/></e>
+<e lm="austro-tedesco" a="jaumeortola">  <i>austro-tedesc</i><par n="caric/o__adj"/></e>
+<e lm="austrotedesco" a="jaumeortola">   <i>austrotedesc</i><par n="caric/o__adj"/></e>
+<e lm="bagaglinesco" a="jaumeortola">    <i>bagaglinesc</i><par n="caric/o__adj"/></e>
+<e lm="bambinesco" a="jaumeortola">      <i>bambinesc</i><par n="caric/o__adj"/></e>
+<e lm="barbaresco" a="jaumeortola">      <i>barbaresc</i><par n="caric/o__adj"/></e>
+<e lm="bellino" a="jaumeortola">         <i>bellin</i><par n="cosiddett/o__adj"/></e>
+<e lm="bergamasco" a="jaumeortola">      <i>bergamasc</i><par n="caric/o__adj"/></e>
+<e lm="bieco" a="jaumeortola">           <i>biec</i><par n="caric/o__adj"/></e>
+<e lm="biondicco" a="jaumeortola">       <i>biondicc</i><par n="caric/o__adj"/></e>
+<e lm="bislacco" a="jaumeortola">        <i>bislacc</i><par n="caric/o__adj"/></e>
+<e lm="blando" a="jaumeortola">          <i>bland</i><par n="abbandonat/o__adj"/></e>
+<e lm="boccaccesco" a="jaumeortola">     <i>boccaccesc</i><par n="caric/o__adj"/></e>
+<e lm="brigantesco" a="jaumeortola">     <i>brigantesc</i><par n="caric/o__adj"/></e>
+<e lm="buffonesco" a="jaumeortola">      <i>buffonesc</i><par n="caric/o__adj"/></e>
+<e lm="burattinesco" a="jaumeortola">    <i>burattinesc</i><par n="caric/o__adj"/></e>
+<e lm="burlesco" a="jaumeortola">        <i>burlesc</i><par n="caric/o__adj"/></e>
+<e lm="cafonesco" a="jaumeortola">       <i>cafonesc</i><par n="caric/o__adj"/></e>
+<e lm="cagnesco" a="jaumeortola">        <i>cagnesc</i><par n="caric/o__adj"/></e>
+<e lm="cameratesco" a="jaumeortola">     <i>cameratesc</i><par n="caric/o__adj"/></e>
+<e lm="cannibalesco" a="jaumeortola">    <i>cannibalesc</i><par n="caric/o__adj"/></e>
+<e lm="carnevalesco" a="jaumeortola">    <i>carnevalesc</i><par n="caric/o__adj"/></e>
+<e lm="carognesco" a="jaumeortola">      <i>carognesc</i><par n="caric/o__adj"/></e>
+<e lm="casalingo" a="jaumeortola">       <i>casaling</i><par n="caric/o__adj"/></e>
+<e lm="cavalleresco" a="jaumeortola">    <i>cavalleresc</i><par n="caric/o__adj"/></e>
+<e lm="celeberrimo" a="jaumeortola">     <i>celeberrim</i><par n="abbandonat/o__adj"/></e>
+<e lm="centocinquantesimo" a="jaumeortola"><i>centocinquantesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="centodecimo" a="jaumeortola">     <i>centodecim</i><par n="cosiddett/o__adj"/></e>
+<e lm="centonovantesimo" a="jaumeortola"><i>centonovantesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="centoquarantesimo" a="jaumeortola"><i>centoquarantesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="centosessantesimo" a="jaumeortola"><i>centosessantesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="centosettantesimo" a="jaumeortola"><i>centosettantesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="centotrentesimo" a="jaumeortola"> <i>centotrentesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="centottantesimo" a="jaumeortola"> <i>centottantesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="centoventesimo" a="jaumeortola">  <i>centoventesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="centrifugo" a="jaumeortola">      <i>centrifug</i><par n="caric/o__adj"/></e>
+<e lm="cialtronesco" a="jaumeortola">    <i>cialtronesc</i><par n="caric/o__adj"/></e>
+<e lm="cinghialesco" a="jaumeortola">    <i>cinghialesc</i><par n="caric/o__adj"/></e>
+<e lm="cinquecentesco" a="jaumeortola">  <i>cinquecentesc</i><par n="caric/o__adj"/></e>
+<e lm="cinquemillesimo" a="jaumeortola"> <i>cinquemillesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="ciranesco" a="jaumeortola">       <i>ciranesc</i><par n="caric/o__adj"/></e>
+<e lm="clintonesco" a="jaumeortola">     <i>clintonesc</i><par n="caric/o__adj"/></e>
+<e lm="clownesco" a="jaumeortola">       <i>clownesc</i><par n="caric/o__adj"/></e>
+<e lm="codesto" a="jaumeortola">         <i>codest</i><par n="abbandonat/o__adj"/></e>
+<e lm="corrusco" a="jaumeortola">        <i>corrusc</i><par n="caric/o__adj"/></e>
+<e lm="dantesco" a="jaumeortola">        <i>dantesc</i><par n="caric/o__adj"/></e>
+<e lm="diavolesco" a="jaumeortola">      <i>diavolesc</i><par n="caric/o__adj"/></e>
+<e lm="diecimillesimo" a="jaumeortola">  <i>diecimillesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="dilettantesco" a="jaumeortola">   <i>dilettantesc</i><par n="caric/o__adj"/></e>
+<e lm="dipietresco" a="jaumeortola">     <i>dipietresc</i><par n="caric/o__adj"/></e>
+<e lm="dodicimillesimo" a="jaumeortola"> <i>dodicimillesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="donchisciottesco" a="jaumeortola"><i>donchisciottesc</i><par n="caric/o__adj"/></e>
+<e lm="dongiovannesco" a="jaumeortola">  <i>dongiovannesc</i><par n="caric/o__adj"/></e>
+<e lm="donnesco" a="jaumeortola">        <i>donnesc</i><par n="caric/o__adj"/></e>
+<e lm="duecentesco" a="jaumeortola">     <i>duecentesc</i><par n="caric/o__adj"/></e>
+<e lm="duecentocinquantesimo" a="jaumeortola"><i>duecentocinquantesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="duecentodecimo" a="jaumeortola">  <i>duecentodecim</i><par n="cosiddett/o__adj"/></e>
+<e lm="duecentonovantesimo" a="jaumeortola"><i>duecentonovantesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="duecentoquarantesimo" a="jaumeortola"><i>duecentoquarantesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="duecentosessantesimo" a="jaumeortola"><i>duecentosessantesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="duecentosettantesimo" a="jaumeortola"><i>duecentosettantesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="duecentotrentesimo" a="jaumeortola"><i>duecentotrentesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="duecentottantesimo" a="jaumeortola"><i>duecentottantesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="duecentoventesimo" a="jaumeortola"><i>duecentoventesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="faunesco" a="jaumeortola">        <i>faunesc</i><par n="caric/o__adj"/></e>
+<e lm="fedifrago" a="jaumeortola">       <i>fedifrag</i><par n="caric/o__adj"/></e>
+<e lm="fiabesco" a="jaumeortola">        <i>fiabesc</i><par n="caric/o__adj"/></e>
+<e lm="fiacco" a="jaumeortola">          <i>fiacc</i><par n="caric/o__adj"/></e>
+<e lm="fioco" a="jaumeortola">           <i>fioc</i><par n="caric/o__adj"/></e>
+<e lm="fosco" a="jaumeortola">           <i>fosc</i><par n="caric/o__adj"/></e>
+<e lm="fratesco" a="jaumeortola">        <i>fratesc</i><par n="caric/o__adj"/></e>
+<e lm="fuggiasco" a="jaumeortola">       <i>fuggiasc</i><par n="caric/o__adj"/></e>
+<e lm="furbesco" a="jaumeortola">        <i>furbesc</i><par n="caric/o__adj"/></e>
+<e lm="gattopardesco" a="jaumeortola">   <i>gattopardesc</i><par n="caric/o__adj"/></e>
+<e lm="girovago" a="jaumeortola">        <i>girovag</i><par n="caric/o__adj"/></e>
+<e lm="giullaresco" a="jaumeortola">     <i>giullaresc</i><par n="caric/o__adj"/></e>
+<e lm="glottologo" a="jaumeortola">      <i>glottolog</i><par n="caric/o__adj"/></e>
+<e lm="grandicello" a="jaumeortola">     <i>grandicell</i><par n="cosiddett/o__adj"/></e>
+<e lm="grottesco" a="jaumeortola">       <i>grottesc</i><par n="caric/o__adj"/></e>
+<e lm="guardingo" a="jaumeortola">       <i>guarding</i><par n="caric/o__adj"/></e>
+<e lm="guerresco" a="jaumeortola">       <i>guerresc</i><par n="caric/o__adj"/></e>
+<e lm="ignifugo" a="jaumeortola">        <i>ignifug</i><par n="caric/o__adj"/></e>
+<e lm="integerrimo" a="jaumeortola">     <i>integerrim</i><par n="abbandonat/o__adj"/></e>
+<e lm="irakeno" a="jaumeortola">         <i>iraken</i><par n="abbandonat/o__adj"/></e>
+<e lm="italo-tedesco" a="jaumeortola">   <i>italo-tedesc</i><par n="caric/o__adj"/></e>
+<e lm="latino-americano" a="jaumeortola"><i>latino-american</i><par n="abbandonat/o__adj"/></e>
+<e lm="libresco" a="jaumeortola">        <i>libresc</i><par n="caric/o__adj"/></e>
+<e lm="losco" a="jaumeortola">           <i>losc</i><par n="caric/o__adj"/></e>
+<e lm="lupesco" a="jaumeortola">         <i>lupesc</i><par n="caric/o__adj"/></e>
+<e lm="maiuscolo" a="jaumeortola">       <i>maiuscol</i><par n="abbandonat/o__adj"/></e>
+<e lm="manco" a="jaumeortola">           <i>manc</i><par n="caric/o__adj"/></e>
+<e lm="manesco" a="jaumeortola">         <i>manesc</i><par n="caric/o__adj"/></e>
+<e lm="marinaresco" a="jaumeortola">     <i>marinaresc</i><par n="caric/o__adj"/></e>
+<e lm="medio-lungo" a="jaumeortola">     <i>medio-lung</i><par n="caric/o__adj"/></e>
+<e lm="militaresco" a="jaumeortola">     <i>militaresc</i><par n="caric/o__adj"/></e>
+<e lm="minoico" a="jaumeortola">         <i>minoic</i><par n="tecnic/o__adj"/></e>
+<e lm="miserrimo" a="jaumeortola">       <i>miserrim</i><par n="abbandonat/o__adj"/></e>
+<e lm="monco" a="jaumeortola">           <i>monc</i><par n="caric/o__adj"/></e>
+<e lm="monegasco" a="jaumeortola">       <i>monegasc</i><par n="caric/o__adj"/></e>
+<e lm="moresco" a="jaumeortola">         <i>moresc</i><par n="caric/o__adj"/></e>
+<e lm="novecentesco" a="jaumeortola">    <i>novecentesc</i><par n="caric/o__adj"/></e>
+<e lm="novemillesimo" a="jaumeortola">   <i>novemillesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="novissimo" a="jaumeortola">       <i>novissim</i><par n="cosiddett/o__adj"/></e>
+<e lm="omologo" a="jaumeortola">         <i>omolog</i><par n="caric/o__adj"/></e>
+<e lm="ottocentesco" a="jaumeortola">    <i>ottocentesc</i><par n="caric/o__adj"/></e>
+<e lm="ottocentesimo" a="jaumeortola">   <i>ottocentesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="ottomillesimo" a="jaumeortola">   <i>ottomillesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="pago" a="jaumeortola">            <i>pag</i><par n="caric/o__adj"/></e>
+<e lm="pappagallesco" a="jaumeortola">   <i>pappagallesc</i><par n="caric/o__adj"/></e>
+<e lm="picaresco" a="jaumeortola">       <i>picaresc</i><par n="caric/o__adj"/></e>
+<e lm="piratesco" a="jaumeortola">       <i>piratesc</i><par n="caric/o__adj"/></e>
+<e lm="pitocco" a="jaumeortola">         <i>pitocc</i><par n="caric/o__adj"/></e>
+<e lm="pittoresco" a="jaumeortola">      <i>pittoresc</i><par n="caric/o__adj"/></e>
+<e lm="poliziotto" a="jaumeortola">      <i>poliziott</i><par n="abbandonat/o__adj"/></e>
+<e lm="popolaresco" a="jaumeortola">     <i>popolaresc</i><par n="caric/o__adj"/></e>
+<e lm="porco" a="jaumeortola">           <i>porc</i><par n="caric/o__adj"/></e>
+<e lm="posto" a="jaumeortola">           <i>post</i><par n="abbandonat/o__adj"/></e>
+<e lm="presago" a="jaumeortola">         <i>presag</i><par n="caric/o__adj"/></e>
+<e lm="presto" a="jaumeortola">          <i>prest</i><par n="abbandonat/o__adj"/></e>
+<e lm="principesco" a="jaumeortola">     <i>principesc</i><par n="caric/o__adj"/></e>
+<e lm="prisco" a="jaumeortola">          <i>prisc</i><par n="caric/o__adj"/></e>
+<e lm="prodigo" a="jaumeortola">         <i>prodig</i><par n="caric/o__adj"/></e>
+<e lm="profugo" a="jaumeortola">         <i>profug</i><par n="caric/o__adj"/></e>
+<e lm="quadro" a="jaumeortola">          <i>quadr</i><par n="abbandonat/o__adj"/></e>
+<e lm="quattrocentesco" a="jaumeortola"> <i>quattrocentesc</i><par n="caric/o__adj"/></e>
+<e lm="quattrocentocinquantesimo" a="jaumeortola"><i>quattrocentocinquantesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="quattrocentodecimo" a="jaumeortola"><i>quattrocentodecim</i><par n="cosiddett/o__adj"/></e>
+<e lm="quattrocentonovantesimo" a="jaumeortola"><i>quattrocentonovantesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="quattrocentoquarantesimo" a="jaumeortola"><i>quattrocentoquarantesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="quattrocentosessantesimo" a="jaumeortola"><i>quattrocentosessantesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="quattrocentosettantesimo" a="jaumeortola"><i>quattrocentosettantesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="quattrocentotrentesimo" a="jaumeortola"><i>quattrocentotrentesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="quattrocentottantesimo" a="jaumeortola"><i>quattrocentottantesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="quattrocentoventesimo" a="jaumeortola"><i>quattrocentoventesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="quattromillesimo" a="jaumeortola"><i>quattromillesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="riccio" a="jaumeortola">          <i>ricc</i><par n="acconc/io__adj"/></e>
+<e lm="rivierasco" a="jaumeortola">      <i>rivierasc</i><par n="caric/o__adj"/></e>
+<e lm="rocambolesco" a="jaumeortola">    <i>rocambolesc</i><par n="caric/o__adj"/></e>
+<e lm="romanesco" a="jaumeortola">       <i>romanesc</i><par n="caric/o__adj"/></e>
+<e lm="romanzesco" a="jaumeortola">      <i>romanzesc</i><par n="caric/o__adj"/></e>
+<e lm="sacrilego" a="jaumeortola">       <i>sacrileg</i><par n="caric/o__adj"/></e>
+<e lm="saluberrimo" a="jaumeortola">     <i>saluberrim</i><par n="abbandonat/o__adj"/></e>
+<e lm="sbilenco" a="jaumeortola">        <i>sbilenc</i><par n="caric/o__adj"/></e>
+<e lm="sciocco" a="jaumeortola">         <i>sciocc</i><par n="caric/o__adj"/></e>
+<e lm="secentesco" a="jaumeortola">      <i>secentesc</i><par n="caric/o__adj"/></e>
+<e lm="seicentesco" a="jaumeortola">     <i>seicentesc</i><par n="caric/o__adj"/></e>
+<e lm="seicentesimo" a="jaumeortola">    <i>seicentesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="seimillesimo" a="jaumeortola">    <i>seimillesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="seminascosto" a="jaumeortola">    <i>seminascost</i><par n="cosiddett/o__adj"/></e>
+<e lm="sessantottesco" a="jaumeortola">  <i>sessantottesc</i><par n="caric/o__adj"/></e>
+<e lm="settecentesco" a="jaumeortola">   <i>settecentesc</i><par n="caric/o__adj"/></e>
+<e lm="settecentesimo" a="jaumeortola">  <i>settecentesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="settemillesimo" a="jaumeortola">  <i>settemillesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="sovraccarico" a="jaumeortola">    <i>sovraccaric</i><par n="tecnic/o__adj"/></e>
+<e lm="spagnolesco" a="jaumeortola">     <i>spagnolesc</i><par n="caric/o__adj"/></e>
+<e lm="straricco" a="jaumeortola">       <i>straricc</i><par n="caric/o__adj"/></e>
+<e lm="stucco" a="jaumeortola">          <i>stucc</i><par n="caric/o__adj"/></e>
+<e lm="super-ricco" a="jaumeortola">     <i>super-ricc</i><par n="caric/o__adj"/></e>
+<e lm="temporalesco" a="jaumeortola">    <i>temporalesc</i><par n="caric/o__adj"/></e>
+<e lm="tirannesco" a="jaumeortola">      <i>tirannesc</i><par n="caric/o__adj"/></e>
+<e lm="tizianesco" a="jaumeortola">      <i>tizianesc</i><par n="caric/o__adj"/></e>
+<e lm="tocco" a="jaumeortola">           <i>tocc</i><par n="caric/o__adj"/></e>
+<e lm="tosco" a="jaumeortola">           <i>tosc</i><par n="caric/o__adj"/></e>
+<e lm="trecentesco" a="jaumeortola">     <i>trecentesc</i><par n="caric/o__adj"/></e>
+<e lm="trecentocinquantesimo" a="jaumeortola"><i>trecentocinquantesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="trecentodecimo" a="jaumeortola">  <i>trecentodecim</i><par n="cosiddett/o__adj"/></e>
+<e lm="trecentonovantesimo" a="jaumeortola"><i>trecentonovantesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="trecentoquarantesimo" a="jaumeortola"><i>trecentoquarantesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="trecentosessantesimo" a="jaumeortola"><i>trecentosessantesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="trecentosettantesimo" a="jaumeortola"><i>trecentosettantesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="trecentotrentesimo" a="jaumeortola"><i>trecentotrentesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="trecentottantesimo" a="jaumeortola"><i>trecentottantesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="trecentoventesimo" a="jaumeortola"><i>trecentoventesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="tremillesimo" a="jaumeortola">    <i>tremillesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="tronco" a="jaumeortola">          <i>tronc</i><par n="caric/o__adj"/></e>
+<e lm="uditorio" a="jaumeortola">        <i>uditori</i><par n="ampi/o__adj"/></e>
+<e lm="undicimillesimo" a="jaumeortola"> <i>undicimillesim</i><par n="cosiddett/o__adj"/></e>
+<e lm="usurpatorio" a="jaumeortola">     <i>usurpatori</i><par n="cosiddett/o__adj"/></e>
+<e lm="valgo" a="jaumeortola">           <i>valg</i><par n="caric/o__adj"/></e>
+<e lm="velivolo" a="jaumeortola">        <i>velivol</i><par n="abbandonat/o__adj"/></e>
+<e lm="vibratorio" a="jaumeortola">      <i>vibratori</i><par n="cosiddett/o__adj"/></e>
+<e lm="vichingo" a="jaumeortola">        <i>viching</i><par n="caric/o__adj"/></e>
+<e lm="vivianesco" a="jaumeortola">      <i>vivianesc</i><par n="caric/o__adj"/></e>
+<e lm="yogo" a="jaumeortola">            <i>yog</i><par n="caric/o__adj"/></e>
+<e lm="zingaresco" a="jaumeortola">      <i>zingaresc</i><par n="caric/o__adj"/></e>

@@ -31,6 +31,11 @@ if [[ $lang = "por" ]]; then
     src_dict="src/portuguese-dict.txt"
 fi
 
+if [[ $lang = "ita" ]]; then
+    apertium_dict="/home/jaume/apertium/apertium-ita/apertium-ita.ita.dix"
+    src_dict="src/italian-dict.txt"
+fi
+
 echo $apertium_dict
 echo $src_dict
 
