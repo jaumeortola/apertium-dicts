@@ -281,6 +281,7 @@ sub check_adjective {
     #print "$flexio_lt\n";
     if ($flexio_lt =~ /^NCMP000 (.*) NCMS000 \1$/) {$flexio_lt = "NCMN000 $1";}
     elsif ($flexio_lt =~ /^NCFP000 (.*) NCFS000 \1$/) {$flexio_lt = "NCFN000 $1";}
+    elsif ($flexio_lt =~ /^AQ0FP0 (.*) AQ0FS0 \1 AQ0MP0 \1 AQ0MS0 \1$/) {$flexio_lt = "AQ0CN0 $1";}
 
     # check lemma in French participles
     if ($lang =~ /^fra$/) {
