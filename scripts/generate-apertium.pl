@@ -219,7 +219,6 @@ if ($lang =~ /^ita$/) {
 close ($fh);
 @adjs_lt = sort @adjs_lt;
 
-
 my %apertium_dict;
 my %apertium_dict_paradigm;
 open($fh,  "<:encoding(UTF-8)", $apertium_dict );
@@ -277,6 +276,11 @@ sub check_adjective {
         $lema = $1;
         $flexio_lt = $2;
     }
+
+    #arregla flexió en italià
+    #print "$flexio_lt\n";
+    if ($flexio_lt =~ /^NCMP000 (.*) NCMS000 \1$/) {$flexio_lt = "NCMN000 $1";}
+    elsif ($flexio_lt =~ /^NCFP000 (.*) NCFS000 \1$/) {$flexio_lt = "NCFN000 $1";}
 
     # check lemma in French participles
     if ($lang =~ /^fra$/) {
