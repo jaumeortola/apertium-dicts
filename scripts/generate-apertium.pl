@@ -164,7 +164,8 @@ if ($lang =~ /^ita$/) {
              my $lemme = $2;
              my $genere = "C";
              my $nombre = "N";
-             if ($tags =~ /\b$italian_gramcat\b/) { 
+             if ($tags =~ /\b$italian_gramcat\b/) {
+                 #if ($tags =~ /\bsup\b/) {next;} #ignora superlatius
                  if ($tags =~ /\b[Mm]\b/) { $genere = "M"; } 
                  if ($tags =~ /\b[Ff]\b/) { $genere = "F"; } 
                  if ($tags =~ /\bp\b/) { $nombre = "P"; } 
@@ -279,6 +280,7 @@ sub check_adjective {
 
     #arregla flexió en italià
     #print "$flexio_lt\n";
+    #if ($lema =~ /^ventilatore$/) {  print "======== $flexio_lt; }
     if ($flexio_lt =~ /^NCMP000 (.*) NCMS000 \1$/) {$flexio_lt = "NCMN000 $1";}
     elsif ($flexio_lt =~ /^NCFP000 (.*) NCFS000 \1$/) {$flexio_lt = "NCFN000 $1";}
     elsif ($flexio_lt =~ /^AQ0FP0 (.*) AQ0FS0 \1 AQ0MP0 \1 AQ0MS0 \1$/) {$flexio_lt = "AQ0CN0 $1";}
