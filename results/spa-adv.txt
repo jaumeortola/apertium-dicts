@@ -56,6 +56,7 @@
 <e lm="agronómicamente" a="jaumeortola"> <i>agronómicamente</i><par n="adónde__adv"/></e>
 <e lm="ahogadamente" a="jaumeortola">    <i>ahogadamente</i><par n="adónde__adv"/></e>
 <e lm="ahorradamente" a="jaumeortola">   <i>ahorradamente</i><par n="adónde__adv"/></e>
+<e lm="aindamáis" a="jaumeortola">       <i>aindamáis</i><par n="adónde__adv"/></e>
 <e lm="ajorro" a="jaumeortola">          <i>ajorro</i><par n="adónde__adv"/></e>
 <e lm="aladamente" a="jaumeortola">      <i>aladamente</i><par n="adónde__adv"/></e>
 <e lm="alambicadamente" a="jaumeortola"> <i>alambicadamente</i><par n="adónde__adv"/></e>
@@ -178,11 +179,13 @@
 <e lm="autárquicamente" a="jaumeortola"> <i>autárquicamente</i><par n="adónde__adv"/></e>
 <e lm="autóctonamente" a="jaumeortola">  <i>autóctonamente</i><par n="adónde__adv"/></e>
 <e lm="autógenamente" a="jaumeortola">   <i>autógenamente</i><par n="adónde__adv"/></e>
+<e lm="avante" a="jaumeortola">          <i>avante</i><par n="adónde__adv"/></e>
 <e lm="avasalladoramente" a="jaumeortola"><i>avasalladoramente</i><par n="adónde__adv"/></e>
 <e lm="avinagradamente" a="jaumeortola"> <i>avinagradamente</i><par n="adónde__adv"/></e>
 <e lm="axilarmente" a="jaumeortola">     <i>axilarmente</i><par n="adónde__adv"/></e>
 <e lm="axiomáticamente" a="jaumeortola"> <i>axiomáticamente</i><par n="adónde__adv"/></e>
 <e lm="ayuso" a="jaumeortola">           <i>ayuso</i><par n="adónde__adv"/></e>
+<e lm="aún" a="jaumeortola">             <i>aún</i><par n="adónde__adv"/></e>
 <e lm="bailonamente" a="jaumeortola">    <i>bailonamente</i><par n="adónde__adv"/></e>
 <e lm="bajamente" a="jaumeortola">       <i>bajamente</i><par n="adónde__adv"/></e>
 <e lm="balbuceantemente" a="jaumeortola"><i>balbuceantemente</i><par n="adónde__adv"/></e>
@@ -528,6 +531,8 @@
 <e lm="enfadadamente" a="jaumeortola">   <i>enfadadamente</i><par n="adónde__adv"/></e>
 <e lm="engañadoramente" a="jaumeortola"> <i>engañadoramente</i><par n="adónde__adv"/></e>
 <e lm="engoladamente" a="jaumeortola">   <i>engoladamente</i><par n="adónde__adv"/></e>
+<e lm="enhorabuena" a="jaumeortola">     <i>enhorabuena</i><par n="adónde__adv"/></e>
+<e lm="enhoramala" a="jaumeortola">      <i>enhoramala</i><par n="adónde__adv"/></e>
 <e lm="enjundiosamente" a="jaumeortola"> <i>enjundiosamente</i><par n="adónde__adv"/></e>
 <e lm="enloquecedoramente" a="jaumeortola"><i>enloquecedoramente</i><par n="adónde__adv"/></e>
 <e lm="enloquecidamente" a="jaumeortola"><i>enloquecidamente</i><par n="adónde__adv"/></e>
@@ -761,6 +766,7 @@
 <e lm="humilladamente" a="jaumeortola">  <i>humilladamente</i><par n="adónde__adv"/></e>
 <e lm="huracanadamente" a="jaumeortola"> <i>huracanadamente</i><par n="adónde__adv"/></e>
 <e lm="hurtadamente" a="jaumeortola">    <i>hurtadamente</i><par n="adónde__adv"/></e>
+<e lm="ibidem" a="jaumeortola">          <i>ibidem</i><par n="adónde__adv"/></e>
 <e lm="ictiológicamente" a="jaumeortola"><i>ictiológicamente</i><par n="adónde__adv"/></e>
 <e lm="icónicamente" a="jaumeortola">    <i>icónicamente</i><par n="adónde__adv"/></e>
 <e lm="idem" a="jaumeortola">            <i>idem</i><par n="adónde__adv"/></e>
@@ -1075,6 +1081,8 @@
 <e lm="neuróticamente" a="jaumeortola">  <i>neuróticamente</i><par n="adónde__adv"/></e>
 <e lm="nobiliariamente" a="jaumeortola"> <i>nobiliariamente</i><par n="adónde__adv"/></e>
 <e lm="nomás" a="jaumeortola">           <i>nomás</i><par n="adónde__adv"/></e>
+<e lm="norabuena" a="jaumeortola">       <i>norabuena</i><par n="adónde__adv"/></e>
+<e lm="noramala" a="jaumeortola">        <i>noramala</i><par n="adónde__adv"/></e>
 <e lm="notamente" a="jaumeortola">       <i>notamente</i><par n="adónde__adv"/></e>
 <e lm="novelescamente" a="jaumeortola">  <i>novelescamente</i><par n="adónde__adv"/></e>
 <e lm="noéticamente" a="jaumeortola">    <i>noéticamente</i><par n="adónde__adv"/></e>
@@ -1086,6 +1094,8 @@
 <e lm="occipitalmente" a="jaumeortola">  <i>occipitalmente</i><par n="adónde__adv"/></e>
 <e lm="oceanográficamente" a="jaumeortola"><i>oceanográficamente</i><par n="adónde__adv"/></e>
 <e lm="octaédricamente" a="jaumeortola"> <i>octaédricamente</i><par n="adónde__adv"/></e>
+<e lm="off-line" a="jaumeortola">        <i>off-line</i><par n="adónde__adv"/></e>
+<e lm="offline" a="jaumeortola">         <i>offline</i><par n="adónde__adv"/></e>
 <e lm="oftalmológicamente" a="jaumeortola"><i>oftalmológicamente</i><par n="adónde__adv"/></e>
 <e lm="oftalmoscópicamente" a="jaumeortola"><i>oftalmoscópicamente</i><par n="adónde__adv"/></e>
 <e lm="ogaño" a="jaumeortola">           <i>ogaño</i><par n="adónde__adv"/></e>
@@ -1095,6 +1105,7 @@
 <e lm="olorosamente" a="jaumeortola">    <i>olorosamente</i><par n="adónde__adv"/></e>
 <e lm="ominosamente" a="jaumeortola">    <i>ominosamente</i><par n="adónde__adv"/></e>
 <e lm="ondulantemente" a="jaumeortola">  <i>ondulantemente</i><par n="adónde__adv"/></e>
+<e lm="online" a="jaumeortola">          <i>online</i><par n="adónde__adv"/></e>
 <e lm="onomatopéyicamente" a="jaumeortola"><i>onomatopéyicamente</i><par n="adónde__adv"/></e>
 <e lm="ontogénicamente" a="jaumeortola"> <i>ontogénicamente</i><par n="adónde__adv"/></e>
 <e lm="operatoriamente" a="jaumeortola"> <i>operatoriamente</i><par n="adónde__adv"/></e>

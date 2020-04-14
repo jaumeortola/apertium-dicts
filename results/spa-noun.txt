@@ -511,6 +511,7 @@
 <e lm="acondroplasia" a="jaumeortola">   <i>acondroplasia</i><par n="abeja__n"/></e>
 <e lm="aconitato" a="jaumeortola">       <i>aconitato</i><par n="abismo__n"/></e>
 <e lm="aconitina" a="jaumeortola">       <i>aconitina</i><par n="abeja__n"/></e>
+<e lm="acontecer" a="jaumeortola">       <i>acontecer</i><par n="abril__n"/></e>
 <e lm="acopiamiento" a="jaumeortola">    <i>acopiamiento</i><par n="abismo__n"/></e>
 <e lm="acopladura" a="jaumeortola">      <i>acopladura</i><par n="abeja__n"/></e>
 <e lm="acople" a="jaumeortola">          <i>acople</i><par n="abismo__n"/></e>
@@ -564,7 +565,6 @@
 <e lm="acrotera" a="jaumeortola">        <i>acrotera</i><par n="abeja__n"/></e>
 <e lm="acroteria" a="jaumeortola">       <i>acroteria</i><par n="abeja__n"/></e>
 <e lm="acroterio" a="jaumeortola">       <i>acroterio</i><par n="abismo__n"/></e>
-<e lm="acroy" a="jaumeortola">           <i>acroy</i><par n="abril__n"/></e>
 <e lm="acrídido" a="jaumeortola">        <i>acrídido</i><par n="abismo__n"/></e>
 <e lm="actinia" a="jaumeortola">         <i>actinia</i><par n="abeja__n"/></e>
 <e lm="actiniario" a="jaumeortola">      <i>actiniario</i><par n="abismo__n"/></e>
@@ -781,7 +781,7 @@
 <e lm="adverbialización" a="jaumeortola"><i>adverbializaci</i><par n="acci/ón__n"/></e>
 <e lm="adversión" a="jaumeortola">       <i>adversi</i><par n="acci/ón__n"/></e>
 <e lm="advertimiento" a="jaumeortola">   <i>advertimiento</i><par n="abismo__n"/></e>
-<e lm="Adviento" a="jaumeortola">        <i>Adviento</i><par n="atletismo__n"/></e>
+<e lm="Adviento" a="jaumeortola">        <i>Adviento</i><par n="abismo__n"/></e>
 <e lm="adyuvante" a="jaumeortola">       <i>adyuvante</i><par n="abismo__n"/></e>
 <e lm="adán" a="jaumeortola">            <i>ad</i><par n="adem/án__n"/></e>
 <e lm="adónico" a="jaumeortola">         <i>adónico</i><par n="abismo__n"/></e>
@@ -1073,14 +1073,13 @@
 <e lm="aguamielero" a="jaumeortola">     <i>aguamieler</i><par n="abogad/o__n"/></e>
 <e lm="aguanal" a="jaumeortola">         <i>aguanal</i><par n="abril__n"/></e>
 <e lm="aguapacle" a="jaumeortola">       <i>aguapacle</i><par n="abismo__n"/></e>
-<e lm="aguapey" a="jaumeortola">         <i>aguapey</i><par n="abismo__n"/></e>
+<e lm="aguapey" a="jaumeortola">         <i>aguapey</i><par n="abril__n"/></e>
 <e lm="aguapié" a="jaumeortola">         <i>aguapié</i><par n="abismo__n"/></e>
 <e lm="aguapé" a="jaumeortola">          <i>aguapé</i><par n="abismo__n"/></e>
 <e lm="aguaraguazú" a="jaumeortola">     <i>aguaraguazú</i><par n="club__n"/></e>
 <e lm="aguardadero" a="jaumeortola">     <i>aguardadero</i><par n="abismo__n"/></e>
 <e lm="aguardentero" a="jaumeortola">    <i>aguardenter</i><par n="abogad/o__n"/></e>
 <e lm="aguardentería" a="jaumeortola">   <i>aguardentería</i><par n="abeja__n"/></e>
-<e lm="aguaribay" a="jaumeortola">       <i>aguaribay</i><par n="abril__n"/></e>
 <e lm="aguarico" a="jaumeortola">        <i>aguarico</i><par n="abismo__n"/></e>
 <e lm="aguarrada" a="jaumeortola">       <i>aguarrada</i><par n="abeja__n"/></e>
 <e lm="aguarrás" a="jaumeortola">        <i>aguarr</i><par n="comp/ás__n"/></e>
@@ -1097,7 +1096,6 @@
 <e lm="aguavientos" a="jaumeortola">     <i>aguavientos</i><par n="campus__n"/></e>
 <e lm="aguavilla" a="jaumeortola">       <i>aguavilla</i><par n="abeja__n"/></e>
 <e lm="aguaviva" a="jaumeortola">        <i>aguaviva</i><par n="abeja__n"/></e>
-<e lm="aguay" a="jaumeortola">           <i>aguay</i><par n="abril__n"/></e>
 <e lm="aguayón" a="jaumeortola">         <i>aguay</i><par n="aluvi/ón__n"/></e>
 <e lm="aguazal" a="jaumeortola">         <i>aguazal</i><par n="abril__n"/></e>
 <e lm="aguazo" a="jaumeortola">          <i>aguazo</i><par n="abismo__n"/></e>
@@ -1269,7 +1267,7 @@
 <e lm="alabarda" a="jaumeortola">        <i>alabarda</i><par n="abeja__n"/></e>
 <e lm="alabardazo" a="jaumeortola">      <i>alabardazo</i><par n="abismo__n"/></e>
 <e lm="alabastrina" a="jaumeortola">     <i>alabastrina</i><par n="abeja__n"/></e>
-<e lm="alacaluf" a="jaumeortola">        <i>alacaluf</i><par n="guardaespaldas__n"/></e>
+<e lm="alacalufe" a="jaumeortola">       <i>alacalufe</i><par n="accionista__n"/></e>
 <e lm="alacate" a="jaumeortola">         <i>alacate</i><par n="abismo__n"/></e>
 <e lm="alacayuela" a="jaumeortola">      <i>alacayuela</i><par n="abeja__n"/></e>
 <e lm="alacet" a="jaumeortola">          <i>alacet</i><par n="atletismo__n"/></e>
@@ -2233,7 +2231,7 @@
 <e lm="amayuela" a="jaumeortola">        <i>amayuela</i><par n="abeja__n"/></e>
 <e lm="amazacotamiento" a="jaumeortola"> <i>amazacotamiento</i><par n="abismo__n"/></e>
 <e lm="amberino" a="jaumeortola">        <i>amberin</i><par n="abogad/o__n"/></e>
-<e lm="ambigú" a="jaumeortola">          <i>ambigú</i><par n="abismo__n"/></e>
+<e lm="ambigú" a="jaumeortola">          <i>ambigú</i><par n="club__n"/></e>
 <e lm="ambladura" a="jaumeortola">       <i>ambladura</i><par n="abeja__n"/></e>
 <e lm="ambleo" a="jaumeortola">          <i>ambleo</i><par n="abismo__n"/></e>
 <e lm="ambligonita" a="jaumeortola">     <i>ambligonita</i><par n="abeja__n"/></e>
@@ -2339,10 +2337,11 @@
 <e lm="amoyote" a="jaumeortola">         <i>amoyote</i><par n="abismo__n"/></e>
 <e lm="ampalagua" a="jaumeortola">       <i>ampalagua</i><par n="abeja__n"/></e>
 <e lm="amparamiento" a="jaumeortola">    <i>amparamiento</i><par n="abismo__n"/></e>
-<e lm="ampay" a="jaumeortola">           <i>ampay</i><par n="atletismo__n"/></e>
+<e lm="ampay" a="jaumeortola">           <i>ampay</i><par n="abril__n"/></e>
 <e lm="ampelita" a="jaumeortola">        <i>ampelita</i><par n="abeja__n"/></e>
 <e lm="ampelología" a="jaumeortola">     <i>ampelología</i><par n="abeja__n"/></e>
 <e lm="ampelógrafo" a="jaumeortola">     <i>ampelógraf</i><par n="abogad/o__n"/></e>
+<e lm="ampere" a="jaumeortola">          <i>ampere</i><par n="abismo__n"/></e>
 <e lm="amperihorímetro" a="jaumeortola"> <i>amperihorímetro</i><par n="abismo__n"/></e>
 <e lm="ampersand" a="jaumeortola">       <i>ampersand</i><par n="abismo__n"/></e>
 <e lm="amplexo" a="jaumeortola">         <i>amplexo</i><par n="abismo__n"/></e>
@@ -2717,6 +2716,7 @@
 <e lm="antefija" a="jaumeortola">        <i>antefija</i><par n="abeja__n"/></e>
 <e lm="antefoso" a="jaumeortola">        <i>antefoso</i><par n="abismo__n"/></e>
 <e lm="antefuturo" a="jaumeortola">      <i>antefuturo</i><par n="abismo__n"/></e>
+<e lm="antegreen" a="jaumeortola">       <i>antegreen</i><par n="abismo__n"/></e>
 <e lm="anteiglesia" a="jaumeortola">     <i>anteiglesia</i><par n="abeja__n"/></e>
 <e lm="antejardín" a="jaumeortola">      <i>antejard</i><par n="bot/ín__n"/></e>
 <e lm="antejo" a="jaumeortola">          <i>antejo</i><par n="abismo__n"/></e>
@@ -2781,7 +2781,6 @@
 <e lm="anticongelante" a="jaumeortola">  <i>anticongelante</i><par n="abismo__n"/></e>
 <e lm="anticonsumista" a="jaumeortola">  <i>anticonsumista</i><par n="accionista__n"/></e>
 <e lm="anticonvulsivo" a="jaumeortola">  <i>anticonvulsivo</i><par n="abismo__n"/></e>
-<e lm="anticorrosión" a="jaumeortola">   <i>anticorrosi</i><par n="acci/ón__n"/></e>
 <e lm="anticresis" a="jaumeortola">      <i>anticresis</i><par n="dosis__n"/></e>
 <e lm="anticresista" a="jaumeortola">    <i>anticresista</i><par n="accionista__n"/></e>
 <e lm="anticucho" a="jaumeortola">       <i>anticucho</i><par n="abismo__n"/></e>
@@ -3384,7 +3383,7 @@
 <e lm="armamiento" a="jaumeortola">      <i>armamiento</i><par n="abismo__n"/></e>
 <e lm="armatolo" a="jaumeortola">        <i>armatolo</i><par n="abismo__n"/></e>
 <e lm="armatroste" a="jaumeortola">      <i>armatroste</i><par n="abismo__n"/></e>
-<e lm="armañac" a="jaumeortola">         <i>armañac</i><par n="abril__n"/></e>
+<e lm="armañac" a="jaumeortola">         <i>armañac</i><par n="abismo__n"/></e>
 <e lm="armenio" a="jaumeortola">         <i>armeni</i><par n="abogad/o__n"/></e>
 <e lm="armero" a="jaumeortola">          <i>armer</i><par n="abogad/o__n"/></e>
 <e lm="armilla" a="jaumeortola">         <i>armilla</i><par n="abeja__n"/></e>
@@ -4369,7 +4368,6 @@
 <e lm="bacaladero" a="jaumeortola">      <i>bacaladero</i><par n="abismo__n"/></e>
 <e lm="bacallao" a="jaumeortola">        <i>bacallao</i><par n="abismo__n"/></e>
 <e lm="bacanora" a="jaumeortola">        <i>bacanora</i><par n="abismo__n"/></e>
-<e lm="bacaray" a="jaumeortola">         <i>bacaray</i><par n="abril__n"/></e>
 <e lm="bacarrá" a="jaumeortola">         <i>bacarrá</i><par n="abismo__n"/></e>
 <e lm="bacelar" a="jaumeortola">         <i>bacelar</i><par n="abril__n"/></e>
 <e lm="bacera" a="jaumeortola">          <i>bacera</i><par n="abeja__n"/></e>
@@ -4392,6 +4390,7 @@
 <e lm="backgammon" a="jaumeortola">      <i>backgammon</i><par n="club__n"/></e>
 <e lm="backgamon" a="jaumeortola">       <i>backgamon</i><par n="abismo__n"/></e>
 <e lm="backspace" a="jaumeortola">       <i>backspace</i><par n="abismo__n"/></e>
+<e lm="backspin" a="jaumeortola">        <i>backspin</i><par n="abismo__n"/></e>
 <e lm="backstage" a="jaumeortola">       <i>backstage</i><par n="abismo__n"/></e>
 <e lm="backswing" a="jaumeortola">       <i>backswing</i><par n="abismo__n"/></e>
 <e lm="bacon" a="jaumeortola">           <i>bacon</i><par n="club__n"/></e>
@@ -4514,7 +4513,7 @@
 <e lm="balate" a="jaumeortola">          <i>balate</i><par n="abismo__n"/></e>
 <e lm="balausta" a="jaumeortola">        <i>balausta</i><par n="abeja__n"/></e>
 <e lm="balaustra" a="jaumeortola">       <i>balaustra</i><par n="abeja__n"/></e>
-<e lm="balay" a="jaumeortola">           <i>balay</i><par n="abismo__n"/></e>
+<e lm="balay" a="jaumeortola">           <i>balay</i><par n="abril__n"/></e>
 <e lm="balayo" a="jaumeortola">          <i>balayo</i><par n="abismo__n"/></e>
 <e lm="balaústa" a="jaumeortola">        <i>balaústa</i><par n="abeja__n"/></e>
 <e lm="balaústre" a="jaumeortola">       <i>balaústre</i><par n="abismo__n"/></e>
@@ -4670,7 +4669,6 @@
 <e lm="barandado" a="jaumeortola">       <i>barandado</i><par n="abismo__n"/></e>
 <e lm="barandaje" a="jaumeortola">       <i>barandaje</i><par n="abismo__n"/></e>
 <e lm="barandal" a="jaumeortola">        <i>barandal</i><par n="abril__n"/></e>
-<e lm="barangay" a="jaumeortola">        <i>barangay</i><par n="abril__n"/></e>
 <e lm="barangayán" a="jaumeortola">      <i>barangay</i><par n="adem/án__n"/></e>
 <e lm="barata" a="jaumeortola">          <i>barata</i><par n="abeja__n"/></e>
 <e lm="baratería" a="jaumeortola">       <i>baratería</i><par n="abeja__n"/></e>
@@ -4748,8 +4746,6 @@
 <e lm="barjuleta" a="jaumeortola">       <i>barjuleta</i><par n="abeja__n"/></e>
 <e lm="barján" a="jaumeortola">          <i>barj</i><par n="adem/án__n"/></e>
 <e lm="barloa" a="jaumeortola">          <i>barloa</i><par n="abeja__n"/></e>
-<e lm="barman" a="jaumeortola">          <i>barman</i><par n="club__n"/></e>
-<e lm="barn" a="jaumeortola">            <i>barn</i><par n="club__n"/></e>
 <e lm="barnabita" a="jaumeortola">       <i>barnabita</i><par n="accionista__n"/></e>
 <e lm="barnacla" a="jaumeortola">        <i>barnacla</i><par n="abeja__n"/></e>
 <e lm="barnizado" a="jaumeortola">       <i>barnizado</i><par n="abismo__n"/></e>
@@ -5084,7 +5080,7 @@
 <e lm="benemérito" a="jaumeortola">      <i>benemérit</i><par n="abogad/o__n"/></e>
 <e lm="benito" a="jaumeortola">          <i>benito</i><par n="abismo__n"/></e>
 <e lm="benjamita" a="jaumeortola">       <i>benjamita</i><par n="accionista__n"/></e>
-<e lm="benjuí" a="jaumeortola">          <i>benjuí</i><par n="club__n"/></e>
+<e lm="benjuí" a="jaumeortola">          <i>benjuí</i><par n="abismo__n"/></e>
 <e lm="benteveo" a="jaumeortola">        <i>benteveo</i><par n="abismo__n"/></e>
 <e lm="benzalconio" a="jaumeortola">     <i>benzalconio</i><par n="abismo__n"/></e>
 <e lm="benzaldehído" a="jaumeortola">    <i>benzaldehído</i><par n="abismo__n"/></e>
@@ -5262,6 +5258,7 @@
 <e lm="bienhechuría" a="jaumeortola">    <i>bienhechuría</i><par n="abeja__n"/></e>
 <e lm="bienmesabe" a="jaumeortola">      <i>bienmesabe</i><par n="abismo__n"/></e>
 <e lm="bienquerencia" a="jaumeortola">   <i>bienquerencia</i><par n="abeja__n"/></e>
+<e lm="bienquerer" a="jaumeortola">      <i>bienquerer</i><par n="abril__n"/></e>
 <e lm="bienteveo" a="jaumeortola">       <i>bienteveo</i><par n="abismo__n"/></e>
 <e lm="bienvenido" a="jaumeortola">      <i>bienvenido</i><par n="abismo__n"/></e>
 <e lm="bienza" a="jaumeortola">          <i>bienza</i><par n="abeja__n"/></e>
@@ -5859,6 +5856,7 @@
 <e lm="botagueña" a="jaumeortola">       <i>botagueña</i><par n="abeja__n"/></e>
 <e lm="botaina" a="jaumeortola">         <i>botaina</i><par n="abeja__n"/></e>
 <e lm="botalomo" a="jaumeortola">        <i>botalomo</i><par n="abismo__n"/></e>
+<e lm="botamay" a="jaumeortola">         <i>botamay</i><par n="abril__n"/></e>
 <e lm="botamen" a="jaumeortola">         <i>bot</i><par n="cert/amen__n"/></e>
 <e lm="botana" a="jaumeortola">          <i>botana</i><par n="abeja__n"/></e>
 <e lm="botanista" a="jaumeortola">       <i>botanista</i><par n="accionista__n"/></e>
@@ -5912,7 +5910,6 @@
 <e lm="bovaje" a="jaumeortola">          <i>bovaje</i><par n="abismo__n"/></e>
 <e lm="bovinotecnia" a="jaumeortola">    <i>bovinotecnia</i><par n="abeja__n"/></e>
 <e lm="bovático" a="jaumeortola">        <i>bovático</i><par n="abismo__n"/></e>
-<e lm="boy" a="jaumeortola">             <i>boy</i><par n="abismo__n"/></e>
 <e lm="boyada" a="jaumeortola">          <i>boyada</i><par n="abeja__n"/></e>
 <e lm="boyarda" a="jaumeortola">         <i>boyarda</i><par n="abeja__n"/></e>
 <e lm="boyarín" a="jaumeortola">         <i>boyar</i><par n="bot/ín__n"/></e>
@@ -6171,7 +6168,6 @@
 <e lm="bróquil" a="jaumeortola">         <i>bróquil</i><par n="abril__n"/></e>
 <e lm="brótano" a="jaumeortola">         <i>brótano</i><par n="abismo__n"/></e>
 <e lm="brótola" a="jaumeortola">         <i>brótola</i><par n="abeja__n"/></e>
-<e lm="bu" a="jaumeortola">              <i>bu</i><par n="atletismo__n"/></e>
 <e lm="buaro" a="jaumeortola">           <i>buaro</i><par n="abismo__n"/></e>
 <e lm="buba" a="jaumeortola">            <i>buba</i><par n="abeja__n"/></e>
 <e lm="bubi" a="jaumeortola">            <i>bubi</i><par n="accionista__n"/></e>
@@ -6323,6 +6319,7 @@
 <e lm="burusco" a="jaumeortola">         <i>burusco</i><par n="abismo__n"/></e>
 <e lm="burío" a="jaumeortola">           <i>burío</i><par n="abismo__n"/></e>
 <e lm="burótica" a="jaumeortola">        <i>burótica</i><par n="abeja__n"/></e>
+<e lm="bus-bob" a="jaumeortola">         <i>bus-bob</i><par n="abismo__n"/></e>
 <e lm="busarda" a="jaumeortola">         <i>busarda</i><par n="abeja__n"/></e>
 <e lm="buscabulla" a="jaumeortola">      <i>buscabulla</i><par n="accionista__n"/></e>
 <e lm="buscaniguas" a="jaumeortola">     <i>buscaniguas</i><par n="campus__n"/></e>
@@ -6340,6 +6337,7 @@
 <e lm="busier" a="jaumeortola">          <i>busier</i><par n="abril__n"/></e>
 <e lm="busiete" a="jaumeortola">         <i>busiete</i><par n="abismo__n"/></e>
 <e lm="busito" a="jaumeortola">          <i>busito</i><par n="abismo__n"/></e>
+<e lm="Busolfan" a="jaumeortola">        <i>Busolfan</i><par n="atletismo__n"/></e>
 <e lm="busquilla" a="jaumeortola">       <i>busquilla</i><par n="accionista__n"/></e>
 <e lm="bustrofedon" a="jaumeortola">     <i>bustrofedon</i><par n="abril__n"/></e>
 <e lm="bustrófedon" a="jaumeortola">     <i>bustrófedon</i><par n="abril__n"/></e>
@@ -6635,6 +6633,7 @@
 <e lm="cactácea" a="jaumeortola">        <i>cactácea</i><par n="abeja__n"/></e>
 <e lm="caculo" a="jaumeortola">          <i>caculo</i><par n="abismo__n"/></e>
 <e lm="cacumen" a="jaumeortola">         <i>cac</i><par n="res/umen__n"/></e>
+<e lm="cacuy" a="jaumeortola">           <i>cacuy</i><par n="abril__n"/></e>
 <e lm="CAD" a="jaumeortola">             <i>CAD</i><par n="ATS__n"/></e>
 <e lm="cadarzo" a="jaumeortola">         <i>cadarzo</i><par n="abismo__n"/></e>
 <e lm="cadaval" a="jaumeortola">         <i>cadaval</i><par n="abril__n"/></e>
@@ -7061,7 +7060,6 @@
 <e lm="cambocho" a="jaumeortola">        <i>cambocho</i><par n="abismo__n"/></e>
 <e lm="cambote" a="jaumeortola">         <i>cambote</i><par n="abismo__n"/></e>
 <e lm="camboyano" a="jaumeortola">       <i>camboyan</i><par n="abogad/o__n"/></e>
-<e lm="cambray" a="jaumeortola">         <i>cambray</i><par n="abril__n"/></e>
 <e lm="cambrayón" a="jaumeortola">       <i>cambray</i><par n="aluvi/ón__n"/></e>
 <e lm="cambriano" a="jaumeortola">       <i>cambrian</i><par n="abogad/o__n"/></e>
 <e lm="cambrillón" a="jaumeortola">      <i>cambrill</i><par n="aluvi/ón__n"/></e>
@@ -7211,8 +7209,6 @@
 <e lm="cancelariato" a="jaumeortola">    <i>cancelariato</i><par n="abismo__n"/></e>
 <e lm="cancelario" a="jaumeortola">      <i>cancelario</i><par n="abismo__n"/></e>
 <e lm="Cancelaría" a="jaumeortola">      <i>Cancelaría</i><par n="cuaresma__n"/></e>
-<e lm="cancelaría" a="jaumeortola">      <i>cancelaría</i><par n="cuaresma__n"/></e>
-<e lm="cancelería" a="jaumeortola">      <i>cancelería</i><par n="abeja__n"/></e>
 <e lm="canceller" a="jaumeortola">       <i>canceller</i><par n="abril__n"/></e>
 <e lm="cancellería" a="jaumeortola">     <i>cancellería</i><par n="abeja__n"/></e>
 <e lm="cancerbero" a="jaumeortola">      <i>cancerber</i><par n="abogad/o__n"/></e>
@@ -7270,7 +7266,6 @@
 <e lm="candombe" a="jaumeortola">        <i>candombe</i><par n="abismo__n"/></e>
 <e lm="candongo" a="jaumeortola">        <i>candong</i><par n="abogad/o__n"/></e>
 <e lm="candorga" a="jaumeortola">        <i>candorga</i><par n="abeja__n"/></e>
-<e lm="candray" a="jaumeortola">         <i>candray</i><par n="abril__n"/></e>
 <e lm="caneca" a="jaumeortola">          <i>caneca</i><par n="abeja__n"/></e>
 <e lm="canecho" a="jaumeortola">         <i>canecho</i><par n="abismo__n"/></e>
 <e lm="canecillo" a="jaumeortola">       <i>canecillo</i><par n="abismo__n"/></e>
@@ -7403,6 +7398,7 @@
 <e lm="capador" a="jaumeortola">         <i>capador</i><par n="señor__n"/></e>
 <e lm="capadura" a="jaumeortola">        <i>capadura</i><par n="abeja__n"/></e>
 <e lm="capanga" a="jaumeortola">         <i>capanga</i><par n="abismo__n"/></e>
+<e lm="capararoch" a="jaumeortola">      <i>capararoch</i><par n="campus__n"/></e>
 <e lm="caparidácea" a="jaumeortola">     <i>caparidácea</i><par n="abeja__n"/></e>
 <e lm="caparra" a="jaumeortola">         <i>caparra</i><par n="abeja__n"/></e>
 <e lm="caparro" a="jaumeortola">         <i>caparro</i><par n="abismo__n"/></e>
@@ -7652,7 +7648,7 @@
 <e lm="carcavonera" a="jaumeortola">     <i>carcavonera</i><par n="abeja__n"/></e>
 <e lm="carcavuezo" a="jaumeortola">      <i>carcavuezo</i><par n="abismo__n"/></e>
 <e lm="carcavón" a="jaumeortola">        <i>carcav</i><par n="aluvi/ón__n"/></e>
-<e lm="carcax" a="jaumeortola">          <i>carcax</i><par n="atletismo__n"/></e>
+<e lm="carcax" a="jaumeortola">          <i>carcax</i><par n="abril__n"/></e>
 <e lm="carcaza" a="jaumeortola">         <i>carcaza</i><par n="abeja__n"/></e>
 <e lm="carcañal" a="jaumeortola">        <i>carcañal</i><par n="abril__n"/></e>
 <e lm="carcaño" a="jaumeortola">         <i>carcaño</i><par n="abismo__n"/></e>
@@ -7704,7 +7700,6 @@
 <e lm="cardumen" a="jaumeortola">        <i>card</i><par n="res/umen__n"/></e>
 <e lm="carduzador" a="jaumeortola">      <i>carduzador</i><par n="señor__n"/></e>
 <e lm="carduzal" a="jaumeortola">        <i>carduzal</i><par n="abril__n"/></e>
-<e lm="cardíaco" a="jaumeortola">        <i>cardíac</i><par n="abogad/o__n"/></e>
 <e lm="carecimiento" a="jaumeortola">    <i>carecimiento</i><par n="abismo__n"/></e>
 <e lm="careicillo" a="jaumeortola">      <i>careicillo</i><par n="abismo__n"/></e>
 <e lm="carel" a="jaumeortola">           <i>carel</i><par n="abril__n"/></e>
@@ -7933,7 +7928,6 @@
 <e lm="carruco" a="jaumeortola">         <i>carruco</i><par n="abismo__n"/></e>
 <e lm="carrujo" a="jaumeortola">         <i>carrujo</i><par n="abismo__n"/></e>
 <e lm="carruna" a="jaumeortola">         <i>carruna</i><par n="abeja__n"/></e>
-<e lm="carstificación" a="jaumeortola">  <i>carstificaci</i><par n="acci/ón__n"/></e>
 <e lm="carta-orden" a="jaumeortola">     <i>carta-</i><par n="/orden__n"/></e>
 <e lm="cartagenero" a="jaumeortola">     <i>cartagener</i><par n="abogad/o__n"/></e>
 <e lm="cartapacio" a="jaumeortola">      <i>cartapacio</i><par n="abismo__n"/></e>
@@ -8137,6 +8131,7 @@
 <e lm="catamarqueño" a="jaumeortola">    <i>catamarqueñ</i><par n="abogad/o__n"/></e>
 <e lm="catanga" a="jaumeortola">         <i>catanga</i><par n="abeja__n"/></e>
 <e lm="cataplexia" a="jaumeortola">      <i>cataplexia</i><par n="abeja__n"/></e>
+<e lm="catapum" a="jaumeortola">         <i>catapum</i><par n="atletismo__n"/></e>
 <e lm="cataraña" a="jaumeortola">        <i>cataraña</i><par n="abeja__n"/></e>
 <e lm="catarinita" a="jaumeortola">      <i>catarinita</i><par n="abeja__n"/></e>
 <e lm="catarribera" a="jaumeortola">     <i>catarribera</i><par n="abismo__n"/></e>
@@ -8790,6 +8785,7 @@
 <e lm="cervantista" a="jaumeortola">     <i>cervantista</i><par n="accionista__n"/></e>
 <e lm="cervantófilo" a="jaumeortola">    <i>cervantófil</i><par n="abogad/o__n"/></e>
 <e lm="cervatica" a="jaumeortola">       <i>cervatica</i><par n="abeja__n"/></e>
+<e lm="cervatillo" a="jaumeortola">      <i>cervatill</i><par n="abogad/o__n"/></e>
 <e lm="cerveceada" a="jaumeortola">      <i>cerveceada</i><par n="abeja__n"/></e>
 <e lm="cerveceo" a="jaumeortola">        <i>cerveceo</i><par n="abismo__n"/></e>
 <e lm="cervecero" a="jaumeortola">       <i>cervecer</i><par n="abogad/o__n"/></e>
@@ -8999,7 +8995,6 @@
 <e lm="chancaca" a="jaumeortola">        <i>chancaca</i><par n="abeja__n"/></e>
 <e lm="chancadora" a="jaumeortola">      <i>chancadora</i><par n="abeja__n"/></e>
 <e lm="chancaquita" a="jaumeortola">     <i>chancaquita</i><par n="abeja__n"/></e>
-<e lm="chancay" a="jaumeortola">         <i>chancay</i><par n="abril__n"/></e>
 <e lm="chancha" a="jaumeortola">         <i>chancha</i><par n="abeja__n"/></e>
 <e lm="chanchada" a="jaumeortola">       <i>chanchada</i><par n="abeja__n"/></e>
 <e lm="chanchero" a="jaumeortola">       <i>chancher</i><par n="abogad/o__n"/></e>
@@ -9225,7 +9220,7 @@
 <e lm="chero" a="jaumeortola">           <i>cher</i><par n="abogad/o__n"/></e>
 <e lm="cheroqui" a="jaumeortola">        <i>cheroqui</i><par n="accionista__n"/></e>
 <e lm="cherva" a="jaumeortola">          <i>cherva</i><par n="abeja__n"/></e>
-<e lm="cheviot" a="jaumeortola">         <i>cheviot</i><par n="club__n"/></e>
+<e lm="cheviot" a="jaumeortola">         <i>cheviot</i><par n="abismo__n"/></e>
 <e lm="chevió" a="jaumeortola">          <i>chevió</i><par n="abismo__n"/></e>
 <e lm="cheyene" a="jaumeortola">         <i>cheyene</i><par n="accionista__n"/></e>
 <e lm="chianti" a="jaumeortola">         <i>chianti</i><par n="abismo__n"/></e>
@@ -9529,6 +9524,7 @@
 <e lm="chite" a="jaumeortola">           <i>chite</i><par n="abismo__n"/></e>
 <e lm="chiticalla" a="jaumeortola">      <i>chiticalla</i><par n="accionista__n"/></e>
 <e lm="chito" a="jaumeortola">           <i>chito</i><par n="abismo__n"/></e>
+<e lm="chivarro" a="jaumeortola">        <i>chivarr</i><par n="abogad/o__n"/></e>
 <e lm="chivatada" a="jaumeortola">       <i>chivatada</i><par n="abeja__n"/></e>
 <e lm="chivera" a="jaumeortola">         <i>chivera</i><par n="abeja__n"/></e>
 <e lm="chivetero" a="jaumeortola">       <i>chivetero</i><par n="abismo__n"/></e>
@@ -9877,6 +9873,7 @@
 <e lm="ciclotropía" a="jaumeortola">     <i>ciclotropía</i><par n="abeja__n"/></e>
 <e lm="cicloturista" a="jaumeortola">    <i>cicloturista</i><par n="accionista__n"/></e>
 <e lm="ciclovía" a="jaumeortola">        <i>ciclovía</i><par n="abeja__n"/></e>
+<e lm="ciclán" a="jaumeortola">          <i>cicl</i><par n="adem/án__n"/></e>
 <e lm="ciclóstoma" a="jaumeortola">      <i>ciclóstoma</i><par n="abismo__n"/></e>
 <e lm="ciconiforme" a="jaumeortola">     <i>ciconiforme</i><par n="abismo__n"/></e>
 <e lm="cicoria" a="jaumeortola">         <i>cicoria</i><par n="abeja__n"/></e>
@@ -10124,6 +10121,7 @@
 <e lm="circón" a="jaumeortola">          <i>circ</i><par n="aluvi/ón__n"/></e>
 <e lm="cirenaico" a="jaumeortola">       <i>cirenaic</i><par n="abogad/o__n"/></e>
 <e lm="cirial" a="jaumeortola">          <i>cirial</i><par n="abril__n"/></e>
+<e lm="cirigallo" a="jaumeortola">       <i>cirigall</i><par n="abogad/o__n"/></e>
 <e lm="cirigaña" a="jaumeortola">        <i>cirigaña</i><par n="abeja__n"/></e>
 <e lm="cirineo" a="jaumeortola">         <i>cirineo</i><par n="abismo__n"/></e>
 <e lm="cirolero" a="jaumeortola">        <i>cirolero</i><par n="abismo__n"/></e>
@@ -10173,6 +10171,7 @@
 <e lm="citolisina" a="jaumeortola">      <i>citolisina</i><par n="abeja__n"/></e>
 <e lm="citolisis" a="jaumeortola">       <i>citolisis</i><par n="dosis__n"/></e>
 <e lm="citoma" a="jaumeortola">          <i>citoma</i><par n="abeja__n"/></e>
+<e lm="citomegalovirus" a="jaumeortola"> <i>citomegalovirus</i><par n="campus__n"/></e>
 <e lm="citopenia" a="jaumeortola">       <i>citopenia</i><par n="abeja__n"/></e>
 <e lm="citoqueratina" a="jaumeortola">   <i>citoqueratina</i><par n="abeja__n"/></e>
 <e lm="citostático" a="jaumeortola">     <i>citostático</i><par n="abismo__n"/></e>
@@ -10430,6 +10429,7 @@
 <e lm="coarticulación" a="jaumeortola">  <i>coarticulaci</i><par n="acci/ón__n"/></e>
 <e lm="coasegurador" a="jaumeortola">    <i>coasegurador</i><par n="señor__n"/></e>
 <e lm="coatá" a="jaumeortola">           <i>coatá</i><par n="abismo__n"/></e>
+<e lm="coatí" a="jaumeortola">           <i>coatí</i><par n="club__n"/></e>
 <e lm="cobaltina" a="jaumeortola">       <i>cobaltina</i><par n="abeja__n"/></e>
 <e lm="cobaltita" a="jaumeortola">       <i>cobaltita</i><par n="abeja__n"/></e>
 <e lm="cobaltoterapia" a="jaumeortola">  <i>cobaltoterapia</i><par n="abeja__n"/></e>
@@ -11502,7 +11502,6 @@
 <e lm="copayero" a="jaumeortola">        <i>copayero</i><par n="abismo__n"/></e>
 <e lm="copaína" a="jaumeortola">         <i>copaína</i><par n="abeja__n"/></e>
 <e lm="copeado" a="jaumeortola">         <i>copeado</i><par n="abismo__n"/></e>
-<e lm="copeck" a="jaumeortola">          <i>copeck</i><par n="abismo__n"/></e>
 <e lm="copeicillo" a="jaumeortola">      <i>copeicillo</i><par n="abismo__n"/></e>
 <e lm="copela" a="jaumeortola">          <i>copela</i><par n="abeja__n"/></e>
 <e lm="copeo" a="jaumeortola">           <i>copeo</i><par n="abismo__n"/></e>
@@ -11650,7 +11649,6 @@
 <e lm="corediálisis" a="jaumeortola">    <i>corediálisis</i><par n="dosis__n"/></e>
 <e lm="corega" a="jaumeortola">          <i>corega</i><par n="abismo__n"/></e>
 <e lm="corego" a="jaumeortola">          <i>corego</i><par n="abismo__n"/></e>
-<e lm="coreligionario" a="jaumeortola">  <i>coreligionari</i><par n="abogad/o__n"/></e>
 <e lm="coremorfosis" a="jaumeortola">    <i>coremorfosis</i><par n="dosis__n"/></e>
 <e lm="coreo" a="jaumeortola">           <i>coreo</i><par n="abismo__n"/></e>
 <e lm="coreoplastia" a="jaumeortola">    <i>coreoplastia</i><par n="abeja__n"/></e>
@@ -12653,6 +12651,7 @@
 <e lm="curaduría" a="jaumeortola">       <i>curaduría</i><par n="abeja__n"/></e>
 <e lm="curalle" a="jaumeortola">         <i>curalle</i><par n="abismo__n"/></e>
 <e lm="curalotodo" a="jaumeortola">      <i>curalotodo</i><par n="abismo__n"/></e>
+<e lm="curamagüey" a="jaumeortola">      <i>curamagüey</i><par n="abril__n"/></e>
 <e lm="curamichate" a="jaumeortola">     <i>curamichate</i><par n="abismo__n"/></e>
 <e lm="curanderismo" a="jaumeortola">    <i>curanderismo</i><par n="abismo__n"/></e>
 <e lm="curandería" a="jaumeortola">      <i>curandería</i><par n="abeja__n"/></e>
@@ -12717,6 +12716,7 @@
 <e lm="curubo" a="jaumeortola">          <i>curubo</i><par n="abismo__n"/></e>
 <e lm="curuca" a="jaumeortola">          <i>curuca</i><par n="abeja__n"/></e>
 <e lm="curuja" a="jaumeortola">          <i>curuja</i><par n="abeja__n"/></e>
+<e lm="curujey" a="jaumeortola">         <i>curujey</i><par n="abril__n"/></e>
 <e lm="curumba" a="jaumeortola">         <i>curumba</i><par n="abeja__n"/></e>
 <e lm="cururo" a="jaumeortola">          <i>cururo</i><par n="abismo__n"/></e>
 <e lm="curutié" a="jaumeortola">         <i>curutié</i><par n="abismo__n"/></e>
@@ -12800,7 +12800,6 @@
 <e lm="cánon" a="jaumeortola">           <i>cánon</i><par n="atletismo__n"/></e>
 <e lm="cántara" a="jaumeortola">         <i>cántara</i><par n="abeja__n"/></e>
 <e lm="cánticum" a="jaumeortola">        <i>cánticum</i><par n="club__n"/></e>
-<e lm="cápita" a="jaumeortola">          <i>cápita</i><par n="abismo__n"/></e>
 <e lm="cápulo" a="jaumeortola">          <i>cápulo</i><par n="abismo__n"/></e>
 <e lm="cárabe" a="jaumeortola">          <i>cárabe</i><par n="abismo__n"/></e>
 <e lm="cárabo" a="jaumeortola">          <i>cárabo</i><par n="abismo__n"/></e>
@@ -12808,7 +12807,7 @@
 <e lm="cárcamo" a="jaumeortola">         <i>cárcamo</i><par n="abismo__n"/></e>
 <e lm="cárcavo" a="jaumeortola">         <i>cárcavo</i><par n="abismo__n"/></e>
 <e lm="cárcola" a="jaumeortola">         <i>cárcola</i><par n="abeja__n"/></e>
-<e lm="cárdigan" a="jaumeortola">        <i>cárdigan</i><par n="abismo__n"/></e>
+<e lm="cárdigan" a="jaumeortola">        <i>cárdigan</i><par n="campus__n"/></e>
 <e lm="cárites" a="jaumeortola">         <i>cárites</i><par n="dosis__n"/></e>
 <e lm="cárolus" a="jaumeortola">         <i>cárolus</i><par n="campus__n"/></e>
 <e lm="cártama" a="jaumeortola">         <i>cártama</i><par n="abeja__n"/></e>
@@ -12816,6 +12815,7 @@
 <e lm="cástula" a="jaumeortola">         <i>cástula</i><par n="abeja__n"/></e>
 <e lm="cátaro" a="jaumeortola">          <i>cátar</i><par n="abogad/o__n"/></e>
 <e lm="cátedro" a="jaumeortola">         <i>cátedro</i><par n="abismo__n"/></e>
+<e lm="cáterin" a="jaumeortola">         <i>cáterin</i><par n="campus__n"/></e>
 <e lm="cávea" a="jaumeortola">           <i>cávea</i><par n="abeja__n"/></e>
 <e lm="cáñama" a="jaumeortola">          <i>cáñama</i><par n="abeja__n"/></e>
 <e lm="cébido" a="jaumeortola">          <i>cébido</i><par n="abismo__n"/></e>
@@ -12911,6 +12911,7 @@
 <e lm="daifa" a="jaumeortola">           <i>daifa</i><par n="abeja__n"/></e>
 <e lm="daimio" a="jaumeortola">          <i>daimio</i><par n="abismo__n"/></e>
 <e lm="daiquiri" a="jaumeortola">        <i>daiquiri</i><par n="abismo__n"/></e>
+<e lm="daiquirí" a="jaumeortola">        <i>daiquirí</i><par n="club__n"/></e>
 <e lm="daishi" a="jaumeortola">          <i>daishi</i><par n="abismo__n"/></e>
 <e lm="dajao" a="jaumeortola">           <i>dajao</i><par n="abismo__n"/></e>
 <e lm="dala" a="jaumeortola">            <i>dala</i><par n="abeja__n"/></e>
@@ -13647,6 +13648,7 @@
 <e lm="deserpidina" a="jaumeortola">     <i>deserpidina</i><par n="abeja__n"/></e>
 <e lm="deservicio" a="jaumeortola">      <i>deservicio</i><par n="abismo__n"/></e>
 <e lm="deservidor" a="jaumeortola">      <i>deservidor</i><par n="señor__n"/></e>
+<e lm="desescalada" a="jaumeortola">     <i>desescalada</i><par n="abeja__n"/></e>
 <e lm="desesperado" a="jaumeortola">     <i>desesperad</i><par n="abogad/o__n"/></e>
 <e lm="desestancamiento" a="jaumeortola"><i>desestancamiento</i><par n="abismo__n"/></e>
 <e lm="desestanco" a="jaumeortola">      <i>desestanco</i><par n="abismo__n"/></e>
@@ -14787,6 +14789,7 @@
 <e lm="doscientosavo" a="jaumeortola">   <i>doscientosav</i><par n="abogad/o__n"/></e>
 <e lm="doselera" a="jaumeortola">        <i>doselera</i><par n="abeja__n"/></e>
 <e lm="doselete" a="jaumeortola">        <i>doselete</i><par n="abismo__n"/></e>
+<e lm="doses" a="jaumeortola">           <i>doses</i><par n="EE.UU.__n"/></e>
 <e lm="dosificador" a="jaumeortola">     <i>dosificador</i><par n="abril__n"/></e>
 <e lm="dosillo" a="jaumeortola">         <i>dosillo</i><par n="abismo__n"/></e>
 <e lm="dossier" a="jaumeortola">         <i>dossier</i><par n="club__n"/></e>
@@ -16235,7 +16238,6 @@
 <e lm="eremita" a="jaumeortola">         <i>eremita</i><par n="accionista__n"/></e>
 <e lm="eremitorio" a="jaumeortola">      <i>eremitorio</i><par n="abismo__n"/></e>
 <e lm="ereutofobia" a="jaumeortola">     <i>ereutofobia</i><par n="abeja__n"/></e>
-<e lm="erg" a="jaumeortola">             <i>erg</i><par n="club__n"/></e>
 <e lm="ergastoplasma" a="jaumeortola">   <i>ergastoplasma</i><par n="abeja__n"/></e>
 <e lm="ergativo" a="jaumeortola">        <i>ergativo</i><par n="abismo__n"/></e>
 <e lm="ergio" a="jaumeortola">           <i>ergio</i><par n="abismo__n"/></e>
@@ -16440,7 +16442,6 @@
 <e lm="escatol" a="jaumeortola">         <i>escatol</i><par n="abril__n"/></e>
 <e lm="escaupil" a="jaumeortola">        <i>escaupil</i><par n="abril__n"/></e>
 <e lm="escavillo" a="jaumeortola">       <i>escavillo</i><par n="abismo__n"/></e>
-<e lm="escay" a="jaumeortola">           <i>escay</i><par n="atletismo__n"/></e>
 <e lm="escañero" a="jaumeortola">        <i>escañero</i><par n="abismo__n"/></e>
 <e lm="escañeto" a="jaumeortola">        <i>escañeto</i><par n="abismo__n"/></e>
 <e lm="escañil" a="jaumeortola">         <i>escañil</i><par n="abril__n"/></e>
@@ -16787,7 +16788,6 @@
 <e lm="espatulomancia" a="jaumeortola">  <i>espatulomancia</i><par n="abeja__n"/></e>
 <e lm="espatulomancía" a="jaumeortola">  <i>espatulomancía</i><par n="abeja__n"/></e>
 <e lm="espaviento" a="jaumeortola">      <i>espaviento</i><par n="abismo__n"/></e>
-<e lm="espay" a="jaumeortola">           <i>espay</i><par n="club__n"/></e>
 <e lm="españolada" a="jaumeortola">      <i>españolada</i><par n="abeja__n"/></e>
 <e lm="españolería" a="jaumeortola">     <i>españolería</i><par n="abeja__n"/></e>
 <e lm="españoleta" a="jaumeortola">      <i>españoleta</i><par n="abeja__n"/></e>
@@ -16808,7 +16808,6 @@
 <e lm="especulador" a="jaumeortola">     <i>especulador</i><par n="señor__n"/></e>
 <e lm="especularita" a="jaumeortola">    <i>especularita</i><par n="abeja__n"/></e>
 <e lm="específico" a="jaumeortola">      <i>específico</i><par n="abismo__n"/></e>
-<e lm="especímenes" a="jaumeortola">     <i>especímenes</i><par n="EE.UU.__n"/></e>
 <e lm="espedo" a="jaumeortola">          <i>espedo</i><par n="abismo__n"/></e>
 <e lm="espejeo" a="jaumeortola">         <i>espejeo</i><par n="abismo__n"/></e>
 <e lm="espejero" a="jaumeortola">        <i>espejer</i><par n="abogad/o__n"/></e>
@@ -16967,6 +16966,7 @@
 <e lm="espumero" a="jaumeortola">        <i>espumero</i><par n="abismo__n"/></e>
 <e lm="espumilla" a="jaumeortola">       <i>espumilla</i><par n="abeja__n"/></e>
 <e lm="espumosidad" a="jaumeortola">     <i>espumosidad</i><par n="accesibilidad__n"/></e>
+<e lm="espumuy" a="jaumeortola">         <i>espumuy</i><par n="accesibilidad__n"/></e>
 <e lm="espundia" a="jaumeortola">        <i>espundia</i><par n="abeja__n"/></e>
 <e lm="espádice" a="jaumeortola">        <i>espádice</i><par n="abismo__n"/></e>
 <e lm="espárido" a="jaumeortola">        <i>espárido</i><par n="abismo__n"/></e>
@@ -17840,7 +17840,6 @@
 <e lm="fanfarronesca" a="jaumeortola">   <i>fanfarronesca</i><par n="abeja__n"/></e>
 <e lm="fanfarrón" a="jaumeortola">       <i>fanfarr</i><par n="anfitri/ón__n"/></e>
 <e lm="fanfurriña" a="jaumeortola">      <i>fanfurriña</i><par n="abeja__n"/></e>
-<e lm="fang" a="jaumeortola">            <i>fang</i><par n="campus__n"/></e>
 <e lm="fangal" a="jaumeortola">          <i>fangal</i><par n="abril__n"/></e>
 <e lm="fangar" a="jaumeortola">          <i>fangar</i><par n="abril__n"/></e>
 <e lm="fangosidad" a="jaumeortola">      <i>fangosidad</i><par n="accesibilidad__n"/></e>
@@ -18869,6 +18868,7 @@
 <e lm="frotador" a="jaumeortola">        <i>frotador</i><par n="señor__n"/></e>
 <e lm="frote" a="jaumeortola">           <i>frote</i><par n="abismo__n"/></e>
 <e lm="fructidor" a="jaumeortola">       <i>fructidor</i><par n="abril__n"/></e>
+<e lm="frufrú" a="jaumeortola">          <i>frufrú</i><par n="atletismo__n"/></e>
 <e lm="frui" a="jaumeortola">            <i>frui</i><par n="abeja__n"/></e>
 <e lm="fruna" a="jaumeortola">           <i>fruna</i><par n="abeja__n"/></e>
 <e lm="frunce" a="jaumeortola">          <i>frunce</i><par n="abeja__n"/></e>
@@ -19672,7 +19672,7 @@
 <e lm="gillette" a="jaumeortola">        <i>gillette</i><par n="abeja__n"/></e>
 <e lm="gilsonita" a="jaumeortola">       <i>gilsonita</i><par n="abeja__n"/></e>
 <e lm="gilé" a="jaumeortola">            <i>gilé</i><par n="abismo__n"/></e>
-<e lm="gilí" a="jaumeortola">            <i>gilí</i><par n="marroquí__n"/></e>
+<e lm="gilí" a="jaumeortola">            <i>gilí</i><par n="accionista__n"/></e>
 <e lm="gimnasiada" a="jaumeortola">      <i>gimnasiada</i><par n="abeja__n"/></e>
 <e lm="gimnobelídeo" a="jaumeortola">    <i>gimnobelídeo</i><par n="abismo__n"/></e>
 <e lm="gimnoto" a="jaumeortola">         <i>gimnoto</i><par n="abismo__n"/></e>
@@ -20705,7 +20705,6 @@
 <e lm="habilitado" a="jaumeortola">      <i>habilitad</i><par n="abogad/o__n"/></e>
 <e lm="habilitador" a="jaumeortola">     <i>habilitador</i><par n="señor__n"/></e>
 <e lm="habillo" a="jaumeortola">         <i>habillo</i><par n="abismo__n"/></e>
-<e lm="habitat" a="jaumeortola">         <i>habitat</i><par n="abismo__n"/></e>
 <e lm="habitualidad" a="jaumeortola">    <i>habitualidad</i><par n="accesibilidad__n"/></e>
 <e lm="habiz" a="jaumeortola">           <i>habi</i><par n="ajedre/z__n"/></e>
 <e lm="habladera" a="jaumeortola">       <i>habladera</i><par n="abeja__n"/></e>
@@ -20736,7 +20735,6 @@
 <e lm="hagiólogo" a="jaumeortola">       <i>hagiólog</i><par n="abogad/o__n"/></e>
 <e lm="hagiónimo" a="jaumeortola">       <i>hagiónimo</i><par n="abismo__n"/></e>
 <e lm="hahnio" a="jaumeortola">          <i>hahnio</i><par n="abismo__n"/></e>
-<e lm="haikai" a="jaumeortola">          <i>haikai</i><par n="abismo__n"/></e>
 <e lm="haikú" a="jaumeortola">           <i>haikú</i><par n="abismo__n"/></e>
 <e lm="haitiano" a="jaumeortola">        <i>haitian</i><par n="abogad/o__n"/></e>
 <e lm="halacabuyas" a="jaumeortola">     <i>halacabuyas</i><par n="campus__n"/></e>
@@ -20799,7 +20797,6 @@
 <e lm="hapálido" a="jaumeortola">        <i>hapálido</i><par n="abismo__n"/></e>
 <e lm="haraganería" a="jaumeortola">     <i>haraganería</i><par n="abeja__n"/></e>
 <e lm="haragán" a="jaumeortola">         <i>harag</i><par n="alem/án__n"/></e>
-<e lm="harai" a="jaumeortola">           <i>harai</i><par n="abismo__n"/></e>
 <e lm="harakiri" a="jaumeortola">        <i>harakiri</i><par n="abismo__n"/></e>
 <e lm="haraute" a="jaumeortola">         <i>haraute</i><par n="abismo__n"/></e>
 <e lm="harca" a="jaumeortola">           <i>harca</i><par n="abeja__n"/></e>
@@ -21825,6 +21822,7 @@
 <e lm="hozadero" a="jaumeortola">        <i>hozadero</i><par n="abismo__n"/></e>
 <e lm="hozadura" a="jaumeortola">        <i>hozadura</i><par n="abeja__n"/></e>
 <e lm="huaca" a="jaumeortola">           <i>huaca</i><par n="abeja__n"/></e>
+<e lm="huacatay" a="jaumeortola">        <i>huacatay</i><par n="abril__n"/></e>
 <e lm="huachache" a="jaumeortola">       <i>huachache</i><par n="abismo__n"/></e>
 <e lm="huachafería" a="jaumeortola">     <i>huachafería</i><par n="abeja__n"/></e>
 <e lm="huachalomo" a="jaumeortola">      <i>huachalomo</i><par n="abismo__n"/></e>
@@ -21930,6 +21928,7 @@
 <e lm="huroneo" a="jaumeortola">         <i>huroneo</i><par n="abismo__n"/></e>
 <e lm="huronera" a="jaumeortola">        <i>huronera</i><par n="abeja__n"/></e>
 <e lm="huronero" a="jaumeortola">        <i>huroner</i><par n="abogad/o__n"/></e>
+<e lm="hurra" a="jaumeortola">           <i>hurra</i><par n="abismo__n"/></e>
 <e lm="hurraco" a="jaumeortola">         <i>hurraco</i><par n="abismo__n"/></e>
 <e lm="hurta" a="jaumeortola">           <i>hurta</i><par n="abeja__n"/></e>
 <e lm="hurtadineros" a="jaumeortola">    <i>hurtadineros</i><par n="campus__n"/></e>
@@ -22322,6 +22321,7 @@
 <e lm="infinitésimo" a="jaumeortola">    <i>infinitésimo</i><par n="abismo__n"/></e>
 <e lm="inflacionismo" a="jaumeortola">   <i>inflacionismo</i><par n="abismo__n"/></e>
 <e lm="influencer" a="jaumeortola">      <i>influencer</i><par n="accionista__n"/></e>
+<e lm="infodemia" a="jaumeortola">       <i>infodemia</i><par n="cuaresma__n"/></e>
 <e lm="infolio" a="jaumeortola">         <i>infolio</i><par n="abismo__n"/></e>
 <e lm="inforciado" a="jaumeortola">      <i>inforciado</i><par n="abismo__n"/></e>
 <e lm="informador" a="jaumeortola">      <i>informador</i><par n="señor__n"/></e>
@@ -22556,7 +22556,7 @@
 <e lm="intertrigo" a="jaumeortola">      <i>intertrigo</i><par n="abismo__n"/></e>
 <e lm="interventoría" a="jaumeortola">   <i>interventoría</i><par n="abeja__n"/></e>
 <e lm="intervisión" a="jaumeortola">     <i>intervisi</i><par n="acci/ón__n"/></e>
-<e lm="interviu" a="jaumeortola">        <i>interviu</i><par n="abeja__n"/></e>
+<e lm="interviú" a="jaumeortola">        <i>interviú</i><par n="abismo__n"/></e>
 <e lm="intestado" a="jaumeortola">       <i>intestad</i><par n="abogad/o__n"/></e>
 <e lm="inti" a="jaumeortola">            <i>inti</i><par n="abismo__n"/></e>
 <e lm="intima" a="jaumeortola">          <i>intima</i><par n="abeja__n"/></e>
@@ -23331,7 +23331,7 @@
 <e lm="karakul" a="jaumeortola">         <i>karakul</i><par n="abril__n"/></e>
 <e lm="karaoke" a="jaumeortola">         <i>karaoke</i><par n="abismo__n"/></e>
 <e lm="karma" a="jaumeortola">           <i>karma</i><par n="abeja__n"/></e>
-<e lm="karst" a="jaumeortola">           <i>karst</i><par n="abril__n"/></e>
+<e lm="karst" a="jaumeortola">           <i>karst</i><par n="campus__n"/></e>
 <e lm="karstificación" a="jaumeortola">  <i>karstificaci</i><par n="acci/ón__n"/></e>
 <e lm="karstología" a="jaumeortola">     <i>karstología</i><par n="abeja__n"/></e>
 <e lm="kartismo" a="jaumeortola">        <i>kartismo</i><par n="abismo__n"/></e>
@@ -23439,7 +23439,6 @@
 <e lm="kílim" a="jaumeortola">           <i>kílim</i><par n="abismo__n"/></e>
 <e lm="kínder" a="jaumeortola">          <i>kínder</i><par n="abril__n"/></e>
 <e lm="la" a="jaumeortola">              <i>la</i><par n="abismo__n"/></e>
-<e lm="lab" a="jaumeortola">             <i>lab</i><par n="campus__n"/></e>
 <e lm="laberintectomía" a="jaumeortola"> <i>laberintectomía</i><par n="abeja__n"/></e>
 <e lm="laberintitis" a="jaumeortola">    <i>laberintitis</i><par n="dosis__n"/></e>
 <e lm="laberintoplejía" a="jaumeortola"> <i>laberintoplejía</i><par n="abeja__n"/></e>
@@ -23552,7 +23551,6 @@
 <e lm="lagunerío" a="jaumeortola">       <i>lagunerío</i><par n="abismo__n"/></e>
 <e lm="lagynos" a="jaumeortola">         <i>lagynos</i><par n="campus__n"/></e>
 <e lm="lagópodo" a="jaumeortola">        <i>lagópodo</i><par n="abismo__n"/></e>
-<e lm="lai" a="jaumeortola">             <i>lai</i><par n="abismo__n"/></e>
 <e lm="laicado" a="jaumeortola">         <i>laicado</i><par n="abismo__n"/></e>
 <e lm="laicho" a="jaumeortola">          <i>laicho</i><par n="abismo__n"/></e>
 <e lm="laicidad" a="jaumeortola">        <i>laicidad</i><par n="accesibilidad__n"/></e>
@@ -24579,6 +24577,7 @@
 <e lm="lotificación" a="jaumeortola">    <i>lotificaci</i><par n="acci/ón__n"/></e>
 <e lm="lotificadora" a="jaumeortola">    <i>lotificadora</i><par n="abeja__n"/></e>
 <e lm="lotización" a="jaumeortola">      <i>lotizaci</i><par n="acci/ón__n"/></e>
+<e lm="lotus" a="jaumeortola">           <i>lotus</i><par n="campus__n"/></e>
 <e lm="lotín" a="jaumeortola">           <i>lot</i><par n="bot/ín__n"/></e>
 <e lm="loxodromía" a="jaumeortola">      <i>loxodromía</i><par n="abeja__n"/></e>
 <e lm="loxodrómica" a="jaumeortola">     <i>loxodrómica</i><par n="abeja__n"/></e>
@@ -25440,6 +25439,7 @@
 <e lm="maratoniano" a="jaumeortola">     <i>maratoniano</i><par n="abismo__n"/></e>
 <e lm="maratonista" a="jaumeortola">     <i>maratonista</i><par n="accionista__n"/></e>
 <e lm="maravedinada" a="jaumeortola">    <i>maravedinada</i><par n="abeja__n"/></e>
+<e lm="maravedís" a="jaumeortola">       <i>maravedís</i><par n="EE.UU.__n"/></e>
 <e lm="marañero" a="jaumeortola">        <i>marañer</i><par n="abogad/o__n"/></e>
 <e lm="marbete" a="jaumeortola">         <i>marbete</i><par n="abismo__n"/></e>
 <e lm="marcapaso" a="jaumeortola">       <i>marcapaso</i><par n="abismo__n"/></e>
@@ -25474,6 +25474,7 @@
 <e lm="margal" a="jaumeortola">          <i>margal</i><par n="abril__n"/></e>
 <e lm="margallate" a="jaumeortola">      <i>margallate</i><par n="abismo__n"/></e>
 <e lm="margallón" a="jaumeortola">       <i>margall</i><par n="aluvi/ón__n"/></e>
+<e lm="margay" a="jaumeortola">          <i>margay</i><par n="abril__n"/></e>
 <e lm="margayate" a="jaumeortola">       <i>margayate</i><par n="abismo__n"/></e>
 <e lm="marginador" a="jaumeortola">      <i>marginador</i><par n="abril__n"/></e>
 <e lm="margrave" a="jaumeortola">        <i>margrave</i><par n="abismo__n"/></e>
@@ -25619,7 +25620,6 @@
 <e lm="mas" a="jaumeortola">             <i>mas</i><par n="abril__n"/></e>
 <e lm="masada" a="jaumeortola">          <i>masada</i><par n="abeja__n"/></e>
 <e lm="masadero" a="jaumeortola">        <i>masadero</i><par n="abismo__n"/></e>
-<e lm="masai" a="jaumeortola">           <i>masai</i><par n="guardaespaldas__n"/></e>
 <e lm="mascada" a="jaumeortola">         <i>mascada</i><par n="abeja__n"/></e>
 <e lm="mascadijo" a="jaumeortola">       <i>mascadijo</i><par n="abismo__n"/></e>
 <e lm="mascador" a="jaumeortola">        <i>mascador</i><par n="señor__n"/></e>
@@ -25645,7 +25645,6 @@
 <e lm="masora" a="jaumeortola">          <i>masora</i><par n="abeja__n"/></e>
 <e lm="masoreta" a="jaumeortola">        <i>masoreta</i><par n="abismo__n"/></e>
 <e lm="masovero" a="jaumeortola">        <i>masover</i><par n="abogad/o__n"/></e>
-<e lm="mass-media" a="jaumeortola">      <i>mass-media</i><par n="EE.UU.__n"/></e>
 <e lm="mastaba" a="jaumeortola">         <i>mastaba</i><par n="abeja__n"/></e>
 <e lm="mastate" a="jaumeortola">         <i>mastate</i><par n="abismo__n"/></e>
 <e lm="mastel" a="jaumeortola">          <i>mastel</i><par n="abril__n"/></e>
@@ -25676,6 +25675,7 @@
 <e lm="masurio" a="jaumeortola">         <i>masurio</i><par n="abismo__n"/></e>
 <e lm="masvale" a="jaumeortola">         <i>masvale</i><par n="abismo__n"/></e>
 <e lm="masvavisco" a="jaumeortola">      <i>masvavisco</i><par n="abismo__n"/></e>
+<e lm="masái" a="jaumeortola">           <i>masái</i><par n="accionista__n"/></e>
 <e lm="mata" a="jaumeortola">            <i>mata</i><par n="abeja__n"/></e>
 <e lm="matabuey" a="jaumeortola">        <i>matabuey</i><par n="albañil__n"/></e>
 <e lm="mataburros" a="jaumeortola">      <i>mataburros</i><par n="campus__n"/></e>
@@ -25712,6 +25712,7 @@
 <e lm="matancinga" a="jaumeortola">      <i>matancinga</i><par n="abeja__n"/></e>
 <e lm="matapalo" a="jaumeortola">        <i>matapalo</i><par n="abismo__n"/></e>
 <e lm="mataparda" a="jaumeortola">       <i>mataparda</i><par n="abeja__n"/></e>
+<e lm="mataperro" a="jaumeortola">       <i>mataperr</i><par n="abogad/o__n"/></e>
 <e lm="matapiojo" a="jaumeortola">       <i>matapiojo</i><par n="abismo__n"/></e>
 <e lm="matapiojos" a="jaumeortola">      <i>matapiojos</i><par n="campus__n"/></e>
 <e lm="matapolvo" a="jaumeortola">       <i>matapolvo</i><par n="abismo__n"/></e>
@@ -26044,7 +26045,7 @@
 <e lm="menispermáceo" a="jaumeortola">   <i>menispermáce</i><par n="abogad/o__n"/></e>
 <e lm="menjunje" a="jaumeortola">        <i>menjunje</i><par n="abismo__n"/></e>
 <e lm="menjurje" a="jaumeortola">        <i>menjurje</i><par n="abismo__n"/></e>
-<e lm="menjuí" a="jaumeortola">          <i>menjuí</i><par n="abril__n"/></e>
+<e lm="menjuí" a="jaumeortola">          <i>menjuí</i><par n="abismo__n"/></e>
 <e lm="menologio" a="jaumeortola">       <i>menologio</i><par n="abismo__n"/></e>
 <e lm="menonia" a="jaumeortola">         <i>menonia</i><par n="abeja__n"/></e>
 <e lm="menorista" a="jaumeortola">       <i>menorista</i><par n="abismo__n"/></e>
@@ -26598,8 +26599,7 @@
 <e lm="milagrero" a="jaumeortola">       <i>milagrer</i><par n="abogad/o__n"/></e>
 <e lm="milamores" a="jaumeortola">       <i>milamores</i><par n="dosis__n"/></e>
 <e lm="milara" a="jaumeortola">          <i>milara</i><par n="abeja__n"/></e>
-<e lm="mildeu" a="jaumeortola">          <i>mildeu</i><par n="abismo__n"/></e>
-<e lm="mildéu" a="jaumeortola">          <i>mildéu</i><par n="abismo__n"/></e>
+<e lm="mildiú" a="jaumeortola">          <i>mildiú</i><par n="club__n"/></e>
 <e lm="milenario" a="jaumeortola">       <i>milenario</i><par n="abismo__n"/></e>
 <e lm="milenrama" a="jaumeortola">       <i>milenrama</i><par n="abeja__n"/></e>
 <e lm="milesio" a="jaumeortola">         <i>milesio</i><par n="abismo__n"/></e>
@@ -26691,7 +26691,8 @@
 <e lm="ministerialismo" a="jaumeortola"> <i>ministerialismo</i><par n="abismo__n"/></e>
 <e lm="ministración" a="jaumeortola">    <i>ministraci</i><par n="acci/ón__n"/></e>
 <e lm="ministrante" a="jaumeortola">     <i>ministrante</i><par n="accionista__n"/></e>
-<e lm="minisúper" a="jaumeortola">       <i>minisúper</i><par n="abril__n"/></e>
+<e lm="minisupermercado" a="jaumeortola"><i>minisupermercado</i><par n="abismo__n"/></e>
+<e lm="minisúper" a="jaumeortola">       <i>minisúper</i><par n="campus__n"/></e>
 <e lm="miniteca" a="jaumeortola">        <i>miniteca</i><par n="abeja__n"/></e>
 <e lm="minitractor" a="jaumeortola">     <i>minitractor</i><par n="señor__n"/></e>
 <e lm="miniversión" a="jaumeortola">     <i>miniversi</i><par n="acci/ón__n"/></e>
@@ -27383,6 +27384,7 @@
 <e lm="mozancón" a="jaumeortola">        <i>mozanc</i><par n="anfitri/ón__n"/></e>
 <e lm="mozarabismo" a="jaumeortola">     <i>mozarabismo</i><par n="abismo__n"/></e>
 <e lm="mozarabía" a="jaumeortola">       <i>mozarabía</i><par n="abeja__n"/></e>
+<e lm="mozorro" a="jaumeortola">         <i>mozorr</i><par n="abogad/o__n"/></e>
 <e lm="mozote" a="jaumeortola">          <i>mozote</i><par n="abismo__n"/></e>
 <e lm="mozuelo" a="jaumeortola">         <i>mozuel</i><par n="abogad/o__n"/></e>
 <e lm="mozzarella" a="jaumeortola">      <i>mozzarella</i><par n="abeja__n"/></e>
@@ -27628,11 +27630,10 @@
 <e lm="mílite" a="jaumeortola">          <i>mílite</i><par n="abismo__n"/></e>
 <e lm="mímesis" a="jaumeortola">         <i>mímesis</i><par n="dosis__n"/></e>
 <e lm="mínima" a="jaumeortola">          <i>mínima</i><par n="abeja__n"/></e>
-<e lm="mínimum" a="jaumeortola">         <i>mínimum</i><par n="campus__n"/></e>
+<e lm="mínimum" a="jaumeortola">         <i>mínimum</i><par n="abismo__n"/></e>
 <e lm="mísil" a="jaumeortola">           <i>mísil</i><par n="abril__n"/></e>
 <e lm="míspero" a="jaumeortola">         <i>míspero</i><par n="abismo__n"/></e>
 <e lm="mísquito" a="jaumeortola">        <i>mísquito</i><par n="abismo__n"/></e>
-<e lm="mística" a="jaumeortola">         <i>mística</i><par n="abeja__n"/></e>
 <e lm="mítulo" a="jaumeortola">          <i>mítulo</i><par n="abismo__n"/></e>
 <e lm="mízcalo" a="jaumeortola">         <i>mízcalo</i><par n="abismo__n"/></e>
 <e lm="mónera" a="jaumeortola">          <i>mónera</i><par n="abeja__n"/></e>
@@ -28204,7 +28205,6 @@
 <e lm="noma" a="jaumeortola">            <i>noma</i><par n="abeja__n"/></e>
 <e lm="nomadeo" a="jaumeortola">         <i>nomadeo</i><par n="abismo__n"/></e>
 <e lm="nombradía" a="jaumeortola">       <i>nombradía</i><par n="abeja__n"/></e>
-<e lm="nomenclator" a="jaumeortola">     <i>nomenclator</i><par n="señor__n"/></e>
 <e lm="nomenclátor" a="jaumeortola">     <i>nomenclátor</i><par n="abril__n"/></e>
 <e lm="nomeolvides" a="jaumeortola">     <i>nomeolvides</i><par n="campus__n"/></e>
 <e lm="nometoques" a="jaumeortola">      <i>nometoques</i><par n="campus__n"/></e>
@@ -28581,6 +28581,7 @@
 <e lm="oftalmoptosis" a="jaumeortola">   <i>oftalmoptosis</i><par n="dosis__n"/></e>
 <e lm="oftalmorragia" a="jaumeortola">   <i>oftalmorragia</i><par n="abeja__n"/></e>
 <e lm="oftalmorreacción" a="jaumeortola"><i>oftalmorreacci</i><par n="acci/ón__n"/></e>
+<e lm="oftalmorrexis" a="jaumeortola">   <i>oftalmorrexis</i><par n="dosis__n"/></e>
 <e lm="oftalmoscopia" a="jaumeortola">   <i>oftalmoscopia</i><par n="abeja__n"/></e>
 <e lm="oftalmosteresis" a="jaumeortola"> <i>oftalmosteresis</i><par n="dosis__n"/></e>
 <e lm="oftalmotermómetro" a="jaumeortola"><i>oftalmotermómetro</i><par n="abismo__n"/></e>
@@ -28871,7 +28872,6 @@
 <e lm="orquestina" a="jaumeortola">      <i>orquestina</i><par n="abeja__n"/></e>
 <e lm="orquidácea" a="jaumeortola">      <i>orquidácea</i><par n="abeja__n"/></e>
 <e lm="orquitis" a="jaumeortola">        <i>orquitis</i><par n="dosis__n"/></e>
-<e lm="orsai" a="jaumeortola">           <i>orsai</i><par n="abismo__n"/></e>
 <e lm="ortega" a="jaumeortola">          <i>ortega</i><par n="abeja__n"/></e>
 <e lm="ortegada" a="jaumeortola">        <i>ortegada</i><par n="abeja__n"/></e>
 <e lm="ortigal" a="jaumeortola">         <i>ortigal</i><par n="abril__n"/></e>
@@ -28991,6 +28991,7 @@
 <e lm="ostiario" a="jaumeortola">        <i>ostiario</i><par n="abismo__n"/></e>
 <e lm="ostinato" a="jaumeortola">        <i>ostinato</i><par n="abismo__n"/></e>
 <e lm="ostión" a="jaumeortola">          <i>osti</i><par n="aluvi/ón__n"/></e>
+<e lm="ostracón" a="jaumeortola">        <i>ostrac</i><par n="aluvi/ón__n"/></e>
 <e lm="ostral" a="jaumeortola">          <i>ostral</i><par n="abril__n"/></e>
 <e lm="ostrero" a="jaumeortola">         <i>ostrer</i><par n="abogad/o__n"/></e>
 <e lm="ostrería" a="jaumeortola">        <i>ostrería</i><par n="abeja__n"/></e>
@@ -29032,6 +29033,7 @@
 <e lm="otoñada" a="jaumeortola">         <i>otoñada</i><par n="abeja__n"/></e>
 <e lm="otoñal" a="jaumeortola">          <i>otoñal</i><par n="albañil__n"/></e>
 <e lm="otredad" a="jaumeortola">         <i>otredad</i><par n="accesibilidad__n"/></e>
+<e lm="otrosí" a="jaumeortola">          <i>otrosí</i><par n="club__n"/></e>
 <e lm="otólogo" a="jaumeortola">         <i>otólog</i><par n="abogad/o__n"/></e>
 <e lm="otónico" a="jaumeortola">         <i>otónic</i><par n="abogad/o__n"/></e>
 <e lm="ouguiya" a="jaumeortola">         <i>ouguiya</i><par n="abeja__n"/></e>
@@ -29841,7 +29843,6 @@
 <e lm="pará" a="jaumeortola">            <i>pará</i><par n="abismo__n"/></e>
 <e lm="parábasis" a="jaumeortola">       <i>parábasis</i><par n="dosis__n"/></e>
 <e lm="Paráclito" a="jaumeortola">       <i>Paráclito</i><par n="atletismo__n"/></e>
-<e lm="paráclito" a="jaumeortola">       <i>paráclito</i><par n="atletismo__n"/></e>
 <e lm="paráfisis" a="jaumeortola">       <i>paráfisis</i><par n="dosis__n"/></e>
 <e lm="parástade" a="jaumeortola">       <i>parástade</i><par n="abismo__n"/></e>
 <e lm="parénesis" a="jaumeortola">       <i>parénesis</i><par n="dosis__n"/></e>
@@ -29969,6 +29970,8 @@
 <e lm="patatal" a="jaumeortola">         <i>patatal</i><par n="abril__n"/></e>
 <e lm="patatar" a="jaumeortola">         <i>patatar</i><par n="abril__n"/></e>
 <e lm="patatera" a="jaumeortola">        <i>patatera</i><par n="abeja__n"/></e>
+<e lm="patatán" a="jaumeortola">         <i>patatán</i><par n="atletismo__n"/></e>
+<e lm="patatín" a="jaumeortola">         <i>patatín</i><par n="atletismo__n"/></e>
 <e lm="patatús" a="jaumeortola">         <i>patatús</i><par n="campus__n"/></e>
 <e lm="patavino" a="jaumeortola">        <i>patavin</i><par n="abogad/o__n"/></e>
 <e lm="patchwork" a="jaumeortola">       <i>patchwork</i><par n="abismo__n"/></e>
@@ -30315,6 +30318,7 @@
 <e lm="pelonería" a="jaumeortola">       <i>pelonería</i><par n="abeja__n"/></e>
 <e lm="pelonía" a="jaumeortola">         <i>pelonía</i><par n="abeja__n"/></e>
 <e lm="peloponense" a="jaumeortola">     <i>peloponense</i><par n="accionista__n"/></e>
+<e lm="peloponesiaco" a="jaumeortola">   <i>peloponesiac</i><par n="abogad/o__n"/></e>
 <e lm="peloponesíaco" a="jaumeortola">   <i>peloponesíac</i><par n="abogad/o__n"/></e>
 <e lm="pelosilla" a="jaumeortola">       <i>pelosilla</i><par n="abeja__n"/></e>
 <e lm="pelosol" a="jaumeortola">         <i>pelosol</i><par n="abril__n"/></e>
@@ -30601,7 +30605,7 @@
 <e lm="perlático" a="jaumeortola">       <i>perlático</i><par n="abismo__n"/></e>
 <e lm="perlé" a="jaumeortola">           <i>perlé</i><par n="abismo__n"/></e>
 <e lm="perlón" a="jaumeortola">          <i>perlón</i><par n="atletismo__n"/></e>
-<e lm="permafrost" a="jaumeortola">      <i>permafrost</i><par n="abril__n"/></e>
+<e lm="permafrost" a="jaumeortola">      <i>permafrost</i><par n="abismo__n"/></e>
 <e lm="permagel" a="jaumeortola">        <i>permagel</i><par n="abril__n"/></e>
 <e lm="permaloy" a="jaumeortola">        <i>permaloy</i><par n="abismo__n"/></e>
 <e lm="permanente" a="jaumeortola">      <i>permanente</i><par n="abeja__n"/></e>
@@ -30756,7 +30760,7 @@
 <e lm="petifoque" a="jaumeortola">       <i>petifoque</i><par n="abismo__n"/></e>
 <e lm="petigrís" a="jaumeortola">        <i>petigr</i><par n="an/ís__n"/></e>
 <e lm="petillo" a="jaumeortola">         <i>petillo</i><par n="abismo__n"/></e>
-<e lm="petisú" a="jaumeortola">          <i>petisú</i><par n="abismo__n"/></e>
+<e lm="petisú" a="jaumeortola">          <i>petisú</i><par n="club__n"/></e>
 <e lm="petitorio" a="jaumeortola">       <i>petitori</i><par n="abogad/o__n"/></e>
 <e lm="petra" a="jaumeortola">           <i>petra</i><par n="abeja__n"/></e>
 <e lm="petral" a="jaumeortola">          <i>petral</i><par n="abril__n"/></e>
@@ -31114,6 +31118,7 @@
 <e lm="piperonal" a="jaumeortola">       <i>piperonal</i><par n="abril__n"/></e>
 <e lm="piperáceo" a="jaumeortola">       <i>piperáceo</i><par n="abismo__n"/></e>
 <e lm="pipería" a="jaumeortola">         <i>pipería</i><par n="abeja__n"/></e>
+<e lm="pipeteador" a="jaumeortola">      <i>pipeteador</i><par n="abril__n"/></e>
 <e lm="pipeño" a="jaumeortola">          <i>pipeño</i><par n="abismo__n"/></e>
 <e lm="pipi" a="jaumeortola">            <i>pipi</i><par n="abismo__n"/></e>
 <e lm="pipilacha" a="jaumeortola">       <i>pipilacha</i><par n="abeja__n"/></e>
@@ -31319,6 +31324,7 @@
 <e lm="pitirre" a="jaumeortola">         <i>pitirre</i><par n="abismo__n"/></e>
 <e lm="pitiyanqui" a="jaumeortola">      <i>pitiyanqui</i><par n="abismo__n"/></e>
 <e lm="pitoflero" a="jaumeortola">       <i>pitofler</i><par n="abogad/o__n"/></e>
+<e lm="pitoitoy" a="jaumeortola">        <i>pitoitoy</i><par n="abril__n"/></e>
 <e lm="pitonazo" a="jaumeortola">        <i>pitonazo</i><par n="abismo__n"/></e>
 <e lm="pitoneamiento" a="jaumeortola">   <i>pitoneamiento</i><par n="abismo__n"/></e>
 <e lm="pitonisa" a="jaumeortola">        <i>pitonisa</i><par n="abeja__n"/></e>
@@ -31791,6 +31797,7 @@
 <e lm="polisulfuro" a="jaumeortola">     <i>polisulfuro</i><par n="abismo__n"/></e>
 <e lm="polisílabo" a="jaumeortola">      <i>polisílabo</i><par n="abismo__n"/></e>
 <e lm="polisón" a="jaumeortola">         <i>polis</i><par n="aluvi/ón__n"/></e>
+<e lm="politburó" a="jaumeortola">       <i>politburó</i><par n="abismo__n"/></e>
 <e lm="politenia" a="jaumeortola">       <i>politenia</i><par n="abeja__n"/></e>
 <e lm="politereftalato" a="jaumeortola"> <i>politereftalato</i><par n="abismo__n"/></e>
 <e lm="politetrafluoetileno" a="jaumeortola"><i>politetrafluoetileno</i><par n="abismo__n"/></e>
@@ -31823,6 +31830,7 @@
 <e lm="pollón" a="jaumeortola">          <i>poll</i><par n="anfitri/ón__n"/></e>
 <e lm="polocito" a="jaumeortola">        <i>polocito</i><par n="abismo__n"/></e>
 <e lm="pololo" a="jaumeortola">          <i>pololo</i><par n="abismo__n"/></e>
+<e lm="polonés" a="jaumeortola">         <i>polon</i><par n="aragon/és__n"/></e>
 <e lm="poltronería" a="jaumeortola">     <i>poltronería</i><par n="abeja__n"/></e>
 <e lm="polvazal" a="jaumeortola">        <i>polvazal</i><par n="abril__n"/></e>
 <e lm="polvera" a="jaumeortola">         <i>polvera</i><par n="abeja__n"/></e>
@@ -32535,7 +32543,6 @@
 <e lm="profanador" a="jaumeortola">      <i>profanador</i><par n="señor__n"/></e>
 <e lm="profanamiento" a="jaumeortola">   <i>profanamiento</i><par n="abismo__n"/></e>
 <e lm="profano" a="jaumeortola">         <i>profan</i><par n="abogad/o__n"/></e>
-<e lm="profe" a="jaumeortola">           <i>prof</i><par n="asistent/e__n"/></e>
 <e lm="proferta" a="jaumeortola">        <i>proferta</i><par n="abeja__n"/></e>
 <e lm="profesionista" a="jaumeortola">   <i>profesionista</i><par n="accionista__n"/></e>
 <e lm="profeso" a="jaumeortola">         <i>profes</i><par n="abogad/o__n"/></e>
@@ -32779,6 +32786,7 @@
 <e lm="psiconeurosis" a="jaumeortola">   <i>psiconeurosis</i><par n="dosis__n"/></e>
 <e lm="psicopatólogo" a="jaumeortola">   <i>psicopatólog</i><par n="abogad/o__n"/></e>
 <e lm="psicoquinesia" a="jaumeortola">   <i>psicoquinesia</i><par n="abeja__n"/></e>
+<e lm="psicoquímica" a="jaumeortola">    <i>psicoquímica</i><par n="abeja__n"/></e>
 <e lm="psicosociólogo" a="jaumeortola">  <i>psicosociólog</i><par n="abogad/o__n"/></e>
 <e lm="psicotécnica" a="jaumeortola">    <i>psicotécnica</i><par n="abeja__n"/></e>
 <e lm="psicotécnico" a="jaumeortola">    <i>psicotécnic</i><par n="abogad/o__n"/></e>
@@ -33422,11 +33430,12 @@
 <e lm="quiño" a="jaumeortola">           <i>quiño</i><par n="abismo__n"/></e>
 <e lm="quiñonero" a="jaumeortola">       <i>quiñoner</i><par n="abogad/o__n"/></e>
 <e lm="quiñón" a="jaumeortola">          <i>quiñ</i><par n="aluvi/ón__n"/></e>
+<e lm="quorum" a="jaumeortola">          <i>quorum</i><par n="abismo__n"/></e>
 <e lm="qurays" a="jaumeortola">          <i>qurays</i><par n="guardaespaldas__n"/></e>
 <e lm="qurayshí" a="jaumeortola">        <i>qurayshí</i><par n="marroquí__n"/></e>
 <e lm="quántum" a="jaumeortola">         <i>quántum</i><par n="abismo__n"/></e>
 <e lm="quásar" a="jaumeortola">          <i>quásar</i><par n="abril__n"/></e>
-<e lm="quídam" a="jaumeortola">          <i>quídam</i><par n="campus__n"/></e>
+<e lm="quídam" a="jaumeortola">          <i>quídam</i><par n="abismo__n"/></e>
 <e lm="quínola" a="jaumeortola">         <i>quínola</i><par n="abeja__n"/></e>
 <e lm="quíntuple" a="jaumeortola">       <i>quíntuple</i><par n="accionista__n"/></e>
 <e lm="quíntuplo" a="jaumeortola">       <i>quíntupl</i><par n="abogad/o__n"/></e>
@@ -33483,8 +33492,8 @@
 <e lm="racionista" a="jaumeortola">      <i>racionista</i><par n="accionista__n"/></e>
 <e lm="racista" a="jaumeortola">         <i>racista</i><par n="accionista__n"/></e>
 <e lm="raco" a="jaumeortola">            <i>raco</i><par n="abismo__n"/></e>
-<e lm="racord" a="jaumeortola">          <i>racord</i><par n="abril__n"/></e>
-<e lm="rad" a="jaumeortola">             <i>rad</i><par n="abril__n"/></e>
+<e lm="racord" a="jaumeortola">          <i>racord</i><par n="abismo__n"/></e>
+<e lm="rad" a="jaumeortola">             <i>rad</i><par n="campus__n"/></e>
 <e lm="radal" a="jaumeortola">           <i>radal</i><par n="abril__n"/></e>
 <e lm="radappertización" a="jaumeortola"><i>radappertizaci</i><par n="acci/ón__n"/></e>
 <e lm="radarastronomía" a="jaumeortola"> <i>radarastronomía</i><par n="abeja__n"/></e>
@@ -33606,7 +33615,7 @@
 <e lm="raigón" a="jaumeortola">          <i>raig</i><par n="aluvi/ón__n"/></e>
 <e lm="raijo" a="jaumeortola">           <i>raijo</i><par n="abismo__n"/></e>
 <e lm="raimiento" a="jaumeortola">       <i>raimiento</i><par n="abismo__n"/></e>
-<e lm="rais" a="jaumeortola">            <i>rais</i><par n="campus__n"/></e>
+<e lm="rais" a="jaumeortola">            <i>rais</i><par n="abril__n"/></e>
 <e lm="rajadillo" a="jaumeortola">       <i>rajadillo</i><par n="abismo__n"/></e>
 <e lm="rajador" a="jaumeortola">         <i>rajador</i><par n="señor__n"/></e>
 <e lm="rajadura" a="jaumeortola">        <i>rajadura</i><par n="abeja__n"/></e>
@@ -34343,6 +34352,7 @@
 <e lm="relevamiento" a="jaumeortola">    <i>relevamiento</i><par n="abismo__n"/></e>
 <e lm="religa" a="jaumeortola">          <i>religa</i><par n="abeja__n"/></e>
 <e lm="religación" a="jaumeortola">      <i>religaci</i><par n="acci/ón__n"/></e>
+<e lm="religionario" a="jaumeortola">    <i>religionari</i><par n="abogad/o__n"/></e>
 <e lm="relinchido" a="jaumeortola">      <i>relinchido</i><par n="abismo__n"/></e>
 <e lm="relincho" a="jaumeortola">        <i>relincho</i><par n="abismo__n"/></e>
 <e lm="relinga" a="jaumeortola">         <i>relinga</i><par n="abeja__n"/></e>
@@ -34921,6 +34931,7 @@
 <e lm="rico" a="jaumeortola">            <i>ric</i><par n="abogad/o__n"/></e>
 <e lm="ricohombre" a="jaumeortola">      <i>ricohombre</i><par n="abismo__n"/></e>
 <e lm="ricota" a="jaumeortola">          <i>ricota</i><par n="abeja__n"/></e>
+<e lm="rictus" a="jaumeortola">          <i>rictus</i><par n="campus__n"/></e>
 <e lm="ricura" a="jaumeortola">          <i>ricura</i><par n="abeja__n"/></e>
 <e lm="ridectomía" a="jaumeortola">      <i>ridectomía</i><par n="abismo__n"/></e>
 <e lm="ridiculización" a="jaumeortola">  <i>ridiculizaci</i><par n="acci/ón__n"/></e>
@@ -35263,7 +35274,7 @@
 <e lm="rosita" a="jaumeortola">          <i>rosita</i><par n="abeja__n"/></e>
 <e lm="rosjo" a="jaumeortola">           <i>rosjo</i><par n="abismo__n"/></e>
 <e lm="rosmaro" a="jaumeortola">         <i>rosmaro</i><par n="abismo__n"/></e>
-<e lm="rosoli" a="jaumeortola">          <i>rosoli</i><par n="club__n"/></e>
+<e lm="rosoli" a="jaumeortola">          <i>rosoli</i><par n="abismo__n"/></e>
 <e lm="rosolí" a="jaumeortola">          <i>rosolí</i><par n="club__n"/></e>
 <e lm="rosquete" a="jaumeortola">        <i>rosquete</i><par n="abismo__n"/></e>
 <e lm="rosquilla" a="jaumeortola">       <i>rosquilla</i><par n="abeja__n"/></e>
@@ -35844,7 +35855,6 @@
 <e lm="samueleador" a="jaumeortola">     <i>samueleador</i><par n="abril__n"/></e>
 <e lm="samuga" a="jaumeortola">          <i>samuga</i><par n="abeja__n"/></e>
 <e lm="samugo" a="jaumeortola">          <i>samugo</i><par n="abismo__n"/></e>
-<e lm="samurai" a="jaumeortola">         <i>samurai</i><par n="abismo__n"/></e>
 <e lm="samuro" a="jaumeortola">          <i>samuro</i><par n="abismo__n"/></e>
 <e lm="samurái" a="jaumeortola">         <i>samurái</i><par n="abismo__n"/></e>
 <e lm="samán" a="jaumeortola">           <i>sam</i><par n="adem/án__n"/></e>
@@ -36740,6 +36750,7 @@
 <e lm="sietemesino" a="jaumeortola">     <i>sietemesin</i><par n="abogad/o__n"/></e>
 <e lm="sietenrama" a="jaumeortola">      <i>sietenrama</i><par n="abismo__n"/></e>
 <e lm="sietepellejos" a="jaumeortola">   <i>sietepellejos</i><par n="campus__n"/></e>
+<e lm="sietillo" a="jaumeortola">        <i>sietill</i><par n="abogad/o__n"/></e>
 <e lm="sievert" a="jaumeortola">         <i>sievert</i><par n="abismo__n"/></e>
 <e lm="sifilazo" a="jaumeortola">        <i>sifilazo</i><par n="abismo__n"/></e>
 <e lm="sifilicomio" a="jaumeortola">     <i>sifilicomio</i><par n="abismo__n"/></e>
@@ -36772,7 +36783,7 @@
 <e lm="siguapate" a="jaumeortola">       <i>siguapate</i><par n="abismo__n"/></e>
 <e lm="siguemepollo" a="jaumeortola">    <i>siguemepollo</i><par n="abismo__n"/></e>
 <e lm="siguiriya" a="jaumeortola">       <i>siguiriya</i><par n="abeja__n"/></e>
-<e lm="sij" a="jaumeortola">             <i>sij</i><par n="guardaespaldas__n"/></e>
+<e lm="sij" a="jaumeortola">             <i>sij</i><par n="albañil__n"/></e>
 <e lm="sil" a="jaumeortola">             <i>sil</i><par n="abril__n"/></e>
 <e lm="silabeo" a="jaumeortola">         <i>silabeo</i><par n="abismo__n"/></e>
 <e lm="silampa" a="jaumeortola">         <i>silampa</i><par n="abeja__n"/></e>
@@ -36831,6 +36842,8 @@
 <e lm="similicadencia" a="jaumeortola">  <i>similicadencia</i><par n="abeja__n"/></e>
 <e lm="similigrabado" a="jaumeortola">   <i>similigrabado</i><par n="abismo__n"/></e>
 <e lm="similor" a="jaumeortola">         <i>similor</i><par n="abril__n"/></e>
+<e lm="simoniaco" a="jaumeortola">       <i>simoniac</i><par n="abogad/o__n"/></e>
+<e lm="simoníaco" a="jaumeortola">       <i>simoníac</i><par n="abogad/o__n"/></e>
 <e lm="simpa" a="jaumeortola">           <i>simpa</i><par n="abeja__n"/></e>
 <e lm="simpatectomía" a="jaumeortola">   <i>simpatectomía</i><par n="abeja__n"/></e>
 <e lm="simpaticolítico" a="jaumeortola"> <i>simpaticolítico</i><par n="abismo__n"/></e>
@@ -37972,7 +37985,7 @@
 <e lm="súchil" a="jaumeortola">          <i>súchil</i><par n="abril__n"/></e>
 <e lm="súcula" a="jaumeortola">          <i>súcula</i><par n="abeja__n"/></e>
 <e lm="súmmum" a="jaumeortola">          <i>súmmum</i><par n="atletismo__n"/></e>
-<e lm="súper" a="jaumeortola">           <i>súper</i><par n="albañil__n"/></e>
+<e lm="súper" a="jaumeortola">           <i>súper</i><par n="guardaespaldas__n"/></e>
 <e lm="súrbana" a="jaumeortola">         <i>súrbana</i><par n="abeja__n"/></e>
 <e lm="súrculo" a="jaumeortola">         <i>súrculo</i><par n="abismo__n"/></e>
 <e lm="súrtuba" a="jaumeortola">         <i>súrtuba</i><par n="abeja__n"/></e>
@@ -38154,7 +38167,7 @@
 <e lm="talasoterapia" a="jaumeortola">   <i>talasoterapia</i><par n="abeja__n"/></e>
 <e lm="talato" a="jaumeortola">          <i>talato</i><par n="abismo__n"/></e>
 <e lm="talaya" a="jaumeortola">          <i>talaya</i><par n="abeja__n"/></e>
-<e lm="talayot" a="jaumeortola">         <i>talayot</i><par n="atletismo__n"/></e>
+<e lm="talayot" a="jaumeortola">         <i>talayot</i><par n="abismo__n"/></e>
 <e lm="talayote" a="jaumeortola">        <i>talayote</i><par n="abismo__n"/></e>
 <e lm="talchocote" a="jaumeortola">      <i>talchocote</i><par n="abismo__n"/></e>
 <e lm="taled" a="jaumeortola">           <i>taled</i><par n="abril__n"/></e>
@@ -38391,6 +38404,7 @@
 <e lm="taragoza" a="jaumeortola">        <i>taragoza</i><par n="abeja__n"/></e>
 <e lm="taragozajida" a="jaumeortola">    <i>taragozajida</i><par n="abeja__n"/></e>
 <e lm="taragón" a="jaumeortola">         <i>tarag</i><par n="aluvi/ón__n"/></e>
+<e lm="tarajallo" a="jaumeortola">       <i>tarajall</i><par n="abogad/o__n"/></e>
 <e lm="taraje" a="jaumeortola">          <i>taraje</i><par n="abismo__n"/></e>
 <e lm="taraletes" a="jaumeortola">       <i>taraletes</i><par n="EE.UU.__n"/></e>
 <e lm="tarama" a="jaumeortola">          <i>tarama</i><par n="abeja__n"/></e>
@@ -39027,6 +39041,7 @@
 <e lm="testera" a="jaumeortola">         <i>testera</i><par n="abeja__n"/></e>
 <e lm="testerada" a="jaumeortola">       <i>testerada</i><par n="abismo__n"/></e>
 <e lm="testerazo" a="jaumeortola">       <i>testerazo</i><par n="abismo__n"/></e>
+<e lm="testerillo" a="jaumeortola">      <i>testerill</i><par n="abogad/o__n"/></e>
 <e lm="testificación" a="jaumeortola">   <i>testificaci</i><par n="acci/ón__n"/></e>
 <e lm="testificador" a="jaumeortola">    <i>testificador</i><par n="señor__n"/></e>
 <e lm="testificante" a="jaumeortola">    <i>testificante</i><par n="accionista__n"/></e>
@@ -39034,7 +39049,6 @@
 <e lm="testimoniales" a="jaumeortola">   <i>testimoniales</i><par n="afueras__n"/></e>
 <e lm="testimoniero" a="jaumeortola">    <i>testimonier</i><par n="abogad/o__n"/></e>
 <e lm="testimoñero" a="jaumeortola">     <i>testimoñer</i><par n="abogad/o__n"/></e>
-<e lm="tests" a="jaumeortola">           <i>tests</i><par n="EE.UU.__n"/></e>
 <e lm="testudo" a="jaumeortola">         <i>testudo</i><par n="abismo__n"/></e>
 <e lm="testudínido" a="jaumeortola">     <i>testudínido</i><par n="abismo__n"/></e>
 <e lm="testuz" a="jaumeortola">          <i>testu</i><par n="ajedre/z__n"/></e>
@@ -39090,7 +39104,7 @@
 <e lm="tetrafluoruro" a="jaumeortola">   <i>tetrafluoruro</i><par n="abismo__n"/></e>
 <e lm="tetrafosfato" a="jaumeortola">    <i>tetrafosfato</i><par n="abismo__n"/></e>
 <e lm="tetragrama" a="jaumeortola">      <i>tetragrama</i><par n="abismo__n"/></e>
-<e lm="tetragrámaton" a="jaumeortola">   <i>tetragrámaton</i><par n="abril__n"/></e>
+<e lm="tetragrámaton" a="jaumeortola">   <i>tetragrámaton</i><par n="campus__n"/></e>
 <e lm="tetrahedrita" a="jaumeortola">    <i>tetrahedrita</i><par n="abeja__n"/></e>
 <e lm="tetrahexaedro" a="jaumeortola">   <i>tetrahexaedro</i><par n="abismo__n"/></e>
 <e lm="tetrahidrofurano" a="jaumeortola"><i>tetrahidrofurano</i><par n="abismo__n"/></e>
@@ -39136,7 +39150,6 @@
 <e lm="teucrio" a="jaumeortola">         <i>teucrio</i><par n="abismo__n"/></e>
 <e lm="teucro" a="jaumeortola">          <i>teucro</i><par n="abismo__n"/></e>
 <e lm="teul" a="jaumeortola">            <i>teul</i><par n="abril__n"/></e>
-<e lm="tex" a="jaumeortola">             <i>tex</i><par n="campus__n"/></e>
 <e lm="textal" a="jaumeortola">          <i>textal</i><par n="accesibilidad__n"/></e>
 <e lm="textil" a="jaumeortola">          <i>textil</i><par n="abril__n"/></e>
 <e lm="textilería" a="jaumeortola">      <i>textilería</i><par n="abeja__n"/></e>
@@ -39175,7 +39188,6 @@
 <e lm="tibiez" a="jaumeortola">          <i>tibie</i><par n="actri/z__n"/></e>
 <e lm="tibor" a="jaumeortola">           <i>tibor</i><par n="abril__n"/></e>
 <e lm="tiburoneo" a="jaumeortola">       <i>tiburoneo</i><par n="abismo__n"/></e>
-<e lm="tic-tac" a="jaumeortola">         <i>tic-tac</i><par n="campus__n"/></e>
 <e lm="tictac" a="jaumeortola">          <i>tictac</i><par n="abismo__n"/></e>
 <e lm="ticuco" a="jaumeortola">          <i>ticuco</i><par n="abismo__n"/></e>
 <e lm="tiemblo" a="jaumeortola">         <i>tiemblo</i><par n="abismo__n"/></e>
@@ -40228,6 +40240,7 @@
 <e lm="trescientos" a="jaumeortola">     <i>trescientos</i><par n="guardaespaldas__n"/></e>
 <e lm="trescientosavo" a="jaumeortola">  <i>trescientosav</i><par n="abogad/o__n"/></e>
 <e lm="tresdoble" a="jaumeortola">       <i>tresdoble</i><par n="accionista__n"/></e>
+<e lm="treses" a="jaumeortola">          <i>treses</i><par n="EE.UU.__n"/></e>
 <e lm="tresillista" a="jaumeortola">     <i>tresillista</i><par n="accionista__n"/></e>
 <e lm="tresnal" a="jaumeortola">         <i>tresnal</i><par n="abril__n"/></e>
 <e lm="trespuños" a="jaumeortola">       <i>trespuños</i><par n="campus__n"/></e>
@@ -40561,7 +40574,7 @@
 <e lm="trápala" a="jaumeortola">         <i>trápala</i><par n="accionista__n"/></e>
 <e lm="trásfuga" a="jaumeortola">        <i>trásfuga</i><par n="accionista__n"/></e>
 <e lm="trásfugo" a="jaumeortola">        <i>trásfug</i><par n="abogad/o__n"/></e>
-<e lm="trávelin" a="jaumeortola">        <i>trávelin</i><par n="atletismo__n"/></e>
+<e lm="trávelin" a="jaumeortola">        <i>trávelin</i><par n="campus__n"/></e>
 <e lm="trébede" a="jaumeortola">         <i>trébede</i><par n="abeja__n"/></e>
 <e lm="trémol" a="jaumeortola">          <i>trémol</i><par n="abril__n"/></e>
 <e lm="trémolo" a="jaumeortola">         <i>trémolo</i><par n="abismo__n"/></e>
@@ -40784,7 +40797,7 @@
 <e lm="tíndalo" a="jaumeortola">         <i>tíndalo</i><par n="abismo__n"/></e>
 <e lm="tínea" a="jaumeortola">           <i>tínea</i><par n="abeja__n"/></e>
 <e lm="tíner" a="jaumeortola">           <i>tíner</i><par n="abril__n"/></e>
-<e lm="típex" a="jaumeortola">           <i>típex</i><par n="atletismo__n"/></e>
+<e lm="típex" a="jaumeortola">           <i>típex</i><par n="campus__n"/></e>
 <e lm="típula" a="jaumeortola">          <i>típula</i><par n="abeja__n"/></e>
 <e lm="tísico" a="jaumeortola">          <i>tísic</i><par n="abogad/o__n"/></e>
 <e lm="tólar" a="jaumeortola">           <i>tólar</i><par n="abril__n"/></e>
@@ -40804,7 +40817,6 @@
 <e lm="uadi" a="jaumeortola">            <i>uadi</i><par n="campus__n"/></e>
 <e lm="ualabí" a="jaumeortola">          <i>ualabí</i><par n="club__n"/></e>
 <e lm="uapití" a="jaumeortola">          <i>uapití</i><par n="club__n"/></e>
-<e lm="ubajay" a="jaumeortola">          <i>ubajay</i><par n="abril__n"/></e>
 <e lm="ubio" a="jaumeortola">            <i>ubio</i><par n="abismo__n"/></e>
 <e lm="ubiquidad" a="jaumeortola">       <i>ubiquidad</i><par n="accesibilidad__n"/></e>
 <e lm="ubiquismo" a="jaumeortola">       <i>ubiquismo</i><par n="abismo__n"/></e>
@@ -40833,7 +40845,6 @@
 <e lm="ulpo" a="jaumeortola">            <i>ulpo</i><par n="abismo__n"/></e>
 <e lm="ultimador" a="jaumeortola">       <i>ultimador</i><par n="señor__n"/></e>
 <e lm="ultimato" a="jaumeortola">        <i>ultimato</i><par n="abismo__n"/></e>
-<e lm="ultimatum" a="jaumeortola">       <i>ultimatum</i><par n="abismo__n"/></e>
 <e lm="ultimidad" a="jaumeortola">       <i>ultimidad</i><par n="accesibilidad__n"/></e>
 <e lm="ultracentrifugador" a="jaumeortola"><i>ultracentrifugador</i><par n="señor__n"/></e>
 <e lm="ultracentrifugadora" a="jaumeortola"><i>ultracentrifugadora</i><par n="abeja__n"/></e>
@@ -41092,7 +41103,6 @@
 <e lm="valerianato" a="jaumeortola">     <i>valerianato</i><par n="abismo__n"/></e>
 <e lm="valerianáceo" a="jaumeortola">    <i>valerianáce</i><par n="abogad/o__n"/></e>
 <e lm="valerolactona" a="jaumeortola">   <i>valerolactona</i><par n="abeja__n"/></e>
-<e lm="valet" a="jaumeortola">           <i>valet</i><par n="campus__n"/></e>
 <e lm="valhalla" a="jaumeortola">        <i>valhalla</i><par n="abismo__n"/></e>
 <e lm="valholl" a="jaumeortola">         <i>valholl</i><par n="campus__n"/></e>
 <e lm="valiato" a="jaumeortola">         <i>valiato</i><par n="abismo__n"/></e>
@@ -41418,7 +41428,6 @@
 <e lm="verdeceledón" a="jaumeortola">    <i>verdeceled</i><par n="aluvi/ón__n"/></e>
 <e lm="verdecillo" a="jaumeortola">      <i>verdecillo</i><par n="abismo__n"/></e>
 <e lm="verdegal" a="jaumeortola">        <i>verdegal</i><par n="abril__n"/></e>
-<e lm="verdegay" a="jaumeortola">        <i>verdegay</i><par n="club__n"/></e>
 <e lm="verdel" a="jaumeortola">          <i>verdel</i><par n="abril__n"/></e>
 <e lm="verdelita" a="jaumeortola">       <i>verdelita</i><par n="abeja__n"/></e>
 <e lm="verdemar" a="jaumeortola">        <i>verdemar</i><par n="abril__n"/></e>
@@ -41578,9 +41587,9 @@
 <e lm="vidarra" a="jaumeortola">         <i>vidarra</i><par n="abeja__n"/></e>
 <e lm="videncia" a="jaumeortola">        <i>videncia</i><par n="abeja__n"/></e>
 <e lm="videocasetera" a="jaumeortola">   <i>videocasetera</i><par n="abeja__n"/></e>
-<e lm="videocassette" a="jaumeortola">   <i>videocassette</i><par n="abismo__n"/></e>
 <e lm="videocinta" a="jaumeortola">      <i>videocinta</i><par n="abeja__n"/></e>
 <e lm="videocurrículo" a="jaumeortola">  <i>videocurrículo</i><par n="abismo__n"/></e>
+<e lm="videocurrículum" a="jaumeortola"> <i>videocurrículum</i><par n="abismo__n"/></e>
 <e lm="videocámara" a="jaumeortola">     <i>videocámara</i><par n="abeja__n"/></e>
 <e lm="videograbador" a="jaumeortola">   <i>videograbador</i><par n="abril__n"/></e>
 <e lm="videollamada" a="jaumeortola">    <i>videollamada</i><par n="abeja__n"/></e>
@@ -41754,6 +41763,7 @@
 <e lm="vitíligo" a="jaumeortola">        <i>vitíligo</i><par n="abismo__n"/></e>
 <e lm="viudez" a="jaumeortola">          <i>viude</i><par n="actri/z__n"/></e>
 <e lm="viudita" a="jaumeortola">         <i>viudita</i><par n="abeja__n"/></e>
+<e lm="vivac" a="jaumeortola">           <i>vivac</i><par n="abismo__n"/></e>
 <e lm="vivalavirgen" a="jaumeortola">    <i>vivalavirgen</i><par n="guardaespaldas__n"/></e>
 <e lm="vivales" a="jaumeortola">         <i>vivales</i><par n="guardaespaldas__n"/></e>
 <e lm="vivandero" a="jaumeortola">       <i>vivander</i><par n="abogad/o__n"/></e>
@@ -41812,7 +41822,6 @@
 <e lm="volatilizador" a="jaumeortola">   <i>volatilizador</i><par n="abril__n"/></e>
 <e lm="volatinero" a="jaumeortola">      <i>volatiner</i><par n="abogad/o__n"/></e>
 <e lm="volatín" a="jaumeortola">         <i>volat</i><par n="bot/ín__n"/></e>
-<e lm="volauvent" a="jaumeortola">       <i>volauvent</i><par n="campus__n"/></e>
 <e lm="volcado" a="jaumeortola">         <i>volcado</i><par n="abismo__n"/></e>
 <e lm="volcador" a="jaumeortola">        <i>volcador</i><par n="abril__n"/></e>
 <e lm="volcadura" a="jaumeortola">       <i>volcadura</i><par n="abeja__n"/></e>
@@ -41920,8 +41929,7 @@
 <e lm="vórtex" a="jaumeortola">          <i>vórtex</i><par n="campus__n"/></e>
 <e lm="wahabí" a="jaumeortola">          <i>wahabí</i><par n="marroquí__n"/></e>
 <e lm="wali" a="jaumeortola">            <i>wali</i><par n="abismo__n"/></e>
-<e lm="walkietalkie" a="jaumeortola">    <i>walkietalkie</i><par n="abismo__n"/></e>
-<e lm="walkman" a="jaumeortola">         <i>walkman</i><par n="abril__n"/></e>
+<e lm="walkman" a="jaumeortola">         <i>walkman</i><par n="campus__n"/></e>
 <e lm="wardita" a="jaumeortola">         <i>wardita</i><par n="abeja__n"/></e>
 <e lm="warfarina" a="jaumeortola">       <i>warfarina</i><par n="abeja__n"/></e>
 <e lm="washingtoniano" a="jaumeortola">  <i>washingtonian</i><par n="abogad/o__n"/></e>
@@ -42117,7 +42125,7 @@
 <e lm="yesón" a="jaumeortola">           <i>yes</i><par n="aluvi/ón__n"/></e>
 <e lm="yezgo" a="jaumeortola">           <i>yezgo</i><par n="abismo__n"/></e>
 <e lm="yidis" a="jaumeortola">           <i>yidis</i><par n="atletismo__n"/></e>
-<e lm="yin" a="jaumeortola">             <i>yin</i><par n="campus__n"/></e>
+<e lm="yin" a="jaumeortola">             <i>yin</i><par n="atletismo__n"/></e>
 <e lm="yina" a="jaumeortola">            <i>yina</i><par n="abeja__n"/></e>
 <e lm="yip" a="jaumeortola">             <i>yip</i><par n="abismo__n"/></e>
 <e lm="yira" a="jaumeortola">            <i>yira</i><par n="abeja__n"/></e>
@@ -42331,6 +42339,7 @@
 <e lm="zangala" a="jaumeortola">         <i>zangala</i><par n="abeja__n"/></e>
 <e lm="zanganada" a="jaumeortola">       <i>zanganada</i><par n="abeja__n"/></e>
 <e lm="zangandongo" a="jaumeortola">     <i>zangandong</i><par n="abogad/o__n"/></e>
+<e lm="zangandullo" a="jaumeortola">     <i>zangandull</i><par n="abogad/o__n"/></e>
 <e lm="zangandungo" a="jaumeortola">     <i>zangandung</i><par n="abogad/o__n"/></e>
 <e lm="zanganería" a="jaumeortola">      <i>zanganería</i><par n="abeja__n"/></e>
 <e lm="zangarriana" a="jaumeortola">     <i>zangarriana</i><par n="abeja__n"/></e>
@@ -42431,7 +42440,7 @@
 <e lm="zarzo" a="jaumeortola">           <i>zarzo</i><par n="abismo__n"/></e>
 <e lm="zarzuelero" a="jaumeortola">      <i>zarzueler</i><par n="abogad/o__n"/></e>
 <e lm="zarzuelista" a="jaumeortola">     <i>zarzuelista</i><par n="accionista__n"/></e>
-<e lm="zarévich" a="jaumeortola">        <i>zarévich</i><par n="abril__n"/></e>
+<e lm="zarévich" a="jaumeortola">        <i>zarévich</i><par n="campus__n"/></e>
 <e lm="zata" a="jaumeortola">            <i>zata</i><par n="abeja__n"/></e>
 <e lm="zatara" a="jaumeortola">          <i>zatara</i><par n="abeja__n"/></e>
 <e lm="zatico" a="jaumeortola">          <i>zatico</i><par n="abismo__n"/></e>
@@ -42693,11 +42702,12 @@
 <e lm="ídish" a="jaumeortola">           <i>ídish</i><par n="atletismo__n"/></e>
 <e lm="íncipit" a="jaumeortola">         <i>íncipit</i><par n="abismo__n"/></e>
 <e lm="índrido" a="jaumeortola">         <i>índrid</i><par n="abogad/o__n"/></e>
+<e lm="ínterin" a="jaumeortola">         <i>ínterin</i><par n="campus__n"/></e>
 <e lm="íntima" a="jaumeortola">          <i>íntima</i><par n="abeja__n"/></e>
+<e lm="ípsilon" a="jaumeortola">         <i>ípsilon</i><par n="dosis__n"/></e>
 <e lm="íride" a="jaumeortola">           <i>íride</i><par n="abeja__n"/></e>
 <e lm="ísatis" a="jaumeortola">          <i>ísatis</i><par n="campus__n"/></e>
 <e lm="ítalo" a="jaumeortola">           <i>ítal</i><par n="abogad/o__n"/></e>
-<e lm="ñ" a="jaumeortola">               <i>ñ</i><par n="cuaresma__n"/></e>
 <e lm="ñacundá" a="jaumeortola">         <i>ñacundá</i><par n="abismo__n"/></e>
 <e lm="ñacurutú" a="jaumeortola">        <i>ñacurutú</i><par n="abismo__n"/></e>
 <e lm="ñamal" a="jaumeortola">           <i>ñamal</i><par n="abril__n"/></e>
@@ -42732,12 +42742,12 @@
 <e lm="óctuple" a="jaumeortola">         <i>óctuple</i><par n="accionista__n"/></e>
 <e lm="óctuplo" a="jaumeortola">         <i>óctupl</i><par n="abogad/o__n"/></e>
 <e lm="óhmetro" a="jaumeortola">         <i>óhmetro</i><par n="abismo__n"/></e>
+<e lm="ómicron" a="jaumeortola">         <i>ómicron</i><par n="dosis__n"/></e>
 <e lm="órdago" a="jaumeortola">          <i>órdago</i><par n="abismo__n"/></e>
 <e lm="órganon" a="jaumeortola">         <i>órganon</i><par n="campus__n"/></e>
 <e lm="órix" a="jaumeortola">            <i>órix</i><par n="campus__n"/></e>
 <e lm="óscar" a="jaumeortola">           <i>óscar</i><par n="abril__n"/></e>
 <e lm="ósculo" a="jaumeortola">          <i>ósculo</i><par n="abismo__n"/></e>
-<e lm="óstracon" a="jaumeortola">        <i>óstracon</i><par n="abril__n"/></e>
 <e lm="óvolo" a="jaumeortola">           <i>óvolo</i><par n="abismo__n"/></e>
 <e lm="úlula" a="jaumeortola">           <i>úlula</i><par n="abeja__n"/></e>
 <e lm="úrsido" a="jaumeortola">          <i>úrsido</i><par n="abismo__n"/></e>

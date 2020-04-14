@@ -1,6 +1,6 @@
 <e lm="AAA" a="jaumeortola">             <i>AAA</i><par n="multimedia__adj"/></e>
 <e lm="abacalero" a="jaumeortola">       <i>abacaler</i><par n="absolut/o__adj"/></e>
-<e lm="abadí" a="jaumeortola">           <i>abadí</i><par n="multimedia__adj"/></e>
+<e lm="abadí" a="jaumeortola">           <i>abadí</i><par n="marroquí__adj"/></e>
 <e lm="abalconado" a="jaumeortola">      <i>abalconad</i><par n="absolut/o__adj"/></e>
 <e lm="abanquino" a="jaumeortola">       <i>abanquin</i><par n="absolut/o__adj"/></e>
 <e lm="abarrocado" a="jaumeortola">      <i>abarrocad</i><par n="absolut/o__adj"/></e>
@@ -102,6 +102,7 @@
 <e lm="acogullado" a="jaumeortola">      <i>acogullad</i><par n="absolut/o__adj"/></e>
 <e lm="acolhuaque" a="jaumeortola">      <i>acolhuaque</i><par n="abundante__adj"/></e>
 <e lm="acomayino" a="jaumeortola">       <i>acomayin</i><par n="absolut/o__adj"/></e>
+<e lm="acomplexionado" a="jaumeortola">  <i>acomplexionad</i><par n="absolut/o__adj"/></e>
 <e lm="aconcagüino" a="jaumeortola">     <i>aconcagüin</i><par n="absolut/o__adj"/></e>
 <e lm="acondroplásico" a="jaumeortola">  <i>acondroplásic</i><par n="absolut/o__adj"/></e>
 <e lm="acongojador" a="jaumeortola">     <i>acongojador</i><par n="abrumador__adj"/></e>
@@ -207,6 +208,7 @@
 <e lm="agatino" a="jaumeortola">         <i>agatin</i><par n="absolut/o__adj"/></e>
 <e lm="agauchado" a="jaumeortola">       <i>agauchad</i><par n="absolut/o__adj"/></e>
 <e lm="agenciero" a="jaumeortola">       <i>agencier</i><par n="absolut/o__adj"/></e>
+<e lm="agestado" a="jaumeortola">        <i>agestad</i><par n="absolut/o__adj"/></e>
 <e lm="agible" a="jaumeortola">          <i>agible</i><par n="abundante__adj"/></e>
 <e lm="agilipollado" a="jaumeortola">    <i>agilipollad</i><par n="absolut/o__adj"/></e>
 <e lm="agitable" a="jaumeortola">        <i>agitable</i><par n="abundante__adj"/></e>
@@ -295,7 +297,9 @@
 <e lm="alangiáceo" a="jaumeortola">      <i>alangiáce</i><par n="absolut/o__adj"/></e>
 <e lm="alarconiano" a="jaumeortola">     <i>alarconian</i><par n="absolut/o__adj"/></e>
 <e lm="alardoso" a="jaumeortola">        <i>alardos</i><par n="absolut/o__adj"/></e>
+<e lm="alarije" a="jaumeortola">         <i>alarije</i><par n="abundante__adj"/></e>
 <e lm="alaskeño" a="jaumeortola">        <i>alaskeñ</i><par n="absolut/o__adj"/></e>
+<e lm="alasqueño" a="jaumeortola">       <i>alasqueñ</i><par n="absolut/o__adj"/></e>
 <e lm="alaste" a="jaumeortola">          <i>alaste</i><par n="abundante__adj"/></e>
 <e lm="alastoso" a="jaumeortola">        <i>alastos</i><par n="absolut/o__adj"/></e>
 <e lm="alatinado" a="jaumeortola">       <i>alatinad</i><par n="absolut/o__adj"/></e>
@@ -631,9 +635,11 @@
 <e lm="anticolinérgico" a="jaumeortola"> <i>anticolinérgic</i><par n="absolut/o__adj"/></e>
 <e lm="anticolonial" a="jaumeortola">    <i>anticolonial</i><par n="abdominal__adj"/></e>
 <e lm="anticoncepcional" a="jaumeortola"><i>anticoncepcional</i><par n="abdominal__adj"/></e>
+<e lm="anticoncepción" a="jaumeortola">  <i>anticoncepción</i><par n="multimedia__adj"/></e>
 <e lm="anticongestivo" a="jaumeortola">  <i>anticongestiv</i><par n="absolut/o__adj"/></e>
 <e lm="anticontaminación" a="jaumeortola"><i>anticontaminaci</i><par n="marr/ón__adj"/></e>
 <e lm="anticonvencional" a="jaumeortola"><i>anticonvencional</i><par n="abdominal__adj"/></e>
+<e lm="anticorrosión" a="jaumeortola">   <i>anticorrosión</i><par n="multimedia__adj"/></e>
 <e lm="anticrítico" a="jaumeortola">     <i>anticrític</i><par n="absolut/o__adj"/></e>
 <e lm="anticuco" a="jaumeortola">        <i>anticuc</i><par n="absolut/o__adj"/></e>
 <e lm="anticultural" a="jaumeortola">    <i>anticultural</i><par n="abdominal__adj"/></e>
@@ -772,6 +778,7 @@
 <e lm="aquitánico" a="jaumeortola">      <i>aquitánic</i><par n="absolut/o__adj"/></e>
 <e lm="aquivo" a="jaumeortola">          <i>aquiv</i><par n="absolut/o__adj"/></e>
 <e lm="arachán" a="jaumeortola">         <i>arach</i><par n="alem/án__adj"/></e>
+<e lm="aracnoides" a="jaumeortola">      <i>aracnoides</i><par n="multimedia__adj"/></e>
 <e lm="aracnológico" a="jaumeortola">    <i>aracnológic</i><par n="absolut/o__adj"/></e>
 <e lm="araguato" a="jaumeortola">        <i>araguat</i><par n="absolut/o__adj"/></e>
 <e lm="aragüeño" a="jaumeortola">        <i>aragüeñ</i><par n="absolut/o__adj"/></e>
@@ -907,6 +914,7 @@
 <e lm="asombradizo" a="jaumeortola">     <i>asombradiz</i><par n="absolut/o__adj"/></e>
 <e lm="asombrador" a="jaumeortola">      <i>asombrador</i><par n="abrumador__adj"/></e>
 <e lm="aspaventoso" a="jaumeortola">     <i>aspaventos</i><par n="absolut/o__adj"/></e>
+<e lm="aspectado" a="jaumeortola">       <i>aspectad</i><par n="absolut/o__adj"/></e>
 <e lm="aspérrimo" a="jaumeortola">       <i>aspérrim</i><par n="absolut/o__adj"/></e>
 <e lm="asquiento" a="jaumeortola">       <i>asquient</i><par n="absolut/o__adj"/></e>
 <e lm="astifino" a="jaumeortola">        <i>astifin</i><par n="absolut/o__adj"/></e>
@@ -1921,7 +1929,7 @@
 <e lm="chimboracense" a="jaumeortola">   <i>chimboracense</i><par n="abundante__adj"/></e>
 <e lm="chimirringo" a="jaumeortola">     <i>chimirring</i><par n="absolut/o__adj"/></e>
 <e lm="chimuelo" a="jaumeortola">        <i>chimuel</i><par n="absolut/o__adj"/></e>
-<e lm="chimú" a="jaumeortola">           <i>chimú</i><par n="abundante__adj"/></e>
+<e lm="chimú" a="jaumeortola">           <i>chimú</i><par n="marroquí__adj"/></e>
 <e lm="chinandegano" a="jaumeortola">    <i>chinandegan</i><par n="absolut/o__adj"/></e>
 <e lm="chinchano" a="jaumeortola">       <i>chinchan</i><par n="absolut/o__adj"/></e>
 <e lm="chinguero" a="jaumeortola">       <i>chinguer</i><par n="absolut/o__adj"/></e>
@@ -3293,6 +3301,7 @@
 <e lm="fumífugo" a="jaumeortola">        <i>fumífug</i><par n="absolut/o__adj"/></e>
 <e lm="fumón" a="jaumeortola">           <i>fum</i><par n="anfitri/ón__adj"/></e>
 <e lm="funambulesco" a="jaumeortola">    <i>funambulesc</i><par n="absolut/o__adj"/></e>
+<e lm="funambulista" a="jaumeortola">    <i>funambulista</i><par n="abundante__adj"/></e>
 <e lm="fundillón" a="jaumeortola">       <i>fundill</i><par n="anfitri/ón__adj"/></e>
 <e lm="furente" a="jaumeortola">         <i>furente</i><par n="abundante__adj"/></e>
 <e lm="furiosísimo" a="jaumeortola">     <i>furiosísim</i><par n="absolut/o__adj"/></e>
@@ -3871,12 +3880,14 @@
 <e lm="inmódico" a="jaumeortola">        <i>inmódic</i><par n="absolut/o__adj"/></e>
 <e lm="inobjetable" a="jaumeortola">     <i>inobjetable</i><par n="abundante__adj"/></e>
 <e lm="inordinado" a="jaumeortola">      <i>inordinad</i><par n="absolut/o__adj"/></e>
+<e lm="inscripto" a="jaumeortola">       <i>inscript</i><par n="absolut/o__adj"/></e>
 <e lm="insoldable" a="jaumeortola">      <i>insoldable</i><par n="abundante__adj"/></e>
 <e lm="instable" a="jaumeortola">        <i>instable</i><par n="abundante__adj"/></e>
 <e lm="insulinodependiente" a="jaumeortola"><i>insulinodependiente</i><par n="abundante__adj"/></e>
 <e lm="intelectualoide" a="jaumeortola"> <i>intelectualoide</i><par n="abundante__adj"/></e>
 <e lm="inteligenciado" a="jaumeortola">  <i>inteligenciad</i><par n="absolut/o__adj"/></e>
 <e lm="intensional" a="jaumeortola">     <i>intensional</i><par n="abdominal__adj"/></e>
+<e lm="intensivista" a="jaumeortola">    <i>intensivista</i><par n="abundante__adj"/></e>
 <e lm="intensísimo" a="jaumeortola">     <i>intensísim</i><par n="absolut/o__adj"/></e>
 <e lm="interclasista" a="jaumeortola">   <i>interclasista</i><par n="abundante__adj"/></e>
 <e lm="intercutáneo" a="jaumeortola">    <i>intercutáne</i><par n="absolut/o__adj"/></e>
@@ -4522,6 +4533,7 @@
 <e lm="molinés" a="jaumeortola">         <i>molin</i><par n="aragon/és__adj"/></e>
 <e lm="mollendino" a="jaumeortola">      <i>mollendin</i><par n="absolut/o__adj"/></e>
 <e lm="moloso" a="jaumeortola">          <i>molos</i><par n="absolut/o__adj"/></e>
+<e lm="molotov" a="jaumeortola">         <i>molotov</i><par n="multimedia__adj"/></e>
 <e lm="molso" a="jaumeortola">           <i>mols</i><par n="absolut/o__adj"/></e>
 <e lm="monaguense" a="jaumeortola">      <i>monaguense</i><par n="abundante__adj"/></e>
 <e lm="monera" a="jaumeortola">          <i>monera</i><par n="abundante__adj"/></e>
@@ -4618,6 +4630,7 @@
 <e lm="musáceo" a="jaumeortola">         <i>musáce</i><par n="absolut/o__adj"/></e>
 <e lm="mutilón" a="jaumeortola">         <i>mutil</i><par n="anfitri/ón__adj"/></e>
 <e lm="muyahidín" a="jaumeortola">       <i>muyahid</i><par n="af/ín__adj"/></e>
+<e lm="mágnum" a="jaumeortola">          <i>mágnum</i><par n="abundante__adj"/></e>
 <e lm="mársico" a="jaumeortola">         <i>mársic</i><par n="absolut/o__adj"/></e>
 <e lm="másculo" a="jaumeortola">         <i>máscul</i><par n="absolut/o__adj"/></e>
 <e lm="méndigo" a="jaumeortola">         <i>méndig</i><par n="absolut/o__adj"/></e>
@@ -5217,6 +5230,7 @@
 <e lm="pleités" a="jaumeortola">         <i>pleit</i><par n="cort/és__adj"/></e>
 <e lm="plumbado" a="jaumeortola">        <i>plumbad</i><par n="absolut/o__adj"/></e>
 <e lm="plumbagíneo" a="jaumeortola">     <i>plumbagíne</i><par n="absolut/o__adj"/></e>
+<e lm="pluralizable" a="jaumeortola">    <i>pluralizable</i><par n="abundante__adj"/></e>
 <e lm="plurimembre" a="jaumeortola">     <i>plurimembre</i><par n="abundante__adj"/></e>
 <e lm="pluripersonal" a="jaumeortola">   <i>pluripersonal</i><par n="abdominal__adj"/></e>
 <e lm="pluriverbal" a="jaumeortola">     <i>pluriverbal</i><par n="abdominal__adj"/></e>

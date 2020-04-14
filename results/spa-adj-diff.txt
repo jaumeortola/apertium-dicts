@@ -256,9 +256,6 @@ APERTIUM: ansioso	PAR: abstract/o__adj	FORMS: AQ0FP0 ansiosas AQ0FP0 ansiosísim
 APERTIUM: anticapitalista	PAR: abundante__adj	FORMS: AQ0CP0 capitalistas AQ0CS0 capitalista
    OTHER: anticapitalista	PAR: abundante__adj	FORMS: AQ0CP0 anticapitalistas AQ0CS0 anticapitalista
 
-APERTIUM: anticorrupción	PAR: multimedia__adj	FORMS: AQ0CN0 anticorrupción
-   OTHER: anticorrupción	PAR: marr/ón__adj	FORMS: AQ0CP0 anticorrupciones AQ0CS0 anticorrupción
-
 APERTIUM: anticrisis	PAR: multimedia__adj	FORMS: AQ0CN0 anticrisis
    OTHER: anticrisis	PAR: abdominal__adj	FORMS: AQ0CP0 anticrisises AQ0CS0 anticrisis
    OTHER: anticrisis	PAR: cuál__adj	FORMS: AQ0CP0 anticrisises AQ0CS0 anticrisis
@@ -742,9 +739,6 @@ APERTIUM: caviloso	PAR: abstract/o__adj	FORMS: AQ0FP0 cavilosas AQ0FP0 cavilosí
    OTHER: caviloso	PAR: otr/o__adj	FORMS: AQ0FP0 cavilosas AQ0FS0 cavilosa AQ0MP0 cavilosos AQ0MS0 caviloso
    OTHER: caviloso	PAR: qué_otr/o__adj	FORMS: AQ0FP0 cavilosas AQ0FS0 cavilosa AQ0MP0 cavilosos AQ0MS0 caviloso
    OTHER: caviloso	PAR: segund/o__adj	FORMS: AQ0FP0 cavilosas AQ0FS0 cavilosa AQ0MP0 cavilosos AQ0MS0 caviloso
-
-APERTIUM: cañí	PAR: abundante__adj	FORMS: AQ0CP0 cañís AQ0CS0 cañí
-   OTHER: cañí	PAR: marroquí__adj	FORMS: AQ0CP0 cañíes AQ0CP0 cañís AQ0CS0 cañí
 
 APERTIUM: celoso	PAR: abstract/o__adj	FORMS: AQ0FP0 celosas AQ0FP0 celosísimas AQ0FS0 celosa AQ0FS0 celosísima AQ0MP0 celosos AQ0MP0 celosísimos AQ0MS0 celoso AQ0MS0 celosísimo
    OTHER: celoso	PAR: absolut/o__adj	FORMS: AQ0FP0 celosas AQ0FS0 celosa AQ0MP0 celosos AQ0MS0 celoso
@@ -2067,8 +2061,14 @@ APERTIUM: hermoso	PAR: abstract/o__adj	FORMS: AQ0FP0 hermosas AQ0FP0 hermosísim
    OTHER: hermoso	PAR: qué_otr/o__adj	FORMS: AQ0FP0 hermosas AQ0FS0 hermosa AQ0MP0 hermosos AQ0MS0 hermoso
    OTHER: hermoso	PAR: segund/o__adj	FORMS: AQ0FP0 hermosas AQ0FS0 hermosa AQ0MP0 hermosos AQ0MS0 hermoso
 
+APERTIUM: hetero	PAR: multimedia__adj	FORMS: AQ0CN0 hetero
+   OTHER: hetero	PAR: abundante__adj	FORMS: AQ0CP0 heteros AQ0CS0 hetero
+
 APERTIUM: hindú	PAR: abdominal__adj	FORMS: AQ0CP0 hindúes AQ0CS0 hindú
    OTHER: hindú	PAR: marroquí__adj	FORMS: AQ0CP0 hindúes AQ0CP0 hindús AQ0CS0 hindú
+
+APERTIUM: homo	PAR: multimedia__adj	FORMS: AQ0CN0 homo
+   OTHER: homo	PAR: abundante__adj	FORMS: AQ0CP0 homos AQ0CS0 homo
 
 APERTIUM: homocerca	PAR: clarisa__adj	FORMS: AQ0FP0 homocercas AQ0FS0 homocerca
    OTHER: homocerca	PAR: abundante__adj	FORMS: AQ0CP0 homocercas AQ0CS0 homocerca
@@ -3166,7 +3166,8 @@ APERTIUM: pardusco	PAR: absolut/o__adj	FORMS: AQ0FP0 parduzcas AQ0FS0 parduzca A
    OTHER: pardusco	PAR: segund/o__adj	FORMS: AQ0FP0 parduscas AQ0FS0 pardusca AQ0MP0 parduscos AQ0MS0 pardusco
 
 APERTIUM: parisién	PAR: abdominal__adj	FORMS: AQ0CP0 parisiénes AQ0CS0 parisién
-   OTHER: parisién	PAR: fet/én__adj	FORMS: AQ0CP0 parisienes AQ0CS0 parisién
+   OTHER: parisién	PAR: multimedia__adj	FORMS: AQ0CN0 parisién
+   OTHER: parisién	PAR: qué__adj	FORMS: AQ0CN0 parisién
 
 APERTIUM: particular	PAR: actual__adj	FORMS: AQ0CP0 particulares AQ0CS0 particular AQ0FP0 particularísimas AQ0FS0 particularísima AQ0MP0 particularísimos AQ0MS0 particularísimo
    OTHER: particular	PAR: abdominal__adj	FORMS: AQ0CP0 particulares AQ0CS0 particular
@@ -3968,9 +3969,6 @@ APERTIUM: sigiloso	PAR: abstract/o__adj	FORMS: AQ0FP0 sigilosas AQ0FP0 sigilosí
    OTHER: sigiloso	PAR: qué_otr/o__adj	FORMS: AQ0FP0 sigilosas AQ0FS0 sigilosa AQ0MP0 sigilosos AQ0MS0 sigiloso
    OTHER: sigiloso	PAR: segund/o__adj	FORMS: AQ0FP0 sigilosas AQ0FS0 sigilosa AQ0MP0 sigilosos AQ0MS0 sigiloso
 
-APERTIUM: sij	PAR: abdominal__adj	FORMS: AQ0CP0 sijes AQ0CS0 sij
-   OTHER: sij	PAR: marroquí__adj	FORMS: AQ0CP0 sijes AQ0CP0 sijs AQ0CS0 sij
-
 APERTIUM: silencioso	PAR: abstract/o__adj	FORMS: AQ0FP0 silenciosas AQ0FP0 silenciosísimas AQ0FS0 silenciosa AQ0FS0 silenciosísima AQ0MP0 silenciosos AQ0MP0 silenciosísimos AQ0MS0 silencioso AQ0MS0 silenciosísimo
    OTHER: silencioso	PAR: absolut/o__adj	FORMS: AQ0FP0 silenciosas AQ0FS0 silenciosa AQ0MP0 silenciosos AQ0MS0 silencioso
    OTHER: silencioso	PAR: cuánt/o__adj	FORMS: AQ0FP0 silenciosas AQ0FS0 silenciosa AQ0MP0 silenciosos AQ0MS0 silencioso
@@ -4518,6 +4516,9 @@ APERTIUM: ávaro	PAR: absolut/o__adj	FORMS: AQ0FP0 ávaras AQ0FS0 ávara AQ0MP0 
    OTHER: ávaro	PAR: max__adj	FORMS: AQ0MS0 ávaro
    OTHER: ávaro	PAR: primer__adj	FORMS: AQ0MS0 ávaro
 
+APERTIUM: alacaluf	PAR: abdominal__adj	FORMS: AQ0CP0 alacalufes AQ0CS0 alacaluf
+   OTHER: alacaluf	PAR: ??????????????	FORMS: AQ0CP0 alcalufs AQ0CS0 alacaluf
+
 APERTIUM: autodidacto	PAR: absolut/o__adj	FORMS: AQ0FP0 autodidactas AQ0FS0 autodidacta AQ0MP0 autodidactos AQ0MS0 autodidacto
    OTHER: autodidacto	PAR: ??????????????	FORMS: AQ0MP0 autodidactos AQ0MS0 autodidacto
 
@@ -4538,6 +4539,9 @@ APERTIUM: santísimo	PAR: absolut/o__adj	FORMS: AQ0FP0 santísimas AQ0FS0 santí
 
 APERTIUM: superior	PAR: abdominal__adj	FORMS: AQ0CP0 superiores AQ0CS0 superior
    OTHER: superior	PAR: ??????????????	FORMS: AQ0CP0 superiores AQ0CS0 superior AQ0FP0 superioras AQ0FS0 superiora
+
+APERTIUM: verdegay	PAR: multimedia__adj	FORMS: AQ0CN0 verdegay
+   OTHER: verdegay	PAR: ??????????????	FORMS: AQ0CP0 verdegayes AQ0CP0 verdegáis AQ0CS0 verdegay
 <e lm="aborigen"><i>aborigen</i><par n="??????????"/></e>
 <e lm="aceituno"><i>aceituno</i><par n="??????????"/></e>
 <e lm="barbaján"><i>barbaján</i><par n="??????????"/></e>
